@@ -34,6 +34,31 @@
 			"floraFauna": ["kelp forests", "sea lions", "garibaldi", "octopus", "nudibranchs", "giant black sea bass"],
 			"tags": ["kelp", "cold", "temperate", "shore diving", "macro"],
 			"image": "https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?w=800&h=600&fit=crop"
+		,
+			"monterey": {
+				"id": "monterey",
+				"name": "Monterey",
+				"type": "subarea",
+				"parent": "california",
+				"description": "World-famous kelp forests, sea otters, harbor seals, and macro life. Cold water diving with dramatic underwater topography and rich biodiversity.",
+				"coordinates": [36.6189, -121.9018],
+				"bestTime": "September–November for best visibility; diving possible year-round.",
+				"floraFauna": ["kelp forests", "sea otters", "harbor seals", "nudibranchs", "giant kelp", "rockfish", "octopus", "anemones"],
+				"tags": ["kelp", "cold", "shore diving", "macro", "photography", "otters"],
+				"image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&h=600&fit=crop"
+			},
+			"san-diego": {
+				"id": "san-diego",
+				"name": "San Diego",
+				"type": "subarea",
+				"parent": "california",
+				"description": "Kelp forests, La Jolla Cove sea lions, leopard sharks, and wrecks. Accessible shore and boat diving with abundant marine life.",
+				"coordinates": [32.7157, -117.1611],
+				"bestTime": "July–October for warmest water and best visibility.",
+				"floraFauna": ["kelp forests", "sea lions", "leopard sharks", "bat rays", "garibaldi", "sheephead", "octopus", "nudibranchs"],
+				"tags": ["kelp", "shore diving", "wrecks", "macro", "sea lions", "sharks"],
+				"image": "https://images.unsplash.com/photo-1464983953574-0892a716854b?w=800&h=600&fit=crop"
+			}
 		},
 		"florida": {
 			"id": "florida",
