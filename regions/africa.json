@@ -1,0 +1,90 @@
+
+{
+  "africa": {
+    "id": "africa",
+    "name": "Africa",
+    "type": "major",
+    "description": "Dramatic coastlines and unique marine ecosystems",
+    "coordinates": [0.0, 20.0]
+  },
+  "south-africa": {
+    "id": "south-africa",
+    "name": "South Africa",
+    "type": "country",
+    "parent": "africa",
+    "description": "Shark diving, sardine run, kelp forests, and subtropical reefs.",
+    "coordinates": [-30.5595, 22.9375]
+  },
+  "mozambique": {
+    "id": "mozambique",
+    "name": "Mozambique",
+    "type": "country",
+    "parent": "africa",
+    "description": "Whale sharks, manta rays, and pristine Indian Ocean beaches.",
+    "coordinates": [-18.6657, 35.5296]
+  },
+  "tanzania": {
+    "id": "tanzania",
+    "name": "Tanzania",
+    "type": "country",
+    "parent": "africa",
+    "description": "Zanzibar, Mafia Island, and vibrant coral reefs.",
+    "coordinates": [-6.3690, 34.8888]
+  },
+  "kenya": {
+    "id": "kenya",
+    "name": "Kenya",
+    "type": "country",
+    "parent": "africa",
+    "description": "Indian Ocean reefs, turtles, and big pelagics.",
+    "coordinates": [-1.2921, 36.8219]
+  },
+  "sudan": {
+    "id": "sudan",
+    "name": "Sudan",
+    "type": "country",
+    "parent": "africa",
+    "description": "Red Sea wrecks, sharks, and pristine reefs.",
+    "coordinates": [12.8628, 30.2176]
+  },
+  "djibouti": {
+    "id": "djibouti",
+    "name": "Djibouti",
+    "type": "country",
+    "parent": "africa",
+    "description": "Whale sharks, Gulf of Tadjoura, and unique marine life.",
+    "coordinates": [11.8251, 42.5903]
+  },
+  "somalia": {
+    "id": "somalia",
+    "name": "Somalia",
+    "type": "country",
+    "parent": "africa",
+    "description": "Untouched Indian Ocean reefs and remote diving.",
+    "coordinates": [5.1521, 46.1996]
+  },
+  "morocco": {
+    "id": "morocco",
+    "name": "Morocco",
+    "type": "country",
+    "parent": "africa",
+    "description": "Atlantic coast diving, kelp forests, and rocky reefs.",
+    "coordinates": [31.7917, -7.0926]
+  },
+  "senegal": {
+    "id": "senegal",
+    "name": "Senegal",
+    "type": "country",
+    "parent": "africa",
+    "description": "Wrecks, reefs, and Atlantic marine life off West Africa.",
+    "coordinates": [14.4974, -14.4524]
+  },
+  "cape-verde": {
+    "id": "cape-verde",
+    "name": "Cape Verde",
+    "type": "country",
+    "parent": "africa",
+    "description": "Volcanic islands, caves, and big Atlantic pelagics.",
+    "coordinates": [16.5388, -23.0418]
+  }
+}

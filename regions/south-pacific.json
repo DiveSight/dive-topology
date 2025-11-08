@@ -1,0 +1,74 @@
+
+{
+  "south-pacific": {
+    "id": "south-pacific",
+    "name": "South Pacific",
+    "type": "major",
+    "description": "Pristine coral atolls and pelagic encounters",
+    "coordinates": [-15.0, 170.0]
+  },
+  "fiji": {
+    "id": "fiji",
+    "name": "Fiji",
+    "type": "country",
+    "parent": "south-pacific",
+    "description": "The soft coral capital of the world, famous for shark dives and vibrant reefs.",
+    "coordinates": [-17.7134, 178.065]
+  },
+  "french-polynesia": {
+    "id": "french-polynesia",
+    "name": "French Polynesia",
+    "type": "country",
+    "parent": "south-pacific",
+    "description": "Home to Rangiroa, Fakarava, and thrilling big animal encounters in turquoise lagoons.",
+    "coordinates": [-17.6797, -149.4068]
+  },
+  "solomon-islands": {
+    "id": "solomon-islands",
+    "name": "Solomon Islands",
+    "type": "country",
+    "parent": "south-pacific",
+    "description": "Remote WWII wrecks, lush reefs, and uncrowded diving.",
+    "coordinates": [-9.6457, 160.1562]
+  },
+  "vanuatu": {
+    "id": "vanuatu",
+    "name": "Vanuatu",
+    "type": "country",
+    "parent": "south-pacific",
+    "description": "Wreck diving paradise, home to the SS President Coolidge and blue holes.",
+    "coordinates": [-15.3767, 166.9592]
+  },
+  "new-caledonia": {
+    "id": "new-caledonia",
+    "name": "New Caledonia",
+    "type": "country",
+    "parent": "south-pacific",
+    "description": "Vast barrier reef, UNESCO lagoon, and French island culture.",
+    "coordinates": [-21.299, 165.365]
+  },
+  "cook-islands": {
+    "id": "cook-islands",
+    "name": "Cook Islands",
+    "type": "country",
+    "parent": "south-pacific",
+    "description": "Crystal clear lagoons and relaxed island diving.",
+    "coordinates": [-21.2367, -159.7777]
+  },
+  "tonga": {
+    "id": "tonga",
+    "name": "Tonga",
+    "type": "country",
+    "parent": "south-pacific",
+    "description": "Swim with humpback whales and explore coral gardens.",
+    "coordinates": [-21.1789, -175.1982]
+  },
+  "samoa": {
+    "id": "samoa",
+    "name": "Samoa",
+    "type": "country",
+    "parent": "south-pacific",
+    "description": "Lava tubes, drop-offs, and vibrant reefs in a laid-back setting.",
+    "coordinates": [-13.759, -172.1046]
+  }
+}

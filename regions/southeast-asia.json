@@ -1,0 +1,332 @@
+{
+  "southeast-asia": {
+    "id": "southeast-asia",
+    "name": "Southeast Asia",
+    "type": "major",
+    "description": "The crown jewel of diving with unparalleled biodiversity",
+    "coordinates": [-2.0, 118.0]
+  },
+  "indonesia": {
+    "id": "indonesia",
+    "name": "Indonesia",
+    "type": "country",
+    "parent": "southeast-asia",
+    "description": "The epicenter of marine biodiversity",
+    "coordinates": [-2.0, 118.0]
+  },
+  "gili-islands": {
+    "id": "gili-islands",
+    "name": "Gili Islands",
+    "type": "area",
+    "parent": "indonesia",
+    "description": "Popular islands near Lombok, known for turtles and vibrant reefs.",
+    "coordinates": [-8.35, 116.06]
+  },
+  "flores": {
+    "id": "flores",
+    "name": "Flores",
+    "type": "area",
+    "parent": "indonesia",
+    "description": "Gateway to Komodo and home to unique marine life.",
+    "coordinates": [-8.6, 121.0]
+  },
+  "sumbawa": {
+    "id": "sumbawa",
+    "name": "Sumbawa",
+    "type": "area",
+    "parent": "indonesia",
+    "description": "Remote island with pristine reefs and whale sharks.",
+    "coordinates": [-8.7, 117.4]
+  },
+  "banda-sea": {
+    "id": "banda-sea",
+    "name": "Banda Sea",
+    "type": "area",
+    "parent": "indonesia",
+    "description": "Deep sea diving, hammerheads, and historic spice islands.",
+    "coordinates": [-5.0, 129.0]
+  },
+  "wakatobi": {
+    "id": "wakatobi",
+    "name": "Wakatobi",
+    "type": "area",
+    "parent": "indonesia",
+    "description": "World-renowned marine national park with rich coral reefs.",
+    "coordinates": [-5.6, 123.8]
+  },
+  "cenderawasih-bay": {
+    "id": "cenderawasih-bay",
+    "name": "Cenderawasih Bay",
+    "type": "area",
+    "parent": "indonesia",
+    "description": "Unique whale shark encounters and WWII wrecks in Papua.",
+    "coordinates": [-1.8, 135.8]
+  },
+  "ambon": {
+    "id": "ambon",
+    "name": "Ambon",
+    "type": "area",
+    "parent": "indonesia",
+    "description": "Muck diving capital and gateway to the Banda Sea.",
+    "coordinates": [-3.7, 128.2]
+  },
+  "alor": {
+    "id": "alor",
+    "name": "Alor",
+    "type": "area",
+    "parent": "indonesia",
+    "description": "Remote, current-swept straits with pristine reefs and rare critters.",
+    "coordinates": [-8.1, 124.6]
+  },
+  "raja-ampat": {
+    "id": "raja-ampat",
+    "name": "Raja Ampat",
+    "type": "area",
+    "parent": "indonesia",
+    "description": "The crown jewel of marine biodiversity",
+    "coordinates": [-0.5, 130.5]
+  },
+  "komodo": {
+    "id": "komodo",
+    "name": "Komodo National Park",
+    "type": "area",
+    "parent": "indonesia",
+    "description": "Dragons above, mantas below",
+    "coordinates": [-8.6, 119.5]
+  },
+  "bali": {
+    "id": "bali",
+    "name": "Bali",
+    "type": "area",
+    "parent": "indonesia",
+    "description": "Diverse diving from wrecks to reefs",
+    "coordinates": [-8.3, 115.1]
+  },
+  "tulamben": {
+    "id": "tulamben",
+    "name": "Tulamben",
+    "type": "subarea",
+    "parent": "bali",
+    "description": "Home to the famous USAT Liberty wreck",
+    "coordinates": [-8.27, 115.58]
+  },
+  "lembeh-strait": {
+    "id": "lembeh-strait",
+    "name": "Lembeh Strait",
+    "type": "area",
+    "parent": "indonesia",
+    "description": "Macro diving capital of the world",
+    "coordinates": [1.47, 125.23]
+  },
+
+  "philippines": {
+    "id": "philippines",
+    "name": "Philippines",
+    "type": "country",
+    "parent": "southeast-asia",
+    "description": "7,641 islands of diving paradise",
+    "coordinates": [12.0, 122.0]
+  },
+  "palawan": {
+    "id": "palawan",
+    "name": "Palawan",
+    "type": "area",
+    "parent": "philippines",
+    "description": "The last frontier",
+    "coordinates": [9.5, 118.5]
+  },
+  "coron": {
+    "id": "coron",
+    "name": "Coron",
+    "type": "subarea",
+    "parent": "palawan",
+    "description": "World War II wreck diving capital",
+    "coordinates": [12.0, 120.2]
+  },
+  "tubbataha": {
+    "id": "tubbataha",
+    "name": "Tubbataha Reefs",
+    "type": "subarea",
+    "parent": "palawan",
+    "description": "UNESCO World Heritage marine park",
+    "coordinates": [8.75, 119.75]
+  },
+  "visayas": {
+    "id": "visayas",
+    "name": "Visayas",
+    "type": "area",
+    "parent": "philippines",
+    "description": "The heart of Philippine diving",
+    "coordinates": [10.0, 123.0]
+  },
+  "cebu-bohol": {
+    "id": "cebu-bohol",
+    "name": "Cebu & Bohol",
+    "type": "subarea",
+    "parent": "visayas",
+    "description": "Diverse marine life and pristine reefs",
+    "coordinates": [9.5, 123.8]
+  },
+  "malapascua": {
+    "id": "malapascua",
+    "name": "Malapascua Island",
+    "type": "subarea",
+    "parent": "visayas",
+    "description": "Home to thresher sharks",
+    "coordinates": [11.32, 124.12]
+  },
+  "luzon": {
+    "id": "luzon",
+    "name": "Luzon",
+    "type": "area",
+    "parent": "philippines",
+    "description": "Macro diving and accessible from Manila",
+    "coordinates": [15.0, 121.0]
+  },
+  "anilao": {
+    "id": "anilao",
+    "name": "Anilao",
+    "type": "subarea",
+    "parent": "luzon",
+    "description": "Macro photography paradise",
+    "coordinates": [13.75, 120.87]
+  },
+  "puerto-galera": {
+    "id": "puerto-galera",
+    "name": "Puerto Galera",
+    "type": "subarea",
+    "parent": "luzon",
+    "description": "Diverse diving close to Manila",
+    "coordinates": [13.5, 120.95]
+  },
+
+  "thailand": {
+    "id": "thailand",
+    "name": "Thailand",
+    "type": "country",
+    "parent": "southeast-asia",
+    "description": "Gateway to Southeast Asian diving",
+    "coordinates": [15.0, 100.0]
+  },
+  "andaman-sea": {
+    "id": "andaman-sea",
+    "name": "Andaman Sea",
+    "type": "area",
+    "parent": "thailand",
+    "description": "World-class diving from Phuket",
+    "coordinates": [8.0, 98.0]
+  },
+  "phuket": {
+    "id": "phuket",
+    "name": "Phuket",
+    "type": "subarea",
+    "parent": "andaman-sea",
+    "description": "Thailand's diving hub",
+    "coordinates": [7.9, 98.4]
+  },
+  "similan-islands": {
+    "id": "similan-islands",
+    "name": "Similan Islands",
+    "type": "subarea",
+    "parent": "andaman-sea",
+    "description": "Granite boulders and pristine reefs",
+    "coordinates": [8.6, 97.6]
+  },
+  "malaysia": {
+    "id": "malaysia",
+    "name": "Malaysia",
+    "type": "country",
+    "parent": "southeast-asia",
+    "description": "From macro to megafauna",
+    "coordinates": [2.5, 112.5]
+  },
+  "sabah": {
+    "id": "sabah",
+    "name": "Sabah",
+    "type": "area",
+    "parent": "malaysia",
+    "description": "Borneo's diving jewels",
+    "coordinates": [5.0, 117.0]
+  },
+  "sipadan": {
+    "id": "sipadan",
+    "name": "Sipadan",
+    "type": "subarea",
+    "parent": "sabah",
+    "description": "Jacques Cousteau's untouched piece of art",
+    "coordinates": [4.11, 118.63]
+  },
+  "borneo": {
+    "id": "borneo",
+    "name": "Borneo",
+    "type": "area",
+    "parent": "malaysia",
+    "description": "The world's third largest island, home to spectacular diving in Sabah and Sarawak.",
+    "coordinates": [1.5, 114.0]
+  },
+  "myanmar": {
+    "id": "myanmar",
+    "name": "Myanmar",
+    "type": "country",
+    "parent": "southeast-asia",
+    "description": "Emerging dive destination with the Mergui Archipelago.",
+    "coordinates": [21.0, 96.0]
+  },
+  "mergui-archipelago": {
+    "id": "mergui-archipelago",
+    "name": "Mergui Archipelago",
+    "type": "area",
+    "parent": "myanmar",
+    "description": "Remote and pristine group of islands, Myanmar's top dive destination.",
+    "coordinates": [11.5, 98.0]
+  },
+  "black-rock": {
+    "id": "black-rock",
+    "name": "Black Rock",
+    "type": "subarea",
+    "parent": "mergui-archipelago",
+    "description": "Famous for pelagic encounters and dramatic walls.",
+    "coordinates": [12.25, 97.88]
+  },
+  "western-rocky": {
+    "id": "western-rocky",
+    "name": "Western Rocky",
+    "type": "subarea",
+    "parent": "mergui-archipelago",
+    "description": "Cave diving and abundant marine life.",
+    "coordinates": [11.8, 97.3]
+  },
+  "sarawak": {
+    "id": "sarawak",
+    "name": "Sarawak",
+    "type": "area",
+    "parent": "borneo",
+    "description": "Malaysian Borneo's western state, home to coral reefs and wrecks.",
+    "coordinates": [2.5, 113.5]
+  },
+  "miri": {
+    "id": "miri",
+    "name": "Miri",
+    "type": "subarea",
+    "parent": "sarawak",
+    "description": "Gateway to the Miri-Sibuti Coral Reefs National Park.",
+    "coordinates": [4.4, 113.98]
+  },
+  "kalimantan": {
+    "id": "kalimantan",
+    "name": "Kalimantan",
+    "type": "area",
+    "parent": "borneo",
+    "description": "Indonesian Borneo, with access to unique island diving.",
+    "coordinates": [-0.5, 114.0]
+  },
+  "derawan-islands": {
+    "id": "derawan-islands",
+    "name": "Derawan Islands",
+    "type": "subarea",
+    "parent": "kalimantan",
+    "description": "Turtles, jellyfish lakes, and rich reefs off East Kalimantan.",
+    "coordinates": [2.28, 118.25]
+  }
+
+}

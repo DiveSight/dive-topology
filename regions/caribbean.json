@@ -1,0 +1,170 @@
+
+{
+  "caribbean": {
+    "id": "caribbean",
+    "name": "Caribbean",
+    "type": "major",
+    "description": "Classic tropical diving with vibrant reefs and wrecks",
+    "coordinates": [18.0, -66.0]
+  },
+  "bahamas": {
+    "id": "bahamas",
+    "name": "Bahamas",
+    "type": "country",
+    "parent": "caribbean",
+    "description": "Crystal clear waters, blue holes, and shark encounters.",
+    "coordinates": [24.0, -76.0]
+  },
+  "cayman-islands": {
+    "id": "cayman-islands",
+    "name": "Cayman Islands",
+    "type": "country",
+    "parent": "caribbean",
+    "description": "World-class wall diving, Stingray City, and clear Caribbean waters.",
+    "coordinates": [19.3, -81.2]
+  },
+  "turks-caicos": {
+    "id": "turks-caicos",
+    "name": "Turks & Caicos",
+    "type": "country",
+    "parent": "caribbean",
+    "description": "Wall diving, humpback whales, and pristine reefs.",
+    "coordinates": [21.6940, -71.7979]
+  },
+  "jamaica": {
+    "id": "jamaica",
+    "name": "Jamaica",
+    "type": "country",
+    "parent": "caribbean",
+    "description": "Laid-back diving, reefs, and wrecks in warm waters.",
+    "coordinates": [18.1096, -77.2975]
+  },
+  "puerto-rico": {
+    "id": "puerto-rico",
+    "name": "Puerto Rico",
+    "type": "country",
+    "parent": "caribbean",
+    "description": "Caves, walls, and bioluminescent bays.",
+    "coordinates": [18.2208, -66.5901]
+  },
+  "usvi": {
+    "id": "usvi",
+    "name": "U.S. Virgin Islands",
+    "type": "country",
+    "parent": "caribbean",
+    "description": "Wrecks, reefs, and easy island hopping.",
+    "coordinates": [18.3358, -64.8963]
+  },
+  "bvi": {
+    "id": "bvi",
+    "name": "British Virgin Islands",
+    "type": "country",
+    "parent": "caribbean",
+    "description": "Wreck of the Rhone, coral gardens, and calm anchorages.",
+    "coordinates": [18.4207, -64.6401]
+  },
+  "dominican-republic": {
+    "id": "dominican-republic",
+    "name": "Dominican Republic",
+    "type": "country",
+    "parent": "caribbean",
+    "description": "Caves, wrecks, and whale watching in Samaná Bay.",
+    "coordinates": [18.7357, -70.1627]
+  },
+  "cuba": {
+    "id": "cuba",
+    "name": "Cuba",
+    "type": "country",
+    "parent": "caribbean",
+    "description": "Jardines de la Reina, wrecks, and healthy reefs.",
+    "coordinates": [21.5218, -77.7812]
+  },
+  "aruba": {
+    "id": "aruba",
+    "name": "Aruba",
+    "type": "country",
+    "parent": "caribbean",
+    "description": "Wrecks, reefs, and year-round warm water.",
+    "coordinates": [12.5211, -69.9683]
+  },
+  "bonaire": {
+    "id": "bonaire",
+    "name": "Bonaire",
+    "type": "country",
+    "parent": "caribbean",
+    "description": "Shore diving capital, marine park, and easy access reefs.",
+    "coordinates": [12.1784, -68.2385]
+  },
+  "curacao": {
+    "id": "curacao",
+    "name": "Curaçao",
+    "type": "country",
+    "parent": "caribbean",
+    "description": "Colorful reefs, wrecks, and vibrant marine life.",
+    "coordinates": [12.1696, -68.9900]
+  },
+  "st-martin": {
+    "id": "st-martin",
+    "name": "St. Martin / Sint Maarten",
+    "type": "country",
+    "parent": "caribbean",
+    "description": "Wrecks, reefs, and a blend of French and Dutch culture.",
+    "coordinates": [18.0708, -63.0501]
+  },
+  "st-lucia": {
+    "id": "st-lucia",
+    "name": "St. Lucia",
+    "type": "country",
+    "parent": "caribbean",
+    "description": "Pitons, wall dives, and healthy reefs.",
+    "coordinates": [13.9094, -60.9789]
+  },
+  "barbados": {
+    "id": "barbados",
+    "name": "Barbados",
+    "type": "country",
+    "parent": "caribbean",
+    "description": "Wrecks, turtles, and easy shore diving.",
+    "coordinates": [13.1939, -59.5432]
+  },
+  "grenada": {
+    "id": "grenada",
+    "name": "Grenada",
+    "type": "country",
+    "parent": "caribbean",
+    "description": "Wreck diving capital of the Caribbean, including the Bianca C.",
+    "coordinates": [12.1165, -61.6790]
+  },
+  "st-vincent-grenadines": {
+    "id": "st-vincent-grenadines",
+    "name": "St. Vincent & the Grenadines",
+    "type": "country",
+    "parent": "caribbean",
+    "description": "Critter diving, reefs, and volcanic islands.",
+    "coordinates": [13.2528, -61.1971]
+  },
+  "antigua-barbuda": {
+    "id": "antigua-barbuda",
+    "name": "Antigua & Barbuda",
+    "type": "country",
+    "parent": "caribbean",
+    "description": "Wrecks, reefs, and calm bays.",
+    "coordinates": [17.0608, -61.7964]
+  },
+  "guadeloupe": {
+    "id": "guadeloupe",
+    "name": "Guadeloupe",
+    "type": "country",
+    "parent": "caribbean",
+    "description": "Cousteau Reserve, reefs, and French-Caribbean culture.",
+    "coordinates": [16.2650, -61.5510]
+  },
+  "martinique": {
+    "id": "martinique",
+    "name": "Martinique",
+    "type": "country",
+    "parent": "caribbean",
+    "description": "Wrecks, reefs, and volcanic landscapes.",
+    "coordinates": [14.6415, -61.0242]
+  }
+}

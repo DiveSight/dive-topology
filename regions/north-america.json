@@ -1,0 +1,156 @@
+
+{
+	"north-america": {
+		"id": "north-america",
+		"name": "North America",
+		"type": "major",
+		"description": "Diverse diving with kelp forests and sea lions.",
+		"coordinates": [48.3544, -99.9981]
+	},
+	"usa": {
+		"id": "usa",
+		"name": "United States",
+		"type": "country",
+		"parent": "north-america",
+		"description": "California kelp forests, Florida springs, and Pacific Northwest wrecks.",
+		"coordinates": [37.0902, -95.7129]
+	},
+	"california": {
+		"id": "california",
+		"name": "California",
+		"type": "area",
+		"parent": "usa",
+		"description": "Kelp forests, Channel Islands, and sea lion encounters.",
+		"coordinates": [34.0522, -118.2437]
+	},
+		"florida": {
+			"id": "florida",
+			"name": "Florida",
+			"type": "area",
+			"parent": "usa",
+			"description": "Wrecks, reefs, and freshwater springs from the Keys to the Panhandle.",
+			"coordinates": [27.9944, -81.7603]
+		},
+		"florida-keys": {
+			"id": "florida-keys",
+			"name": "Florida Keys",
+			"type": "subarea",
+			"parent": "florida",
+			"description": "Coral reefs, shipwrecks, and the only living barrier reef in the continental US.",
+			"coordinates": [24.5551, -81.7800]
+		},
+		"key-largo": {
+			"id": "key-largo",
+			"name": "Key Largo",
+			"type": "subarea",
+			"parent": "florida",
+			"description": "John Pennekamp Coral Reef State Park and the Spiegel Grove wreck.",
+			"coordinates": [25.0865, -80.4473]
+		},
+		"key-west": {
+			"id": "key-west",
+			"name": "Key West",
+			"type": "subarea",
+			"parent": "florida",
+			"description": "Wrecks, reefs, and laid-back island diving at the southernmost point.",
+			"coordinates": [24.5551, -81.7800]
+		},
+		"blue-heron-bridge": {
+			"id": "blue-heron-bridge",
+			"name": "Blue Heron Bridge",
+			"type": "subarea",
+			"parent": "florida",
+			"description": "World-famous macro site and easy shore dive in Palm Beach.",
+			"coordinates": [26.7782, -80.0431]
+		},
+		"west-palm-beach": {
+			"id": "west-palm-beach",
+			"name": "West Palm Beach",
+			"type": "subarea",
+			"parent": "florida",
+			"description": "Drift diving, reefs, and goliath groupers.",
+			"coordinates": [26.7153, -80.0534]
+		},
+		"jupiter": {
+			"id": "jupiter",
+			"name": "Jupiter",
+			"type": "subarea",
+			"parent": "florida",
+			"description": "Shark diving, turtles, and strong Gulf Stream currents.",
+			"coordinates": [26.9342, -80.0942]
+		},
+		"pensacola": {
+			"id": "pensacola",
+			"name": "Pensacola",
+			"type": "subarea",
+			"parent": "florida",
+			"description": "Wreck diving capital of the Gulf, including the USS Oriskany.",
+			"coordinates": [30.4213, -87.2169]
+		},
+		"crystal-river": {
+			"id": "crystal-river",
+			"name": "Crystal River",
+			"type": "subarea",
+			"parent": "florida",
+			"description": "Swim with manatees and explore freshwater springs.",
+			"coordinates": [28.9022, -82.5926]
+		},
+		"devils-den": {
+			"id": "devils-den",
+			"name": "Devil's Den",
+			"type": "subarea",
+			"parent": "florida",
+			"description": "Prehistoric spring and cavern diving in North Florida.",
+			"coordinates": [29.4146, -82.4615]
+		},
+		"ginnie-springs": {
+			"id": "ginnie-springs",
+			"name": "Ginnie Springs",
+			"type": "subarea",
+			"parent": "florida",
+			"description": "Crystal-clear freshwater springs and cave diving.",
+			"coordinates": [29.8342, -82.7032]
+		},
+
+	"mexico": {
+		"id": "mexico",
+		"name": "Mexico",
+		"type": "country",
+		"parent": "north-america",
+		"description": "Cenotes, whale sharks, and Pacific pelagics from Baja to the Yucatán.",
+		"coordinates": [23.6345, -102.5528]
+	},
+	"baja-california": {
+		"id": "baja-california",
+		"name": "Baja California",
+		"type": "area",
+		"parent": "mexico",
+		"description": "Sea lions, whale sharks, and big animal action in the Sea of Cortez.",
+		"coordinates": [24.1426, -110.3128]
+	},
+	"yucatan": {
+		"id": "yucatan",
+		"name": "Yucatán Peninsula",
+		"type": "area",
+		"parent": "mexico",
+		"description": "Cenotes, Cozumel reefs, and Caribbean drift diving.",
+		"coordinates": [20.6320, -87.0696]
+	},
+
+	"pacific-northwest": {
+		"id": "pacific-northwest",
+		"name": "Pacific Northwest",
+		"type": "area",
+		"parent": "usa",
+		"description": "Cold water diving, giant octopus, and shipwrecks in Washington and Oregon.",
+		"coordinates": [47.7511, -120.7401]
+	},
+	"canada": {
+		"id": "canada",
+		"name": "Canada",
+		"type": "country",
+		"parent": "north-america",
+		"description": "British Columbia's cold water diving, wrecks, and marine life.",
+		"coordinates": [56.1304, -106.3468]
+	}
+}

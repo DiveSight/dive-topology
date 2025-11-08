@@ -1,0 +1,57 @@
+{
+  "east-asia": {
+    "id": "east-asia",
+    "name": "East Asia",
+    "type": "major",
+    "description": "Diverse diving from subtropical reefs to temperate kelp forests, including Japan, Korea, and Taiwan.",
+    "coordinates": [30.0, 135.0]
+  },
+  "japan": {
+    "id": "japan",
+    "name": "Japan",
+    "type": "country",
+    "parent": "east-asia",
+    "description": "Island nation with world-class diving: subtropical Okinawa, temperate Izu, and unique marine life.",
+    "coordinates": [36.2048, 138.2529]
+  },
+  "okinawa": {
+    "id": "okinawa",
+    "name": "Okinawa",
+    "type": "area",
+    "parent": "japan",
+    "description": "Subtropical reefs, WWII wrecks, and manta rays in Japan's southern islands.",
+    "coordinates": [26.3344, 127.8056]
+  },
+  "kerama-islands": {
+    "id": "kerama-islands",
+    "name": "Kerama Islands",
+    "type": "subarea",
+    "parent": "okinawa",
+    "description": "Crystal-clear waters, coral gardens, and humpback whales in winter.",
+    "coordinates": [26.1767, 127.2897]
+  },
+  "yonaguni": {
+    "id": "yonaguni",
+    "name": "Yonaguni",
+    "type": "subarea",
+    "parent": "okinawa",
+    "description": "Famous for hammerhead sharks and the mysterious underwater ruins.",
+    "coordinates": [24.4672, 122.9386]
+  },
+  "izu-peninsula": {
+    "id": "izu-peninsula",
+    "name": "Izu Peninsula",
+    "type": "area",
+    "parent": "japan",
+    "description": "Accessible from Tokyo, with temperate reefs, macro life, and volcanic topography.",
+    "coordinates": [34.9000, 138.9500]
+  },
+  "ogawawara-islands": {
+    "id": "ogasawara-islands",
+    "name": "Ogasawara Islands",
+    "type": "area",
+    "parent": "japan",
+    "description": "Remote Pacific islands with dolphins, whales, and endemic species.",
+    "coordinates": [27.0947, 142.1917]
+  }
+}

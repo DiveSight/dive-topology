@@ -1,0 +1,82 @@
+
+{
+  "indian-ocean": {
+    "id": "indian-ocean",
+    "name": "Indian Ocean",
+    "type": "major",
+    "description": "Luxury diving with pristine reefs and abundant marine life",
+    "coordinates": [-10.0, 75.0]
+  },
+  "maldives": {
+    "id": "maldives",
+    "name": "Maldives",
+    "type": "country",
+    "parent": "indian-ocean",
+    "description": "Iconic atolls, manta rays, whale sharks, and luxury liveaboards.",
+    "coordinates": [3.2028, 73.2207]
+  },
+  "seychelles": {
+    "id": "seychelles",
+    "name": "Seychelles",
+    "type": "country",
+    "parent": "indian-ocean",
+    "description": "Granite islands, coral reefs, and big pelagic encounters.",
+    "coordinates": [-4.6796, 55.492]
+  },
+  "mauritius": {
+    "id": "mauritius",
+    "name": "Mauritius",
+    "type": "country",
+    "parent": "indian-ocean",
+    "description": "Wrecks, coral gardens, and year-round warm water diving.",
+    "coordinates": [-20.3484, 57.5522]
+  },
+  "sri-lanka": {
+    "id": "sri-lanka",
+    "name": "Sri Lanka",
+    "type": "country",
+    "parent": "indian-ocean",
+    "description": "Wrecks, blue whales, and vibrant reefs off the teardrop island.",
+    "coordinates": [7.8731, 80.7718]
+  },
+  "madagascar": {
+    "id": "madagascar",
+    "name": "Madagascar",
+    "type": "country",
+    "parent": "indian-ocean",
+    "description": "Remote reefs, whale sharks, and unique marine biodiversity.",
+    "coordinates": [-18.7669, 46.8691]
+  },
+  "reunion": {
+    "id": "reunion",
+    "name": "Réunion",
+    "type": "country",
+    "parent": "indian-ocean",
+    "description": "Volcanic island diving, lava flows, and coral reefs.",
+    "coordinates": [-21.1151, 55.5364]
+  },
+  "chagos": {
+    "id": "chagos",
+    "name": "Chagos Archipelago",
+    "type": "area",
+    "parent": "indian-ocean",
+    "description": "Pristine, protected atolls with limited access and untouched reefs.",
+    "coordinates": [-6.0, 71.5]
+  },
+  "cocos-islands": {
+    "id": "cocos-islands",
+    "name": "Cocos (Keeling) Islands",
+    "type": "area",
+    "parent": "indian-ocean",
+    "description": "Remote Australian territory with clear water and healthy reefs.",
+    "coordinates": [-12.1642, 96.871]
+  },
+  "christmas-island": {
+    "id": "christmas-island",
+    "name": "Christmas Island",
+    "type": "area",
+    "parent": "indian-ocean",
+    "description": "Steep drop-offs, whale sharks, and unique red crab migrations.",
+    "coordinates": [-10.4475, 105.6904]
+  }
+}
