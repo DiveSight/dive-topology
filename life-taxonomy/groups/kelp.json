@@ -1,0 +1,46 @@
+{
+  "group": {
+    "category": "flora",
+    "color": "dark-green",
+    "description": "Large brown algae forming underwater forests.",
+    "group-id": "kelp",
+    "name": "Kelp"
+  },
+  "entries": [
+    {
+      "id": "giant-kelp",
+      "image": "https://images.unsplash.com/photo-1558985303-28e291f2f0a8?w=800&q=80",
+      "name": "Giant Kelp",
+      "rarity": "regionally-common",
+      "scientific-name": "Macrocystis pyrifera",
+      "size": "very-large",
+      "taxon-id": "macrocystis-pyrifera",
+      "behavior": [
+        "canopy-forming",
+        "rapid-growth"
+      ],
+      "best-months": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "best-regions": [
+        "california",
+        "chile",
+        "new-zealand"
+      ],
+      "depth": {
+        "max": 30,
+        "min": 3
+      },
+      "diet": [],
+      "habitat": [
+        "rocky-reefs",
+        "cold-nutrient-rich-waters"
+      ]
+    }
+  ]
+}

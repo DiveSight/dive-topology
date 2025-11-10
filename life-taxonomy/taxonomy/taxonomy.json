@@ -1,0 +1,845 @@
+{
+  "schema-version": "1.0.0",
+  "taxonomy": {
+    "acanthaster": {
+      "children": [
+        "acanthaster-planci"
+      ],
+      "common-name": null,
+      "example-species": [
+        "Acanthaster planci"
+      ],
+      "notes": "Crown-of-thorns sea stars",
+      "parent-id": "asteroidea",
+      "rank": "genus",
+      "scientific-name": "Acanthaster",
+      "taxon-id": "acanthaster"
+    },
+    "acanthaster-planci": {
+      "children": [],
+      "common-name": "crown-of-thorns-sea-star",
+      "example-species": [],
+      "notes": "Coral-eating sea star, important for reef-health monitoring",
+      "parent-id": "acanthaster",
+      "rank": "species",
+      "scientific-name": "Acanthaster planci",
+      "taxon-id": "acanthaster-planci"
+    },
+    "acropora": {
+      "children": [
+        "acropora-cervicornis"
+      ],
+      "common-name": null,
+      "example-species": [
+        "Acropora cervicornis"
+      ],
+      "notes": "Staghorn and table corals",
+      "parent-id": "anthozoa",
+      "rank": "genus",
+      "scientific-name": "Acropora",
+      "taxon-id": "acropora"
+    },
+    "acropora-cervicornis": {
+      "children": [],
+      "common-name": "staghorn-coral",
+      "example-species": [],
+      "notes": "Branching reef-building coral",
+      "parent-id": "acropora",
+      "rank": "species",
+      "scientific-name": "Acropora cervicornis",
+      "taxon-id": "acropora-cervicornis"
+    },
+    "actinopterygii": {
+      "children": [
+        "amphiprion",
+        "zanclus",
+        "paracanthurus",
+        "caranx"
+      ],
+      "common-name": "ray-finned-fish",
+      "example-species": [
+        "Amphiprion ocellaris",
+        "Caranx ignobilis"
+      ],
+      "notes": "Most bony fishes: reef fish, many pelagic fish",
+      "parent-id": "chordata",
+      "rank": "class",
+      "scientific-name": "Actinopterygii",
+      "taxon-id": "actinopterygii"
+    },
+    "amphiprion": {
+      "children": [
+        "amphiprion-ocellaris"
+      ],
+      "common-name": null,
+      "example-species": [
+        "Amphiprion ocellaris"
+      ],
+      "notes": "Anemonefishes (clownfish)",
+      "parent-id": "actinopterygii",
+      "rank": "genus",
+      "scientific-name": "Amphiprion",
+      "taxon-id": "amphiprion"
+    },
+    "amphiprion-ocellaris": {
+      "children": [],
+      "common-name": "clown-anemonefish",
+      "example-species": [],
+      "notes": "Iconic anemone-associated reef fish",
+      "parent-id": "amphiprion",
+      "rank": "species",
+      "scientific-name": "Amphiprion ocellaris",
+      "taxon-id": "amphiprion-ocellaris"
+    },
+    "animalia": {
+      "children": [
+        "chordata",
+        "mollusca",
+        "arthropoda",
+        "echinodermata",
+        "cnidaria"
+      ],
+      "common-name": "animal",
+      "example-species": [],
+      "notes": "Multicellular animals",
+      "parent-id": "eukaryota",
+      "rank": "kingdom",
+      "scientific-name": "Animalia",
+      "taxon-id": "animalia"
+    },
+    "anthozoa": {
+      "children": [
+        "acropora"
+      ],
+      "common-name": "coral-anemone",
+      "example-species": [
+        "Acropora cervicornis"
+      ],
+      "notes": "Hard and soft corals, sea anemones (subset here)",
+      "parent-id": "cnidaria",
+      "rank": "class",
+      "scientific-name": "Anthozoa",
+      "taxon-id": "anthozoa"
+    },
+    "arthropoda": {
+      "children": [
+        "malacostraca"
+      ],
+      "common-name": "arthropod",
+      "example-species": [],
+      "notes": "Crustaceans and others (subset here)",
+      "parent-id": "animalia",
+      "rank": "phylum",
+      "scientific-name": "Arthropoda",
+      "taxon-id": "arthropoda"
+    },
+    "asteroidea": {
+      "children": [
+        "acanthaster"
+      ],
+      "common-name": "sea-star",
+      "example-species": [
+        "Acanthaster planci"
+      ],
+      "notes": "Sea stars",
+      "parent-id": "echinodermata",
+      "rank": "class",
+      "scientific-name": "Asteroidea",
+      "taxon-id": "asteroidea"
+    },
+    "caranx": {
+      "children": [
+        "caranx-ignobilis"
+      ],
+      "common-name": null,
+      "example-species": [
+        "Caranx ignobilis"
+      ],
+      "notes": "Jacks and trevallies",
+      "parent-id": "actinopterygii",
+      "rank": "genus",
+      "scientific-name": "Caranx",
+      "taxon-id": "caranx"
+    },
+    "caranx-ignobilis": {
+      "children": [],
+      "common-name": "giant-trevally",
+      "example-species": [],
+      "notes": "Large predatory jack common at reef drop-offs",
+      "parent-id": "caranx",
+      "rank": "species",
+      "scientific-name": "Caranx ignobilis",
+      "taxon-id": "caranx-ignobilis"
+    },
+    "carcharhinus": {
+      "children": [
+        "carcharhinus-amblyrhynchos"
+      ],
+      "common-name": null,
+      "example-species": [
+        "Carcharhinus amblyrhynchos"
+      ],
+      "notes": "Requiem sharks including many reef sharks",
+      "parent-id": "chondrichthyes",
+      "rank": "genus",
+      "scientific-name": "Carcharhinus",
+      "taxon-id": "carcharhinus"
+    },
+    "carcharhinus-amblyrhynchos": {
+      "children": [],
+      "common-name": "grey-reef-shark",
+      "example-species": [],
+      "notes": "Common Indo-Pacific reef shark",
+      "parent-id": "carcharhinus",
+      "rank": "species",
+      "scientific-name": "Carcharhinus amblyrhynchos",
+      "taxon-id": "carcharhinus-amblyrhynchos"
+    },
+    "cephalopoda": {
+      "children": [
+        "octopus",
+        "sepioteuthis"
+      ],
+      "common-name": "cephalopod",
+      "example-species": [
+        "Octopus cyanea"
+      ],
+      "notes": "Octopus, squid, cuttlefish (subset here)",
+      "parent-id": "mollusca",
+      "rank": "class",
+      "scientific-name": "Cephalopoda",
+      "taxon-id": "cephalopoda"
+    },
+    "chelonia": {
+      "children": [
+        "chelonia-mydas"
+      ],
+      "common-name": null,
+      "example-species": [
+        "Chelonia mydas"
+      ],
+      "notes": "Sea turtle genus",
+      "parent-id": "reptilia",
+      "rank": "genus",
+      "scientific-name": "Chelonia",
+      "taxon-id": "chelonia"
+    },
+    "chelonia-mydas": {
+      "children": [],
+      "common-name": "green-sea-turtle",
+      "example-species": [],
+      "notes": "Herbivorous sea turtle common on reefs and seagrass beds",
+      "parent-id": "chelonia",
+      "rank": "species",
+      "scientific-name": "Chelonia mydas",
+      "taxon-id": "chelonia-mydas"
+    },
+    "chondrichthyes": {
+      "children": [
+        "rhincodon",
+        "carcharhinus",
+        "sphyrna",
+        "mobula",
+        "taeniura"
+      ],
+      "common-name": "cartilaginous-fish",
+      "example-species": [
+        "Rhincodon typus",
+        "Sphyrna lewini"
+      ],
+      "notes": "Sharks, rays, skates",
+      "parent-id": "chordata",
+      "rank": "class",
+      "scientific-name": "Chondrichthyes",
+      "taxon-id": "chondrichthyes"
+    },
+    "chordata": {
+      "children": [
+        "actinopterygii",
+        "chondrichthyes",
+        "mammalia",
+        "reptilia"
+      ],
+      "common-name": "chordate",
+      "example-species": [],
+      "notes": "Animals with a notochord at some life stage",
+      "parent-id": "animalia",
+      "rank": "phylum",
+      "scientific-name": "Chordata",
+      "taxon-id": "chordata"
+    },
+    "chromista": {
+      "children": [
+        "ochrophyta"
+      ],
+      "common-name": "chromist",
+      "example-species": [],
+      "notes": "Includes many algae; brown algae and kelps here",
+      "parent-id": "eukaryota",
+      "rank": "kingdom",
+      "scientific-name": "Chromista",
+      "taxon-id": "chromista"
+    },
+    "chromodoris": {
+      "children": [
+        "chromodoris-willani"
+      ],
+      "common-name": null,
+      "example-species": [
+        "Chromodoris willani"
+      ],
+      "notes": "Colorful dorid nudibranchs",
+      "parent-id": "gastropoda",
+      "rank": "genus",
+      "scientific-name": "Chromodoris",
+      "taxon-id": "chromodoris"
+    },
+    "chromodoris-willani": {
+      "children": [],
+      "common-name": "willans-nudibranch",
+      "example-species": [],
+      "notes": "Commonly photographed Indo-Pacific nudibranch",
+      "parent-id": "chromodoris",
+      "rank": "species",
+      "scientific-name": "Chromodoris willani",
+      "taxon-id": "chromodoris-willani"
+    },
+    "cnidaria": {
+      "children": [
+        "anthozoa"
+      ],
+      "common-name": "cnidarian",
+      "example-species": [],
+      "notes": "Corals, anemones (subset here)",
+      "parent-id": "animalia",
+      "rank": "phylum",
+      "scientific-name": "Cnidaria",
+      "taxon-id": "cnidaria"
+    },
+    "diadema": {
+      "children": [
+        "diadema-setosum"
+      ],
+      "common-name": null,
+      "example-species": [
+        "Diadema setosum"
+      ],
+      "notes": "Long-spined sea urchins",
+      "parent-id": "echinoidea",
+      "rank": "genus",
+      "scientific-name": "Diadema",
+      "taxon-id": "diadema"
+    },
+    "diadema-setosum": {
+      "children": [],
+      "common-name": "long-spined-sea-urchin",
+      "example-species": [],
+      "notes": "Common reef urchin with very long spines",
+      "parent-id": "diadema",
+      "rank": "species",
+      "scientific-name": "Diadema setosum",
+      "taxon-id": "diadema-setosum"
+    },
+    "echinodermata": {
+      "children": [
+        "asteroidea",
+        "echinoidea"
+      ],
+      "common-name": "echinoderm",
+      "example-species": [],
+      "notes": "Sea stars, urchins (subset here)",
+      "parent-id": "animalia",
+      "rank": "phylum",
+      "scientific-name": "Echinodermata",
+      "taxon-id": "echinodermata"
+    },
+    "echinoidea": {
+      "children": [
+        "diadema"
+      ],
+      "common-name": "sea-urchin",
+      "example-species": [
+        "Diadema setosum"
+      ],
+      "notes": "Sea urchins, sand dollars (subset here)",
+      "parent-id": "echinodermata",
+      "rank": "class",
+      "scientific-name": "Echinoidea",
+      "taxon-id": "echinoidea"
+    },
+    "eukaryota": {
+      "children": [
+        "animalia",
+        "plantae",
+        "chromista"
+      ],
+      "common-name": null,
+      "example-species": [],
+      "notes": "All organisms with complex cells",
+      "parent-id": null,
+      "rank": "domain",
+      "scientific-name": "Eukaryota",
+      "taxon-id": "eukaryota"
+    },
+    "gastropoda": {
+      "children": [
+        "chromodoris"
+      ],
+      "common-name": "gastropod",
+      "example-species": [
+        "Chromodoris willani"
+      ],
+      "notes": "Sea snails, sea slugs including many nudibranchs",
+      "parent-id": "mollusca",
+      "rank": "class",
+      "scientific-name": "Gastropoda",
+      "taxon-id": "gastropoda"
+    },
+    "lysmata": {
+      "children": [
+        "lysmata-amboinensis"
+      ],
+      "common-name": null,
+      "example-species": [
+        "Lysmata amboinensis"
+      ],
+      "notes": "Cleaner shrimps",
+      "parent-id": "malacostraca",
+      "rank": "genus",
+      "scientific-name": "Lysmata",
+      "taxon-id": "lysmata"
+    },
+    "lysmata-amboinensis": {
+      "children": [],
+      "common-name": "skunk-cleaner-shrimp",
+      "example-species": [],
+      "notes": "Well-known cleaner shrimp that services reef fish",
+      "parent-id": "lysmata",
+      "rank": "species",
+      "scientific-name": "Lysmata amboinensis",
+      "taxon-id": "lysmata-amboinensis"
+    },
+    "macrocystis": {
+      "children": [
+        "macrocystis-pyrifera"
+      ],
+      "common-name": null,
+      "example-species": [
+        "Macrocystis pyrifera"
+      ],
+      "notes": "Giant kelp",
+      "parent-id": "phaeophyceae",
+      "rank": "genus",
+      "scientific-name": "Macrocystis",
+      "taxon-id": "macrocystis"
+    },
+    "macrocystis-pyrifera": {
+      "children": [],
+      "common-name": "giant-kelp",
+      "example-species": [],
+      "notes": "Large brown alga forming kelp forests",
+      "parent-id": "macrocystis",
+      "rank": "species",
+      "scientific-name": "Macrocystis pyrifera",
+      "taxon-id": "macrocystis-pyrifera"
+    },
+    "malacostraca": {
+      "children": [
+        "stenopus",
+        "lysmata"
+      ],
+      "common-name": "crustacean",
+      "example-species": [
+        "Lysmata amboinensis"
+      ],
+      "notes": "Most marine crustaceans: crabs, lobsters, shrimp (subset here)",
+      "parent-id": "arthropoda",
+      "rank": "class",
+      "scientific-name": "Malacostraca",
+      "taxon-id": "malacostraca"
+    },
+    "mammalia": {
+      "children": [
+        "tursiops",
+        "megaptera"
+      ],
+      "common-name": "mammal",
+      "example-species": [
+        "Tursiops truncatus",
+        "Megaptera novaeangliae"
+      ],
+      "notes": "Marine mammals: whales, dolphins, seals, sea otters (subset here)",
+      "parent-id": "chordata",
+      "rank": "class",
+      "scientific-name": "Mammalia",
+      "taxon-id": "mammalia"
+    },
+    "megaptera": {
+      "children": [
+        "megaptera-novaeangliae"
+      ],
+      "common-name": null,
+      "example-species": [
+        "Megaptera novaeangliae"
+      ],
+      "notes": "Humpback whales",
+      "parent-id": "mammalia",
+      "rank": "genus",
+      "scientific-name": "Megaptera",
+      "taxon-id": "megaptera"
+    },
+    "megaptera-novaeangliae": {
+      "children": [],
+      "common-name": "humpback-whale",
+      "example-species": [],
+      "notes": "Migratory baleen whale frequently encountered by divers at surface",
+      "parent-id": "megaptera",
+      "rank": "species",
+      "scientific-name": "Megaptera novaeangliae",
+      "taxon-id": "megaptera-novaeangliae"
+    },
+    "mobula": {
+      "children": [
+        "mobula-alfredi"
+      ],
+      "common-name": null,
+      "example-species": [
+        "Mobula alfredi"
+      ],
+      "notes": "Devil rays and mantas",
+      "parent-id": "chondrichthyes",
+      "rank": "genus",
+      "scientific-name": "Mobula",
+      "taxon-id": "mobula"
+    },
+    "mobula-alfredi": {
+      "children": [],
+      "common-name": "reef-manta-ray",
+      "example-species": [],
+      "notes": "Iconic plankton-feeding manta ray",
+      "parent-id": "mobula",
+      "rank": "species",
+      "scientific-name": "Mobula alfredi",
+      "taxon-id": "mobula-alfredi"
+    },
+    "mollusca": {
+      "children": [
+        "cephalopoda",
+        "gastropoda"
+      ],
+      "common-name": "mollusk",
+      "example-species": [],
+      "notes": "Snails, slugs, clams, octopus, squid (partial subset here)",
+      "parent-id": "animalia",
+      "rank": "phylum",
+      "scientific-name": "Mollusca",
+      "taxon-id": "mollusca"
+    },
+    "ochrophyta": {
+      "children": [
+        "phaeophyceae"
+      ],
+      "common-name": "ochrophyte",
+      "example-species": [],
+      "notes": "Includes brown algae",
+      "parent-id": "chromista",
+      "rank": "phylum",
+      "scientific-name": "Ochrophyta",
+      "taxon-id": "ochrophyta"
+    },
+    "octopus": {
+      "children": [
+        "octopus-cyanea"
+      ],
+      "common-name": null,
+      "example-species": [
+        "Octopus cyanea"
+      ],
+      "notes": "Octopus genus including reef species",
+      "parent-id": "cephalopoda",
+      "rank": "genus",
+      "scientific-name": "Octopus",
+      "taxon-id": "octopus"
+    },
+    "octopus-cyanea": {
+      "children": [],
+      "common-name": "day-octopus",
+      "example-species": [],
+      "notes": "Common Indo-Pacific reef octopus",
+      "parent-id": "octopus",
+      "rank": "species",
+      "scientific-name": "Octopus cyanea",
+      "taxon-id": "octopus-cyanea"
+    },
+    "paracanthurus": {
+      "children": [
+        "paracanthurus-hepatus"
+      ],
+      "common-name": null,
+      "example-species": [
+        "Paracanthurus hepatus"
+      ],
+      "notes": "Blue tang genus",
+      "parent-id": "actinopterygii",
+      "rank": "genus",
+      "scientific-name": "Paracanthurus",
+      "taxon-id": "paracanthurus"
+    },
+    "paracanthurus-hepatus": {
+      "children": [],
+      "common-name": "blue-tang",
+      "example-species": [],
+      "notes": "Blue surgeonfish, common Indo-Pacific reef fish",
+      "parent-id": "paracanthurus",
+      "rank": "species",
+      "scientific-name": "Paracanthurus hepatus",
+      "taxon-id": "paracanthurus-hepatus"
+    },
+    "phaeophyceae": {
+      "children": [
+        "macrocystis"
+      ],
+      "common-name": "brown-alga",
+      "example-species": [
+        "Macrocystis pyrifera"
+      ],
+      "notes": "Kelp and other brown algae",
+      "parent-id": "ochrophyta",
+      "rank": "class",
+      "scientific-name": "Phaeophyceae",
+      "taxon-id": "phaeophyceae"
+    },
+    "plantae": {
+      "children": [
+        "tracheophyta"
+      ],
+      "common-name": "plant",
+      "example-species": [],
+      "notes": "Includes seagrasses (here) and terrestrial plants",
+      "parent-id": "eukaryota",
+      "rank": "kingdom",
+      "scientific-name": "Plantae",
+      "taxon-id": "plantae"
+    },
+    "reptilia": {
+      "children": [
+        "chelonia"
+      ],
+      "common-name": "reptile",
+      "example-species": [
+        "Chelonia mydas"
+      ],
+      "notes": "Marine reptiles: sea turtles (subset here)",
+      "parent-id": "chordata",
+      "rank": "class",
+      "scientific-name": "Reptilia",
+      "taxon-id": "reptilia"
+    },
+    "rhincodon": {
+      "children": [
+        "rhincodon-typus"
+      ],
+      "common-name": null,
+      "example-species": [
+        "Rhincodon typus"
+      ],
+      "notes": "Whale shark genus",
+      "parent-id": "chondrichthyes",
+      "rank": "genus",
+      "scientific-name": "Rhincodon",
+      "taxon-id": "rhincodon"
+    },
+    "rhincodon-typus": {
+      "children": [],
+      "common-name": "whale-shark",
+      "example-species": [],
+      "notes": "Largest known fish species, filter-feeding shark",
+      "parent-id": "rhincodon",
+      "rank": "species",
+      "scientific-name": "Rhincodon typus",
+      "taxon-id": "rhincodon-typus"
+    },
+    "sepioteuthis": {
+      "children": [
+        "sepioteuthis-sepioidea"
+      ],
+      "common-name": null,
+      "example-species": [
+        "Sepioteuthis sepioidea"
+      ],
+      "notes": "Reef squids",
+      "parent-id": "cephalopoda",
+      "rank": "genus",
+      "scientific-name": "Sepioteuthis",
+      "taxon-id": "sepioteuthis"
+    },
+    "sepioteuthis-sepioidea": {
+      "children": [],
+      "common-name": "caribbean-reef-squid",
+      "example-species": [],
+      "notes": "Schooling squid often seen in Caribbean shallows",
+      "parent-id": "sepioteuthis",
+      "rank": "species",
+      "scientific-name": "Sepioteuthis sepioidea",
+      "taxon-id": "sepioteuthis-sepioidea"
+    },
+    "sphyrna": {
+      "children": [
+        "sphyrna-lewini"
+      ],
+      "common-name": null,
+      "example-species": [
+        "Sphyrna lewini"
+      ],
+      "notes": "Hammerhead shark genus",
+      "parent-id": "chondrichthyes",
+      "rank": "genus",
+      "scientific-name": "Sphyrna",
+      "taxon-id": "sphyrna"
+    },
+    "sphyrna-lewini": {
+      "children": [],
+      "common-name": "scalloped-hammerhead",
+      "example-species": [],
+      "notes": "Schooling hammerhead seen at many advanced dive sites",
+      "parent-id": "sphyrna",
+      "rank": "species",
+      "scientific-name": "Sphyrna lewini",
+      "taxon-id": "sphyrna-lewini"
+    },
+    "stenopus": {
+      "children": [
+        "stenopus-hispidus"
+      ],
+      "common-name": null,
+      "example-species": [
+        "Stenopus hispidus"
+      ],
+      "notes": "Banded coral shrimps",
+      "parent-id": "malacostraca",
+      "rank": "genus",
+      "scientific-name": "Stenopus",
+      "taxon-id": "stenopus"
+    },
+    "stenopus-hispidus": {
+      "children": [],
+      "common-name": "banded-coral-shrimp",
+      "example-species": [],
+      "notes": "Iconic banded cleaner shrimp on reef overhangs",
+      "parent-id": "stenopus",
+      "rank": "species",
+      "scientific-name": "Stenopus hispidus",
+      "taxon-id": "stenopus-hispidus"
+    },
+    "taeniura": {
+      "children": [
+        "taeniura-lymma"
+      ],
+      "common-name": null,
+      "example-species": [
+        "Taeniura lymma"
+      ],
+      "notes": "Includes blue-spotted rays",
+      "parent-id": "chondrichthyes",
+      "rank": "genus",
+      "scientific-name": "Taeniura",
+      "taxon-id": "taeniura"
+    },
+    "taeniura-lymma": {
+      "children": [],
+      "common-name": "blue-spotted-ribbontail-ray",
+      "example-species": [],
+      "notes": "Small benthic ray with bright blue spots",
+      "parent-id": "taeniura",
+      "rank": "species",
+      "scientific-name": "Taeniura lymma",
+      "taxon-id": "taeniura-lymma"
+    },
+    "thalassia": {
+      "children": [
+        "thalassia-testudinum"
+      ],
+      "common-name": null,
+      "example-species": [
+        "Thalassia testudinum"
+      ],
+      "notes": "Turtle grass",
+      "parent-id": "tracheophyta",
+      "rank": "genus",
+      "scientific-name": "Thalassia",
+      "taxon-id": "thalassia"
+    },
+    "thalassia-testudinum": {
+      "children": [],
+      "common-name": "turtle-grass",
+      "example-species": [],
+      "notes": "Key seagrass species in tropical shallows",
+      "parent-id": "thalassia",
+      "rank": "species",
+      "scientific-name": "Thalassia testudinum",
+      "taxon-id": "thalassia-testudinum"
+    },
+    "tracheophyta": {
+      "children": [
+        "thalassia"
+      ],
+      "common-name": "vascular-plant",
+      "example-species": [
+        "Thalassia testudinum"
+      ],
+      "notes": "Seagrasses and other vascular plants",
+      "parent-id": "plantae",
+      "rank": "phylum",
+      "scientific-name": "Tracheophyta",
+      "taxon-id": "tracheophyta"
+    },
+    "tursiops": {
+      "children": [
+        "tursiops-truncatus"
+      ],
+      "common-name": null,
+      "example-species": [
+        "Tursiops truncatus"
+      ],
+      "notes": "Bottlenose dolphins",
+      "parent-id": "mammalia",
+      "rank": "genus",
+      "scientific-name": "Tursiops",
+      "taxon-id": "tursiops"
+    },
+    "tursiops-truncatus": {
+      "children": [],
+      "common-name": "bottlenose-dolphin",
+      "example-species": [],
+      "notes": "Common coastal dolphin",
+      "parent-id": "tursiops",
+      "rank": "species",
+      "scientific-name": "Tursiops truncatus",
+      "taxon-id": "tursiops-truncatus"
+    },
+    "zanclus": {
+      "children": [
+        "zanclus-cornutus"
+      ],
+      "common-name": null,
+      "example-species": [
+        "Zanclus cornutus"
+      ],
+      "notes": "Moorish idol genus",
+      "parent-id": "actinopterygii",
+      "rank": "genus",
+      "scientific-name": "Zanclus",
+      "taxon-id": "zanclus"
+    },
+    "zanclus-cornutus": {
+      "children": [],
+      "common-name": "moorish-idol",
+      "example-species": [],
+      "notes": "Common reef fish with tall dorsal fin streamer",
+      "parent-id": "zanclus",
+      "rank": "species",
+      "scientific-name": "Zanclus cornutus",
+      "taxon-id": "zanclus-cornutus"
+    }
+  }
+}

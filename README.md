@@ -1,7 +1,7 @@
 
 # DIVESIGHT - Diving regions, Marine Life and Phenomena Topology
 
-**Live Demo:** [https://divesight.github.io/dive-regions-topology/](https://divesight.github.io/dive-topology/)
+**Live Demo:** [https://divesight.github.io/dive-topology/](https://divesight.github.io/dive-topology/)
 
 ![Dive Region Topology Viewer Screenshot](screenshot.png)
 

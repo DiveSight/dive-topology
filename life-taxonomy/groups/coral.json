@@ -1,0 +1,28 @@
+{
+  "group": {
+    "category": "reef-builder",
+    "color": "red",
+    "description": "Reef-building stony corals and associated framework species.",
+    "group-id": "coral",
+    "name": "Coral"
+  },
+  "entries": [
+    {
+      "id": "staghorn-coral",
+      "image": "https://images.unsplash.com/photo-1615818499070-1c3b7c4d34e0?w=800&q=80",
+      "name": "Staghorn Coral",
+      "rarity": "regionally-threatened",
+      "scientific-name": "Acropora cervicornis",
+      "size": "medium-colony",
+      "taxon-id": "acropora-cervicornis",
+      "diet": [
+        "zooxanthellae-symbiont",
+        "plankton"
+      ],
+      "habitat": [
+        "shallow-reefs",
+        "high-light"
+      ]
+    }
+  ]
+}

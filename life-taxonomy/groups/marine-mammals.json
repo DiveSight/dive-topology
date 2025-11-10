@@ -1,0 +1,213 @@
+{
+  "group": {
+    "category": "megafauna",
+    "color": "green",
+    "description": "Whales and dolphins commonly encountered around dive sites.",
+    "group-id": "marine-mammal",
+    "name": "Marine Mammal"
+  },
+  "entries": [
+    {
+      "id": "bottlenose-dolphin",
+      "image": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?w=800&q=80",
+      "name": "Bottlenose Dolphin",
+      "rarity": "common",
+      "scientific-name": "Tursiops truncatus",
+      "size": "large",
+      "taxon-id": "tursiops-truncatus",
+      "behavior": [
+        "bow-riding",
+        "social-pods",
+        "acrobatic"
+      ],
+      "best-months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "best-regions": [
+        "global-subtropical",
+        "global-temperate"
+      ],
+      "depth": {
+        "max": 200,
+        "min": 0
+      },
+      "diet": [
+        "fish",
+        "cephalopod"
+      ],
+      "habitat": [
+        "coastal",
+        "offshore"
+      ]
+    },
+      {
+        "id": "pilot-whale",
+        "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=80",
+        "name": "Pilot Whale",
+        "alias": ["pilot whale", "globicephala"],
+        "rarity": "uncommon",
+        "scientific-name": "Globicephala",
+        "size": "large",
+        "taxon-id": "globicephala",
+        "behavior": ["deep-diving", "social-pods", "long-distance-migration"],
+        "best-months": [1,2,3,4,5,6,7,8,9,10,11,12],
+        "best-regions": ["global-temperate", "global-subtropical"],
+        "depth": {"max": 1000, "min": 0},
+        "diet": ["squid", "fish"],
+        "habitat": ["open-ocean", "deep-water"]
+      },
+    {
+      "id": "australian-fur-seal",
+      "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=80",
+      "name": "Australian Fur Seal",
+      "alias": [
+        "australian fur seal",
+        "fur seal"
+      ],
+      "rarity": "uncommon",
+      "scientific-name": "Arctocephalus pusillus doriferus",
+      "size": "large",
+      "taxon-id": "arctocephalus-pusillus-doriferus",
+      "behavior": [
+        "colony-forming",
+        "playful",
+        "diving"
+      ],
+      "best-months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "best-regions": [
+        "southern-australia"
+      ],
+      "depth": {
+        "max": 200,
+        "min": 0
+      },
+      "diet": [
+        "fish",
+        "cephalopods",
+        "crustaceans"
+      ],
+      "habitat": [
+        "rocky-islands",
+        "kelp-forests",
+        "coastal-waters"
+      ]
+    },
+    {
+      "id": "humpback-whale",
+      "image": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?w=800&q=80",
+      "name": "Humpback Whale",
+      "alias": [
+        "humpback whale",
+        "humpback"
+      ],
+      "rarity": "uncommon",
+      "scientific-name": "Megaptera novaeangliae",
+      "size": "very-large",
+      "taxon-id": "megaptera-novaeangliae",
+      "behavior": [
+        "breaching",
+        "singing",
+        "migratory"
+      ],
+      "best-months": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "best-regions": [
+        "global-oceanic",
+        "australia-east-coast",
+        "antarctic"
+      ],
+      "depth": {
+        "max": 500,
+        "min": 0
+      },
+      "diet": [
+        "krill",
+        "small fish"
+      ],
+      "habitat": [
+        "open-ocean",
+        "coastal-waters"
+      ]
+    },
+    {
+      "id": "spinner-dolphin",
+      "image": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?w=800&q=80",
+      "name": "Spinner Dolphin",
+      "alias": [
+        "spinner dolphin",
+        "spinner"
+      ],
+      "rarity": "common",
+      "scientific-name": "Stenella longirostris",
+      "size": "medium",
+      "taxon-id": "stenella-longirostris",
+      "behavior": [
+        "spinning-leaps",
+        "schooling",
+        "acrobatic"
+      ],
+      "best-months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "best-regions": [
+        "tropical-oceans",
+        "indo-pacific",
+        "hawaii"
+      ],
+      "depth": {
+        "max": 200,
+        "min": 0
+      },
+      "diet": [
+        "fish",
+        "squid",
+        "shrimp"
+      ],
+      "habitat": [
+        "open-ocean",
+        "coastal-waters"
+      ]
+    }
+  ]
+}

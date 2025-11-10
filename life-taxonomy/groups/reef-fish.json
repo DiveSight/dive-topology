@@ -1,0 +1,3736 @@
+{
+  "group": {
+    "category": "reef-fish",
+    "color": "yellow",
+    "description": "Colorful bony fish associated with coral reefs.",
+    "group-id": "reef-fish",
+    "name": "Reef Fish"
+  },
+  "entries": [
+    {
+      "id": "clown-anemonefish",
+      "image": "https://images.unsplash.com/photo-1546500840-ae38253aba9b?w=800&q=80",
+      "name": "Clown Anemonefish",
+      "alias": [
+        "clownfish"
+      ],
+      "rarity": "common",
+      "scientific-name": "Amphiprion ocellaris",
+      "size": "small",
+      "taxon-id": "amphiprion-ocellaris",
+      "behavior": [
+        "symbiotic-anemone-association",
+        "territorial"
+      ],
+      "best-months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "best-regions": [
+        "indonesia",
+        "philippines",
+        "papua-new-guinea"
+      ],
+      "depth": {
+        "max": 25,
+        "min": 1
+      },
+      "diet": [
+        "zooplankton",
+        "algae"
+      ],
+      "habitat": [
+        "anemone-heads",
+        "sheltered-reefs"
+      ]
+    },
+    {
+      "id": "blue-devil-damselfish",
+      "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=80",
+      "name": "Blue Devil Damselfish",
+      "alias": [
+        "damselfish"
+      ],
+      "rarity": "common",
+      "scientific-name": "Paraplesiops meleagris",
+      "size": "small",
+      "taxon-id": "paraplesiops-meleagris",
+      "behavior": [
+        "territorial",
+        "reef-dwelling"
+      ],
+      "best-months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "best-regions": [
+        "australia",
+        "indo-pacific"
+      ],
+      "depth": {
+        "max": 30,
+        "min": 2
+      },
+      "diet": [
+        "zooplankton",
+        "algae"
+      ],
+      "habitat": [
+        "coral-reefs",
+        "rocky-reefs"
+      ]
+    },
+    {
+      "id": "eastern-blue-devil",
+      "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=80",
+      "name": "Eastern Blue Devil",
+      "rarity": "uncommon",
+      "scientific-name": "Paraplesiops bleekeri",
+      "size": "medium",
+      "taxon-id": "paraplesiops-bleekeri",
+      "behavior": [
+        "territorial",
+        "reef-dwelling",
+        "cave-dwelling"
+      ],
+      "best-months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "best-regions": [
+        "eastern-australia"
+      ],
+      "depth": {
+        "max": 40,
+        "min": 3
+      },
+      "diet": [
+        "crustaceans",
+        "small fish",
+        "mollusks"
+      ],
+      "habitat": [
+        "rocky-reefs",
+        "caves"
+      ]
+    },
+    {
+      "id": "moorish-idol",
+      "image": "https://images.unsplash.com/photo-1598966734799-cab5c1c82d39?w=800&q=80",
+      "name": "Moorish Idol",
+      "rarity": "common",
+      "scientific-name": "Zanclus cornutus",
+      "size": "medium",
+      "taxon-id": "zanclus-cornutus",
+      "behavior": [
+        "pair-forming",
+        "reef-cruising"
+      ],
+      "best-months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "best-regions": [
+        "indo-pacific",
+        "hawaii"
+      ],
+      "depth": {
+        "max": 40,
+        "min": 3
+      },
+      "diet": [
+        "sponges",
+        "benthic-invertebrate"
+      ],
+      "habitat": [
+        "reef-slopes",
+        "lagoons"
+      ]
+    },
+    {
+      "id": "blue-tang",
+      "image": "https://images.unsplash.com/photo-1524704654690-b56c05c78a00?w=800&q=80",
+      "name": "Blue Tang",
+      "rarity": "common",
+      "scientific-name": "Paracanthurus hepatus",
+      "size": "medium",
+      "taxon-id": "paracanthurus-hepatus",
+      "behavior": [
+        "schooling",
+        "reef-cruising"
+      ],
+      "best-months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "best-regions": [
+        "indo-pacific"
+      ],
+      "depth": {
+        "max": 40,
+        "min": 2
+      },
+      "diet": [
+        "algae"
+      ],
+      "habitat": [
+        "outer-reefs",
+        "patch-reefs"
+      ]
+    },
+    {
+      "id": "giant-trevally",
+      "image": "https://images.unsplash.com/photo-1599481237989-30c62a496dae?w=800&q=80",
+      "name": "Giant Trevally",
+      "rarity": "uncommon",
+      "scientific-name": "Caranx ignobilis",
+      "size": "very-large",
+      "taxon-id": "caranx-ignobilis",
+      "behavior": [
+        "hunting",
+        "reef-patrolling",
+        "surface-attacks"
+      ],
+      "best-months": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "best-regions": [
+        "palau",
+        "indonesia",
+        "french-polynesia"
+      ],
+      "depth": {
+        "max": 80,
+        "min": 5
+      },
+      "diet": [
+        "fish"
+      ],
+      "habitat": [
+        "drop-offs",
+        "channels",
+        "reef-points"
+      ]
+    },
+    {
+      "id": "great-barracuda",
+      "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=80",
+      "name": "Great Barracuda",
+      "alias": [
+        "barracuda"
+      ],
+      "diet": [
+        "fish",
+        "cephalopods"
+      ],
+      "habitat": [
+        "reefs",
+        "lagoons",
+        "open-water"
+      ],
+      "rarity": "common",
+      "scientific-name": "Sphyraena barracuda",
+      "size": "large",
+      "taxon-id": "sphyraena-barracuda",
+      "behavior": [
+        "ambush-hunting",
+        "solitary",
+        "reef-cruising"
+      ],
+      "best-months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "best-regions": [
+        "tropical-atlantic",
+        "indo-pacific",
+        "caribbean"
+      ],
+      "depth": {
+        "max": 100,
+        "min": 1
+      }
+    },
+    {
+      "id": "rudd",
+      "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=80",
+      "name": "Rudd",
+      "alias": [
+        "rudd",
+        "scardinius erythrophthalmus"
+      ],
+      "rarity": "common",
+      "scientific-name": "Scardinius erythrophthalmus",
+      "size": "small",
+      "taxon-id": "scardinius-erythrophthalmus",
+      "behavior": [
+        "schooling",
+        "freshwater"
+      ],
+      "best-months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "best-regions": [
+        "europe",
+        "asia"
+      ],
+      "depth": {
+        "max": 20,
+        "min": 0
+      },
+      "diet": [
+        "plants",
+        "invertebrates",
+        "detritus"
+      ],
+      "habitat": [
+        "lakes",
+        "rivers",
+        "ponds"
+      ]
+    },
+    {
+      "id": "queenfish",
+      "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=80",
+      "name": "Queenfish",
+      "alias": [
+        "queenfish",
+        "scomberoides lysan"
+      ],
+      "rarity": "uncommon",
+      "scientific-name": "Scomberoides lysan",
+      "size": "large",
+      "taxon-id": "scomberoides-lysan",
+      "behavior": [
+        "schooling",
+        "predatory",
+        "pelagic"
+      ],
+      "best-months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "best-regions": [
+        "indo-pacific",
+        "australia"
+      ],
+      "depth": {
+        "max": 100,
+        "min": 1
+      },
+      "diet": [
+        "fish",
+        "crustaceans"
+      ],
+      "habitat": [
+        "reefs",
+        "open-water"
+      ]
+    },
+    {
+      "id": "tasmanian-blenny",
+      "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=80",
+      "name": "Tasmanian Blenny",
+      "alias": [
+        "tasmanian blenny",
+        "parablennius tasmanianus"
+      ],
+      "rarity": "uncommon",
+      "scientific-name": "Parablennius tasmanianus",
+      "size": "small",
+      "taxon-id": "parablennius-tasmanianus",
+      "behavior": [
+        "benthic-dwelling",
+        "territorial"
+      ],
+      "best-months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "best-regions": [
+        "southern-australia",
+        "tasmania"
+      ],
+      "depth": {
+        "max": 20,
+        "min": 0
+      },
+      "diet": [
+        "algae",
+        "small invertebrates"
+      ],
+      "habitat": [
+        "rocky-reefs",
+        "tide-pools"
+      ]
+    },
+    {
+      "id": "blue-cod",
+      "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=80",
+      "name": "Blue Cod",
+      "alias": [
+        "blue cod",
+        "parapercis colias"
+      ],
+      "rarity": "common",
+      "scientific-name": "Parapercis colias",
+      "size": "medium",
+      "taxon-id": "parapercis-colias",
+      "behavior": [
+        "territorial",
+        "benthic-dwelling"
+      ],
+      "best-months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "best-regions": [
+        "new-zealand",
+        "southern-australia"
+      ],
+      "depth": {
+        "max": 150,
+        "min": 2
+      },
+      "diet": [
+        "crustaceans",
+        "small fish"
+      ],
+      "habitat": [
+        "rocky-reefs",
+        "kelp-forests"
+      ]
+    },
+    {
+      "id": "bumphead-parrotfish",
+      "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=80",
+      "name": "Bumphead Parrotfish",
+      "alias": [
+        "bumphead parrotfish",
+        "bolbometopon muricatum",
+        "humphead parrotfish"
+      ],
+      "rarity": "uncommon",
+      "scientific-name": "Bolbometopon muricatum",
+      "size": "very-large",
+      "taxon-id": "bolbometopon-muricatum",
+      "behavior": [
+        "schooling",
+        "reef-dwelling",
+        "coral-feeding"
+      ],
+      "best-months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "best-regions": [
+        "indo-pacific",
+        "great-barrier-reef"
+      ],
+      "depth": {
+        "max": 30,
+        "min": 1
+      },
+      "diet": [
+        "coral",
+        "algae"
+      ],
+      "habitat": [
+        "coral-reefs",
+        "lagoon-reefs"
+      ]
+    },
+    {
+      "id": "blenny",
+      "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=80",
+      "name": "Blenny",
+      "alias": [
+        "blenny",
+        "blenniidae"
+      ],
+      "rarity": "common",
+      "scientific-name": "Blenniidae",
+      "size": "small",
+      "taxon-id": "blenniidae",
+      "behavior": [
+        "benthic-dwelling",
+        "territorial",
+        "perching"
+      ],
+      "best-months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "best-regions": [
+        "global-tropics",
+        "temperate-reefs"
+      ],
+      "depth": {
+        "max": 30,
+        "min": 0
+      },
+      "diet": [
+        "algae",
+        "small invertebrates"
+      ],
+      "habitat": [
+        "rocky-reefs",
+        "coral-reefs",
+        "tide-pools"
+      ]
+    },
+    {
+      "id": "stoplight-parrotfish",
+      "image": "https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?w=800&q=80",
+      "name": "Stoplight Parrotfish",
+      "rarity": "common",
+      "scientific-name": "Sparisoma viride",
+      "size": "medium",
+      "taxon-id": "sparisoma-viride",
+      "behavior": [
+        "grazing",
+        "reef-building",
+        "color-phase-changes"
+      ],
+      "best-months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "best-regions": [
+        "caribbean",
+        "tropical-atlantic"
+      ],
+      "depth": {
+        "max": 25,
+        "min": 1
+      },
+      "diet": [
+        "algae",
+        "coral"
+      ],
+      "habitat": [
+        "coral-reefs",
+        "seagrass-beds"
+      ]
+    },
+    {
+      "id": "queen-angelfish",
+      "image": "https://images.unsplash.com/photo-1464983953574-0892a716854b?w=800&q=80",
+      "name": "Queen Angelfish",
+      "alias": [
+        "angel fish"
+      ],
+      "rarity": "common",
+      "scientific-name": "Holacanthus ciliaris",
+      "size": "medium",
+      "taxon-id": "holacanthus-ciliaris",
+      "behavior": [
+        "territorial",
+        "pair-forming",
+        "reef-dwelling"
+      ],
+      "best-months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "best-regions": [
+        "caribbean",
+        "tropical-atlantic"
+      ],
+      "depth": {
+        "max": 70,
+        "min": 1
+      },
+      "diet": [
+        "sponges",
+        "algae",
+        "coral"
+      ],
+      "habitat": [
+        "coral-reefs",
+        "rocky-reefs"
+      ]
+    },
+    {
+      "id": "raccoon-butterflyfish",
+      "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=80",
+      "name": "Raccoon Butterflyfish",
+      "rarity": "common",
+      "alias": [
+        "butterfly fish"
+      ],
+      "scientific-name": "Chaetodon lunula",
+      "size": "small",
+      "taxon-id": "chaetodon-lunula",
+      "behavior": [
+        "pair-forming",
+        "reef-dwelling",
+        "nocturnal-sheltering"
+      ],
+      "best-months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "best-regions": [
+        "indo-pacific",
+        "hawaii"
+      ],
+      "depth": {
+        "max": 30,
+        "min": 1
+      },
+      "diet": [
+        "coral-polyps",
+        "algae"
+      ],
+      "habitat": [
+        "coral-reefs",
+        "lagoon-reefs"
+      ]
+    },
+    {
+      "id": "giant-moray",
+      "image": "https://images.unsplash.com/photo-1518717758536-85ae29035b6d?w=800&q=80",
+      "name": "Giant Moray Eel",
+      "alias": [
+        "moray eel",
+        "moray"
+      ],
+      "rarity": "common",
+      "scientific-name": "Gymnothorax javanicus",
+      "size": "large",
+      "taxon-id": "gymnothorax-javanicus",
+      "behavior": [
+        "nocturnal",
+        "ambush-predator",
+        "reef-dwelling"
+      ],
+      "best-months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "best-regions": [
+        "indo-pacific",
+        "red-sea"
+      ],
+      "depth": {
+        "max": 50,
+        "min": 1
+      },
+      "diet": [
+        "fish",
+        "crustaceans"
+      ],
+      "habitat": [
+        "coral-reefs",
+        "rocky-reefs"
+      ]
+    },
+    {
+      "id": "humphead-wrasse",
+      "image": "https://images.unsplash.com/photo-1500534314209-a25ddb2bd429?w=800&q=80",
+      "name": "Humphead Wrasse",
+      "alias": [
+        "maori wrasse",
+        "napoleon wrasse"
+      ],
+      "rarity": "uncommon",
+      "scientific-name": "Cheilinus undulatus",
+      "size": "very-large",
+      "taxon-id": "cheilinus-undulatus",
+      "behavior": [
+        "sex-changing",
+        "solitary",
+        "reef-dwelling"
+      ],
+      "best-months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "best-regions": [
+        "indo-pacific"
+      ],
+      "depth": {
+        "max": 100,
+        "min": 2
+      },
+      "diet": [
+        "mollusks",
+        "crustaceans",
+        "fish"
+      ],
+      "habitat": [
+        "coral-reefs",
+        "outer-reefs"
+      ]
+    },
+    {
+      "id": "oriental-sweetlips",
+      "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=80",
+      "name": "Oriental Sweetlips",
+      "alias": [
+        "sweetlips",
+        "sweet lips"
+      ],
+      "rarity": "common",
+      "scientific-name": "Plectorhinchus orientalis",
+      "size": "large",
+      "taxon-id": "plectorhinchus-orientalis",
+      "behavior": [
+        "schooling",
+        "reef-dwelling",
+        "nocturnal"
+      ],
+      "best-months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "best-regions": [
+        "indo-pacific"
+      ],
+      "depth": {
+        "max": 40,
+        "min": 2
+      },
+      "diet": [
+        "crustaceans",
+        "mollusks",
+        "fish"
+      ],
+      "habitat": [
+        "coral-reefs",
+        "lagoon-reefs"
+      ]
+    },
+    {
+      "id": "nassau-grouper",
+      "image": "https://images.unsplash.com/photo-1464983953574-0892a716854b?w=800&q=80",
+      "name": "Nassau Grouper",
+      "alias": [
+        "grouper"
+      ],
+      "rarity": "uncommon",
+      "scientific-name": "Epinephelus striatus",
+      "size": "large",
+      "taxon-id": "epinephelus-striatus",
+      "behavior": [
+        "aggregation-spawning",
+        "reef-dwelling",
+        "ambush-predator"
+      ],
+      "best-months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "best-regions": [
+        "caribbean",
+        "tropical-atlantic"
+      ],
+      "depth": {
+        "max": 100,
+        "min": 1
+      },
+      "diet": [
+        "fish",
+        "crustaceans"
+      ],
+      "habitat": [
+        "coral-reefs",
+        "rocky-reefs"
+      ]
+    },
+    {
+      "id": "coral-trout",
+      "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=80",
+      "name": "Coral Trout",
+      "alias": [
+        "coral trout",
+        "trout"
+      ],
+      "rarity": "common",
+      "scientific-name": "Plectropomus leopardus",
+      "size": "large",
+      "taxon-id": "plectropomus-leopardus",
+      "behavior": [
+        "ambush-predator",
+        "reef-dwelling",
+        "solitary"
+      ],
+      "best-months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "best-regions": [
+        "great-barrier-reef",
+        "indo-pacific"
+      ],
+      "depth": {
+        "max": 100,
+        "min": 1
+      },
+      "diet": [
+        "fish",
+        "crustaceans"
+      ],
+      "habitat": [
+        "coral-reefs",
+        "lagoon-reefs"
+      ]
+    },
+    {
+      "id": "magpie-perch",
+      "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=80",
+      "name": "Magpie Perch",
+      "alias": [
+        "magpie perch"
+      ],
+      "rarity": "common",
+      "scientific-name": "Cheilodactylus nigripes",
+      "size": "medium",
+      "taxon-id": "cheilodactylus-nigripes",
+      "behavior": [
+        "schooling",
+        "reef-dwelling",
+        "benthic-feeding"
+      ],
+      "best-months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "best-regions": [
+        "southern-australia",
+        "temperate-reefs"
+      ],
+      "depth": {
+        "max": 40,
+        "min": 2
+      },
+      "diet": [
+        "invertebrates",
+        "algae"
+      ],
+      "habitat": [
+        "rocky-reefs",
+        "kelp-forests"
+      ]
+    },
+    {
+      "id": "red-emperor",
+      "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=80",
+      "name": "Red Emperor",
+      "alias": [
+        "red emperor",
+        "emperor"
+      ],
+      "rarity": "common",
+      "scientific-name": "Lutjanus sebae",
+      "size": "large",
+      "taxon-id": "lutjanus-sebae",
+      "behavior": [
+        "schooling",
+        "reef-dwelling",
+        "benthic-feeding"
+      ],
+      "best-months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "best-regions": [
+        "northern-australia",
+        "indo-pacific"
+      ],
+      "depth": {
+        "max": 100,
+        "min": 10
+      },
+      "diet": [
+        "fish",
+        "crustaceans",
+        "mollusks"
+      ],
+      "habitat": [
+        "coral-reefs",
+        "rocky-reefs"
+      ]
+    },
+    {
+      "id": "blue-and-yellow-fusilier",
+      "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=80",
+      "name": "Blue-and-yellow Fusilier",
+      "alias": [
+        "fusilier",
+        "fusiliers"
+      ],
+      "rarity": "common",
+      "scientific-name": "Caesio teres",
+      "size": "medium",
+      "taxon-id": "caesio-teres",
+      "behavior": [
+        "schooling",
+        "reef-cruising"
+      ],
+      "best-months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "best-regions": [
+        "indo-pacific",
+        "great-barrier-reef"
+      ],
+      "depth": {
+        "max": 60,
+        "min": 2
+      },
+      "diet": [
+        "zooplankton",
+        "small-invertebrates"
+      ],
+      "habitat": [
+        "outer-reefs",
+        "reef-slopes"
+      ]
+    },
+    {
+      "id": "southern-hulafish",
+      "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=80",
+      "name": "Southern Hulafish",
+      "alias": [
+        "southern hulafish",
+        "hulafish"
+      ],
+      "rarity": "common",
+      "scientific-name": "Trachinops caudimaculatus",
+      "size": "small",
+      "taxon-id": "trachinops-caudimaculatus",
+      "behavior": [
+        "schooling",
+        "reef-dwelling"
+      ],
+      "best-months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "best-regions": [
+        "southern-australia",
+        "temperate-reefs"
+      ],
+      "depth": {
+        "max": 30,
+        "min": 2
+      },
+      "diet": [
+        "zooplankton",
+        "small-invertebrates"
+      ],
+      "habitat": [
+        "rocky-reefs",
+        "kelp-forests"
+      ]
+    },
+    {
+      "id": "old-wife",
+      "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=80",
+      "name": "Old Wife",
+      "alias": [
+        "old wife",
+        "enoplosus armatus"
+      ],
+      "rarity": "common",
+      "scientific-name": "Enoplosus armatus",
+      "size": "medium",
+      "taxon-id": "enoplosus-armatus",
+      "behavior": [
+        "schooling",
+        "reef-dwelling",
+        "venomous-spines"
+      ],
+      "best-months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "best-regions": [
+        "southern-australia",
+        "temperate-reefs"
+      ],
+      "depth": {
+        "max": 60,
+        "min": 2
+      },
+      "diet": [
+        "invertebrates",
+        "algae"
+      ],
+      "habitat": [
+        "rocky-reefs",
+        "kelp-forests"
+      ]
+    },
+    {
+      "id": "black-sea-bream",
+      "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=80",
+      "name": "Black Sea Bream",
+      "alias": [
+        "sea bream",
+        "bream"
+      ],
+      "rarity": "common",
+      "scientific-name": "Acanthopagrus butcheri",
+      "size": "medium",
+      "taxon-id": "acanthopagrus-butcheri",
+      "behavior": [
+        "schooling",
+        "reef-dwelling"
+      ],
+      "best-months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "best-regions": [
+        "southern-australia",
+        "temperate-reefs"
+      ],
+      "depth": {
+        "max": 30,
+        "min": 1
+      },
+      "diet": [
+        "invertebrates",
+        "algae"
+      ],
+      "habitat": [
+        "rocky-reefs",
+        "seagrass-beds"
+      ]
+    },
+    {
+      "id": "mediterranean-moray-eel",
+      "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=80",
+      "name": "Mediterranean Moray Eel",
+      "alias": [
+        "mediterranean moray eel",
+        "mediterranean moray"
+      ],
+      "rarity": "uncommon",
+      "scientific-name": "Muraena helena",
+      "size": "large",
+      "taxon-id": "muraena-helena",
+      "behavior": [
+        "nocturnal",
+        "ambush-predator",
+        "reef-dwelling"
+      ],
+      "best-months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "best-regions": [
+        "mediterranean",
+        "eastern-atlantic"
+      ],
+      "depth": {
+        "max": 80,
+        "min": 5
+      },
+      "diet": [
+        "fish",
+        "crustaceans",
+        "cephalopods"
+      ],
+      "habitat": [
+        "rocky-reefs",
+        "coral-reefs"
+      ]
+    },
+    {
+      "id": "yellowtail-snapper",
+      "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=80",
+      "name": "Yellowtail Snapper",
+      "alias": [
+        "yellowtail snapper",
+        "snapper"
+      ],
+      "rarity": "common",
+      "scientific-name": "Ocyurus chrysurus",
+      "size": "medium",
+      "taxon-id": "ocyurus-chrysurus",
+      "behavior": [
+        "schooling",
+        "reef-dwelling"
+      ],
+      "best-months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "best-regions": [
+        "caribbean",
+        "western-atlantic"
+      ],
+      "depth": {
+        "max": 70,
+        "min": 2
+      },
+      "diet": [
+        "small fish",
+        "crustaceans",
+        "plankton"
+      ],
+      "habitat": [
+        "coral-reefs",
+        "rocky-reefs"
+      ]
+    },
+    {
+      "id": "green-moray-eel",
+      "image": "https://images.unsplash.com/photo-1464983953574-0892a716854b?w=800&q=80",
+      "name": "Green Moray Eel",
+      "alias": [
+        "green moray eel",
+        "green moray"
+      ],
+      "rarity": "common",
+      "scientific-name": "Gymnothorax funebris",
+      "size": "large",
+      "taxon-id": "gymnothorax-funebris",
+      "behavior": [
+        "nocturnal",
+        "ambush-predator",
+        "reef-dwelling"
+      ],
+      "best-months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "best-regions": [
+        "caribbean",
+        "western-atlantic"
+      ],
+      "depth": {
+        "max": 40,
+        "min": 3
+      },
+      "diet": [
+        "fish",
+        "crustaceans",
+        "cephalopods"
+      ],
+      "habitat": [
+        "rocky-reefs",
+        "coral-reefs"
+      ]
+    },
+    {
+      "id": "southern-sea-garfish",
+      "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=80",
+      "name": "Southern Sea Garfish",
+      "alias": [
+        "southern sea garfish",
+        "garfish"
+      ],
+      "rarity": "common",
+      "scientific-name": "Hyporhamphus melanochir",
+      "size": "medium",
+      "taxon-id": "hyporhamphus-melanochir",
+      "behavior": [
+        "schooling",
+        "surface-feeding"
+      ],
+      "best-months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "best-regions": [
+        "southern-australia",
+        "temperate-reefs"
+      ],
+      "depth": {
+        "max": 20,
+        "min": 0
+      },
+      "diet": [
+        "algae",
+        "small invertebrates"
+      ],
+      "habitat": [
+        "seagrass-beds",
+        "coastal-waters"
+      ]
+    },
+    {
+      "id": "spanish-mackerel",
+      "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=80",
+      "name": "Spanish Mackerel",
+      "alias": [
+        "spanish mackerel",
+        "mackerel"
+      ],
+      "rarity": "common",
+      "scientific-name": "Scomberomorus commerson",
+      "size": "large",
+      "taxon-id": "scomberomorus-commerson",
+      "behavior": [
+        "fast-swimming",
+        "predatory",
+        "schooling"
+      ],
+      "best-months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "best-regions": [
+        "indo-pacific",
+        "australia",
+        "indian-ocean"
+      ],
+      "depth": {
+        "max": 100,
+        "min": 5
+      },
+      "diet": [
+        "fish",
+        "cephalopods",
+        "crustaceans"
+      ],
+      "habitat": [
+        "open-water",
+        "reef-edges"
+      ]
+    },
+    {
+      "id": "striped-trumpeter",
+      "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=80",
+      "name": "Striped Trumpeter",
+      "alias": [
+        "striped trumpeter",
+        "trumpeter"
+      ],
+      "rarity": "uncommon",
+      "scientific-name": "Latris lineata",
+      "size": "medium",
+      "taxon-id": "latris-lineata",
+      "behavior": [
+        "schooling",
+        "bottom-dwelling"
+      ],
+      "best-months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "best-regions": [
+        "southern-australia",
+        "new-zealand"
+      ],
+      "depth": {
+        "max": 350,
+        "min": 10
+      },
+      "diet": [
+        "crustaceans",
+        "mollusks",
+        "worms"
+      ],
+      "habitat": [
+        "rocky-reefs",
+        "deep-reefs"
+      ]
+    },
+    {
+      "id": "bastard-trumpeter",
+      "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=80",
+      "name": "Bastard Trumpeter",
+      "alias": [
+        "bastard trumpeter"
+      ],
+      "rarity": "uncommon",
+      "scientific-name": "Latridopsis forsteri",
+      "size": "medium",
+      "taxon-id": "latridopsis-forsteri",
+      "behavior": [
+        "schooling",
+        "bottom-dwelling"
+      ],
+      "best-months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "best-regions": [
+        "southern-australia",
+        "tasmania"
+      ],
+      "depth": {
+        "max": 100,
+        "min": 5
+      },
+      "diet": [
+        "crustaceans",
+        "mollusks",
+        "algae"
+      ],
+      "habitat": [
+        "rocky-reefs",
+        "kelp-forests"
+      ]
+    },
+    {
+      "id": "yellowtail-kingfish",
+      "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=80",
+      "name": "Yellowtail Kingfish",
+      "alias": [
+        "yellowtail kingfish",
+        "kingfish",
+        "yellowtail amberjack"
+      ],
+      "rarity": "common",
+      "scientific-name": "Seriola lalandi",
+      "size": "large",
+      "taxon-id": "seriola-lalandi",
+      "behavior": [
+        "schooling",
+        "fast-swimming",
+        "predatory"
+      ],
+      "best-months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "best-regions": [
+        "southern-australia",
+        "new-zealand",
+        "pacific-ocean"
+      ],
+      "depth": {
+        "max": 200,
+        "min": 5
+      },
+      "diet": [
+        "fish",
+        "squid",
+        "crustaceans"
+      ],
+      "habitat": [
+        "open-water",
+        "reef-edges",
+        "kelp-forests"
+      ]
+    },
+    {
+      "id": "sweep",
+      "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=80",
+      "name": "Sweep",
+      "alias": [
+        "sweep",
+        "sea sweep",
+        "silver sweep"
+      ],
+      "rarity": "common",
+      "scientific-name": "Scorpis spp.",
+      "size": "medium",
+      "taxon-id": "scorpis-spp",
+      "behavior": [
+        "schooling",
+        "reef-dwelling"
+      ],
+      "best-months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "best-regions": [
+        "southern-australia",
+        "new-zealand"
+      ],
+      "depth": {
+        "max": 60,
+        "min": 1
+      },
+      "diet": [
+        "plankton",
+        "algae"
+      ],
+      "habitat": [
+        "rocky-reefs",
+        "kelp-forests",
+        "coastal-waters"
+      ]
+    },
+    {
+      "id": "blue-throated-wrasse",
+      "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=80",
+      "name": "Blue-throated Wrasse",
+      "alias": [
+        "blue-throated wrasse",
+        "wrasse"
+      ],
+      "rarity": "common",
+      "scientific-name": "Notolabrus tetricus",
+      "size": "medium",
+      "taxon-id": "notolabrus-tetricus",
+      "behavior": [
+        "territorial",
+        "sex-changing",
+        "reef-dwelling"
+      ],
+      "best-months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "best-regions": [
+        "southern-australia",
+        "tasmania"
+      ],
+      "depth": {
+        "max": 40,
+        "min": 2
+      },
+      "diet": [
+        "mollusks",
+        "crustaceans",
+        "echinoderms"
+      ],
+      "habitat": [
+        "rocky-reefs",
+        "kelp-forests"
+      ]
+    },
+    {
+      "id": "red-morwong",
+      "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=80",
+      "name": "Red Morwong",
+      "alias": [
+        "red morwong",
+        "morwong"
+      ],
+      "rarity": "common",
+      "scientific-name": "Cheilodactylus fuscus",
+      "size": "medium",
+      "taxon-id": "cheilodactylus-fuscus",
+      "behavior": [
+        "territorial",
+        "reef-dwelling",
+        "site-attached"
+      ],
+      "best-months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "best-regions": [
+        "eastern-australia",
+        "temperate-reefs"
+      ],
+      "depth": {
+        "max": 30,
+        "min": 2
+      },
+      "diet": [
+        "algae",
+        "invertebrates"
+      ],
+      "habitat": [
+        "rocky-reefs",
+        "kelp-forests"
+      ]
+    },
+    {
+      "id": "scorpionfish",
+      "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=80",
+      "name": "Scorpionfish",
+      "alias": [
+        "scorpionfish",
+        "scorpaenidae",
+        "scorpion fish"
+      ],
+      "rarity": "common",
+      "scientific-name": "Scorpaenidae",
+      "size": "medium",
+      "taxon-id": "scorpaenidae",
+      "behavior": [
+        "camouflaged",
+        "ambush-predator",
+        "benthic-resting"
+      ],
+      "best-months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "best-regions": [
+        "tropics-global",
+        "subtropics-global"
+      ],
+      "depth": {
+        "max": 100,
+        "min": 2
+      },
+      "diet": [
+        "fish",
+        "crustaceans"
+      ],
+      "habitat": [
+        "rocky-reefs",
+        "coral-reefs",
+        "sandy-bottoms"
+      ]
+    },
+    {
+      "id": "triggerfish",
+      "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=80",
+      "name": "Triggerfish",
+      "alias": [
+        "triggerfish",
+        "balistidae",
+        "trigger fish"
+      ],
+      "rarity": "common",
+      "scientific-name": "Balistidae",
+      "size": "medium",
+      "taxon-id": "balistidae",
+      "behavior": [
+        "territorial",
+        "nest-guarding",
+        "reef-dwelling"
+      ],
+      "best-months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "best-regions": [
+        "tropics-global",
+        "subtropics-global"
+      ],
+      "depth": {
+        "max": 50,
+        "min": 2
+      },
+      "diet": [
+        "invertebrates",
+        "algae",
+        "coral"
+      ],
+      "habitat": [
+        "coral-reefs",
+        "rocky-reefs"
+      ]
+    },
+    {
+      "id": "yellowfin-tuna",
+      "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=80",
+      "name": "Yellowfin Tuna",
+      "alias": [
+        "yellowfin tuna",
+        "tuna"
+      ],
+      "rarity": "uncommon",
+      "scientific-name": "Thunnus albacares",
+      "size": "very-large",
+      "taxon-id": "thunnus-albacares",
+      "behavior": [
+        "schooling",
+        "fast-swimming",
+        "pelagic"
+      ],
+      "best-months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "best-regions": [
+        "tropics-global",
+        "subtropics-global"
+      ],
+      "depth": {
+        "max": 250,
+        "min": 0
+      },
+      "diet": [
+        "fish",
+        "squid",
+        "crustaceans"
+      ],
+      "habitat": [
+        "open-ocean",
+        "reef-edges"
+      ]
+    },
+    {
+      "id": "pufferfish",
+      "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=80",
+      "name": "Pufferfish",
+      "alias": [
+        "pufferfish",
+        "puffer fish",
+        "tetradontidae",
+        "blowfish"
+      ],
+      "rarity": "common",
+      "scientific-name": "Tetraodontidae",
+      "size": "medium",
+      "taxon-id": "tetraodontidae",
+      "behavior": [
+        "inflating",
+        "slow-swimming",
+        "reef-dwelling"
+      ],
+      "best-months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "best-regions": [
+        "tropics-global",
+        "subtropics-global"
+      ],
+      "depth": {
+        "max": 50,
+        "min": 2
+      },
+      "diet": [
+        "algae",
+        "invertebrates",
+        "coral"
+      ],
+      "habitat": [
+        "coral-reefs",
+        "rocky-reefs"
+      ]
+    },
+    {
+      "id": "dogtooth-tuna",
+      "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=80",
+      "name": "Dogtooth Tuna",
+      "alias": [
+        "dogtooth tuna",
+        "dogtooth",
+        "gymnosarda"
+      ],
+      "rarity": "uncommon",
+      "scientific-name": "Gymnosarda unicolor",
+      "size": "very-large",
+      "taxon-id": "gymnosarda-unicolor",
+      "behavior": [
+        "solitary",
+        "fast-swimming",
+        "predatory"
+      ],
+      "best-months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "best-regions": [
+        "indo-pacific",
+        "coral-triangle"
+      ],
+      "depth": {
+        "max": 300,
+        "min": 10
+      },
+      "diet": [
+        "fish",
+        "squid",
+        "crustaceans"
+      ],
+      "habitat": [
+        "open-water",
+        "reef-slopes",
+        "drop-offs"
+      ]
+    },
+    {
+      "id": "blue-groper",
+      "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=80",
+      "name": "Blue Groper",
+      "alias": [
+        "blue groper",
+        "eastern blue groper",
+        "groper"
+      ],
+      "rarity": "uncommon",
+      "scientific-name": "Achoerodus viridis",
+      "size": "large",
+      "taxon-id": "achoerodus-viridis",
+      "behavior": [
+        "territorial",
+        "sex-changing",
+        "reef-dwelling"
+      ],
+      "best-months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "best-regions": [
+        "eastern-australia",
+        "temperate-reefs"
+      ],
+      "depth": {
+        "max": 40,
+        "min": 1
+      },
+      "diet": [
+        "mollusks",
+        "crustaceans",
+        "echinoderms"
+      ],
+      "habitat": [
+        "rocky-reefs",
+        "kelp-forests"
+      ]
+    },
+    {
+      "id": "senator-wrasse",
+      "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=80",
+      "name": "Senator Wrasse",
+      "alias": [
+        "senator wrasse"
+      ],
+      "rarity": "common",
+      "scientific-name": "Pictilabrus laticlavius",
+      "size": "medium",
+      "taxon-id": "pictilabrus-laticlavius",
+      "behavior": [
+        "territorial",
+        "sex-changing",
+        "reef-dwelling"
+      ],
+      "best-months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "best-regions": [
+        "southern-australia",
+        "tasmania"
+      ],
+      "depth": {
+        "max": 30,
+        "min": 2
+      },
+      "diet": [
+        "crustaceans",
+        "mollusks",
+        "worms"
+      ],
+      "habitat": [
+        "rocky-reefs",
+        "kelp-forests"
+      ]
+    },
+    {
+      "id": "french-angelfish",
+      "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=80",
+      "name": "French Angelfish",
+      "rarity": "common",
+      "scientific-name": "Pomacanthus paru",
+      "size": "medium",
+      "taxon-id": "pomacanthus-paru",
+      "behavior": [
+        "pair-forming",
+        "reef-dwelling",
+        "territorial"
+      ],
+      "best-months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "best-regions": [
+        "caribbean",
+        "western-atlantic"
+      ],
+      "depth": {
+        "max": 100,
+        "min": 2
+      },
+      "diet": [
+        "sponges",
+        "algae",
+        "small invertebrates"
+      ],
+      "habitat": [
+        "coral-reefs",
+        "rocky-reefs"
+      ]
+    },
+    {
+      "id": "mediterranean-parrotfish",
+      "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=80",
+      "name": "Mediterranean Parrotfish",
+      "alias": [
+        "parrot fish",
+        "parrotfish"
+      ],
+      "rarity": "common",
+      "scientific-name": "Sparisoma cretense",
+      "size": "medium",
+      "taxon-id": "sparisoma-cretense",
+      "behavior": [
+        "grazing",
+        "reef-dwelling",
+        "sex-changing"
+      ],
+      "best-months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "best-regions": [
+        "mediterranean",
+        "eastern-atlantic"
+      ],
+      "depth": {
+        "max": 50,
+        "min": 1
+      },
+      "diet": [
+        "algae",
+        "seagrass"
+      ],
+      "habitat": [
+        "rocky-reefs",
+        "seagrass-beds",
+        "coral-reefs"
+      ]
+    },
+    {
+      "id": "trumpetfish",
+      "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=80",
+      "name": "Trumpetfish",
+      "alias": [
+        "trumpetfish",
+        "trumpet fish",
+        "aulostomus"
+      ],
+      "rarity": "common",
+      "scientific-name": "Aulostomus maculatus",
+      "size": "medium",
+      "taxon-id": "aulostomus-maculatus",
+      "behavior": [
+        "ambush-predator",
+        "camouflaged",
+        "vertical-hunting"
+      ],
+      "best-months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "best-regions": [
+        "caribbean",
+        "tropical-atlantic"
+      ],
+      "depth": {
+        "max": 25,
+        "min": 2
+      },
+      "diet": [
+        "small fish",
+        "crustaceans"
+      ],
+      "habitat": [
+        "coral-reefs",
+        "seagrass-beds",
+        "rocky-reefs"
+      ]
+    },
+    {
+      "id": "zebra-fish",
+      "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=80",
+      "name": "Zebra Fish",
+      "alias": [
+        "zebra fish",
+        "zebrafish",
+        "girella zebra"
+      ],
+      "rarity": "common",
+      "scientific-name": "Girella zebra",
+      "size": "small",
+      "taxon-id": "girella-zebra",
+      "behavior": [
+        "schooling",
+        "reef-dwelling"
+      ],
+      "best-months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "best-regions": [
+        "southern-australia",
+        "temperate-reefs"
+      ],
+      "depth": {
+        "max": 20,
+        "min": 1
+      },
+      "diet": [
+        "algae",
+        "small invertebrates"
+      ],
+      "habitat": [
+        "rocky-reefs",
+        "kelp-forests"
+      ]
+    },
+    {
+      "id": "lionfish",
+      "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=80",
+      "name": "Lionfish",
+      "alias": [
+        "lionfish",
+        "pterois",
+        "turkeyfish"
+      ],
+      "rarity": "common",
+      "scientific-name": "Pterois volitans",
+      "size": "medium",
+      "taxon-id": "pterois-volitans",
+      "behavior": [
+        "ambush-predator",
+        "venomous-spines",
+        "reef-dwelling"
+      ],
+      "best-months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "best-regions": [
+        "indo-pacific",
+        "caribbean"
+      ],
+      "depth": {
+        "max": 50,
+        "min": 2
+      },
+      "diet": [
+        "small fish",
+        "crustaceans"
+      ],
+      "habitat": [
+        "coral-reefs",
+        "rocky-reefs"
+      ]
+    },
+    {
+      "id": "sergeant-major-damselfish",
+      "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=80",
+      "name": "Sergeant Major Damselfish",
+      "alias": [
+        "sergeant major damselfish",
+        "sergeant major",
+        "abudefduf saxatilis"
+      ],
+      "rarity": "common",
+      "scientific-name": "Abudefduf saxatilis",
+      "size": "small",
+      "taxon-id": "abudefduf-saxatilis",
+      "behavior": [
+        "schooling",
+        "reef-dwelling",
+        "territorial"
+      ],
+      "best-months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "best-regions": [
+        "caribbean",
+        "tropical-atlantic",
+        "indo-pacific"
+      ],
+      "depth": {
+        "max": 40,
+        "min": 1
+      },
+      "diet": [
+        "algae",
+        "zooplankton",
+        "small invertebrates"
+      ],
+      "habitat": [
+        "coral-reefs",
+        "rocky-reefs",
+        "lagoons"
+      ]
+    },
+    {
+      "id": "blue-devil-fish",
+      "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=80",
+      "name": "Blue Devil Fish",
+      "alias": [
+        "blue devil fish",
+        "blue devil"
+      ],
+      "rarity": "uncommon",
+      "scientific-name": "Paraplesiops meleagris",
+      "size": "small",
+      "taxon-id": "paraplesiops-meleagris",
+      "behavior": [
+        "territorial",
+        "reef-dwelling",
+        "cave-dwelling"
+      ],
+      "best-months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "best-regions": [
+        "australia",
+        "indo-pacific"
+      ],
+      "depth": {
+        "max": 40,
+        "min": 2
+      },
+      "diet": [
+        "crustaceans",
+        "small fish",
+        "mollusks"
+      ],
+      "habitat": [
+        "rocky-reefs",
+        "caves"
+      ]
+    },
+    {
+      "id": "john-dory",
+      "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=80",
+      "name": "John Dory",
+      "alias": [
+        "john dory",
+        "zeus faber",
+        "dory"
+      ],
+      "rarity": "uncommon",
+      "scientific-name": "Zeus faber",
+      "size": "medium",
+      "taxon-id": "zeus-faber",
+      "behavior": [
+        "ambush-predator",
+        "solitary",
+        "reef-dwelling"
+      ],
+      "best-months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "best-regions": [
+        "temperate-reefs",
+        "eastern-atlantic",
+        "mediterranean",
+        "australia",
+        "new-zealand"
+      ],
+      "depth": {
+        "max": 200,
+        "min": 5
+      },
+      "diet": [
+        "fish",
+        "cephalopods",
+        "crustaceans"
+      ],
+      "habitat": [
+        "rocky-reefs",
+        "sandy-bottoms",
+        "coastal-waters"
+      ]
+    },
+    {
+      "id": "leather-jacket",
+      "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=80",
+      "name": "Leather Jacket",
+      "alias": [
+        "leatherjacket",
+        "filefish",
+        "monacanthidae"
+      ],
+      "rarity": "common",
+      "scientific-name": "Monacanthidae",
+      "size": "small",
+      "taxon-id": "monacanthidae",
+      "behavior": [
+        "camouflaged",
+        "reef-dwelling",
+        "slow-swimming"
+      ],
+      "best-months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "best-regions": [
+        "australia",
+        "indo-pacific",
+        "temperate-reefs"
+      ],
+      "depth": {
+        "max": 100,
+        "min": 2
+      },
+      "diet": [
+        "algae",
+        "invertebrates",
+        "sponges"
+      ],
+      "habitat": [
+        "rocky-reefs",
+        "seagrass-beds",
+        "coral-reefs"
+      ]
+    },
+    {
+      "id": "dusky-grouper",
+      "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=80",
+      "name": "Dusky Grouper",
+      "alias": [
+        "epinephelus marginatus"
+      ],
+      "rarity": "uncommon",
+      "scientific-name": "Epinephelus marginatus",
+      "size": "large",
+      "taxon-id": "epinephelus-marginatus",
+      "behavior": [
+        "territorial",
+        "solitary",
+        "reef-dwelling"
+      ],
+      "best-months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "best-regions": [
+        "mediterranean",
+        "eastern-atlantic",
+        "africa",
+        "brazil"
+      ],
+      "depth": {
+        "max": 200,
+        "min": 5
+      },
+      "diet": [
+        "fish",
+        "crustaceans",
+        "cephalopods"
+      ],
+      "habitat": [
+        "rocky-reefs",
+        "coral-reefs",
+        "caves"
+      ]
+    },
+    {
+      "id": "king-angelfish",
+      "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=80",
+      "name": "King Angelfish",
+      "alias": [
+        "holacanthus passer",
+        "angelfish"
+      ],
+      "rarity": "common",
+      "scientific-name": "Holacanthus passer",
+      "size": "medium",
+      "taxon-id": "holacanthus-passer",
+      "behavior": [
+        "territorial",
+        "pair-forming",
+        "reef-dwelling"
+      ],
+      "best-months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "best-regions": [
+        "eastern-pacific",
+        "galapagos",
+        "mexico",
+        "central-america"
+      ],
+      "depth": {
+        "max": 30,
+        "min": 1
+      },
+      "diet": [
+        "sponges",
+        "algae",
+        "tunicates"
+      ],
+      "habitat": [
+        "coral-reefs",
+        "rocky-reefs"
+      ]
+    },
+    {
+      "id": "tarpon",
+      "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=80",
+      "name": "Tarpon",
+      "alias": [
+        "tarpon",
+        "megalops atlanticus"
+      ],
+      "rarity": "uncommon",
+      "scientific-name": "Megalops atlanticus",
+      "size": "very-large",
+      "taxon-id": "megalops-atlanticus",
+      "behavior": [
+        "schooling",
+        "surface-breathing",
+        "reef-cruising"
+      ],
+      "best-months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "best-regions": [
+        "atlantic",
+        "caribbean",
+        "gulf-of-mexico"
+      ],
+      "depth": {
+        "max": 150,
+        "min": 1
+      },
+      "diet": [
+        "fish",
+        "crustaceans"
+      ],
+      "habitat": [
+        "coastal-waters",
+        "reefs",
+        "estuaries"
+      ]
+    },
+    {
+      "id": "spotted-handfish",
+      "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=80",
+      "name": "Spotted Handfish",
+      "alias": [
+        "spotted handfish",
+        "brachionichthys hirsutus",
+        "handfish"
+      ],
+      "rarity": "rare",
+      "scientific-name": "Brachionichthys hirsutus",
+      "size": "small",
+      "taxon-id": "brachionichthys-hirsutus",
+      "behavior": [
+        "benthic-walking",
+        "solitary",
+        "reef-dwelling"
+      ],
+      "best-months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "best-regions": [
+        "tasmania"
+      ],
+      "depth": {
+        "max": 30,
+        "min": 2
+      },
+      "diet": [
+        "small invertebrates",
+        "worms"
+      ],
+      "habitat": [
+        "sandy-bottoms",
+        "rocky-reefs"
+      ]
+    },
+    {
+      "id": "red-velvetfish",
+      "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=80",
+      "name": "Red Velvetfish",
+      "alias": [
+        "red velvetfish",
+        "gnathanacanthus goetzeei",
+        "velvetfish"
+      ],
+      "rarity": "rare",
+      "scientific-name": "Gnathanacanthus goetzeei",
+      "size": "small",
+      "taxon-id": "gnathanacanthus-goetzeei",
+      "behavior": [
+        "camouflaged",
+        "benthic-dwelling",
+        "reef-dwelling"
+      ],
+      "best-months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "best-regions": [
+        "southern-australia"
+      ],
+      "depth": {
+        "max": 20,
+        "min": 2
+      },
+      "diet": [
+        "small invertebrates",
+        "crustaceans"
+      ],
+      "habitat": [
+        "rocky-reefs",
+        "kelp-forests"
+      ]
+    },
+    {
+      "id": "painted-comber",
+      "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=80",
+      "name": "Painted Comber",
+      "alias": [
+        "painted comber",
+        "serranus scriba",
+        "comber"
+      ],
+      "rarity": "uncommon",
+      "scientific-name": "Serranus scriba",
+      "size": "small",
+      "taxon-id": "serranus-scriba",
+      "behavior": [
+        "territorial",
+        "reef-dwelling",
+        "solitary"
+      ],
+      "best-months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "best-regions": [
+        "mediterranean",
+        "eastern-atlantic"
+      ],
+      "depth": {
+        "max": 150,
+        "min": 2
+      },
+      "diet": [
+        "small fish",
+        "crustaceans",
+        "mollusks"
+      ],
+      "habitat": [
+        "rocky-reefs",
+        "seagrass-beds"
+      ]
+    },
+    {
+      "id": "purple-wrasse",
+      "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=80",
+      "name": "Purple Wrasse",
+      "alias": [
+        "purple wrasse",
+        "notolabrus fucicola"
+      ],
+      "rarity": "common",
+      "scientific-name": "Notolabrus fucicola",
+      "size": "medium",
+      "taxon-id": "notolabrus-fucicola",
+      "behavior": [
+        "sex-changing",
+        "reef-dwelling",
+        "territorial"
+      ],
+      "best-months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "best-regions": [
+        "southern-australia",
+        "new-zealand"
+      ],
+      "depth": {
+        "max": 60,
+        "min": 2
+      },
+      "diet": [
+        "crustaceans",
+        "mollusks",
+        "small fish"
+      ],
+      "habitat": [
+        "rocky-reefs",
+        "kelp-forests"
+      ]
+    },
+    {
+      "id": "mediterranean-chromis",
+      "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=80",
+      "name": "Mediterranean Chromis",
+      "alias": [
+        "chromis chromis",
+        "chromis"
+      ],
+      "rarity": "common",
+      "scientific-name": "Chromis chromis",
+      "size": "small",
+      "taxon-id": "chromis-chromis",
+      "behavior": [
+        "schooling",
+        "reef-dwelling"
+      ],
+      "best-months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "best-regions": [
+        "mediterranean",
+        "eastern-atlantic"
+      ],
+      "depth": {
+        "max": 40,
+        "min": 2
+      },
+      "diet": [
+        "zooplankton"
+      ],
+      "habitat": [
+        "rocky-reefs",
+        "seagrass-beds"
+      ]
+    },
+    {
+      "id": "foureye-butterflyfish",
+      "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=80",
+      "name": "Foureye Butterflyfish",
+      "alias": [
+        "foureye butterflyfish",
+        "chaetodon capistratus",
+        "butterflyfish"
+      ],
+      "rarity": "common",
+      "scientific-name": "Chaetodon capistratus",
+      "size": "small",
+      "taxon-id": "chaetodon-capistratus",
+      "behavior": [
+        "pair-forming",
+        "reef-dwelling"
+      ],
+      "best-months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "best-regions": [
+        "caribbean",
+        "western-atlantic"
+      ],
+      "depth": {
+        "max": 20,
+        "min": 2
+      },
+      "diet": [
+        "coral polyps",
+        "invertebrates"
+      ],
+      "habitat": [
+        "coral-reefs"
+      ]
+    },
+    {
+      "id": "australian-salmon",
+      "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=80",
+      "name": "Australian Salmon",
+      "alias": [
+        "australian salmon",
+        "arripis trutta",
+        "salmon"
+      ],
+      "rarity": "common",
+      "scientific-name": "Arripis trutta",
+      "size": "large",
+      "taxon-id": "arripis-trutta",
+      "behavior": [
+        "schooling",
+        "pelagic"
+      ],
+      "best-months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "best-regions": [
+        "southern-australia",
+        "eastern-australia"
+      ],
+      "depth": {
+        "max": 70,
+        "min": 0
+      },
+      "diet": [
+        "small fish",
+        "crustaceans"
+      ],
+      "habitat": [
+        "coastal-waters",
+        "estuaries"
+      ]
+    },
+    {
+      "id": "southern-blue-devil",
+      "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=80",
+      "name": "Southern Blue Devil",
+      "alias": [
+        "southern blue devil",
+        "paraplesiops meleagris"
+      ],
+      "rarity": "uncommon",
+      "scientific-name": "Paraplesiops meleagris",
+      "size": "medium",
+      "taxon-id": "paraplesiops-meleagris",
+      "behavior": [
+        "territorial",
+        "reef-dwelling",
+        "solitary"
+      ],
+      "best-months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "best-regions": [
+        "southern-australia"
+      ],
+      "depth": {
+        "max": 40,
+        "min": 5
+      },
+      "diet": [
+        "crustaceans",
+        "small fish"
+      ],
+      "habitat": [
+        "rocky-reefs",
+        "caves"
+      ]
+    },
+    {
+      "id": "mediterranean-rainbow-wrasse",
+      "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=80",
+      "name": "Mediterranean Rainbow Wrasse",
+      "alias": [
+        "mediterranean rainbow wrasse",
+        "coris julis",
+        "rainbow wrasse"
+      ],
+      "rarity": "common",
+      "scientific-name": "Coris julis",
+      "size": "small",
+      "taxon-id": "coris-julis",
+      "behavior": [
+        "sex-changing",
+        "reef-dwelling",
+        "active-swimmer"
+      ],
+      "best-months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "best-regions": [
+        "mediterranean",
+        "eastern-atlantic"
+      ],
+      "depth": {
+        "max": 120,
+        "min": 1
+      },
+      "diet": [
+        "small invertebrates",
+        "crustaceans"
+      ],
+      "habitat": [
+        "rocky-reefs",
+        "seagrass-beds"
+      ]
+    },
+    {
+      "id": "trevally",
+      "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=80",
+      "name": "Trevally",
+      "alias": [
+        "trevally",
+        "caranx",
+        "caranx ignobilis"
+      ],
+      "rarity": "common",
+      "scientific-name": "Caranx ignobilis",
+      "size": "large",
+      "taxon-id": "caranx-ignobilis",
+      "behavior": [
+        "schooling",
+        "predatory",
+        "reef-associated"
+      ],
+      "best-months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "best-regions": [
+        "indo-pacific",
+        "australia",
+        "africa"
+      ],
+      "depth": {
+        "max": 100,
+        "min": 1
+      },
+      "diet": [
+        "fish",
+        "crustaceans",
+        "cephalopods"
+      ],
+      "habitat": [
+        "reefs",
+        "lagoons",
+        "coastal-waters"
+      ]
+    },
+    {
+      "id": "goby",
+      "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=80",
+      "name": "Goby",
+      "alias": [
+        "goby",
+        "gobiidae",
+        "shrimp goby"
+      ],
+      "rarity": "common",
+      "scientific-name": "Gobiidae",
+      "size": "small",
+      "taxon-id": "gobiidae",
+      "behavior": [
+        "burrow-dwelling",
+        "symbiotic",
+        "benthic"
+      ],
+      "best-months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "best-regions": [
+        "global-tropics",
+        "indo-pacific"
+      ],
+      "depth": {
+        "max": 50,
+        "min": 1
+      },
+      "diet": [
+        "small invertebrates",
+        "algae"
+      ],
+      "habitat": [
+        "sand-flats",
+        "reefs",
+        "mangroves"
+      ]
+    },
+    {
+      "id": "amberjack",
+      "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=80",
+      "name": "Amberjack",
+      "alias": [
+        "amberjack",
+        "seriola dumerili",
+        "greater amberjack"
+      ],
+      "rarity": "uncommon",
+      "scientific-name": "Seriola dumerili",
+      "size": "large",
+      "taxon-id": "seriola-dumerili",
+      "behavior": [
+        "schooling",
+        "predatory",
+        "pelagic"
+      ],
+      "best-months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "best-regions": [
+        "global-tropics",
+        "temperate-oceans"
+      ],
+      "depth": {
+        "max": 360,
+        "min": 5
+      },
+      "diet": [
+        "fish",
+        "cephalopods",
+        "crustaceans"
+      ],
+      "habitat": [
+        "reefs",
+        "wrecks",
+        "open-water"
+      ]
+    },
+    {
+      "id": "western-blue-groper",
+      "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=80",
+      "name": "Western Blue Groper",
+      "alias": [
+        "achoerodus gouldii"
+      ],
+      "rarity": "uncommon",
+      "scientific-name": "Achoerodus gouldii",
+      "size": "large",
+      "taxon-id": "achoerodus-gouldii",
+      "behavior": [
+        "territorial",
+        "reef-dwelling",
+        "sex-changing"
+      ],
+      "best-months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "best-regions": [
+        "southern-australia",
+        "western-australia"
+      ],
+      "depth": {
+        "max": 40,
+        "min": 1
+      },
+      "diet": [
+        "mollusks",
+        "crustaceans",
+        "sea urchins"
+      ],
+      "habitat": [
+        "rocky-reefs",
+        "kelp-forests"
+      ]
+    },
+    {
+      "id": "tench",
+      "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=80",
+      "name": "Tench",
+      "alias": [
+        "tench",
+        "tinca tinca"
+      ],
+      "rarity": "uncommon",
+      "scientific-name": "Tinca tinca",
+      "size": "medium",
+      "taxon-id": "tinca-tinca",
+      "behavior": [
+        "bottom-dwelling",
+        "freshwater"
+      ],
+      "best-months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "best-regions": [
+        "europe",
+        "asia"
+      ],
+      "depth": {
+        "max": 20,
+        "min": 0
+      },
+      "diet": [
+        "invertebrates",
+        "detritus",
+        "plants"
+      ],
+      "habitat": [
+        "lakes",
+        "ponds",
+        "slow-rivers"
+      ]
+    },
+    {
+      "id": "luderick",
+      "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=80",
+      "name": "Luderick",
+      "alias": [
+        "luderick",
+        "girella tricuspidata",
+        "blackfish"
+      ],
+      "rarity": "common",
+      "scientific-name": "Girella tricuspidata",
+      "size": "medium",
+      "taxon-id": "girella-tricuspidata",
+      "behavior": [
+        "schooling",
+        "herbivorous",
+        "estuarine"
+      ],
+      "best-months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "best-regions": [
+        "eastern-australia",
+        "new-zealand"
+      ],
+      "depth": {
+        "max": 20,
+        "min": 0
+      },
+      "diet": [
+        "algae",
+        "seaweed"
+      ],
+      "habitat": [
+        "estuaries",
+        "rocky-reefs",
+        "seagrass-beds"
+      ]
+    },
+    {
+      "id": "french-grunt",
+      "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=80",
+      "name": "French Grunt",
+      "alias": [
+        "french grunt",
+        "haemulon flavolineatum",
+        "grunt"
+      ],
+      "rarity": "common",
+      "scientific-name": "Haemulon flavolineatum",
+      "size": "small",
+      "taxon-id": "haemulon-flavolineatum",
+      "behavior": [
+        "schooling",
+        "reef-dwelling"
+      ],
+      "best-months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "best-regions": [
+        "caribbean",
+        "western-atlantic"
+      ],
+      "depth": {
+        "max": 60,
+        "min": 0
+      },
+      "diet": [
+        "crustaceans",
+        "small fish"
+      ],
+      "habitat": [
+        "coral-reefs",
+        "rocky-reefs"
+      ]
+    },
+    {
+      "id": "roach",
+      "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=80",
+      "name": "Roach",
+      "alias": [
+        "roach",
+        "rutilus rutilus"
+      ],
+      "rarity": "common",
+      "scientific-name": "Rutilus rutilus",
+      "size": "small",
+      "taxon-id": "rutilus-rutilus",
+      "behavior": [
+        "schooling",
+        "freshwater"
+      ],
+      "best-months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "best-regions": [
+        "europe",
+        "asia"
+      ],
+      "depth": {
+        "max": 20,
+        "min": 0
+      },
+      "diet": [
+        "plants",
+        "invertebrates",
+        "detritus"
+      ],
+      "habitat": [
+        "lakes",
+        "rivers",
+        "ponds"
+      ]
+    },
+    {
+      "id": "rainbow-runner",
+      "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=80",
+      "name": "Rainbow Runner",
+      "alias": [
+        "rainbow runner",
+        "elagatis bipinnulata"
+      ],
+      "rarity": "uncommon",
+      "scientific-name": "Elagatis bipinnulata",
+      "size": "large",
+      "taxon-id": "elagatis-bipinnulata",
+      "behavior": [
+        "schooling",
+        "pelagic",
+        "fast-swimming"
+      ],
+      "best-months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "best-regions": [
+        "tropics-global",
+        "subtropics-global"
+      ],
+      "depth": {
+        "max": 150,
+        "min": 1
+      },
+      "diet": [
+        "fish",
+        "crustaceans",
+        "cephalopods"
+      ],
+      "habitat": [
+        "open-water",
+        "reefs"
+      ]
+    },
+    {
+      "id": "european-perch",
+      "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=80",
+      "name": "European Perch",
+      "alias": [
+        "european perch",
+        "perca fluviatilis",
+        "perch"
+      ],
+      "rarity": "common",
+      "scientific-name": "Perca fluviatilis",
+      "size": "medium",
+      "taxon-id": "perca-fluviatilis",
+      "behavior": [
+        "schooling",
+        "freshwater",
+        "predatory"
+      ],
+      "best-months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "best-regions": [
+        "europe",
+        "asia"
+      ],
+      "depth": {
+        "max": 30,
+        "min": 0
+      },
+      "diet": [
+        "fish",
+        "invertebrates"
+      ],
+      "habitat": [
+        "lakes",
+        "rivers",
+        "ponds"
+      ]
+    },
+    {
+      "id": "mandarin-fish",
+      "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=80",
+      "name": "Mandarin Fish",
+      "alias": [
+        "mandarin fish",
+        "mandarinfish",
+        "synchiropus splendidus"
+      ],
+      "rarity": "uncommon",
+      "scientific-name": "Synchiropus splendidus",
+      "size": "small",
+      "taxon-id": "synchiropus-splendidus",
+      "behavior": [
+        "colorful",
+        "reef-dwelling",
+        "secretive"
+      ],
+      "best-months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "best-regions": [
+        "indo-pacific",
+        "philippines",
+        "indonesia"
+      ],
+      "depth": {
+        "max": 18,
+        "min": 1
+      },
+      "diet": [
+        "small crustaceans",
+        "copepods",
+        "worms"
+      ],
+      "habitat": [
+        "coral-reefs",
+        "lagoon-reefs"
+      ]
+    }
+  ]
+}
