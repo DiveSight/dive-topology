@@ -1,99 +1,163 @@
-
 {
-		"south-america": {
-			"id": "south-america",
-			"name": "South America",
-			"type": "major",
-			"description": "Paradise with cenotes and whale sharks.",
-			"coordinates": [-8.7832, -55.4915],
-			"bestTime": "December–May for tropics, November–April for Galápagos.",
-			"floraFauna": ["hard corals", "soft corals", "reef fish", "whale sharks", "hammerhead sharks", "sea lions", "kelp forests", "groupers"],
-			"tags": ["tropical", "temperate", "coral", "kelp", "big animals", "reefs", "unique species"],
-			"image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&h=600&fit=crop"
-		},
-	"belize": {
-		"id": "belize",
-		"name": "Belize",
-		"type": "country",
-		"parent": "south-america",
-		"description": "Blue Hole, barrier reef, and atolls teeming with life.",
-		"coordinates": [17.1899, -88.4976]
-	},
-	"costa-rica": {
-		"id": "costa-rica",
-		"name": "Costa Rica",
-		"type": "country",
-		"parent": "south-america",
-		"description": "Cocos Island, hammerheads, and Pacific coast diving.",
-		"coordinates": [9.7489, -83.7534]
-	},
-	"galapagos": {
-		"id": "galapagos",
-		"name": "Galápagos Islands",
-		"type": "area",
-		"parent": "ecuador",
-		"description": "World-famous for big pelagics, marine iguanas, and unique endemics.",
-		"coordinates": [-0.9538, -90.9656]
-	},
-	"ecuador": {
-		"id": "ecuador",
-		"name": "Ecuador",
-		"type": "country",
-		"parent": "south-america",
-		"description": "Galápagos and Pacific coast diving with whale sharks and sea lions.",
-		"coordinates": [-1.8312, -78.1834]
-	},
-		"brazil": {
-			"id": "brazil",
-			"aliases": [ "brasil" ],
-			"name": "Brazil",
-			"type": "country",
-			"parent": "south-america",
-			"description": "Fernando de Noronha, wrecks, and warm Atlantic reefs.",
-			"coordinates": [-14.2350, -51.9253]
-		},
-		"panama": {
-			"id": "panama",
-			"name": "Panama",
-			"aliases": ["Panamá"],
-			"type": "country",
-			"parent": "south-america",
-			"description": "Caribbean and Pacific coasts, wrecks, reefs, and the Panama Canal.",
-			"coordinates": [8.538, -80.7821]
-		},
-	"argentina": {
-		"id": "argentina",
-		"name": "Argentina",
-		"type": "country",
-		"parent": "south-america",
-		"description": "Patagonian kelp forests, sea lions, and cold water diving.",
-		"coordinates": [-38.4161, -63.6167]
-	},
-	"chile": {
-		"id": "chile",
-		"name": "Chile",
-		"type": "country",
-		"parent": "south-america",
-		"description": "Humboldt current, kelp forests, and Easter Island diving.",
-		"coordinates": [-35.6751, -71.5430]
-	}
-	,
-	"peru": {
-		"id": "peru",
-		"name": "Peru",
-		"aliases": ["Perú"],
-		"type": "country",
-		"parent": "south-america",
-		"description": "Cold water diving, kelp forests, sea lions, and Humboldt current marine life along the Pacific coast.",
-		"coordinates": [-9.19, -75.0152]
-	}
-		,
-		"venezuela": {
-			"id": "venezuela",
-			"name": "Venezuela",
-			"type": "country",
-			"parent": "south-america",
-			"description": "Caribbean coast, coral reefs, and marine parks like Los Roques.",
-			"coordinates": [6.4238, -66.5897]
-		}
+  "south-america": {
+    "children": [],
+    "id": "south-america",
+    "name": "South America",
+    "type": "major",
+    "description": "Paradise with cenotes and whale sharks.",
+    "coordinates": [
+      -8.7832,
+      -55.4915
+    ],
+    "bestTime": "December–May for tropics, November–April for Galápagos.",
+    "floraFauna": [
+      "hard corals",
+      "soft corals",
+      "reef fish",
+      "whale sharks",
+      "hammerhead sharks",
+      "sea lions",
+      "kelp forests",
+      "groupers"
+    ],
+    "tags": [
+      "tropical",
+      "temperate",
+      "coral",
+      "kelp",
+      "big animals",
+      "reefs",
+      "unique species"
+    ],
+    "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&h=600&fit=crop"
+  },
+  "belize": {
+    "children": [],
+    "id": "belize",
+    "name": "Belize",
+    "type": "country",
+    "parent": "south-america",
+    "description": "Blue Hole, barrier reef, and atolls teeming with life.",
+    "coordinates": [
+      17.1899,
+      -88.4976
+    ]
+  },
+  "costa-rica": {
+    "children": [],
+    "id": "costa-rica",
+    "name": "Costa Rica",
+    "type": "country",
+    "parent": "south-america",
+    "description": "Cocos Island, hammerheads, and Pacific coast diving.",
+    "coordinates": [
+      9.7489,
+      -83.7534
+    ]
+  },
+  "galapagos": {
+    "children": [],
+    "id": "galapagos",
+    "name": "Galápagos Islands",
+    "type": "area",
+    "parent": "ecuador",
+    "description": "World-famous for big pelagics, marine iguanas, and unique endemics.",
+    "coordinates": [
+      -0.9538,
+      -90.9656
+    ]
+  },
+  "ecuador": {
+    "children": [],
+    "id": "ecuador",
+    "name": "Ecuador",
+    "type": "country",
+    "parent": "south-america",
+    "description": "Galápagos and Pacific coast diving with whale sharks and sea lions.",
+    "coordinates": [
+      -1.8312,
+      -78.1834
+    ]
+  },
+  "brazil": {
+    "children": [],
+    "id": "brazil",
+    "aliases": [
+      "brasil"
+    ],
+    "name": "Brazil",
+    "type": "country",
+    "parent": "south-america",
+    "description": "Fernando de Noronha, wrecks, and warm Atlantic reefs.",
+    "coordinates": [
+      -14.235,
+      -51.9253
+    ]
+  },
+  "panama": {
+    "children": [],
+    "id": "panama",
+    "name": "Panama",
+    "aliases": [
+      "Panamá"
+    ],
+    "type": "country",
+    "parent": "south-america",
+    "description": "Caribbean and Pacific coasts, wrecks, reefs, and the Panama Canal.",
+    "coordinates": [
+      8.538,
+      -80.7821
+    ]
+  },
+  "argentina": {
+    "children": [],
+    "id": "argentina",
+    "name": "Argentina",
+    "type": "country",
+    "parent": "south-america",
+    "description": "Patagonian kelp forests, sea lions, and cold water diving.",
+    "coordinates": [
+      -38.4161,
+      -63.6167
+    ]
+  },
+  "chile": {
+    "children": [],
+    "id": "chile",
+    "name": "Chile",
+    "type": "country",
+    "parent": "south-america",
+    "description": "Humboldt current, kelp forests, and Easter Island diving.",
+    "coordinates": [
+      -35.6751,
+      -71.543
+    ]
+  },
+  "peru": {
+    "children": [],
+    "id": "peru",
+    "name": "Peru",
+    "aliases": [
+      "Perú"
+    ],
+    "type": "country",
+    "parent": "south-america",
+    "description": "Cold water diving, kelp forests, sea lions, and Humboldt current marine life along the Pacific coast.",
+    "coordinates": [
+      -9.19,
+      -75.0152
+    ]
+  },
+  "venezuela": {
+    "children": [],
+    "id": "venezuela",
+    "name": "Venezuela",
+    "type": "country",
+    "parent": "south-america",
+    "description": "Caribbean coast, coral reefs, and marine parks like Los Roques.",
+    "coordinates": [
+      6.4238,
+      -66.5897
+    ]
+  }
 }

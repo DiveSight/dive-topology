@@ -1,365 +1,632 @@
-
 {
   "europe-mediterranean": {
+    "children": [],
     "id": "europe-mediterranean",
     "name": "Europe & Mediterranean",
     "type": "major",
     "description": "Historic wrecks, temperate waters, and Mediterranean classics",
-    "coordinates": [45.0, 15.0],
+    "coordinates": [
+      45,
+      15
+    ],
     "bestTime": "May–October for Mediterranean, June–September for Atlantic/temperate.",
-    "floraFauna": ["hard corals", "soft corals", "kelp forests", "reef fish", "groupers", "octopus", "seals", "sponges"],
-    "tags": ["temperate", "mediterranean", "coral", "kelp", "reefs", "wrecks", "historic"],
+    "floraFauna": [
+      "hard corals",
+      "soft corals",
+      "kelp forests",
+      "reef fish",
+      "groupers",
+      "octopus",
+      "seals",
+      "sponges"
+    ],
+    "tags": [
+      "temperate",
+      "mediterranean",
+      "coral",
+      "kelp",
+      "reefs",
+      "wrecks",
+      "historic"
+    ],
     "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&h=600&fit=crop"
-    },
-    "switzerland": {
-        "id": "switzerland",
-        "name": "Switzerland",
-        "aliases": [
-          "Schweiz", "Suisse", "Svizzera", "Svizra", "Schweiz/Suisse/Svizzera/Svizra",
-          "Latvija", "Magyarország", "България", "Россия"
-        ],
-        "type": "country",
-        "parent": "europe-mediterranean",
-        "description": "Alpine lakes, clear water, and unique freshwater diving in the heart of Europe.",
-        "coordinates": [46.8182, 8.2275],
-        "bestTime": "June–September for warmest water.",
-        "floraFauna": [],
-        "tags": ["lake diving", "alpine", "Europe"],
-        "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&h=600&fit=crop"
-      },
-    "austria": {
-      "id": "austria",
-      "name": "Austria",
-      "aliases": ["Österreich"],
-      "type": "country",
-      "parent": "europe-mediterranean",
-      "description": "Alpine lakes, crystal-clear freshwater diving, and mountain scenery.",
-      "coordinates": [47.5162, 14.5501],
-      "bestTime": "June–September for warmest water.",
-      "floraFauna": [],
-      "tags": ["lake diving", "alpine", "Europe"],
-      "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&h=600&fit=crop"
-    },
+  },
+  "switzerland": {
+    "children": [],
+    "id": "switzerland",
+    "name": "Switzerland",
+    "aliases": [
+      "Schweiz",
+      "Suisse",
+      "Svizzera",
+      "Svizra",
+      "Schweiz/Suisse/Svizzera/Svizra",
+      "Latvija",
+      "Magyarország",
+      "България",
+      "Россия"
+    ],
+    "type": "country",
+    "parent": "europe-mediterranean",
+    "description": "Alpine lakes, clear water, and unique freshwater diving in the heart of Europe.",
+    "coordinates": [
+      46.8182,
+      8.2275
+    ],
+    "bestTime": "June–September for warmest water.",
+    "floraFauna": [],
+    "tags": [
+      "lake diving",
+      "alpine",
+      "Europe"
+    ],
+    "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&h=600&fit=crop"
+  },
+  "austria": {
+    "children": [],
+    "id": "austria",
+    "name": "Austria",
+    "aliases": [
+      "Österreich"
+    ],
+    "type": "country",
+    "parent": "europe-mediterranean",
+    "description": "Alpine lakes, crystal-clear freshwater diving, and mountain scenery.",
+    "coordinates": [
+      47.5162,
+      14.5501
+    ],
+    "bestTime": "June–September for warmest water.",
+    "floraFauna": [],
+    "tags": [
+      "lake diving",
+      "alpine",
+      "Europe"
+    ],
+    "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&h=600&fit=crop"
+  },
   "mediterranean": {
+    "children": [],
     "id": "mediterranean",
     "name": "Mediterranean Sea",
     "type": "area",
     "parent": "europe-mediterranean",
     "description": "Ancient history meets underwater exploration",
-    "coordinates": [37.0, 15.0],
+    "coordinates": [
+      37,
+      15
+    ],
     "bestTime": "May–October for best conditions.",
-    "floraFauna": ["hard corals", "soft corals", "reef fish", "groupers", "octopus", "sponges"],
-    "tags": ["mediterranean", "coral", "reefs", "wrecks", "historic"],
+    "floraFauna": [
+      "hard corals",
+      "soft corals",
+      "reef fish",
+      "groupers",
+      "octopus",
+      "sponges"
+    ],
+    "tags": [
+      "mediterranean",
+      "coral",
+      "reefs",
+      "wrecks",
+      "historic"
+    ],
     "image": "https://images.unsplash.com/photo-1464983953574-0892a716854b?w=800&h=600&fit=crop"
   },
   "italy": {
+    "children": [],
     "id": "italy",
     "name": "Italy",
-    "aliases": ["Italia"],
+    "aliases": [
+      "Italia"
+    ],
     "type": "country",
     "parent": "europe-mediterranean",
     "description": "Stunning coastlines, caves, and rich history from Sardinia to Sicily.",
-    "coordinates": [42.0, 12.5],
+    "coordinates": [
+      42,
+      12.5
+    ],
     "bestTime": "May–October for best conditions.",
-    "floraFauna": ["hard corals", "soft corals", "reef fish", "groupers", "octopus", "sponges"],
-    "tags": ["mediterranean", "coral", "reefs", "wrecks", "historic", "caves"],
+    "floraFauna": [
+      "hard corals",
+      "soft corals",
+      "reef fish",
+      "groupers",
+      "octopus",
+      "sponges"
+    ],
+    "tags": [
+      "mediterranean",
+      "coral",
+      "reefs",
+      "wrecks",
+      "historic",
+      "caves"
+    ],
     "image": "https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?w=800&h=600&fit=crop"
   },
-    "sardinia": {
-      "id": "sardinia",
-      "name": "Sardinia",
-      "type": "area",
-      "parent": "italy",
-      "description": "Caves, wrecks, and crystal-clear Mediterranean waters.",
-      "coordinates": [40.1209, 9.0129]
-    },
+  "sardinia": {
+    "children": [],
+    "id": "sardinia",
+    "name": "Sardinia",
+    "type": "area",
+    "parent": "italy",
+    "description": "Caves, wrecks, and crystal-clear Mediterranean waters.",
+    "coordinates": [
+      40.1209,
+      9.0129
+    ]
+  },
   "sicily": {
+    "children": [],
     "id": "sicily",
     "name": "Sicily",
     "type": "area",
     "parent": "italy",
     "description": "Volcanic islands, wrecks, and vibrant reefs.",
-    "coordinates": [37.5999, 14.0154]
+    "coordinates": [
+      37.5999,
+      14.0154
+    ]
   },
   "italian-riviera": {
+    "children": [],
     "id": "italian-riviera",
     "name": "Italian Riviera",
     "type": "area",
     "parent": "italy",
     "description": "Portofino's marine park and Ligurian coast diving.",
-    "coordinates": [44.3030, 9.2090]
+    "coordinates": [
+      44.303,
+      9.209
+    ]
   },
   "amalfi-coast": {
+    "children": [],
     "id": "amalfi-coast",
     "name": "Amalfi Coast",
     "type": "area",
     "parent": "italy",
     "description": "Dramatic cliffs, grottos, and Mediterranean charm.",
-    "coordinates": [40.6333, 14.6029]
+    "coordinates": [
+      40.6333,
+      14.6029
+    ]
   },
   "greece": {
+    "children": [],
     "id": "greece",
     "name": "Greece",
-    "aliases": ["Ελλάς"],
+    "aliases": [
+      "Ελλάς"
+    ],
     "type": "country",
     "parent": "europe-mediterranean",
     "description": "Wrecks, caves, and blue Aegean waters from Crete to the Cyclades.",
-    "coordinates": [39.0742, 21.8243]
+    "coordinates": [
+      39.0742,
+      21.8243
+    ]
   },
   "turkey": {
+    "children": [],
     "id": "turkey",
     "name": "Turkey",
-    "aliases": ["Türkiye"],
+    "aliases": [
+      "Türkiye"
+    ],
     "type": "country",
     "parent": "europe-mediterranean",
     "description": "Ancient ruins, wall dives, and warm Mediterranean seas.",
-    "coordinates": [38.9637, 35.2433]
+    "coordinates": [
+      38.9637,
+      35.2433
+    ]
   },
   "croatia": {
+    "children": [],
     "id": "croatia",
     "name": "Croatia",
-    "aliases": ["Hrvatska"],
+    "aliases": [
+      "Hrvatska"
+    ],
     "type": "country",
     "parent": "europe-mediterranean",
     "description": "Wrecks, caves, and clear Adriatic waters along the Dalmatian coast.",
-    "coordinates": [45.1, 15.2]
+    "coordinates": [
+      45.1,
+      15.2
+    ]
   },
   "france": {
+    "children": [],
     "id": "france",
     "name": "France",
     "type": "country",
     "parent": "europe-mediterranean",
     "description": "Atlantic and Mediterranean coasts, wrecks, kelp, and marine parks.",
-    "coordinates": [46.6034, 1.8883]
+    "coordinates": [
+      46.6034,
+      1.8883
+    ]
   },
   "france-mediterranean": {
+    "children": [],
     "id": "france-mediterranean",
     "name": "France (Mediterranean)",
     "type": "area",
     "parent": "france",
     "description": "Wrecks, marine parks, and the Côte d'Azur.",
-    "coordinates": [43.7, 7.3]
+    "coordinates": [
+      43.7,
+      7.3
+    ]
   },
   "spain": {
+    "children": [],
     "id": "spain",
-    "aliases": ["España"],
+    "aliases": [
+      "España"
+    ],
     "name": "Spain",
     "type": "country",
     "parent": "europe-mediterranean",
     "description": "Atlantic and Mediterranean coasts, Balearic and Canary Islands, marine reserves, and vibrant reefs.",
-    "coordinates": [40.4637, -3.7492]
+    "coordinates": [
+      40.4637,
+      -3.7492
+    ]
   },
   "spain-mediterranean": {
+    "children": [],
     "id": "spain-mediterranean",
     "name": "Spain (Mediterranean)",
     "type": "area",
     "parent": "spain",
     "description": "Balearic Islands, marine reserves, and vibrant reefs.",
-    "coordinates": [39.5, 2.8]
+    "coordinates": [
+      39.5,
+      2.8
+    ]
   },
   "gibraltar": {
+    "children": [],
     "id": "gibraltar",
     "name": "Gibraltar",
     "type": "country",
     "parent": "europe-mediterranean",
     "description": "The gateway to the Mediterranean, famous for wrecks, caves, and unique marine life at the crossroads of the Atlantic and Mediterranean.",
-    "coordinates": [36.1408, -5.3536]
+    "coordinates": [
+      36.1408,
+      -5.3536
+    ]
   },
   "malta": {
+    "children": [],
     "id": "malta",
     "name": "Malta",
     "type": "country",
     "parent": "mediterranean",
     "description": "Blue Hole, wrecks, and crystal-clear Mediterranean diving.",
-    "coordinates": [35.9375, 14.3754]
-    },
-    "poland": {
-      "id": "poland",
-      "name": "Poland",
-      "aliases": ["Polska"],
-      "type": "country",
-      "parent": "europe-mediterranean",
-      "description": "Baltic Sea wrecks, lakes, and cold water diving.",
-      "coordinates": [51.9194, 19.1451]
-    },
-    "romania": {
-      "id": "romania",
-      "name": "Romania",
-      "aliases": ["România"],
-      "type": "country",
-      "parent": "europe-mediterranean",
-      "description": "Black Sea diving, wrecks, and unique marine life.",
-      "coordinates": [45.9432, 24.9668]
+    "coordinates": [
+      35.9375,
+      14.3754
+    ]
   },
-      "slovenia": {
-        "id": "slovenia",
-        "name": "Slovenia",
-        "aliases": ["Slovenija"],
-        "type": "country",
-        "parent": "europe-mediterranean",
-        "description": "Short Adriatic coastline, caves, and freshwater diving.",
-        "coordinates": [46.1512, 14.9955]
-      },
-      "slovakia": {
-        "id": "slovakia",
-        "name": "Slovakia",
-        "aliases": ["Slovensko"],
-        "type": "country",
-        "parent": "europe-mediterranean",
-        "description": "Freshwater lakes, caves, and mountain diving in Central Europe.",
-        "coordinates": [48.669, 19.699]
-      },
-      "czechia": {
-        "id": "czechia",
-        "name": "Czechia",
-        "aliases": ["Česko"],
-        "type": "country",
-        "parent": "europe-mediterranean",
-        "description": "Freshwater quarry and cave diving in the heart of Europe.",
-        "coordinates": [49.8175, 15.473]
-      },
+  "poland": {
+    "children": [],
+    "id": "poland",
+    "name": "Poland",
+    "aliases": [
+      "Polska"
+    ],
+    "type": "country",
+    "parent": "europe-mediterranean",
+    "description": "Baltic Sea wrecks, lakes, and cold water diving.",
+    "coordinates": [
+      51.9194,
+      19.1451
+    ]
+  },
+  "romania": {
+    "children": [],
+    "id": "romania",
+    "name": "Romania",
+    "aliases": [
+      "România"
+    ],
+    "type": "country",
+    "parent": "europe-mediterranean",
+    "description": "Black Sea diving, wrecks, and unique marine life.",
+    "coordinates": [
+      45.9432,
+      24.9668
+    ]
+  },
+  "slovenia": {
+    "children": [],
+    "id": "slovenia",
+    "name": "Slovenia",
+    "aliases": [
+      "Slovenija"
+    ],
+    "type": "country",
+    "parent": "europe-mediterranean",
+    "description": "Short Adriatic coastline, caves, and freshwater diving.",
+    "coordinates": [
+      46.1512,
+      14.9955
+    ]
+  },
+  "slovakia": {
+    "children": [],
+    "id": "slovakia",
+    "name": "Slovakia",
+    "aliases": [
+      "Slovensko"
+    ],
+    "type": "country",
+    "parent": "europe-mediterranean",
+    "description": "Freshwater lakes, caves, and mountain diving in Central Europe.",
+    "coordinates": [
+      48.669,
+      19.699
+    ]
+  },
+  "czechia": {
+    "children": [],
+    "id": "czechia",
+    "name": "Czechia",
+    "aliases": [
+      "Česko"
+    ],
+    "type": "country",
+    "parent": "europe-mediterranean",
+    "description": "Freshwater quarry and cave diving in the heart of Europe.",
+    "coordinates": [
+      49.8175,
+      15.473
+    ]
+  },
   "cyprus": {
+    "children": [],
     "id": "cyprus",
     "name": "Cyprus",
     "aliases": [
-      "Κύπρος", "Kıbrıs", "Κύπρος - Kıbrıs", "Kuzey Kıbrıs",
+      "Κύπρος",
+      "Kıbrıs",
+      "Κύπρος - Kıbrıs",
+      "Kuzey Kıbrıs",
       "Akrotiri and Dhekelia"
     ],
     "type": "country",
     "parent": "mediterranean",
     "description": "Zenobia wreck and warm, clear waters. Includes Akrotiri and Dhekelia (UK Sovereign Base Areas).",
-    "coordinates": [35.1264, 33.4299]
+    "coordinates": [
+      35.1264,
+      33.4299
+    ]
   },
-    "montenegro": {
-      "id": "montenegro",
-      "name": "Montenegro",
-      "aliases": ["Crna Gora", "Црна Гора"],
-      "type": "country",
-      "parent": "europe-mediterranean",
-      "description": "Adriatic coast diving, fjords, and clear waters.",
-      "coordinates": [42.7087, 19.3744]
-    },
+  "montenegro": {
+    "children": [],
+    "id": "montenegro",
+    "name": "Montenegro",
+    "aliases": [
+      "Crna Gora",
+      "Црна Гора"
+    ],
+    "type": "country",
+    "parent": "europe-mediterranean",
+    "description": "Adriatic coast diving, fjords, and clear waters.",
+    "coordinates": [
+      42.7087,
+      19.3744
+    ]
+  },
   "united-kingdom": {
+    "children": [],
     "id": "united-kingdom",
     "name": "United Kingdom",
     "type": "country",
     "parent": "europe-mediterranean",
     "description": "Wrecks, kelp forests, and seals from Scapa Flow to Cornwall.",
-    "coordinates": [55.3781, -3.4360]
+    "coordinates": [
+      55.3781,
+      -3.436
+    ]
   },
   "ireland": {
+    "children": [],
     "id": "ireland",
     "name": "Ireland",
     "type": "country",
     "parent": "europe-mediterranean",
     "description": "Wrecks, reefs, and wild Atlantic diving.",
-    "coordinates": [53.1424, -7.6921]
+    "coordinates": [
+      53.1424,
+      -7.6921
+    ]
   },
   "norway": {
+    "children": [],
     "id": "norway",
     "name": "Norway",
-    "aliases": ["Norge"],
+    "aliases": [
+      "Norge"
+    ],
     "type": "country",
     "parent": "europe-mediterranean",
     "description": "Fjords, kelp forests, and cold-water wrecks.",
-    "coordinates": [60.472, 8.4689]
+    "coordinates": [
+      60.472,
+      8.4689
+    ]
   },
   "iceland": {
+    "children": [],
     "id": "iceland",
     "name": "Iceland",
-      "aliases": ["Ísland"],
+    "aliases": [
+      "Ísland"
+    ],
     "type": "country",
     "parent": "europe-mediterranean",
     "description": "Silfra fissure, geothermal diving, and Arctic marine life.",
-    "coordinates": [64.9631, -19.0208]
+    "coordinates": [
+      64.9631,
+      -19.0208
+    ]
   },
   "portugal": {
+    "children": [],
     "id": "portugal",
     "name": "Portugal",
     "type": "country",
     "parent": "europe-mediterranean",
     "description": "Azores, Madeira, and Atlantic coast diving.",
-    "coordinates": [39.3999, -8.2245]
+    "coordinates": [
+      39.3999,
+      -8.2245
+    ]
   },
   "spain-atlantic": {
+    "children": [],
     "id": "spain-atlantic",
     "name": "Spain (Atlantic)",
     "type": "area",
     "parent": "spain",
     "description": "Canary Islands and wild Atlantic reefs.",
-    "coordinates": [28.1, -15.4]
+    "coordinates": [
+      28.1,
+      -15.4
+    ]
   },
   "france-atlantic": {
+    "children": [],
     "id": "france-atlantic",
     "name": "France (Atlantic)",
     "type": "area",
     "parent": "france",
     "description": "Wrecks, kelp, and temperate Atlantic diving.",
-    "coordinates": [47.0, -2.0]
+    "coordinates": [
+      47,
+      -2
+    ]
   },
   "netherlands": {
+    "children": [],
     "id": "netherlands",
     "name": "Netherlands",
-    "aliases": ["Nederland"],
+    "aliases": [
+      "Nederland"
+    ],
     "type": "country",
     "parent": "europe-mediterranean",
     "description": "Zeeland estuaries and North Sea wrecks.",
-    "coordinates": [52.1326, 5.2913]
+    "coordinates": [
+      52.1326,
+      5.2913
+    ]
   },
   "belgium": {
+    "children": [],
     "id": "belgium",
     "name": "Belgium",
-    "aliases": ["België", "Belgique", "Belgien"],
+    "aliases": [
+      "België",
+      "Belgique",
+      "Belgien"
+    ],
     "type": "country",
     "parent": "europe-mediterranean",
     "description": "North Sea wrecks, lake diving, and a small but active dive community.",
-    "coordinates": [50.5039, 4.4699]
+    "coordinates": [
+      50.5039,
+      4.4699
+    ]
   },
   "germany": {
+    "children": [],
     "id": "germany",
     "name": "Germany",
-    "aliases": ["Deutschland"],
+    "aliases": [
+      "Deutschland"
+    ],
     "type": "country",
     "parent": "europe-mediterranean",
     "description": "Lakes, rivers, and Baltic Sea wrecks.",
-    "coordinates": [51.1657, 10.4515]
+    "coordinates": [
+      51.1657,
+      10.4515
+    ]
   },
-    "jersey": {
-      "id": "jersey",
-      "name": "Jersey",
-      "type": "country",
-      "parent": "europe-mediterranean",
-      "description": "Channel Island with temperate diving, kelp forests, and strong tides.",
-      "coordinates": [49.2144, -2.1313],
-      "bestTime": "May–September for best conditions.",
-      "floraFauna": ["kelp", "crabs", "lobsters", "wrasse"],
-      "tags": ["channel islands", "kelp", "temperate"],
-      "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&h=600&fit=crop"
+  "jersey": {
+    "children": [],
+    "id": "jersey",
+    "name": "Jersey",
+    "type": "country",
+    "parent": "europe-mediterranean",
+    "description": "Channel Island with temperate diving, kelp forests, and strong tides.",
+    "coordinates": [
+      49.2144,
+      -2.1313
+    ],
+    "bestTime": "May–September for best conditions.",
+    "floraFauna": [
+      "kelp",
+      "crabs",
+      "lobsters",
+      "wrasse"
+    ],
+    "tags": [
+      "channel islands",
+      "kelp",
+      "temperate"
+    ],
+    "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&h=600&fit=crop"
   },
   "denmark": {
+    "children": [],
     "id": "denmark",
-    "aliases": ["Danmark"],
+    "aliases": [
+      "Danmark"
+    ],
     "name": "Denmark",
     "type": "country",
     "parent": "europe-mediterranean",
     "description": "Baltic Sea wrecks and temperate diving.",
-    "coordinates": [56.2639, 9.5018]
+    "coordinates": [
+      56.2639,
+      9.5018
+    ]
   },
   "sweden": {
+    "children": [],
     "id": "sweden",
     "name": "Sweden",
-    "aliases": ["Sverige"],
+    "aliases": [
+      "Sverige"
+    ],
     "type": "country",
     "parent": "europe-mediterranean",
     "description": "Wrecks, lakes, and cold-water marine life.",
-    "coordinates": [60.1282, 18.6435]
+    "coordinates": [
+      60.1282,
+      18.6435
+    ]
   },
   "finland": {
+    "children": [],
     "id": "finland",
     "name": "Finland",
     "type": "country",
     "parent": "europe-mediterranean",
     "description": "Baltic Sea wrecks and lake diving in the north.",
-    "coordinates": [61.9241, 25.7482]
+    "coordinates": [
+      61.9241,
+      25.7482
+    ]
   }
 }

@@ -1,0 +1,1158 @@
+{
+  "group": {
+    "id": "macro-invertebrate",
+    "name": "Macro Invertebrate",
+    "alias": ["macro-crustaceans"],
+    "category": "macro",
+    "color": "pink",
+    "description": "Small, photogenic invertebrates such as nudibranchs and cleaner shrimps."
+  },
+  "entries": [
+    {
+      "id": "crab",
+      "name": "Crab",
+      "alias": ["crab", "crabs", "brachyura"],
+      "rarity": "common",
+      "scientific-name": "Brachyura",
+      "size": "varied",
+      "taxon-id": "brachyura",
+      "behavior": ["scavenging", "burrowing", "sideways-walking"],
+      "description": "Crabs are a diverse group of crustaceans found in nearly all marine environments, known for their sideways walk and hard exoskeleton.",
+      "best-months": [1,2,3,4,5,6,7,8,9,10,11,12],
+      "best-regions": ["global", "estuaries", "reefs", "mudflats"],
+      "depth": {"max": 200, "min": 0},
+      "diet": ["detritus", "algae", "small invertebrates"],
+      "habitat": ["rocky-reefs", "sandy-bottoms", "mangroves", "coral-reefs"]
+    },
+    {
+      "id": "lobster",
+      "name": "Lobster",
+      "alias": ["lobster", "lobsters", "nephropidae", "palinuridae"],
+      "rarity": "uncommon",
+      "scientific-name": "Nephropidae",
+      "size": "large",
+      "taxon-id": "nephropidae",
+      "behavior": ["nocturnal", "burrowing", "shelter-seeking"],
+      "description": "Lobsters are large, bottom-dwelling crustaceans with long bodies and muscular tails, found in rocky and coral reefs worldwide.",
+      "best-months": [1,2,3,4,5,6,7,8,9,10,11,12],
+      "best-regions": ["global", "temperate-reefs", "tropics-global"],
+      "depth": {"max": 500, "min": 1},
+      "diet": ["mollusks", "crustaceans", "algae", "detritus"],
+      "habitat": ["rocky-reefs", "kelp-forests", "coral-reefs", "sandy-bottoms"]
+    },
+    {
+      "id": "chromodoris-willani",
+      "image": "https://images.unsplash.com/photo-1521804906057-1df8fdb718b4?w=800&q=80",
+      "name": "Willan’s Chromodoris",
+      "rarity": "common",
+      "scientific-name": "Chromodoris willani",
+      "size": "very-small",
+      "taxon-id": "chromodoris-willani",
+      "behavior": [
+        "slow-moving",
+        "exposed-on-reef"
+      ],
+      "best-months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "best-regions": [
+        "indonesia",
+        "papua-new-guinea",
+        "philippines"
+      ],
+      "depth": {
+        "max": 30,
+        "min": 5
+      },
+      "diet": [
+        "sponge"
+      ],
+      "habitat": [
+        "reef-slope",
+        "pinnacles"
+      ]
+    },
+    {
+      "id": "banded-coral-shrimp",
+      "image": "https://images.unsplash.com/photo-1560275619-4662e36fa65a?w=800&q=80",
+      "name": "Banded Coral Shrimp",
+      "rarity": "common",
+      "scientific-name": "Stenopus hispidus",
+      "size": "very-small",
+      "taxon-id": "stenopus-hispidus",
+      "behavior": [
+        "cleaning",
+        "nocturnal"
+      ],
+      "best-months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "best-regions": [
+        "tropics-global"
+      ],
+      "depth": {
+        "max": 40,
+        "min": 3
+      },
+      "diet": [
+        "parasite",
+        "detritus"
+      ],
+      "habitat": [
+        "overhangs",
+        "caves",
+        "coral-heads"
+      ]
+    },
+    {
+      "id": "nudibranch",
+      "image": "https://images.unsplash.com/photo-1464983953574-0892a716854b?w=800&q=80",
+      "name": "Nudibranch",
+      "alias": [
+        "sea slug",
+        "nudis",
+        "nudibranchia",
+        "nudibranchs"
+      ],
+      "rarity": "common",
+      "scientific-name": "Nudibranchia",
+      "size": "very-small",
+      "taxon-id": "nudibranchia",
+      "behavior": [
+        "slow-moving",
+        "colorful",
+        "exposed-on-reef"
+      ],
+      "best-months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "best-regions": [
+        "global"
+      ],
+      "depth": {
+        "max": 40,
+        "min": 1
+      },
+      "diet": [
+        "sponges",
+        "hydroids",
+        "algae"
+      ],
+      "habitat": [
+        "reef-slope",
+        "pinnacles",
+        "kelp-forests",
+        "rocky-reefs"
+      ]
+    },
+    {
+      "id": "skunk-cleaner-shrimp",
+      "image": "https://images.unsplash.com/photo-1600768693397-6c4d75b121f2?w=800&q=80",
+      "name": "Skunk Cleaner Shrimp",
+      "rarity": "common",
+      "scientific-name": "Lysmata amboinensis",
+      "size": "very-small",
+      "taxon-id": "lysmata-amboinensis",
+      "behavior": [
+        "cleaning",
+        "fish-interactions"
+      ],
+      "best-months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "best-regions": [
+        "tropics-global"
+      ],
+      "depth": {
+        "max": 35,
+        "min": 3
+      },
+      "diet": [
+        "parasite"
+      ],
+      "habitat": [
+        "coral-heads",
+        "cleaning-stations"
+      ]
+    },
+          {
+            "id": "tasmanian-giant-crab",
+            "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=80",
+            "name": "Tasmanian Giant Crab",
+            "alias": ["tasmanian giant crab", "pseudocarcinus gigas", "giant crab"],
+            "rarity": "rare",
+            "scientific-name": "Pseudocarcinus gigas",
+            "size": "very-large",
+            "taxon-id": "pseudocarcinus-gigas",
+            "behavior": ["benthic-dwelling", "deep-water"],
+            "best-months": [1,2,3,4,5,6,7,8,9,10,11,12],
+            "best-regions": ["southern-australia", "tasmania"],
+            "depth": {"max": 400, "min": 20},
+            "diet": ["carrion", "mollusks", "crustaceans"],
+            "habitat": ["deep-reefs", "continental-shelf"]
+          },
+    {
+      "id": "common-octopus",
+      "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=80",
+      "name": "Common Octopus",
+      "alias": [
+        "octopus",
+        "common octopus",
+        "cephalopod", "cephalopods"
+      ],
+      "rarity": "common",
+      "scientific-name": "Octopus vulgaris",
+      "size": "medium",
+      "taxon-id": "octopus-vulgaris",
+      "behavior": [
+        "camouflage",
+        "intelligent",
+        "nocturnal"
+      ],
+      "best-months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "best-regions": [
+        "tropics-global",
+        "temperate"
+      ],
+      "depth": {
+        "max": 100,
+        "min": 1
+      },
+      "diet": [
+        "crustaceans",
+        "mollusks",
+        "fish"
+      ],
+      "habitat": [
+        "reefs",
+        "rocky-bottoms",
+        "seagrass-beds"
+      ]
+    },
+    {
+      "id": "southern-rock-lobster",
+      "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=80",
+      "name": "Southern Rock Lobster",
+      "alias": [
+        "southern rock lobster",
+        "rock lobster"
+      ],
+      "rarity": "common",
+      "scientific-name": "Jasus edwardsii",
+      "size": "large",
+      "taxon-id": "jasus-edwardsii",
+      "behavior": [
+        "nocturnal",
+        "benthic-dwelling",
+        "shelter-seeking"
+      ],
+      "best-months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "best-regions": [
+        "southern-australia",
+        "new-zealand"
+      ],
+      "depth": {
+        "max": 200,
+        "min": 5
+      },
+      "diet": [
+        "mollusks",
+        "crustaceans",
+        "algae"
+      ],
+      "habitat": [
+        "rocky-reefs",
+        "kelp-forests"
+      ]
+    },
+    {
+      "id": "giant-cuttlefish",
+      "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=80",
+      "name": "Giant Cuttlefish",
+      "alias": [
+        "giant cuttlefish",
+        "cuttlefish"
+      ],
+      "rarity": "uncommon",
+      "scientific-name": "Sepia apama",
+      "size": "large",
+      "taxon-id": "sepia-apama",
+      "behavior": [
+        "camouflage",
+        "color-changing",
+        "migratory-breeding"
+      ],
+      "best-months": [
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "best-regions": [
+        "southern-australia"
+      ],
+      "depth": {
+        "max": 100,
+        "min": 2
+      },
+      "diet": [
+        "crustaceans",
+        "fish",
+        "mollusks"
+      ],
+      "habitat": [
+        "rocky-reefs",
+        "seagrass-beds"
+      ]
+    },
+    {
+      "id": "weedy-sea-dragon",
+      "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=80",
+      "name": "Weedy Sea Dragon",
+      "alias": [
+        "weedy sea dragon", "weedy sea dragons"
+      ],
+      "rarity": "uncommon",
+      "scientific-name": "Phyllopteryx taeniolatus",
+      "size": "medium",
+      "taxon-id": "phyllopteryx-taeniolatus",
+      "behavior": [
+        "camouflage",
+        "slow-moving",
+        "brood-carrying"
+      ],
+      "best-months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "best-regions": [
+        "southern-australia"
+      ],
+      "depth": {
+        "max": 50,
+        "min": 3
+      },
+      "diet": [
+        "small-crustaceans",
+        "zooplankton"
+      ],
+      "habitat": [
+        "kelp-forests",
+        "seagrass-beds"
+      ]
+    },
+    {
+      "id": "southern-calamari",
+      "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=80",
+      "name": "Southern Calamari",
+      "alias": [
+        "southern calamari",
+        "calamari"
+      ],
+      "rarity": "common",
+      "scientific-name": "Sepioteuthis australis",
+      "size": "medium",
+      "taxon-id": "sepioteuthis-australis",
+      "behavior": [
+        "schooling",
+        "color-changing",
+        "nocturnal"
+      ],
+      "best-months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "best-regions": [
+        "southern-australia",
+        "temperate-reefs"
+      ],
+      "depth": {
+        "max": 100,
+        "min": 2
+      },
+      "diet": [
+        "crustaceans",
+        "fish",
+        "mollusks"
+      ],
+      "habitat": [
+        "rocky-reefs",
+        "seagrass-beds"
+      ]
+    },
+    {
+      "id": "sea-urchin",
+      "image": "https://images.unsplash.com/photo-1464983953574-0892a716854b?w=800&q=80",
+      "name": "Sea Urchin",
+      "alias": [
+        "sea urchin",
+        "urchin"
+      ],
+      "rarity": "common",
+      "scientific-name": "Echinoidea",
+      "size": "small",
+      "taxon-id": "echinoidea",
+      "behavior": [
+        "grazing",
+        "spiny",
+        "slow-moving"
+      ],
+      "best-months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "best-regions": [
+        "global"
+      ],
+      "depth": {
+        "max": 100,
+        "min": 1
+      },
+      "diet": [
+        "algae",
+        "detritus"
+      ],
+      "habitat": [
+        "rocky-reefs",
+        "seagrass-beds",
+        "coral-reefs"
+      ]
+    },
+    {
+      "id": "sea-tulip",
+      "image": "https://images.unsplash.com/photo-1464983953574-0892a716854b?w=800&q=80",
+      "name": "Sea Tulip",
+      "alias": [
+        "sea tulip",
+        "pyura spinifera"
+      ],
+      "rarity": "common",
+      "scientific-name": "Pyura spinifera",
+      "size": "medium",
+      "taxon-id": "pyura-spinifera",
+      "behavior": [
+        "sessile",
+        "filter-feeding"
+      ],
+      "best-months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "best-regions": [
+        "southern-australia",
+        "eastern-australia"
+      ],
+      "depth": {
+        "max": 80,
+        "min": 1
+      },
+      "diet": [
+        "plankton",
+        "organic particles"
+      ],
+      "habitat": [
+        "rocky-reefs",
+        "intertidal-zones",
+        "subtidal-zones"
+      ]
+    },
+    {
+      "id": "leafy-sea-dragon",
+      "image": "https://images.unsplash.com/photo-1464983953574-0892a716854b?w=800&q=80",
+      "name": "Leafy Sea Dragon",
+      "alias": [
+        "leafy sea dragon", "leafy sea dragons",
+        "sea dragon",
+        "phycodurus eques"
+      ],
+      "rarity": "rare",
+      "scientific-name": "Phycodurus eques",
+      "size": "medium",
+      "taxon-id": "phycodurus-eques",
+      "behavior": [
+        "camouflaged",
+        "slow-moving",
+        "drifting"
+      ],
+      "best-months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "best-regions": [
+        "southern-australia"
+      ],
+      "depth": {
+        "max": 50,
+        "min": 4
+      },
+      "diet": [
+        "small crustaceans",
+        "plankton"
+      ],
+      "habitat": [
+        "kelp-forests",
+        "seagrass-beds",
+        "rocky-reefs"
+      ]
+    },
+    {
+      "id": "hermit-crab",
+      "image": "https://images.unsplash.com/photo-1464983953574-0892a716854b?w=800&q=80",
+      "name": "Hermit Crab",
+      "alias": [
+        "hermit crab",
+        "paguroidea"
+      ],
+      "rarity": "common",
+      "scientific-name": "Paguroidea",
+      "size": "small",
+      "taxon-id": "paguroidea",
+      "behavior": [
+        "shell-switching",
+        "scavenging",
+        "reef-dwelling"
+      ],
+      "best-months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "best-regions": [
+        "global"
+      ],
+      "depth": {
+        "max": 60,
+        "min": 1
+      },
+      "diet": [
+        "detritus",
+        "algae",
+        "small invertebrates"
+      ],
+      "habitat": [
+        "rocky-reefs",
+        "coral-reefs",
+        "sandy-bottoms"
+      ]
+    },
+    {
+      "id": "eleven-armed-sea-star",
+      "image": "https://images.unsplash.com/photo-1464983953574-0892a716854b?w=800&q=80",
+      "name": "Eleven-armed Sea Star",
+      "alias": [
+        "eleven-armed sea star",
+        "coscinasterias calamaria"
+      ],
+      "rarity": "common",
+      "scientific-name": "Coscinasterias calamaria",
+      "size": "medium",
+      "taxon-id": "coscinasterias-calamaria",
+      "behavior": [
+        "regeneration",
+        "predatory",
+        "benthic-dwelling"
+      ],
+      "best-months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "best-regions": [
+        "southern-australia",
+        "new-zealand"
+      ],
+      "depth": {
+        "max": 110,
+        "min": 0
+      },
+      "diet": [
+        "mollusks",
+        "bivalves",
+        "detritus"
+      ],
+      "habitat": [
+        "rocky-reefs",
+        "sandy-bottoms",
+        "seagrass-beds"
+      ]
+    },
+    {
+      "id": "sea-anemone",
+      "image": "https://images.unsplash.com/photo-1464983953574-0892a716854b?w=800&q=80",
+      "name": "Sea Anemone",
+      "alias": [
+        "sea anemone",
+        "anemone", "anemones",
+        "actiniaria"
+      ],
+      "rarity": "common",
+      "scientific-name": "Actiniaria",
+      "size": "small",
+      "taxon-id": "actiniaria",
+      "behavior": [
+        "sessile",
+        "stinging-tentacles",
+        "symbiotic"
+      ],
+      "best-months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "best-regions": [
+        "global"
+      ],
+      "depth": {
+        "max": 100,
+        "min": 0
+      },
+      "diet": [
+        "plankton",
+        "small fish",
+        "detritus"
+      ],
+      "habitat": [
+        "coral-reefs",
+        "rocky-reefs",
+        "tide-pools"
+      ]
+    },
+    {
+      "id": "sea-fan",
+      "image": "https://images.unsplash.com/photo-1464983953574-0892a716854b?w=800&q=80",
+      "name": "Sea Fan",
+      "alias": [
+        "sea fan",
+        "gorgonian",
+        "gorgoniidae"
+      ],
+      "rarity": "common",
+      "scientific-name": "Gorgoniidae",
+      "size": "medium",
+      "taxon-id": "gorgoniidae",
+      "behavior": [
+        "sessile",
+        "filter-feeding",
+        "branching-structure"
+      ],
+      "best-months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "best-regions": [
+        "tropics-global",
+        "subtropics-global"
+      ],
+      "depth": {
+        "max": 50,
+        "min": 2
+      },
+      "diet": [
+        "plankton",
+        "organic particles"
+      ],
+      "habitat": [
+        "coral-reefs",
+        "rocky-reefs",
+        "slopes"
+      ]
+    },
+    {
+      "id": "abalone",
+      "image": "https://images.unsplash.com/photo-1464983953574-0892a716854b?w=800&q=80",
+      "name": "Abalone",
+      "alias": [
+        "abalone",
+        "haliotis"
+      ],
+      "rarity": "uncommon",
+      "scientific-name": "Haliotis",
+      "size": "medium",
+      "taxon-id": "haliotis",
+      "behavior": [
+        "grazing",
+        "slow-moving",
+        "benthic-dwelling"
+      ],
+      "best-months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "best-regions": [
+        "temperate-reefs",
+        "australia",
+        "new-zealand",
+        "california"
+      ],
+      "depth": {
+        "max": 40,
+        "min": 1
+      },
+      "diet": [
+        "algae",
+        "seaweed"
+      ],
+      "habitat": [
+        "rocky-reefs",
+        "kelp-forests"
+      ]
+    },
+    {
+      "id": "common-sea-star",
+      "name": "Common Sea Star",
+      "alias": [
+        "common sea star",
+        "asterias rubens",
+        "sea star",
+        "starfish"
+      ],
+      "rarity": "common",
+      "scientific-name": "Asterias rubens",
+      "size": "medium",
+      "taxon-id": "asterias-rubens",
+      "behavior": [
+        "benthic-dwelling",
+        "predatory"
+      ],
+      "best-months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "best-regions": [
+        "north-atlantic",
+        "europe"
+      ],
+      "depth": {
+        "max": 200,
+        "min": 0
+      },
+      "diet": [
+        "mollusks",
+        "bivalves",
+        "detritus"
+      ],
+      "habitat": [
+        "rocky-reefs",
+        "sandy-bottoms",
+        "estuaries"
+      ]
+    },
+    {
+      "id": "freshwater-mussels",
+      "name": "Freshwater Mussels",
+      "alias": [
+        "freshwater mussels",
+        "unionidae",
+        "mussels"
+      ],
+      "rarity": "common",
+      "scientific-name": "Unionidae",
+      "size": "small",
+      "taxon-id": "unionidae",
+      "behavior": [
+        "filter-feeder",
+        "benthic-dwelling"
+      ],
+      "best-months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "best-regions": [
+        "global-freshwater"
+      ],
+      "depth": {
+        "max": 10,
+        "min": 0
+      },
+      "diet": [
+        "plankton",
+        "organic particles"
+      ],
+      "habitat": [
+        "rivers",
+        "lakes",
+        "streams"
+      ]
+    },
+    {
+      "id": "crayfish",
+      "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=80",
+      "name": "Crayfish",
+      "alias": [
+        "crayfish"
+      ],
+      "rarity": "common",
+      "scientific-name": "Palinuridae",
+      "size": "large",
+      "taxon-id": "palinuridae",
+      "behavior": [
+        "nocturnal",
+        "benthic-dwelling",
+        "shelter-seeking"
+      ],
+      "best-months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "best-regions": [
+        "australia",
+        "new-zealand",
+        "temperate-reefs",
+        "tropics-global"
+      ],
+      "depth": {
+        "max": 200,
+        "min": 1
+      },
+      "diet": [
+        "mollusks",
+        "crustaceans",
+        "algae",
+        "detritus"
+      ],
+      "habitat": [
+        "rocky-reefs",
+        "kelp-forests",
+        "coral-reefs"
+      ]
+    },
+    {
+      "id": "sponge",
+      "name": "Sponge",
+      "alias": [
+        "sponge", "sponges",
+        "porifera"
+      ],
+      "rarity": "common",
+      "scientific-name": "Porifera",
+      "size": "varied",
+      "taxon-id": "porifera",
+      "behavior": [
+        "sessile",
+        "filter-feeder"
+      ],
+      "best-months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "best-regions": [
+        "global"
+      ],
+      "depth": {
+        "max": 1000,
+        "min": 0
+      },
+      "diet": [
+        "plankton",
+        "organic particles"
+      ],
+      "habitat": [
+        "reefs",
+        "rocks",
+        "seafloor"
+      ]
+    },
+    {
+      "id": "purple-sea-urchin",
+      "name": "Purple Sea Urchin",
+      "alias": [
+        "purple sea urchin",
+        "helocidaris erythrogramma"
+      ],
+      "rarity": "common",
+      "scientific-name": "Heliocidaris erythrogramma",
+      "size": "small",
+      "taxon-id": "heliocidaris-erythrogramma",
+      "behavior": [
+        "grazing",
+        "benthic-dwelling"
+      ],
+      "best-months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "best-regions": [
+        "southern-australia"
+      ],
+      "depth": {
+        "max": 35,
+        "min": 0
+      },
+      "diet": [
+        "algae"
+      ],
+      "habitat": [
+        "rocky-reefs",
+        "kelp-forests"
+      ]
+    }
+      ,
+      {
+        "id": "jellyfish",
+        "name": "Jellyfish",
+        "kind": "group",
+        "alias": ["jellyfish", "jellies", "scyphozoa"],
+        "rarity": "common",
+        "scientific-name": "Scyphozoa",
+        "size": "varied",
+        "taxon-id": "scyphozoa",
+        "behavior": ["drifting", "stinging", "planktonic"],
+        "best-months": [1,2,3,4,5,6,7,8,9,10,11,12],
+        "best-regions": ["global"],
+        "depth": {"max": 1000, "min": 0},
+        "diet": ["zooplankton", "small fish", "eggs"],
+        "habitat": ["open-ocean", "coastal-waters", "bays"]
+      }
+      ,
+      {
+        "id": "clam",
+        "name": "Clam",
+        "alias": ["clam", "clams", "venus clam", "venus clams", "veneridae"],
+        "rarity": "common",
+        "scientific-name": "Veneridae",
+        "size": "small",
+        "taxon-id": "veneridae",
+        "behavior": ["burrowing", "filter-feeding"],
+        "description": "Clams are bivalve mollusks found in sand or mud, known for their burrowing lifestyle and importance in marine ecosystems.",
+        "best-months": [1,2,3,4,5,6,7,8,9,10,11,12],
+        "best-regions": ["global", "estuaries", "coastal-waters"],
+        "depth": {"max": 50, "min": 0},
+        "diet": ["plankton", "organic particles"],
+        "habitat": ["sand-flats", "mudflats", "estuaries"]
+      },
+      {
+        "id": "giant-clam",
+        "name": "Giant Clam",
+        "alias": ["giant clam", "giant clams", "tridacna", "tridacna gigas"],
+        "rarity": "uncommon",
+        "scientific-name": "Tridacna gigas",
+        "size": "very-large",
+        "taxon-id": "tridacna-gigas",
+        "behavior": ["sessile", "filter-feeding", "symbiotic-algae"],
+        "description": "Giant clams are the largest living bivalve mollusks, famous for their size, colorful mantles, and symbiosis with algae.",
+        "best-months": [1,2,3,4,5,6,7,8,9,10,11,12],
+        "best-regions": ["indo-pacific", "great-barrier-reef", "coral-triangle"],
+        "depth": {"max": 20, "min": 1},
+        "diet": ["plankton", "algae", "organic particles"],
+        "habitat": ["coral-reefs", "lagoon-reefs"]
+      }
+  ]
+}

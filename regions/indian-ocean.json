@@ -1,139 +1,261 @@
 {
   "indian-ocean": {
+    "children": [],
     "id": "indian-ocean",
     "name": "Indian Ocean",
     "type": "major",
     "description": "Luxury diving with pristine reefs and abundant marine life",
-    "coordinates": [-10.0, 75.0],
+    "coordinates": [
+      -10,
+      75
+    ],
     "bestTime": "November–April for best conditions, varies by region.",
-    "floraFauna": ["hard corals", "soft corals", "reef fish", "whale sharks", "manta rays", "turtles", "dolphins", "groupers"],
-    "tags": ["tropical", "coral", "reefs", "big animals", "pristine", "luxury"],
+    "floraFauna": [
+      "hard corals",
+      "soft corals",
+      "reef fish",
+      "whale sharks",
+      "manta rays",
+      "turtles",
+      "dolphins",
+      "groupers"
+    ],
+    "tags": [
+      "tropical",
+      "coral",
+      "reefs",
+      "big animals",
+      "pristine",
+      "luxury"
+    ],
     "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&h=600&fit=crop",
-    "aliases": ["ދިވެހިރާއްޖެ"]
+    "aliases": [
+      "ދިވެހިރާއްޖެ"
+    ]
   },
   "maldives": {
+    "children": [],
     "id": "maldives",
     "name": "Maldives",
     "type": "country",
     "parent": "indian-ocean",
     "description": "Iconic atolls, manta rays, whale sharks, and luxury liveaboards.",
-    "coordinates": [3.2028, 73.2207],
+    "coordinates": [
+      3.2028,
+      73.2207
+    ],
     "bestTime": "November–April for best visibility and weather.",
-    "floraFauna": ["hard corals", "soft corals", "reef fish", "whale sharks", "manta rays", "turtles", "groupers"],
-    "tags": ["tropical", "coral", "reefs", "big animals", "luxury", "atolls"],
+    "floraFauna": [
+      "hard corals",
+      "soft corals",
+      "reef fish",
+      "whale sharks",
+      "manta rays",
+      "turtles",
+      "groupers"
+    ],
+    "tags": [
+      "tropical",
+      "coral",
+      "reefs",
+      "big animals",
+      "luxury",
+      "atolls"
+    ],
     "image": "https://images.unsplash.com/photo-1464983953574-0892a716854b?w=800&h=600&fit=crop"
   },
   "seychelles": {
+    "children": [],
     "id": "seychelles",
     "name": "Seychelles",
     "type": "country",
-    "aliases": ["Sesel"],
+    "aliases": [
+      "Sesel"
+    ],
     "parent": "indian-ocean",
     "description": "Granite islands, coral reefs, and big pelagic encounters.",
-    "coordinates": [-4.6796, 55.492],
+    "coordinates": [
+      -4.6796,
+      55.492
+    ],
     "bestTime": "March–May and October–November for best diving.",
-    "floraFauna": ["hard corals", "soft corals", "reef fish", "manta rays", "turtles", "groupers", "rays"],
-    "tags": ["tropical", "coral", "reefs", "big animals", "granite islands"],
+    "floraFauna": [
+      "hard corals",
+      "soft corals",
+      "reef fish",
+      "manta rays",
+      "turtles",
+      "groupers",
+      "rays"
+    ],
+    "tags": [
+      "tropical",
+      "coral",
+      "reefs",
+      "big animals",
+      "granite islands"
+    ],
     "image": "https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?w=800&h=600&fit=crop"
   },
   "mauritius": {
+    "children": [],
     "id": "mauritius",
     "name": "Mauritius",
     "type": "country",
     "parent": "indian-ocean",
     "description": "Wrecks, coral gardens, and year-round warm water diving.",
-    "coordinates": [-20.3484, 57.5522],
+    "coordinates": [
+      -20.3484,
+      57.5522
+    ],
     "bestTime": "November–April for best conditions.",
-    "floraFauna": ["hard corals", "soft corals", "reef fish", "turtles", "groupers", "rays"],
-    "tags": ["tropical", "coral", "reefs", "wrecks", "warm water"],
+    "floraFauna": [
+      "hard corals",
+      "soft corals",
+      "reef fish",
+      "turtles",
+      "groupers",
+      "rays"
+    ],
+    "tags": [
+      "tropical",
+      "coral",
+      "reefs",
+      "wrecks",
+      "warm water"
+    ],
     "image": "https://images.unsplash.com/photo-1465101046530-73398c7f28ca?w=800&h=600&fit=crop"
   },
   "sri-lanka": {
+    "children": [],
     "id": "sri-lanka",
     "name": "Sri Lanka",
     "type": "country",
     "parent": "indian-ocean",
     "description": "Wrecks, blue whales, and vibrant reefs off the teardrop island.",
-    "coordinates": [7.8731, 80.7718]
+    "coordinates": [
+      7.8731,
+      80.7718
+    ]
   },
   "madagascar": {
+    "children": [],
     "id": "madagascar",
     "name": "Madagascar",
     "type": "country",
     "parent": "indian-ocean",
     "description": "Remote reefs, whale sharks, and unique marine biodiversity.",
-    "coordinates": [-18.7669, 46.8691]
+    "coordinates": [
+      -18.7669,
+      46.8691
+    ]
   },
   "reunion": {
+    "children": [],
     "id": "reunion",
     "name": "Réunion",
     "type": "country",
     "parent": "indian-ocean",
     "description": "Volcanic island diving, lava flows, and coral reefs.",
-    "coordinates": [-21.1151, 55.5364]
+    "coordinates": [
+      -21.1151,
+      55.5364
+    ]
   },
   "chagos": {
+    "children": [],
     "id": "chagos",
     "name": "Chagos Archipelago",
     "type": "area",
     "parent": "indian-ocean",
     "description": "Pristine, protected atolls with limited access and untouched reefs.",
-    "coordinates": [-6.0, 71.5]
+    "coordinates": [
+      -6,
+      71.5
+    ]
   },
   "cocos-islands": {
+    "children": [],
     "id": "cocos-islands",
     "name": "Cocos (Keeling) Islands",
     "type": "area",
     "parent": "indian-ocean",
     "description": "Remote Australian territory with clear water and healthy reefs.",
-    "coordinates": [-12.1642, 96.871]
+    "coordinates": [
+      -12.1642,
+      96.871
+    ]
   },
   "christmas-island": {
+    "children": [],
     "id": "christmas-island",
     "name": "Christmas Island",
     "type": "area",
     "parent": "indian-ocean",
     "description": "Steep drop-offs, whale sharks, and unique red crab migrations.",
-    "coordinates": [-10.4475, 105.6904]
+    "coordinates": [
+      -10.4475,
+      105.6904
+    ]
   },
   "india": {
+    "children": [],
     "id": "india",
     "name": "India",
     "type": "country",
     "parent": "indian-ocean",
     "description": "Diverse diving from the Andaman Islands to Lakshadweep and Goa.",
-    "coordinates": [20.5937, 78.9629]
+    "coordinates": [
+      20.5937,
+      78.9629
+    ]
   },
   "andaman-islands": {
+    "children": [],
     "id": "andaman-islands",
     "name": "Andaman Islands",
     "type": "area",
     "parent": "india",
     "description": "Remote archipelago with world-class reefs, wrecks, and big pelagics.",
-    "coordinates": [11.7401, 92.6586]
+    "coordinates": [
+      11.7401,
+      92.6586
+    ]
   },
   "havelock-island": {
+    "children": [],
     "id": "havelock-island",
     "name": "Havelock Island",
     "type": "subarea",
     "parent": "andaman-islands",
     "description": "India's most famous dive destination, with vibrant reefs and elephants on the beach.",
-    "coordinates": [11.9670, 92.9827]
+    "coordinates": [
+      11.967,
+      92.9827
+    ]
   },
   "lakshadweep": {
+    "children": [],
     "id": "lakshadweep",
     "name": "Lakshadweep",
     "type": "area",
     "parent": "india",
     "description": "Coral atolls, turquoise lagoons, and excellent visibility off India's west coast.",
-    "coordinates": [10.5667, 72.6417]
+    "coordinates": [
+      10.5667,
+      72.6417
+    ]
   },
   "goa": {
+    "children": [],
     "id": "goa",
     "name": "Goa",
     "type": "area",
     "parent": "india",
     "description": "Wrecks, shallow reefs, and beginner-friendly diving on India's southwest coast.",
-    "coordinates": [15.2993, 74.1240]
+    "coordinates": [
+      15.2993,
+      74.124
+    ]
   }
 }

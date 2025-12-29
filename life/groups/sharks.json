@@ -1,0 +1,527 @@
+{
+  "group": {
+    "id": "shark",
+    "name": "Shark",
+    "alias": ["sharks","reef sharks"],
+    "category": "pelagic-megafauna",
+    "color": "blue",
+    "description": "Pelagic or reef-dwelling cartilaginous fish, including whale sharks, reef sharks, and hammerheads."
+  },
+  "entries": [
+    {
+      "id": "whale-shark",
+      "image": "https://images.unsplash.com/photo-1546500840-ae38253aba9b?w=800&q=80",
+      "name": "Whale Shark",
+      "alias": [ "whale sharks", "whale-sharks" ],
+      "rarity": "uncommon",
+      "scientific-name": "Rhincodon typus",
+      "size": "very-large",
+      "taxon-id": "rhincodon-typus",
+      "behavior": [
+        "filter-feeding",
+        "surface-cruising",
+        "aggregations"
+      ],
+      "depth": {
+        "max": 40,
+        "min": 5
+      },
+      "diet": [
+        "plankton",
+        "small-fish"
+      ],
+      "habitat": [
+        "blue-water",
+        "reef-edges",
+        "upwelling-zones"
+      ]
+    },
+      {
+        "id": "hammerhead-shark",
+        "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=80",
+        "name": "Hammerhead Shark",
+        "alias": ["hammerhead","hammerhead shark", "sphyrna lewini", "scalloped hammerhead","hammerhead sharks"],
+        "rarity": "uncommon",
+        "scientific-name": "Sphyrna lewini",
+        "size": "large",
+        "taxon-id": "sphyrna-lewini",
+        "behavior": ["schooling", "pelagic", "reef-associated"],
+        "best-months": [1,2,3,4,5,6,7,8,9,10,11,12],
+        "best-regions": ["tropics-global", "eastern-pacific", "atlantic"],
+        "depth": {"max": 300, "min": 0},
+        "diet": ["fish", "cephalopods", "crustaceans"],
+        "habitat": ["open-water", "reefs"]
+      },
+    {
+      "id": "grey-reef-shark",
+      "image": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=800&q=80",
+      "name": "Grey Reef Shark",
+      "rarity": "common",
+      "scientific-name": "Carcharhinus amblyrhynchos",
+      "size": "large",
+      "taxon-id": "carcharhinus-amblyrhynchos",
+      "behavior": [
+        "patrolling",
+        "current-facing",
+        "often-curious"
+      ],
+      "best-months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "best-regions": [
+        "palau",
+        "french-polynesia",
+        "micronesia",
+        "red-sea"
+      ],
+      "depth": {
+        "max": 40,
+        "min": 10
+      },
+      "diet": [
+        "fish",
+        "cephalopod",
+        "crustacean"
+      ],
+      "habitat": [
+        "reef-walls",
+        "channels",
+        "current-rich-areas"
+      ]
+    },
+    {
+      "id": "port-jackson-shark",
+      "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=80",
+      "name": "Port Jackson Shark",
+      "alias": [
+        "port jackson shark",
+        "port jackson"
+      ],
+      "rarity": "common",
+      "scientific-name": "Heterodontus portusjacksoni",
+      "size": "medium",
+      "taxon-id": "heterodontus-portusjacksoni",
+      "behavior": [
+        "nocturnal",
+        "benthic-dwelling",
+        "egg-laying"
+      ],
+      "best-months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "best-regions": [
+        "southern-australia",
+        "temperate-reefs"
+      ],
+      "depth": {
+        "max": 100,
+        "min": 2
+      },
+      "diet": [
+        "mollusks",
+        "crustaceans",
+        "sea-urchins"
+      ],
+      "habitat": [
+        "rocky-reefs",
+        "kelp-forests"
+      ]
+    },
+    {
+      "id": "whitetip-reef-shark",
+      "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=80",
+      "name": "Whitetip Reef Shark",
+      "alias": [
+        "white tip reef shark",
+        "white tip",
+        "white-tip reef shark"
+      ],
+      "rarity": "common",
+      "scientific-name": "Triaenodon obesus",
+      "size": "medium",
+      "taxon-id": "triaenodon-obesus",
+      "behavior": [
+        "nocturnal",
+        "reef-dwelling",
+        "resting-on-bottom"
+      ],
+      "best-months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "best-regions": [
+        "indo-pacific",
+        "red-sea"
+      ],
+      "depth": {
+        "max": 40,
+        "min": 8
+      },
+      "diet": [
+        "fish",
+        "octopus",
+        "crustaceans"
+      ],
+      "habitat": [
+        "coral-reefs",
+        "caves"
+      ]
+    },
+    {
+      "id": "nurse-shark",
+      "image": "https://images.unsplash.com/photo-1546500840-ae38253aba9b?w=800&q=80",
+      "name": "Nurse Shark",
+      "alias": [
+        "nurse shark",
+        "nurse"
+      ],
+      "rarity": "common",
+      "scientific-name": "Ginglymostoma cirratum",
+      "size": "large",
+      "taxon-id": "ginglymostoma-cirratum",
+      "behavior": [
+        "bottom-dwelling",
+        "nocturnal",
+        "resting-in-groups"
+      ],
+      "best-months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "best-regions": [
+        "caribbean",
+        "western-atlantic",
+        "tropical-reefs"
+      ],
+      "depth": {
+        "max": 70,
+        "min": 1
+      },
+      "diet": [
+        "fish",
+        "crustaceans",
+        "mollusks"
+      ],
+      "habitat": [
+        "coral-reefs",
+        "rocky-reefs",
+        "sand-flats"
+      ]
+    },
+    {
+      "id": "caribbean-nurse-shark",
+      "image": "https://images.unsplash.com/photo-1546500840-ae38253aba9b?w=800&q=80",
+      "name": "Caribbean Nurse Shark",
+      "alias": [
+        "caribbean nurse shark",
+        "caribbean nurse"
+      ],
+      "rarity": "common",
+      "scientific-name": "Ginglymostoma cirratum",
+      "size": "large",
+      "taxon-id": "ginglymostoma-cirratum",
+      "behavior": [
+        "bottom-dwelling",
+        "nocturnal",
+        "resting-in-groups"
+      ],
+      "best-months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "best-regions": [
+        "caribbean",
+        "western-atlantic",
+        "tropical-reefs"
+      ],
+      "depth": {
+        "max": 70,
+        "min": 1
+      },
+      "diet": [
+        "fish",
+        "crustaceans",
+        "mollusks"
+      ],
+      "habitat": [
+        "coral-reefs",
+        "rocky-reefs",
+        "sand-flats"
+      ]
+    },
+    {
+      "id": "caribbean-reef-shark",
+      "image": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=800&q=80",
+      "name": "Caribbean Reef Shark",
+      "alias": [
+        "caribbean reef shark",
+        "reef shark"
+      ],
+      "rarity": "common",
+      "scientific-name": "Carcharhinus perezi",
+      "size": "large",
+      "taxon-id": "carcharhinus-perezi",
+      "behavior": [
+        "patrolling",
+        "reef-dwelling",
+        "curious"
+      ],
+      "best-months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "best-regions": [
+        "caribbean",
+        "western-atlantic"
+      ],
+      "depth": {
+        "max": 100,
+        "min": 1
+      },
+      "diet": [
+        "fish",
+        "cephalopods",
+        "crustaceans"
+      ],
+      "habitat": [
+        "coral-reefs",
+        "reef-slopes",
+        "drop-offs"
+      ]
+    },
+    {
+      "id": "grey-nurse-shark",
+      "name": "Grey Nurse Shark",
+      "alias": [
+        "grey nurse shark",
+        "carcharias taurus",
+        "sand tiger shark",
+        "ragged-tooth shark",
+        "ragged-tooth sharks"
+      ],
+      "rarity": "uncommon",
+      "scientific-name": "Carcharias taurus",
+      "size": "large",
+      "taxon-id": "carcharias-taurus",
+      "behavior": [
+        "slow-swimming",
+        "nocturnal",
+        "reef-dwelling"
+      ],
+      "best-months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "best-regions": [
+        "australia",
+        "south-africa",
+        "western-atlantic"
+      ],
+      "depth": {
+        "max": 200,
+        "min": 0
+      },
+      "diet": [
+        "fish",
+        "rays",
+        "crustaceans"
+      ],
+      "habitat": [
+        "coastal-waters",
+        "reefs",
+        "caves"
+      ]
+    },
+    {
+      "id": "blacktip-reef-shark",
+      "name": "Blacktip Reef Shark",
+      "alias": [
+        "blacktip reef shark",
+        "carcharhinus melanopterus",
+        "blacktip shark"
+      ],
+      "rarity": "common",
+      "scientific-name": "Carcharhinus melanopterus",
+      "size": "medium",
+      "taxon-id": "carcharhinus-melanopterus",
+      "behavior": [
+        "reef-dwelling",
+        "active-swimmer",
+        "shallow-water"
+      ],
+      "best-months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "best-regions": [
+        "indo-pacific",
+        "red-sea",
+        "australia"
+      ],
+      "depth": {
+        "max": 75,
+        "min": 0
+      },
+      "diet": [
+        "fish",
+        "crustaceans",
+        "cephalopods"
+      ],
+      "habitat": [
+        "coral-reefs",
+        "lagoons",
+        "sand-flats"
+      ]
+    }
+      ,
+      {
+        "id": "great-white-shark",
+        "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=80",
+        "name": "Great White Shark",
+        "alias": ["great white shark", "carcharodon carcharias", "white shark", "great white sharks"],
+        "rarity": "rare",
+        "scientific-name": "Carcharodon carcharias",
+        "size": "very-large",
+        "taxon-id": "carcharodon-carcharias",
+        "behavior": ["apex-predator", "migratory", "surface-hunting"],
+        "best-months": [1,2,3,4,5,6,7,8,9,10,11,12],
+        "best-regions": ["south-africa", "australia", "california", "mediterranean"],
+        "depth": {"max": 1200, "min": 0},
+        "diet": ["seals", "fish", "dolphins", "whales"],
+        "habitat": ["coastal-waters", "open-ocean", "island-chains"]
+      }
+      ,
+      {
+        "id": "leopard-shark",
+        "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=80",
+        "name": "Leopard Shark",
+        "alias": ["leopard shark", "triakis semifasciata", "leopard sharks"],
+        "rarity": "uncommon",
+        "scientific-name": "Triakis semifasciata",
+        "size": "medium",
+        "taxon-id": "triakis-semifasciata",
+        "behavior": ["bottom-dwelling", "schooling", "coastal"],
+        "best-months": [1,2,3,4,5,6,7,8,9,10,11,12],
+        "best-regions": ["california", "north-america-pacific"],
+        "depth": {"max": 90, "min": 0},
+        "diet": ["crustaceans", "small fish", "mollusks"],
+        "habitat": ["kelp-forests", "bays", "sandy-bottoms"]
+      }
+      ,
+      {
+        "id": "tiger-shark",
+        "name": "Tiger Shark",
+        "alias": ["tiger shark", "tiger sharks", "galeocerdo cuvier"],
+        "rarity": "uncommon",
+        "scientific-name": "Galeocerdo cuvier",
+        "size": "very-large",
+        "taxon-id": "galeocerdo-cuvier",
+        "behavior": ["apex-predator", "solitary", "wide-ranging"],
+        "description": "Tiger sharks are large, powerful sharks recognized by their vertical stripes and broad diet, found in tropical and subtropical waters worldwide.",
+        "best-months": [1,2,3,4,5,6,7,8,9,10,11,12],
+        "best-regions": ["global-tropical", "subtropics-global", "hawaii", "bahamas", "australia"],
+        "depth": {"max": 350, "min": 0},
+        "diet": ["fish", "turtles", "seabirds", "marine-mammals", "crustaceans"],
+        "habitat": ["coastal-waters", "reefs", "open-ocean"]
+      }
+      ,
+      {
+        "id": "thresher-shark",
+        "name": "Thresher Shark",
+        "alias": ["thresher shark", "thresher sharks", "alopias"],
+        "rarity": "rare",
+        "scientific-name": "Alopias",
+        "size": "large",
+        "taxon-id": "alopias",
+        "behavior": ["tail-slapping", "solitary", "deep-diving"],
+        "description": "Thresher sharks are known for their extremely long, whip-like tails used to stun prey, and are found in deep and coastal waters worldwide.",
+        "best-months": [1,2,3,4,5,6,7,8,9,10,11,12],
+        "best-regions": ["global", "indo-pacific", "california", "south-africa"],
+        "depth": {"max": 500, "min": 0},
+        "diet": ["small fish", "squid"],
+        "habitat": ["open-ocean", "deep-waters", "coastal-waters"]
+      }
+  ]
+}

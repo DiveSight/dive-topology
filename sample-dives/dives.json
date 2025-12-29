@@ -1,0 +1,211 @@
+[
+  {
+    "id": "ss-yongala-australia",
+    "name": "SS Yongala",
+    "location": "Ayr, Queensland, Australia",
+    "coordinates": [-19.305, 147.620],
+    "blurb": "One of the world’s most legendary wreck dives, the Yongala teems with life—giant groupers, swirling trevally, sea snakes, and seasonal manta visitors. A massive intact hull resting on open sand gives it an eerie, cathedral-like presence.",
+    "maxDepth": 30,
+    "photos": ["https://example.com/yongala.jpg"],
+    "type": "site",
+    "region": "australia-newzealand"
+  },
+  {
+    "id": "blue-corner-palau",
+    "name": "Blue Corner",
+    "location": "Koror, Palau",
+    "coordinates": [7.307, 134.466],
+    "blurb": "Hook in and fly! One of the planet’s most exhilarating wall dives, where ripping currents bring sharks, schools of jacks, and clouds of pyramid butterflies sweeping across the plateau.",
+    "maxDepth": 30,
+    "photos": ["https://example.com/bluecorner.jpg"],
+    "type": "site",
+    "region": "micronesia"
+  },
+  {
+    "id": "elphinstone-reef-egypt",
+    "name": "Elphinstone Reef",
+    "location": "Red Sea, Marsa Alam, Egypt",
+    "coordinates": [25.321, 34.850],
+    "blurb": "A long, slender reef rising from the deep blue, known for thrilling oceanic whitetips, dramatic drop-offs, and soft coral terraces glowing under the sun.",
+    "maxDepth": 40,
+    "photos": ["https://example.com/elphinstone.jpg"],
+    "type": "site",
+    "region": "middle-east"
+  },
+  {
+    "id": "dahab-blue-hole",
+    "name": "Blue Hole",
+    "location": "Dahab, Sinai Peninsula, Egypt",
+    "coordinates": [28.572, 34.536],
+    "blurb": "Notorious and iconic, the Blue Hole is a perfectly circular sinkhole plunging into shadowy cobalt darkness. The saddle route offers stunning coral and ambient light shafts.",
+    "maxDepth": 100,
+    "photos": ["https://example.com/bluehole.jpg"],
+    "type": "site",
+    "region": "middle-east"
+  },
+  {
+    "id": "richelieu-rock-thailand",
+    "name": "Richelieu Rock",
+    "location": "Andaman Sea, Thailand",
+    "coordinates": [9.351, 98.025],
+    "blurb": "A horseshoe-shaped pinnacle bursting with macro life, swirling barracuda, and the occasional passing whale shark. Violet soft corals add surreal color along every nook.",
+    "maxDepth": 35,
+    "photos": ["https://example.com/richelieu.jpg"],
+    "type": "site",
+    "region": "southeast-asia"
+  },
+  {
+    "id": "liberty-wreck-bali",
+    "name": "USAT Liberty",
+    "location": "Tulamben, Bali, Indonesia",
+    "coordinates": [-8.284, 115.593],
+    "blurb": "A beautifully encrusted WWII cargo ship just meters from shore. Schools of bumpheads cruise at dawn, while the twisted bow section hides gardens of soft coral.",
+    "maxDepth": 30,
+    "photos": ["https://example.com/liberty.jpg"],
+    "type": "site",
+    "region": "southeast-asia"
+  },
+  {
+    "id": "rays-cape-kri-indonesia",
+    "name": "Cape Kri",
+    "location": "Raja Ampat, West Papua, Indonesia",
+    "coordinates": [-0.554, 130.702],
+    "blurb": "Dr. Allen famously recorded over 374 species on a single dive here—biodiversity fireworks. Expect ripping currents, patrolling sharks, and kaleidoscopic reefscapes.",
+    "maxDepth": 40,
+    "photos": ["https://example.com/capekri.jpg"],
+    "type": "site",
+    "region": "southeast-asia"
+  },
+  {
+    "id": "fotteyo-kandu-maldives",
+    "name": "Fotteyo Kandu",
+    "location": "Vaavu Atoll, Maldives",
+    "coordinates": [3.506, 73.516],
+    "blurb": "One of the Maldives’ most famous channels: expect grey reef sharks on patrol, yellow coral overhangs, and morning light flooding the swim-throughs.",
+    "maxDepth": 32,
+    "photos": ["https://example.com/fotteyo.jpg"],
+    "type": "site",
+    "region": "indian-ocean"
+  },
+  {
+    "id": "tubbataha-wall-philippines",
+    "name": "Tubbataha Wall",
+    "location": "Sulu Sea, Philippines",
+    "coordinates": [8.950, 119.867],
+    "blurb": "A sheer underwater cliff dropping into bottomless blue. Hammerheads, mantas, and pristine hard-coral spires make this UNESCO reserve a bucket-list must.",
+    "maxDepth": 40,
+    "photos": ["https://example.com/tubbataha.jpg"],
+    "type": "site",
+    "region": "southeast-asia"
+  },
+  {
+    "id": "poor-knights-new-zealand",
+    "name": "Poor Knights Islands",
+    "location": "Northland, New Zealand",
+    "coordinates": [-35.480, 174.732],
+    "blurb": "Volcanic arches, cathedral caverns, and a blend of warm-current tropical species with cold-water kelp forests. A dreamy, cinematic dive frontier.",
+    "maxDepth": 40,
+    "photos": ["https://example.com/poorknights.jpg"],
+    "type": "site",
+    "region": "australia-newzealand"
+  },
+  {
+    "id": "silfra-iceland",
+    "name": "Silfra Fissure",
+    "location": "Þingvellir National Park, Iceland",
+    "coordinates": [64.255, -21.123],
+    "blurb": "A surreal float between the North American and Eurasian tectonic plates. The visibility is almost supernatural—over 100 meters in glacial meltwater clarity.",
+    "maxDepth": 18,
+    "photos": ["https://example.com/silfra.jpg"],
+    "type": "site",
+    "region": "europe"
+  },
+  {
+    "id": "orange-canyon-grand-cayman",
+    "name": "Orange Canyon",
+    "location": "Grand Cayman, Cayman Islands",
+    "coordinates": [19.368, -81.404],
+    "blurb": "Towering orange sponges and sheer drop-offs define this Caribbean classic. Turtles, eagle rays, and impossibly blue water complete the picture.",
+    "maxDepth": 30,
+    "photos": ["https://example.com/orangecanyon.jpg"],
+    "type": "site",
+    "region": "caribbean"
+  },
+  {
+    "id": "blue-heron-bridge-florida",
+    "name": "Blue Heron Bridge",
+    "location": "Riviera Beach, Florida, USA",
+    "coordinates": [26.778, -80.043],
+    "blurb": "The world’s most celebrated muck dive: frogfish, batfish, octopus, juvenile angels, and alien macro critters hiding under every bridge piling.",
+    "maxDepth": 7,
+    "photos": ["https://example.com/bhb.jpg"],
+    "type": "site",
+    "region": "north-america"
+  },
+  {
+    "id": "socorro-boiler-mexico",
+    "name": "The Boiler",
+    "location": "Revillagigedo Islands, Mexico",
+    "coordinates": [18.783, -111.033],
+    "blurb": "An offshore seamount famed for intimate manta interactions. Hammerheads shimmer in the blue as dolphins swirl through the bubbles.",
+    "maxDepth": 30,
+    "photos": ["https://example.com/boiler.jpg"],
+    "type": "site",
+    "region": "north-america"
+  },
+  {
+    "id": "galapagos-darwin-arch",
+    "name": "Darwin Arch",
+    "location": "Darwin Island, Galápagos",
+    "coordinates": [1.669, -92.003],
+    "blurb": "Shark nirvana. Whale sharks in season, hammerhead walls, silky sharks, and oceanic drama under the iconic (now fallen) stone archway.",
+    "maxDepth": 40,
+    "photos": ["https://example.com/darwin.jpg"],
+    "type": "site",
+    "region": "south-america"
+  },
+  {
+    "id": "fernando-do-noronha-brazil",
+    "name": "Pedras Secas",
+    "location": "Fernando de Noronha, Brazil",
+    "coordinates": [-3.848, -32.429],
+    "blurb": "Intricate volcanic swim-throughs, sea turtles resting in ledges, and sparkling tropical blue water. One of Brazil’s crown jewels.",
+    "maxDepth": 25,
+    "photos": ["https://example.com/pedrassecas.jpg"],
+    "type": "site",
+    "region": "south-america"
+  },
+  {
+    "id": "brothers-islands-egypt",
+    "name": "Big Brother",
+    "location": "Red Sea, Egypt",
+    "coordinates": [26.288, 34.844],
+    "blurb": "Remote, exposed, and thrilling—vertical walls, vibrant soft coral, and the chance to meet longimanus and threshers patrolling the blue.",
+    "maxDepth": 40,
+    "photos": ["https://example.com/bigbrother.jpg"],
+    "type": "site",
+    "region": "middle-east"
+  },
+  {
+    "id": "fiji-rainbow-reef",
+    "name": "The Great White Wall",
+    "location": "Taveuni, Fiji",
+    "coordinates": [-16.787, -179.917],
+    "blurb": "A vertical slope blanketed in ghostly white dendronephthya soft corals. When the current hits, it lights up like snowy glitter underwater.",
+    "maxDepth": 30,
+    "photos": ["https://example.com/whitewall.jpg"],
+    "type": "site",
+    "region": "south-pacific"
+  },
+  {
+    "id": "south-africa-aliwal-shoal",
+    "name": "Aliwal Shoal",
+    "location": "Kwazulu-Natal, South Africa",
+    "coordinates": [-30.270, 30.810],
+    "blurb": "A fossilized sand dune turned reef, offering ragged-tooth shark aggregations, cathedral swim-throughs, and open-ocean surprises.",
+    "maxDepth": 28,
+    "photos": ["https://example.com/aliwal.jpg"],
+    "type": "site",
+    "region": "africa"
+  }
+]
