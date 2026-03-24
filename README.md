@@ -9,10 +9,6 @@ This project is licensed under the [MIT License](LICENSE). Use at your own risk.
 
 Also now is a good time for a shoutout to https://marinemegafauna.org/ for their incredible work.
 
-# TODO
-
-- unsplash images need work!
-
 # SECTIONS
 
 - Dives
@@ -118,7 +114,7 @@ Our technical approach was to start with 2000 typical diver facing marine animal
 
 ### FUNCTIONAL GROUPS
 
-The functional groups we chose so far are declared in life/groups/.json. We don't actually really use the content of these files at all anymore since we now have taxonomy data - so the actual content is legacy - but declaring the groups is important. These are the functional groups we chose:
+The functional groups we chose so far are declared in life/groups/.json. We don't use the content of these files since we now have taxonomy data - so the content is legacy. These are the functional groups we chose:
 
 - corals
 - kelp
@@ -139,7 +135,7 @@ Later functional groups may include some other cross-cutting tags such as:
 
 # Taxonomy
 
-See 20251110-master-taxonomy.json . This is a marine-focused taxonomy tree (domain → kingdom → phylum → class → genus → species). Entries are decorated with tags to indicate the functional group.
+This is a marine-focused taxonomy tree (domain → kingdom → phylum → class → genus → species). Entries are decorated with tags to indicate the functional group.
 
 All IDs use `kebab-case` and are generally singular:
 - `group-id`: e.g. `shark`, `reef-fish`

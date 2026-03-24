@@ -1,0 +1,15 @@
+{
+  "name": "dive-topology",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+  },
+  "dependencies": {
+    "dotenv": "^16.4.1",
+    "mongodb": "^6.3.0"
+  },
+  "devDependencies": {
+    "tsx": "^4.7.0",
+    "typescript": "^5.3.3"
+  }
+}
