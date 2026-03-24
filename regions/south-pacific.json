@@ -30,62 +30,201 @@
     ],
     "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&h=600&fit=crop"
   },
-  "micronesia": {
+  "cook-islands": {
     "children": [],
-    "id": "micronesia",
-    "name": "Micronesia",
-    "aliases": [
-      "Ṃajeḷ"
-    ],
+    "id": "cook-islands",
+    "name": "Cook Islands",
     "type": "country",
     "parent": "south-pacific",
-    "description": "World-class wrecks, coral reefs, and WWII history across hundreds of islands.",
+    "description": "Crystal clear lagoons and relaxed island diving.",
     "coordinates": [
-      6.8875,
-      158.215
+      -21.2367,
+      -159.7777
     ],
-    "bestTime": "December–April for best conditions.",
+    "bestTime": "May–October for best conditions.",
     "floraFauna": [
-      "reef-fish",
-      "corals",
-      "sharks"
+      "hard corals",
+      "soft corals",
+      "reef fish",
+      "turtles",
+      "groupers"
     ],
     "tags": [
-      "wrecks",
-      "coral reefs",
-      "islands"
+      "tropical",
+      "coral",
+      "reefs",
+      "lagoon",
+      "relaxed"
     ],
-    "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=80"
+    "image": "https://images.unsplash.com/photo-1464983953574-0892a716854b?w=800&h=600&fit=crop"
   },
-  "palau": {
+  "aitutaki": {
     "children": [],
-    "id": "palau",
-    "name": "Palau",
-    "aliases": [
-      "Belau"
-    ],
-    "type": "country",
-    "parent": "south-pacific",
-    "description": "Famed for Blue Corner, Jellyfish Lake, and pristine reefs with sharks and big pelagics.",
+    "id": "aitutaki",
+    "name": "Aitutaki",
+    "type": "area",
+    "parent": "cook-islands",
+    "description": "Diving in Aitutaki.",
     "coordinates": [
-      7.51498,
-      134.5825
-    ],
-    "bestTime": "November–May for best conditions.",
-    "floraFauna": [
-      "sharks",
-      "reef-fish",
-      "corals",
-      "jellyfish"
-    ],
-    "tags": [
-      "pristine",
-      "sharks",
-      "jellyfish",
-      "big animals",
-      "reefs"
-    ],
-    "image": "https://images.unsplash.com/photo-1465101046530-73398c7f28ca?w=800&h=600&fit=crop"
+      -18.8617,
+      -159.7673
+    ]
+  },
+  "atiu": {
+    "children": [],
+    "id": "atiu",
+    "name": "Atiu",
+    "type": "area",
+    "parent": "cook-islands",
+    "description": "Diving in Atiu.",
+    "coordinates": [
+      -19.9634,
+      -158.1056
+    ]
+  },
+  "mangaia": {
+    "children": [],
+    "id": "mangaia",
+    "name": "Mangaia",
+    "type": "area",
+    "parent": "cook-islands",
+    "description": "Diving in Mangaia.",
+    "coordinates": [
+      -21.9152,
+      -157.9637
+    ]
+  },
+  "manihiki": {
+    "children": [],
+    "id": "manihiki",
+    "name": "Manihiki",
+    "type": "area",
+    "parent": "cook-islands",
+    "description": "Diving in Manihiki.",
+    "coordinates": [
+      -10.3652,
+      -161.0212
+    ]
+  },
+  "manuae": {
+    "children": [],
+    "id": "manuae",
+    "name": "Manuae",
+    "type": "area",
+    "parent": "cook-islands",
+    "description": "Diving in Manuae.",
+    "coordinates": [
+      -19.2645,
+      -158.9375
+    ]
+  },
+  "mauke": {
+    "children": [],
+    "id": "mauke",
+    "name": "Mauke",
+    "type": "area",
+    "parent": "cook-islands",
+    "description": "Diving in Mauke.",
+    "coordinates": [
+      -20.6051,
+      -157.3506
+    ]
+  },
+  "mitiaro": {
+    "children": [],
+    "id": "mitiaro",
+    "name": "Mitiaro",
+    "type": "area",
+    "parent": "cook-islands",
+    "description": "Diving in Mitiaro.",
+    "coordinates": [
+      -21.0856,
+      -157.5067
+    ]
+  },
+  "palmerston": {
+    "children": [],
+    "id": "palmerston",
+    "name": "Palmerston",
+    "type": "area",
+    "parent": "cook-islands",
+    "description": "Diving in Palmerston.",
+    "coordinates": [
+      -18.0611,
+      -163.1821
+    ]
+  },
+  "penrhyn": {
+    "children": [],
+    "id": "penrhyn",
+    "name": "Penrhyn",
+    "type": "area",
+    "parent": "cook-islands",
+    "description": "Diving in Penrhyn.",
+    "coordinates": [
+      -9.0361,
+      -158.0397
+    ]
+  },
+  "pukapuka": {
+    "children": [],
+    "id": "pukapuka",
+    "name": "Pukapuka",
+    "type": "area",
+    "parent": "cook-islands",
+    "description": "Diving in Pukapuka.",
+    "coordinates": [
+      -10.8834,
+      -165.8123
+    ]
+  },
+  "rarotonga": {
+    "children": [],
+    "id": "rarotonga",
+    "name": "Rarotonga",
+    "type": "area",
+    "parent": "cook-islands",
+    "description": "Diving in Rarotonga.",
+    "coordinates": [
+      -21.23,
+      -159.7835
+    ]
+  },
+  "southern-cook-islands": {
+    "children": [],
+    "id": "southern-cook-islands",
+    "name": "Southern Cook Islands",
+    "type": "area",
+    "parent": "cook-islands",
+    "description": "Diving in Southern Cook Islands.",
+    "coordinates": [
+      -20.15,
+      -159.5417
+    ]
+  },
+  "suwarrow": {
+    "children": [],
+    "id": "suwarrow",
+    "name": "Suwarrow",
+    "type": "area",
+    "parent": "cook-islands",
+    "description": "Diving in Suwarrow.",
+    "coordinates": [
+      -13.234,
+      -163.1077
+    ]
+  },
+  "takutea": {
+    "children": [],
+    "id": "takutea",
+    "name": "Takutea",
+    "type": "area",
+    "parent": "cook-islands",
+    "description": "Diving in Takutea.",
+    "coordinates": [
+      -19.3085,
+      -165.1225
+    ]
   },
   "fiji": {
     "children": [],
@@ -121,6 +260,114 @@
     ],
     "image": "https://images.unsplash.com/photo-1464983953574-0892a716854b?w=800&h=600&fit=crop"
   },
+  "central": {
+    "children": [],
+    "id": "central",
+    "name": "Central",
+    "type": "area",
+    "parent": "papua-new-guinea",
+    "description": "Diving in Central.",
+    "coordinates": [
+      -10.7987,
+      151.6832
+    ]
+  },
+  "central-division": {
+    "children": [],
+    "id": "central-division",
+    "name": "Central Division",
+    "type": "area",
+    "parent": "fiji",
+    "description": "Diving in Central Division.",
+    "coordinates": [
+      -18.4299,
+      178.0746
+    ]
+  },
+  "eastern": {
+    "children": [],
+    "id": "eastern",
+    "name": "Eastern",
+    "type": "area",
+    "parent": "fiji",
+    "description": "Diving in Eastern.",
+    "coordinates": [
+      -17.25,
+      179.384
+    ]
+  },
+  "eastern-division": {
+    "children": [],
+    "id": "eastern-division",
+    "name": "Eastern Division",
+    "type": "area",
+    "parent": "fiji",
+    "description": "Diving in Eastern Division.",
+    "coordinates": [
+      -18.5611,
+      178.6218
+    ]
+  },
+  "northern": {
+    "children": [],
+    "id": "northern",
+    "name": "Northern",
+    "type": "area",
+    "parent": "fiji",
+    "description": "Diving in Northern.",
+    "coordinates": [
+      -16.7838,
+      179.6569
+    ]
+  },
+  "northern-division": {
+    "children": [],
+    "id": "northern-division",
+    "name": "Northern Division",
+    "type": "area",
+    "parent": "fiji",
+    "description": "Diving in Northern Division.",
+    "coordinates": [
+      -16.8143,
+      138.5738
+    ]
+  },
+  "taveuni": {
+    "children": [],
+    "id": "taveuni",
+    "name": "Taveuni",
+    "type": "area",
+    "parent": "fiji",
+    "description": "Diving in Taveuni.",
+    "coordinates": [
+      -17.0234,
+      179.3789
+    ]
+  },
+  "western": {
+    "children": [],
+    "id": "western",
+    "name": "Western",
+    "type": "area",
+    "parent": "solomon-islands",
+    "description": "Diving in Western.",
+    "coordinates": [
+      -10.9448,
+      162.7217
+    ]
+  },
+  "western-division": {
+    "children": [],
+    "id": "western-division",
+    "name": "Western Division",
+    "type": "area",
+    "parent": "fiji",
+    "description": "Diving in Western Division.",
+    "coordinates": [
+      -17.5575,
+      177.551
+    ]
+  },
   "french-polynesia": {
     "children": [],
     "id": "french-polynesia",
@@ -152,64 +399,320 @@
     ],
     "image": "https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?w=800&h=600&fit=crop"
   },
-  "solomon-islands": {
+  "austral-islands": {
     "children": [],
-    "id": "solomon-islands",
-    "name": "Solomon Islands",
-    "type": "country",
-    "parent": "south-pacific",
-    "description": "Remote WWII wrecks, lush reefs, and uncrowded diving.",
+    "id": "austral-islands",
+    "name": "Austral Islands",
+    "type": "area",
+    "parent": "french-polynesia",
+    "description": "Diving in Austral Islands.",
     "coordinates": [
-      -9.6457,
-      160.1562
-    ],
-    "bestTime": "May–November for best conditions.",
-    "floraFauna": [
-      "hard corals",
-      "soft corals",
-      "reef fish",
-      "sharks",
-      "groupers",
-      "turtles"
-    ],
-    "tags": [
-      "tropical",
-      "coral",
-      "reefs",
-      "wrecks",
-      "pristine",
-      "remote"
-    ],
-    "image": "https://images.unsplash.com/photo-1465101046530-73398c7f28ca?w=800&h=600&fit=crop"
+      -23.2867,
+      -149.329
+    ]
   },
-  "vanuatu": {
+  "leeward-islands": {
     "children": [],
-    "id": "vanuatu",
-    "name": "Vanuatu",
+    "id": "leeward-islands",
+    "name": "Leeward Islands",
+    "type": "area",
+    "parent": "french-polynesia",
+    "description": "Diving in Leeward Islands.",
+    "coordinates": [
+      -16.6258,
+      -151.4542
+    ]
+  },
+  "marquesas-islands": {
+    "children": [],
+    "id": "marquesas-islands",
+    "name": "Marquesas Islands",
+    "type": "area",
+    "parent": "french-polynesia",
+    "description": "Diving in Marquesas Islands.",
+    "coordinates": [
+      -9.4339,
+      -139.629
+    ]
+  },
+  "society-islands": {
+    "children": [],
+    "id": "society-islands",
+    "name": "Society Islands",
+    "type": "area",
+    "parent": "french-polynesia",
+    "description": "Diving in Society Islands.",
+    "coordinates": [
+      -16.9956,
+      -150.789
+    ]
+  },
+  "tuamotu-archipelago": {
+    "children": [],
+    "id": "tuamotu-archipelago",
+    "name": "Tuamotu Archipelago",
+    "type": "area",
+    "parent": "french-polynesia",
+    "description": "Diving in Tuamotu Archipelago.",
+    "coordinates": [
+      -15.4866,
+      -146.5998
+    ]
+  },
+  "tuamotu-gambier": {
+    "children": [],
+    "id": "tuamotu-gambier",
+    "name": "Tuamotu-Gambier",
+    "type": "area",
+    "parent": "french-polynesia",
+    "description": "Diving in Tuamotu-Gambier.",
+    "coordinates": [
+      -15.3823,
+      -146.6927
+    ]
+  },
+  "windward-islands": {
+    "children": [],
+    "id": "windward-islands",
+    "name": "Windward Islands",
+    "type": "area",
+    "parent": "french-polynesia",
+    "description": "Diving in Windward Islands.",
+    "coordinates": [
+      -17.5415,
+      -149.67
+    ]
+  },
+  "marshall-islands": {
+    "children": [],
+    "id": "marshall-islands",
+    "name": "Marshall Islands",
     "type": "country",
     "parent": "south-pacific",
-    "description": "Wreck diving paradise, home to the SS President Coolidge and blue holes.",
+    "description": "Diving in Marshall Islands.",
     "coordinates": [
-      -15.3767,
-      166.9592
+      9.98,
+      168.2922
+    ]
+  },
+  "arno-atoll": {
+    "children": [],
+    "id": "arno-atoll",
+    "name": "Arno Atoll",
+    "type": "area",
+    "parent": "marshall-islands",
+    "description": "Diving in Arno Atoll.",
+    "coordinates": [
+      7.09,
+      171.68
+    ]
+  },
+  "bikini-atoll": {
+    "children": [],
+    "id": "bikini-atoll",
+    "name": "Bikini Atoll",
+    "type": "area",
+    "parent": "marshall-islands",
+    "description": "Diving in Bikini Atoll.",
+    "coordinates": [
+      11.58,
+      165.38
+    ]
+  },
+  "jaluit-atoll": {
+    "children": [],
+    "id": "jaluit-atoll",
+    "name": "Jaluit Atoll",
+    "type": "area",
+    "parent": "marshall-islands",
+    "description": "Diving in Jaluit Atoll.",
+    "coordinates": [
+      5.92,
+      169.65
+    ]
+  },
+  "kwajalein-atoll": {
+    "children": [],
+    "id": "kwajalein-atoll",
+    "name": "Kwajalein Atoll",
+    "type": "area",
+    "parent": "marshall-islands",
+    "description": "Diving in Kwajalein Atoll.",
+    "coordinates": [
+      8.75,
+      167.735
+    ]
+  },
+  "majuro-atoll": {
+    "children": [],
+    "id": "majuro-atoll",
+    "name": "Majuro Atoll",
+    "type": "area",
+    "parent": "marshall-islands",
+    "description": "Diving in Majuro Atoll.",
+    "coordinates": [
+      7.098,
+      171.39
+    ]
+  },
+  "maloelap-atoll": {
+    "children": [],
+    "id": "maloelap-atoll",
+    "name": "Maloelap Atoll",
+    "type": "area",
+    "parent": "marshall-islands",
+    "description": "Diving in Maloelap Atoll.",
+    "coordinates": [
+      8.72,
+      171.23
+    ]
+  },
+  "mili-atoll": {
+    "children": [],
+    "id": "mili-atoll",
+    "name": "Mili Atoll",
+    "type": "area",
+    "parent": "marshall-islands",
+    "description": "Diving in Mili Atoll.",
+    "coordinates": [
+      6.08,
+      171.73
+    ]
+  },
+  "ralik": {
+    "children": [],
+    "id": "ralik",
+    "name": "Ralik",
+    "type": "area",
+    "parent": "marshall-islands",
+    "description": "Diving in Ralik.",
+    "coordinates": [
+      11.165,
+      166.84
+    ]
+  },
+  "ratak": {
+    "children": [],
+    "id": "ratak",
+    "name": "Ratak",
+    "type": "area",
+    "parent": "marshall-islands",
+    "description": "Diving in Ratak.",
+    "coordinates": [
+      10.299,
+      169.915
+    ]
+  },
+  "wotje-atoll": {
+    "children": [],
+    "id": "wotje-atoll",
+    "name": "Wotje Atoll",
+    "type": "area",
+    "parent": "marshall-islands",
+    "description": "Diving in Wotje Atoll.",
+    "coordinates": [
+      9.46,
+      170.23
+    ]
+  },
+  "micronesia": {
+    "children": [],
+    "id": "micronesia",
+    "name": "Micronesia",
+    "aliases": [
+      "Ṃajeḷ"
     ],
-    "bestTime": "May–October for best conditions.",
+    "type": "country",
+    "parent": "south-pacific",
+    "description": "World-class wrecks, coral reefs, and WWII history across hundreds of islands.",
+    "coordinates": [
+      6.8875,
+      158.215
+    ],
+    "bestTime": "December–April for best conditions.",
     "floraFauna": [
-      "hard corals",
-      "soft corals",
-      "reef fish",
-      "sharks",
-      "groupers",
-      "turtles"
+      "reef-fish",
+      "corals",
+      "sharks"
     ],
     "tags": [
-      "tropical",
-      "coral",
-      "reefs",
       "wrecks",
-      "blue holes"
+      "coral reefs",
+      "islands"
     ],
-    "image": "https://images.unsplash.com/photo-1518717758536-85ae29035b6d?w=800&h=600&fit=crop"
+    "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=80"
+  },
+  "chuuk": {
+    "children": [],
+    "id": "chuuk",
+    "name": "Chuuk",
+    "type": "area",
+    "parent": "micronesia",
+    "description": "Diving in Chuuk.",
+    "coordinates": [
+      7.3995,
+      151.8595
+    ]
+  },
+  "chuuk-state": {
+    "children": [],
+    "id": "chuuk-state",
+    "name": "Chuuk State",
+    "type": "area",
+    "parent": "micronesia",
+    "description": "Diving in Chuuk State.",
+    "coordinates": [
+      7.3677,
+      151.8653
+    ]
+  },
+  "kosrae": {
+    "children": [],
+    "id": "kosrae",
+    "name": "Kosrae",
+    "type": "area",
+    "parent": "micronesia",
+    "description": "Diving in Kosrae.",
+    "coordinates": [
+      5.3026,
+      162.9715
+    ]
+  },
+  "pohnpei": {
+    "children": [],
+    "id": "pohnpei",
+    "name": "Pohnpei",
+    "type": "area",
+    "parent": "micronesia",
+    "description": "Diving in Pohnpei.",
+    "coordinates": [
+      6.9207,
+      158.2239
+    ]
+  },
+  "yap": {
+    "children": [],
+    "id": "yap",
+    "name": "Yap",
+    "type": "area",
+    "parent": "micronesia",
+    "description": "Diving in Yap.",
+    "coordinates": [
+      9.4891,
+      138.0955
+    ]
+  },
+  "yap-state": {
+    "children": [],
+    "id": "yap-state",
+    "name": "Yap State",
+    "type": "area",
+    "parent": "micronesia",
+    "description": "Diving in Yap State.",
+    "coordinates": [
+      9.4661,
+      138.1191
+    ]
   },
   "new-caledonia": {
     "children": [],
@@ -240,33 +743,464 @@
     ],
     "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&h=600&fit=crop"
   },
-  "cook-islands": {
+  "loyalty-islands": {
     "children": [],
-    "id": "cook-islands",
-    "name": "Cook Islands",
+    "id": "loyalty-islands",
+    "name": "Loyalty Islands",
+    "type": "area",
+    "parent": "new-caledonia",
+    "description": "Diving in Loyalty Islands.",
+    "coordinates": [
+      -20.846,
+      167.082
+    ]
+  },
+  "loyalty-islands-province": {
+    "children": [],
+    "id": "loyalty-islands-province",
+    "name": "Loyalty Islands Province",
+    "type": "area",
+    "parent": "new-caledonia",
+    "description": "Diving in Loyalty Islands Province.",
+    "coordinates": [
+      -20.9667,
+      167.2479
+    ]
+  },
+  "north-province": {
+    "children": [],
+    "id": "north-province",
+    "name": "North Province",
+    "type": "area",
+    "parent": "new-caledonia",
+    "description": "Diving in North Province.",
+    "coordinates": [
+      -20.5389,
+      164.6611
+    ]
+  },
+  "south-province": {
+    "children": [],
+    "id": "south-province",
+    "name": "South Province",
+    "type": "area",
+    "parent": "new-caledonia",
+    "description": "Diving in South Province.",
+    "coordinates": [
+      -22.3886,
+      166.6782
+    ]
+  },
+  "palau": {
+    "children": [],
+    "id": "palau",
+    "name": "Palau",
+    "aliases": [
+      "Belau"
+    ],
     "type": "country",
     "parent": "south-pacific",
-    "description": "Crystal clear lagoons and relaxed island diving.",
+    "description": "Famed for Blue Corner, Jellyfish Lake, and pristine reefs with sharks and big pelagics.",
     "coordinates": [
-      -21.2367,
-      -159.7777
+      7.51498,
+      134.5825
     ],
-    "bestTime": "May–October for best conditions.",
+    "bestTime": "November–May for best conditions.",
+    "floraFauna": [
+      "sharks",
+      "reef-fish",
+      "corals",
+      "jellyfish"
+    ],
+    "tags": [
+      "pristine",
+      "sharks",
+      "jellyfish",
+      "big animals",
+      "reefs"
+    ],
+    "image": "https://images.unsplash.com/photo-1465101046530-73398c7f28ca?w=800&h=600&fit=crop"
+  },
+  "airai": {
+    "children": [],
+    "id": "airai",
+    "name": "Airai",
+    "type": "area",
+    "parent": "palau",
+    "description": "Diving in Airai.",
+    "coordinates": [
+      7.3838,
+      134.5538
+    ]
+  },
+  "angaur": {
+    "children": [],
+    "id": "angaur",
+    "name": "Angaur",
+    "type": "area",
+    "parent": "palau",
+    "description": "Diving in Angaur.",
+    "coordinates": [
+      6.9006,
+      134.1384
+    ]
+  },
+  "kayangel": {
+    "children": [],
+    "id": "kayangel",
+    "name": "Kayangel",
+    "type": "area",
+    "parent": "palau",
+    "description": "Diving in Kayangel.",
+    "coordinates": [
+      8.1701,
+      134.679
+    ]
+  },
+  "koror": {
+    "children": [],
+    "id": "koror",
+    "name": "Koror",
+    "type": "area",
+    "parent": "palau",
+    "description": "Diving in Koror.",
+    "coordinates": [
+      7.2176,
+      134.3346
+    ]
+  },
+  "ngarchelong": {
+    "children": [],
+    "id": "ngarchelong",
+    "name": "Ngarchelong",
+    "type": "area",
+    "parent": "palau",
+    "description": "Diving in Ngarchelong.",
+    "coordinates": [
+      7.798,
+      134.6475
+    ]
+  },
+  "ngardmau": {
+    "children": [],
+    "id": "ngardmau",
+    "name": "Ngardmau",
+    "type": "area",
+    "parent": "palau",
+    "description": "Diving in Ngardmau.",
+    "coordinates": [
+      7.6234,
+      134.5789
+    ]
+  },
+  "ngchesar": {
+    "children": [],
+    "id": "ngchesar",
+    "name": "Ngchesar",
+    "type": "area",
+    "parent": "palau",
+    "description": "Diving in Ngchesar.",
+    "coordinates": [
+      7.4123,
+      134.5734
+    ]
+  },
+  "peleliu": {
+    "children": [],
+    "id": "peleliu",
+    "name": "Peleliu",
+    "type": "area",
+    "parent": "palau",
+    "description": "Diving in Peleliu.",
+    "coordinates": [
+      6.9893,
+      134.2162
+    ]
+  },
+  "rock-islands": {
+    "children": [],
+    "id": "rock-islands",
+    "name": "Rock Islands",
+    "type": "area",
+    "parent": "palau",
+    "description": "Diving in Rock Islands.",
+    "coordinates": [
+      7.2611,
+      134.3438
+    ]
+  },
+  "papua-new-guinea": {
+    "children": [],
+    "id": "papua-new-guinea",
+    "name": "Papua New Guinea",
+    "aliases": [
+      "Papua Niugini"
+    ],
+    "type": "country",
+    "parent": "south-pacific",
+    "description": "World-class diving with coral reefs, WWII wrecks, and incredible biodiversity.",
+    "coordinates": [
+      -6.314993,
+      143.9555
+    ]
+  },
+  "east-new-britain": {
+    "children": [],
+    "id": "east-new-britain",
+    "name": "East New Britain",
+    "type": "area",
+    "parent": "papua-new-guinea",
+    "description": "Diving in East New Britain.",
+    "coordinates": [
+      -4.24,
+      152.2012
+    ]
+  },
+  "madang": {
+    "children": [],
+    "id": "madang",
+    "name": "Madang",
+    "type": "area",
+    "parent": "papua-new-guinea",
+    "description": "Diving in Madang.",
+    "coordinates": [
+      -5.1131,
+      145.7191
+    ]
+  },
+  "madang-province": {
+    "children": [],
+    "id": "madang-province",
+    "name": "Madang Province",
+    "type": "area",
+    "parent": "papua-new-guinea",
+    "description": "Diving in Madang Province.",
+    "coordinates": [
+      -5.1138,
+      145.7238
+    ]
+  },
+  "milne-bay": {
+    "children": [],
+    "id": "milne-bay",
+    "name": "Milne Bay",
+    "type": "area",
+    "parent": "papua-new-guinea",
+    "description": "Famous for muck diving, reefs, and WWII wrecks in PNG's southeast.",
+    "coordinates": [
+      -10.3,
+      150.5
+    ]
+  },
+  "milne-bay-province": {
+    "children": [],
+    "id": "milne-bay-province",
+    "name": "Milne Bay Province",
+    "type": "area",
+    "parent": "papua-new-guinea",
+    "description": "Diving in Milne Bay Province.",
+    "coordinates": [
+      -10.3405,
+      150.6646
+    ]
+  },
+  "national-capital-district": {
+    "children": [],
+    "id": "national-capital-district",
+    "name": "National Capital District",
+    "type": "area",
+    "parent": "papua-new-guinea",
+    "description": "Diving in National Capital District.",
+    "coordinates": [
+      -9.523,
+      147.302
+    ]
+  },
+  "new-ireland": {
+    "children": [],
+    "id": "new-ireland",
+    "name": "New Ireland",
+    "type": "area",
+    "parent": "papua-new-guinea",
+    "description": "Diving in New Ireland.",
+    "coordinates": [
+      -2.5415,
+      150.6732
+    ]
+  },
+  "new-ireland-province": {
+    "children": [],
+    "id": "new-ireland-province",
+    "name": "New Ireland Province",
+    "type": "area",
+    "parent": "papua-new-guinea",
+    "description": "Diving in New Ireland Province.",
+    "coordinates": [
+      -2.5176,
+      150.6257
+    ]
+  },
+  "oro-province": {
+    "children": [],
+    "id": "oro-province",
+    "name": "Oro Province",
+    "type": "area",
+    "parent": "papua-new-guinea",
+    "description": "Diving in Oro Province.",
+    "coordinates": [
+      -9.0901,
+      149.3145
+    ]
+  },
+  "west-new-britain": {
+    "children": [],
+    "id": "west-new-britain",
+    "name": "West New Britain",
+    "type": "area",
+    "parent": "papua-new-guinea",
+    "description": "Diving in West New Britain.",
+    "coordinates": [
+      -5.3405,
+      150.1397
+    ]
+  },
+  "west-new-britain-province": {
+    "children": [],
+    "id": "west-new-britain-province",
+    "name": "West New Britain Province",
+    "type": "area",
+    "parent": "papua-new-guinea",
+    "description": "Diving in West New Britain Province.",
+    "coordinates": [
+      -5.348,
+      150.1725
+    ]
+  },
+  "samoa": {
+    "children": [],
+    "id": "samoa",
+    "name": "Samoa",
+    "type": "country",
+    "parent": "south-pacific",
+    "description": "Lava tubes, drop-offs, and vibrant reefs in a laid-back setting.",
+    "coordinates": [
+      -13.759,
+      -172.1046
+    ]
+  },
+  "savaii": {
+    "children": [],
+    "id": "savaii",
+    "name": "Savai'i",
+    "type": "area",
+    "parent": "samoa",
+    "description": "Diving in Savai'i.",
+    "coordinates": [
+      -13.5681,
+      -172.4993
+    ]
+  },
+  "upolu": {
+    "children": [],
+    "id": "upolu",
+    "name": "Upolu",
+    "type": "area",
+    "parent": "samoa",
+    "description": "Diving in Upolu.",
+    "coordinates": [
+      -13.9194,
+      -171.8447
+    ]
+  },
+  "solomon-islands": {
+    "children": [],
+    "id": "solomon-islands",
+    "name": "Solomon Islands",
+    "type": "country",
+    "parent": "south-pacific",
+    "description": "Remote WWII wrecks, lush reefs, and uncrowded diving.",
+    "coordinates": [
+      -9.6457,
+      160.1562
+    ],
+    "bestTime": "May–November for best conditions.",
     "floraFauna": [
       "hard corals",
       "soft corals",
       "reef fish",
-      "turtles",
-      "groupers"
+      "sharks",
+      "groupers",
+      "turtles"
     ],
     "tags": [
       "tropical",
       "coral",
       "reefs",
-      "lagoon",
-      "relaxed"
+      "wrecks",
+      "pristine",
+      "remote"
     ],
-    "image": "https://images.unsplash.com/photo-1464983953574-0892a716854b?w=800&h=600&fit=crop"
+    "image": "https://images.unsplash.com/photo-1465101046530-73398c7f28ca?w=800&h=600&fit=crop"
+  },
+  "central-province": {
+    "children": [],
+    "id": "central-province",
+    "name": "Central Province",
+    "type": "area",
+    "parent": "solomon-islands",
+    "description": "Diving in Central Province.",
+    "coordinates": [
+      -9.0911,
+      159.4715
+    ]
+  },
+  "guadalcanal": {
+    "children": [],
+    "id": "guadalcanal",
+    "name": "Guadalcanal",
+    "type": "area",
+    "parent": "solomon-islands",
+    "description": "Diving in Guadalcanal.",
+    "coordinates": [
+      -9.4286,
+      159.925
+    ]
+  },
+  "guadalcanal-province": {
+    "children": [],
+    "id": "guadalcanal-province",
+    "name": "Guadalcanal Province",
+    "type": "area",
+    "parent": "solomon-islands",
+    "description": "Diving in Guadalcanal Province.",
+    "coordinates": [
+      -9.4068,
+      159.976
+    ]
+  },
+  "isabel-province": {
+    "children": [],
+    "id": "isabel-province",
+    "name": "Isabel Province",
+    "type": "area",
+    "parent": "solomon-islands",
+    "description": "Diving in Isabel Province.",
+    "coordinates": [
+      -8.4166,
+      159.2734
+    ]
+  },
+  "western-province": {
+    "children": [],
+    "id": "western-province",
+    "name": "Western Province",
+    "type": "area",
+    "parent": "solomon-islands",
+    "description": "Diving in Western Province.",
+    "coordinates": [
+      -5.2074,
+      141.2658
+    ]
   },
   "tonga": {
     "children": [],
@@ -296,19 +1230,153 @@
     ],
     "image": "https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?w=800&h=600&fit=crop"
   },
-  "papua-new-guinea": {
+  "haapai": {
     "children": [],
-    "id": "papua-new-guinea",
-    "name": "Papua New Guinea",
-    "aliases": [
-      "Papua Niugini"
-    ],
+    "id": "haapai",
+    "name": "Ha'apai",
+    "type": "area",
+    "parent": "tonga",
+    "description": "Diving in Ha'apai.",
+    "coordinates": [
+      -19.8197,
+      -174.491
+    ]
+  },
+  "tongatapu": {
+    "children": [],
+    "id": "tongatapu",
+    "name": "Tongatapu",
+    "type": "area",
+    "parent": "tonga",
+    "description": "Diving in Tongatapu.",
+    "coordinates": [
+      -21.1996,
+      -175.0878
+    ]
+  },
+  "vava": {
+    "children": [],
+    "id": "vava",
+    "name": "Vavaú",
+    "type": "area",
+    "parent": "tonga",
+    "description": "Diving in Vavaú.",
+    "coordinates": [
+      -17.5833,
+      -173.95
+    ]
+  },
+  "vavau": {
+    "children": [],
+    "id": "vavau",
+    "name": "Vava'u",
+    "type": "area",
+    "parent": "tonga",
+    "description": "Diving in Vava'u.",
+    "coordinates": [
+      -18.6355,
+      -173.9566
+    ]
+  },
+  "vanuatu": {
+    "children": [],
+    "id": "vanuatu",
+    "name": "Vanuatu",
     "type": "country",
     "parent": "south-pacific",
-    "description": "World-class diving with coral reefs, WWII wrecks, and incredible biodiversity.",
+    "description": "Wreck diving paradise, home to the SS President Coolidge and blue holes.",
     "coordinates": [
-      -6.314993,
-      143.9555
+      -15.3767,
+      166.9592
+    ],
+    "bestTime": "May–October for best conditions.",
+    "floraFauna": [
+      "hard corals",
+      "soft corals",
+      "reef fish",
+      "sharks",
+      "groupers",
+      "turtles"
+    ],
+    "tags": [
+      "tropical",
+      "coral",
+      "reefs",
+      "wrecks",
+      "blue holes"
+    ],
+    "image": "https://images.unsplash.com/photo-1518717758536-85ae29035b6d?w=800&h=600&fit=crop"
+  },
+  "penama": {
+    "children": [],
+    "id": "penama",
+    "name": "Penama",
+    "type": "area",
+    "parent": "vanuatu",
+    "description": "Diving in Penama.",
+    "coordinates": [
+      -15.32,
+      168.0443
+    ]
+  },
+  "sanma": {
+    "children": [],
+    "id": "sanma",
+    "name": "Sanma",
+    "type": "area",
+    "parent": "vanuatu",
+    "description": "Diving in Sanma.",
+    "coordinates": [
+      -15.5186,
+      167.2366
+    ]
+  },
+  "sanma-province": {
+    "children": [],
+    "id": "sanma-province",
+    "name": "Sanma Province",
+    "type": "area",
+    "parent": "vanuatu",
+    "description": "Diving in Sanma Province.",
+    "coordinates": [
+      -15.5518,
+      167.2766
+    ]
+  },
+  "shefa": {
+    "children": [],
+    "id": "shefa",
+    "name": "Shefa",
+    "type": "area",
+    "parent": "vanuatu",
+    "description": "Diving in Shefa.",
+    "coordinates": [
+      -17.5557,
+      168.2443
+    ]
+  },
+  "shefa-province": {
+    "children": [],
+    "id": "shefa-province",
+    "name": "Shefa Province",
+    "type": "area",
+    "parent": "vanuatu",
+    "description": "Diving in Shefa Province.",
+    "coordinates": [
+      -17.6671,
+      168.2834
+    ]
+  },
+  "tafea": {
+    "children": [],
+    "id": "tafea",
+    "name": "Tafea",
+    "type": "area",
+    "parent": "vanuatu",
+    "description": "Diving in Tafea.",
+    "coordinates": [
+      -19.2693,
+      169.3247
     ]
   },
   "kimbe-bay": {
@@ -321,18 +1389,6 @@
     "coordinates": [
       -5.2167,
       150.0833
-    ]
-  },
-  "milne-bay": {
-    "children": [],
-    "id": "milne-bay",
-    "name": "Milne Bay",
-    "type": "area",
-    "parent": "papua-new-guinea",
-    "description": "Famous for muck diving, reefs, and WWII wrecks in PNG's southeast.",
-    "coordinates": [
-      -10.3,
-      150.5
     ]
   },
   "tufi": {
@@ -357,18 +1413,6 @@
     "coordinates": [
       -5.2833,
       150.0833
-    ]
-  },
-  "samoa": {
-    "children": [],
-    "id": "samoa",
-    "name": "Samoa",
-    "type": "country",
-    "parent": "south-pacific",
-    "description": "Lava tubes, drop-offs, and vibrant reefs in a laid-back setting.",
-    "coordinates": [
-      -13.759,
-      -172.1046
     ]
   },
   "niue": {

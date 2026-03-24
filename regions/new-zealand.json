@@ -28,6 +28,105 @@
     ],
     "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&h=600&fit=crop"
   },
+  "auckland": {
+    "children": [],
+    "id": "auckland",
+    "name": "Auckland",
+    "type": "area",
+    "parent": "new-zealand",
+    "description": "Diving in Auckland.",
+    "coordinates": [
+      -36.3166,
+      174.9481
+    ]
+  },
+  "bay-of-plenty": {
+    "children": [],
+    "id": "bay-of-plenty",
+    "name": "Bay of Plenty",
+    "type": "area",
+    "parent": "new-zealand",
+    "description": "Diving in Bay of Plenty.",
+    "coordinates": [
+      -37.3879,
+      176.5115
+    ]
+  },
+  "marlborough": {
+    "children": [],
+    "id": "marlborough",
+    "name": "Marlborough",
+    "type": "area",
+    "parent": "new-zealand",
+    "description": "Diving in Marlborough.",
+    "coordinates": [
+      -41.0487,
+      174.2031
+    ]
+  },
+  "north-island": {
+    "children": [],
+    "id": "north-island",
+    "name": "North Island",
+    "type": "area",
+    "parent": "new-zealand",
+    "description": "Diving in North Island.",
+    "coordinates": [
+      -19.9117,
+      115.0666
+    ]
+  },
+  "northland": {
+    "children": [],
+    "id": "northland",
+    "name": "Northland",
+    "type": "area",
+    "parent": "new-zealand",
+    "description": "Diving in Northland.",
+    "coordinates": [
+      -35.4091,
+      174.575
+    ]
+  },
+  "waikato": {
+    "children": [],
+    "id": "waikato",
+    "name": "Waikato",
+    "type": "area",
+    "parent": "new-zealand",
+    "description": "Diving in Waikato.",
+    "coordinates": [
+      -36.8855,
+      175.8863
+    ]
+  },
+  "wellington": {
+    "children": [],
+    "id": "wellington",
+    "name": "Wellington",
+    "type": "area",
+    "parent": "new-zealand",
+    "description": "Kelp forests, wrecks, and diverse marine life at the bottom of the North Island.",
+    "coordinates": [
+      -41.2865,
+      174.7762
+    ],
+    "bestTime": "December–May for best conditions.",
+    "floraFauna": [
+      "kelp forests",
+      "reef fish",
+      "nudibranchs",
+      "octopus"
+    ],
+    "tags": [
+      "temperate",
+      "kelp",
+      "reefs",
+      "wrecks",
+      "diverse"
+    ],
+    "image": "https://images.unsplash.com/photo-1465101046530-73398c7f28ca?w=800&h=600&fit=crop"
+  },
   "poor-knights-islands": {
     "children": [],
     "id": "poor-knights-islands",
@@ -187,32 +286,5 @@
       "easy"
     ],
     "image": "https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?w=800&h=600&fit=crop"
-  },
-  "wellington": {
-    "children": [],
-    "id": "wellington",
-    "name": "Wellington",
-    "type": "area",
-    "parent": "new-zealand",
-    "description": "Kelp forests, wrecks, and diverse marine life at the bottom of the North Island.",
-    "coordinates": [
-      -41.2865,
-      174.7762
-    ],
-    "bestTime": "December–May for best conditions.",
-    "floraFauna": [
-      "kelp forests",
-      "reef fish",
-      "nudibranchs",
-      "octopus"
-    ],
-    "tags": [
-      "temperate",
-      "kelp",
-      "reefs",
-      "wrecks",
-      "diverse"
-    ],
-    "image": "https://images.unsplash.com/photo-1465101046530-73398c7f28ca?w=800&h=600&fit=crop"
   }
 }

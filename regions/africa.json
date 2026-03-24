@@ -36,6 +36,688 @@
       "Moçambique"
     ]
   },
+  "comoros": {
+    "children": [],
+    "id": "comoros",
+    "name": "Comoros",
+    "type": "country",
+    "parent": "africa",
+    "description": "Diving in Comoros.",
+    "coordinates": [
+      -11.9082,
+      43.4713
+    ]
+  },
+  "grande-comore": {
+    "children": [],
+    "id": "grande-comore",
+    "name": "Grande Comore",
+    "type": "area",
+    "parent": "comoros",
+    "description": "Diving in Grande Comore.",
+    "coordinates": [
+      -11.7042,
+      43.2551
+    ]
+  },
+  "kenya": {
+    "children": [],
+    "id": "kenya",
+    "name": "Kenya",
+    "type": "country",
+    "parent": "africa",
+    "description": "Indian Ocean reefs, turtles, and big pelagics.",
+    "coordinates": [
+      -1.2921,
+      36.8219
+    ],
+    "bestTime": "October–March for best visibility and pelagics.",
+    "floraFauna": [
+      "hard corals",
+      "soft corals",
+      "turtles",
+      "reef sharks",
+      "dolphins",
+      "whale sharks"
+    ],
+    "tags": [
+      "tropical",
+      "coral",
+      "turtles",
+      "big animals",
+      "reefs"
+    ],
+    "image": "https://images.unsplash.com/photo-1518717758536-85ae29035b6d?w=800&h=600&fit=crop"
+  },
+  "kilifi-county": {
+    "children": [],
+    "id": "kilifi-county",
+    "name": "Kilifi County",
+    "type": "area",
+    "parent": "kenya",
+    "description": "Diving in Kilifi County.",
+    "coordinates": [
+      -3.2952,
+      40.095
+    ]
+  },
+  "kwale": {
+    "children": [],
+    "id": "kwale",
+    "name": "Kwale",
+    "type": "area",
+    "parent": "kenya",
+    "description": "Diving in Kwale.",
+    "coordinates": [
+      -4.3202,
+      39.5871
+    ]
+  },
+  "kwale-county": {
+    "children": [],
+    "id": "kwale-county",
+    "name": "Kwale County",
+    "type": "area",
+    "parent": "kenya",
+    "description": "Diving in Kwale County.",
+    "coordinates": [
+      -4.5233,
+      39.4641
+    ]
+  },
+  "mombasa-county": {
+    "children": [],
+    "id": "mombasa-county",
+    "name": "Mombasa County",
+    "type": "area",
+    "parent": "kenya",
+    "description": "Diving in Mombasa County.",
+    "coordinates": [
+      -4.0466,
+      39.7315
+    ]
+  },
+  "mayotte": {
+    "children": [],
+    "id": "mayotte",
+    "name": "Mayotte",
+    "type": "country",
+    "parent": "africa",
+    "description": "Diving in Mayotte.",
+    "coordinates": [
+      -12.8128,
+      45.1997
+    ]
+  },
+  "mozambique": {
+    "children": [],
+    "id": "mozambique",
+    "name": "Mozambique",
+    "type": "country",
+    "parent": "africa",
+    "description": "Whale sharks, manta rays, and pristine Indian Ocean beaches.",
+    "coordinates": [
+      -18.6657,
+      35.5296
+    ],
+    "bestTime": "May–November for best visibility and big animals.",
+    "floraFauna": [
+      "whale sharks",
+      "manta rays",
+      "turtles",
+      "dolphins",
+      "hard corals",
+      "soft corals",
+      "reef fish"
+    ],
+    "tags": [
+      "whale sharks",
+      "mantas",
+      "tropical",
+      "coral",
+      "big animals",
+      "beaches"
+    ],
+    "image": "https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?w=800&h=600&fit=crop"
+  },
+  "cabo-delgado-province": {
+    "children": [],
+    "id": "cabo-delgado-province",
+    "name": "Cabo Delgado Province",
+    "type": "area",
+    "parent": "mozambique",
+    "description": "Diving in Cabo Delgado Province.",
+    "coordinates": [
+      -11.9661,
+      40.6239
+    ]
+  },
+  "inhambane": {
+    "children": [],
+    "id": "inhambane",
+    "name": "Inhambane",
+    "type": "area",
+    "parent": "mozambique",
+    "description": "Diving in Inhambane.",
+    "coordinates": [
+      -23.5338,
+      35.5298
+    ]
+  },
+  "inhambane-province": {
+    "children": [],
+    "id": "inhambane-province",
+    "name": "Inhambane Province",
+    "type": "area",
+    "parent": "mozambique",
+    "description": "Diving in Inhambane Province.",
+    "coordinates": [
+      -22.6549,
+      35.508
+    ]
+  },
+  "maputo-province": {
+    "children": [],
+    "id": "maputo-province",
+    "name": "Maputo Province",
+    "type": "area",
+    "parent": "mozambique",
+    "description": "Diving in Maputo Province.",
+    "coordinates": [
+      -26.5709,
+      32.9254
+    ]
+  },
+  "south-africa": {
+    "children": [],
+    "id": "south-africa",
+    "name": "South Africa",
+    "type": "country",
+    "parent": "africa",
+    "description": "Shark diving, sardine run, kelp forests, and subtropical reefs.",
+    "coordinates": [
+      -30.5595,
+      22.9375
+    ],
+    "bestTime": "May–September for sharks and sardine run; year-round for kelp forests.",
+    "floraFauna": [
+      "great white sharks",
+      "ragged-tooth sharks",
+      "sardines",
+      "seals",
+      "kelp forests",
+      "reef fish"
+    ],
+    "tags": [
+      "sharks",
+      "kelp",
+      "sardine run",
+      "big animals",
+      "cold",
+      "temperate",
+      "adventure"
+    ],
+    "image": "https://images.unsplash.com/photo-1464983953574-0892a716854b?w=800&h=600&fit=crop"
+  },
+  "eastern-cape": {
+    "children": [],
+    "id": "eastern-cape",
+    "name": "Eastern Cape",
+    "type": "area",
+    "parent": "south-africa",
+    "description": "Diving in Eastern Cape.",
+    "coordinates": [
+      -33.0438,
+      27.1679
+    ]
+  },
+  "gauteng": {
+    "children": [],
+    "id": "gauteng",
+    "name": "Gauteng",
+    "type": "area",
+    "parent": "south-africa",
+    "description": "Diving in Gauteng.",
+    "coordinates": [
+      -26.5,
+      28.1
+    ]
+  },
+  "kwazulu-natal": {
+    "children": [],
+    "id": "kwazulu-natal",
+    "name": "KwaZulu-Natal",
+    "type": "area",
+    "parent": "south-africa",
+    "description": "Diving in KwaZulu-Natal.",
+    "coordinates": [
+      -28.9634,
+      31.6994
+    ]
+  },
+  "mpumalanga": {
+    "children": [],
+    "id": "mpumalanga",
+    "name": "Mpumalanga",
+    "type": "area",
+    "parent": "south-africa",
+    "description": "Diving in Mpumalanga.",
+    "coordinates": [
+      -25.9289,
+      30.7102
+    ]
+  },
+  "north-west": {
+    "children": [],
+    "id": "north-west",
+    "name": "North West",
+    "type": "area",
+    "parent": "south-africa",
+    "description": "Diving in North West.",
+    "coordinates": [
+      -25.677,
+      27.758
+    ]
+  },
+  "western-cape": {
+    "children": [],
+    "id": "western-cape",
+    "name": "Western Cape",
+    "type": "area",
+    "parent": "south-africa",
+    "description": "Diving in Western Cape.",
+    "coordinates": [
+      -34.1819,
+      18.9113
+    ]
+  },
+  "tanzania": {
+    "children": [],
+    "id": "tanzania",
+    "name": "Tanzania",
+    "type": "country",
+    "parent": "africa",
+    "description": "Zanzibar, Mafia Island, and vibrant coral reefs.",
+    "coordinates": [
+      -6.369,
+      34.8888
+    ],
+    "bestTime": "October–March for best conditions.",
+    "floraFauna": [
+      "hard corals",
+      "soft corals",
+      "whale sharks",
+      "turtles",
+      "dolphins",
+      "reef fish"
+    ],
+    "tags": [
+      "tropical",
+      "coral",
+      "whale sharks",
+      "reefs",
+      "islands"
+    ],
+    "image": "https://images.unsplash.com/photo-1465101046530-73398c7f28ca?w=800&h=600&fit=crop"
+  },
+  "dar-es-salaam-region": {
+    "children": [],
+    "id": "dar-es-salaam-region",
+    "name": "Dar es Salaam Region",
+    "type": "area",
+    "parent": "tanzania",
+    "description": "Diving in Dar es Salaam Region.",
+    "coordinates": [
+      -6.7712,
+      39.3521
+    ]
+  },
+  "mafia-island": {
+    "children": [],
+    "id": "mafia-island",
+    "name": "Mafia Island",
+    "type": "area",
+    "parent": "tanzania",
+    "description": "Diving in Mafia Island.",
+    "coordinates": [
+      -7.91,
+      39.7772
+    ]
+  },
+  "mjini-magharibi-region": {
+    "children": [],
+    "id": "mjini-magharibi-region",
+    "name": "Mjini Magharibi Region",
+    "type": "area",
+    "parent": "tanzania",
+    "description": "Diving in Mjini Magharibi Region.",
+    "coordinates": [
+      -6.14,
+      39.21
+    ]
+  },
+  "pemba-north": {
+    "children": [],
+    "id": "pemba-north",
+    "name": "Pemba North",
+    "type": "area",
+    "parent": "tanzania",
+    "description": "Diving in Pemba North.",
+    "coordinates": [
+      -5.0098,
+      39.7565
+    ]
+  },
+  "pemba-north-region": {
+    "children": [],
+    "id": "pemba-north-region",
+    "name": "Pemba North Region",
+    "type": "area",
+    "parent": "tanzania",
+    "description": "Diving in Pemba North Region.",
+    "coordinates": [
+      -5.0188,
+      39.7488
+    ]
+  },
+  "pemba-south": {
+    "children": [],
+    "id": "pemba-south",
+    "name": "Pemba South",
+    "type": "area",
+    "parent": "tanzania",
+    "description": "Diving in Pemba South.",
+    "coordinates": [
+      -5.467,
+      39.665
+    ]
+  },
+  "pemba-south-region": {
+    "children": [],
+    "id": "pemba-south-region",
+    "name": "Pemba South Region",
+    "type": "area",
+    "parent": "tanzania",
+    "description": "Diving in Pemba South Region.",
+    "coordinates": [
+      -5.2978,
+      39.7257
+    ]
+  },
+  "pwani-region": {
+    "children": [],
+    "id": "pwani-region",
+    "name": "Pwani Region",
+    "type": "area",
+    "parent": "tanzania",
+    "description": "Diving in Pwani Region.",
+    "coordinates": [
+      -7.9197,
+      39.7719
+    ]
+  },
+  "unguja-mjini-magharibi": {
+    "children": [],
+    "id": "unguja-mjini-magharibi",
+    "name": "Unguja Mjini Magharibi",
+    "type": "area",
+    "parent": "tanzania",
+    "description": "Diving in Unguja Mjini Magharibi.",
+    "coordinates": [
+      -6.159,
+      39.1431
+    ]
+  },
+  "unguja-north-region": {
+    "children": [],
+    "id": "unguja-north-region",
+    "name": "Unguja North Region",
+    "type": "area",
+    "parent": "tanzania",
+    "description": "Diving in Unguja North Region.",
+    "coordinates": [
+      -5.828,
+      39.326
+    ]
+  },
+  "unguja-south-region": {
+    "children": [],
+    "id": "unguja-south-region",
+    "name": "Unguja South Region",
+    "type": "area",
+    "parent": "tanzania",
+    "description": "Diving in Unguja South Region.",
+    "coordinates": [
+      -6.2323,
+      39.4926
+    ]
+  },
+  "zanzibar-north": {
+    "children": [],
+    "id": "zanzibar-north",
+    "name": "Zanzibar North",
+    "type": "area",
+    "parent": "tanzania",
+    "description": "Diving in Zanzibar North.",
+    "coordinates": [
+      -5.8735,
+      39.3014
+    ]
+  },
+  "zanzibar-south": {
+    "children": [],
+    "id": "zanzibar-south",
+    "name": "Zanzibar South",
+    "type": "area",
+    "parent": "tanzania",
+    "description": "Diving in Zanzibar South.",
+    "coordinates": [
+      -6.3437,
+      39.53
+    ]
+  },
+  "zanzibar-urbanwest": {
+    "children": [],
+    "id": "zanzibar-urbanwest",
+    "name": "Zanzibar Urban/West",
+    "type": "area",
+    "parent": "tanzania",
+    "description": "Diving in Zanzibar Urban/West.",
+    "coordinates": [
+      -6.1372,
+      39.1722
+    ]
+  },
+  "morocco": {
+    "children": [],
+    "id": "morocco",
+    "name": "Morocco",
+    "type": "country",
+    "parent": "africa",
+    "description": "Atlantic coast diving, kelp forests, and rocky reefs.",
+    "coordinates": [
+      31.7917,
+      -7.0926
+    ],
+    "bestTime": "May–October for best conditions.",
+    "floraFauna": [
+      "kelp forests",
+      "octopus"
+    ],
+    "tags": [
+      "kelp",
+      "atlantic",
+      "rocky reefs",
+      "temperate",
+      "shore diving"
+    ],
+    "image": "https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?w=800&h=600&fit=crop"
+  },
+  "casablanca-settat": {
+    "children": [],
+    "id": "casablanca-settat",
+    "name": "Casablanca-Settat",
+    "type": "area",
+    "parent": "morocco",
+    "description": "Diving in Casablanca-Settat.",
+    "coordinates": [
+      33.2775,
+      -8.3987
+    ]
+  },
+  "dakhla-oued-ed-dahab": {
+    "children": [],
+    "id": "dakhla-oued-ed-dahab",
+    "name": "Dakhla-Oued Ed-Dahab",
+    "type": "area",
+    "parent": "morocco",
+    "description": "Diving in Dakhla-Oued Ed-Dahab.",
+    "coordinates": [
+      23.58,
+      -15.94
+    ]
+  },
+  "marrakech-safi": {
+    "children": [],
+    "id": "marrakech-safi",
+    "name": "Marrakech-Safi",
+    "type": "area",
+    "parent": "morocco",
+    "description": "Diving in Marrakech-Safi.",
+    "coordinates": [
+      31.51,
+      -9.77
+    ]
+  },
+  "oriental": {
+    "children": [],
+    "id": "oriental",
+    "name": "Oriental",
+    "type": "area",
+    "parent": "morocco",
+    "description": "Diving in Oriental.",
+    "coordinates": [
+      35.1133,
+      -2.53
+    ]
+  },
+  "souss-massa": {
+    "children": [],
+    "id": "souss-massa",
+    "name": "Souss-Massa",
+    "type": "area",
+    "parent": "morocco",
+    "description": "Diving in Souss-Massa.",
+    "coordinates": [
+      30.4517,
+      -9.6717
+    ]
+  },
+  "tanger-tetouan-al-hoceima": {
+    "children": [],
+    "id": "tanger-tetouan-al-hoceima",
+    "name": "Tanger-Tetouan-Al Hoceima",
+    "type": "area",
+    "parent": "morocco",
+    "description": "Diving in Tanger-Tetouan-Al Hoceima.",
+    "coordinates": [
+      35.5129,
+      -4.918
+    ]
+  },
+  "djibouti": {
+    "children": [],
+    "id": "djibouti",
+    "name": "Djibouti",
+    "type": "country",
+    "parent": "africa",
+    "description": "Whale sharks, Gulf of Tadjoura, and unique marine life.",
+    "coordinates": [
+      11.8251,
+      42.5903
+    ],
+    "bestTime": "November–February for whale sharks.",
+    "floraFauna": [
+      "whale sharks",
+      "hard corals",
+      "soft corals",
+      "reef fish"
+    ],
+    "tags": [
+      "whale sharks",
+      "tropical",
+      "unique",
+      "coral",
+      "seasonal"
+    ],
+    "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&h=600&fit=crop"
+  },
+  "obock": {
+    "children": [],
+    "id": "obock",
+    "name": "Obock",
+    "type": "area",
+    "parent": "djibouti",
+    "description": "Diving in Obock.",
+    "coordinates": [
+      12.4619,
+      43.4322
+    ]
+  },
+  "tadjourah": {
+    "children": [],
+    "id": "tadjourah",
+    "name": "Tadjourah",
+    "type": "area",
+    "parent": "djibouti",
+    "description": "Diving in Tadjourah.",
+    "coordinates": [
+      11.6338,
+      42.7431
+    ]
+  },
+  "sudan": {
+    "children": [],
+    "id": "sudan",
+    "name": "Sudan",
+    "type": "country",
+    "parent": "africa",
+    "description": "Red Sea wrecks, sharks, and pristine reefs.",
+    "coordinates": [
+      12.8628,
+      30.2176
+    ],
+    "bestTime": "October–June for best conditions.",
+    "floraFauna": [
+      "hammerhead sharks",
+      "reef sharks",
+      "hard corals",
+      "soft corals",
+      "barracuda",
+      "turtles"
+    ],
+    "tags": [
+      "red sea",
+      "sharks",
+      "wrecks",
+      "pristine",
+      "coral",
+      "advanced"
+    ],
+    "image": "https://images.unsplash.com/photo-1501594907352-04cda38ebc29?w=800&h=600&fit=crop"
+  },
+  "red-sea-state": {
+    "children": [],
+    "id": "red-sea-state",
+    "name": "Red Sea State",
+    "type": "area",
+    "parent": "sudan",
+    "description": "Diving in Red Sea State.",
+    "coordinates": [
+      19.694,
+      37.3523
+    ]
+  },
   "namibia": {
     "children": [],
     "id": "namibia",
@@ -75,183 +757,6 @@
       40.4897
     ]
   },
-  "south-africa": {
-    "children": [],
-    "id": "south-africa",
-    "name": "South Africa",
-    "type": "country",
-    "parent": "africa",
-    "description": "Shark diving, sardine run, kelp forests, and subtropical reefs.",
-    "coordinates": [
-      -30.5595,
-      22.9375
-    ],
-    "bestTime": "May–September for sharks and sardine run; year-round for kelp forests.",
-    "floraFauna": [
-      "great white sharks",
-      "ragged-tooth sharks",
-      "sardines",
-      "seals",
-      "kelp forests",
-      "reef fish"
-    ],
-    "tags": [
-      "sharks",
-      "kelp",
-      "sardine run",
-      "big animals",
-      "cold",
-      "temperate",
-      "adventure"
-    ],
-    "image": "https://images.unsplash.com/photo-1464983953574-0892a716854b?w=800&h=600&fit=crop"
-  },
-  "mozambique": {
-    "children": [],
-    "id": "mozambique",
-    "name": "Mozambique",
-    "type": "country",
-    "parent": "africa",
-    "description": "Whale sharks, manta rays, and pristine Indian Ocean beaches.",
-    "coordinates": [
-      -18.6657,
-      35.5296
-    ],
-    "bestTime": "May–November for best visibility and big animals.",
-    "floraFauna": [
-      "whale sharks",
-      "manta rays",
-      "turtles",
-      "dolphins",
-      "hard corals",
-      "soft corals",
-      "reef fish"
-    ],
-    "tags": [
-      "whale sharks",
-      "mantas",
-      "tropical",
-      "coral",
-      "big animals",
-      "beaches"
-    ],
-    "image": "https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?w=800&h=600&fit=crop"
-  },
-  "tanzania": {
-    "children": [],
-    "id": "tanzania",
-    "name": "Tanzania",
-    "type": "country",
-    "parent": "africa",
-    "description": "Zanzibar, Mafia Island, and vibrant coral reefs.",
-    "coordinates": [
-      -6.369,
-      34.8888
-    ],
-    "bestTime": "October–March for best conditions.",
-    "floraFauna": [
-      "hard corals",
-      "soft corals",
-      "whale sharks",
-      "turtles",
-      "dolphins",
-      "reef fish"
-    ],
-    "tags": [
-      "tropical",
-      "coral",
-      "whale sharks",
-      "reefs",
-      "islands"
-    ],
-    "image": "https://images.unsplash.com/photo-1465101046530-73398c7f28ca?w=800&h=600&fit=crop"
-  },
-  "kenya": {
-    "children": [],
-    "id": "kenya",
-    "name": "Kenya",
-    "type": "country",
-    "parent": "africa",
-    "description": "Indian Ocean reefs, turtles, and big pelagics.",
-    "coordinates": [
-      -1.2921,
-      36.8219
-    ],
-    "bestTime": "October–March for best visibility and pelagics.",
-    "floraFauna": [
-      "hard corals",
-      "soft corals",
-      "turtles",
-      "reef sharks",
-      "dolphins",
-      "whale sharks"
-    ],
-    "tags": [
-      "tropical",
-      "coral",
-      "turtles",
-      "big animals",
-      "reefs"
-    ],
-    "image": "https://images.unsplash.com/photo-1518717758536-85ae29035b6d?w=800&h=600&fit=crop"
-  },
-  "sudan": {
-    "children": [],
-    "id": "sudan",
-    "name": "Sudan",
-    "type": "country",
-    "parent": "africa",
-    "description": "Red Sea wrecks, sharks, and pristine reefs.",
-    "coordinates": [
-      12.8628,
-      30.2176
-    ],
-    "bestTime": "October–June for best conditions.",
-    "floraFauna": [
-      "hammerhead sharks",
-      "reef sharks",
-      "hard corals",
-      "soft corals",
-      "barracuda",
-      "turtles"
-    ],
-    "tags": [
-      "red sea",
-      "sharks",
-      "wrecks",
-      "pristine",
-      "coral",
-      "advanced"
-    ],
-    "image": "https://images.unsplash.com/photo-1501594907352-04cda38ebc29?w=800&h=600&fit=crop"
-  },
-  "djibouti": {
-    "children": [],
-    "id": "djibouti",
-    "name": "Djibouti",
-    "type": "country",
-    "parent": "africa",
-    "description": "Whale sharks, Gulf of Tadjoura, and unique marine life.",
-    "coordinates": [
-      11.8251,
-      42.5903
-    ],
-    "bestTime": "November–February for whale sharks.",
-    "floraFauna": [
-      "whale sharks",
-      "hard corals",
-      "soft corals",
-      "reef fish"
-    ],
-    "tags": [
-      "whale sharks",
-      "tropical",
-      "unique",
-      "coral",
-      "seasonal"
-    ],
-    "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&h=600&fit=crop"
-  },
   "somalia": {
     "children": [],
     "id": "somalia",
@@ -278,31 +783,6 @@
       "exploration"
     ],
     "image": "https://images.unsplash.com/photo-1465101046530-73398c7f28ca?w=800&h=600&fit=crop"
-  },
-  "morocco": {
-    "children": [],
-    "id": "morocco",
-    "name": "Morocco",
-    "type": "country",
-    "parent": "africa",
-    "description": "Atlantic coast diving, kelp forests, and rocky reefs.",
-    "coordinates": [
-      31.7917,
-      -7.0926
-    ],
-    "bestTime": "May–October for best conditions.",
-    "floraFauna": [
-      "kelp forests",
-      "octopus"
-    ],
-    "tags": [
-      "kelp",
-      "atlantic",
-      "rocky reefs",
-      "temperate",
-      "shore diving"
-    ],
-    "image": "https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?w=800&h=600&fit=crop"
   },
   "senegal": {
     "children": [],

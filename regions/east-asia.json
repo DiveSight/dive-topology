@@ -37,6 +37,30 @@
       "대한민국"
     ]
   },
+  "china": {
+    "children": [],
+    "id": "china",
+    "name": "China",
+    "type": "country",
+    "parent": "east-asia",
+    "description": "Diving in China.",
+    "coordinates": [
+      29.022,
+      115.3477
+    ]
+  },
+  "hong-kong": {
+    "children": [],
+    "id": "hong-kong",
+    "name": "Hong Kong",
+    "type": "country",
+    "parent": "east-asia",
+    "description": "Diving in Hong Kong.",
+    "coordinates": [
+      22.3569,
+      114.315
+    ]
+  },
   "japan": {
     "children": [],
     "id": "japan",
@@ -71,6 +95,90 @@
     ],
     "image": "https://images.unsplash.com/photo-1464983953574-0892a716854b?w=800&h=600&fit=crop"
   },
+  "chiba": {
+    "children": [],
+    "id": "chiba",
+    "name": "Chiba",
+    "type": "area",
+    "parent": "japan",
+    "description": "Diving in Chiba.",
+    "coordinates": [
+      35.0348,
+      139.9877
+    ]
+  },
+  "fukui": {
+    "children": [],
+    "id": "fukui",
+    "name": "Fukui",
+    "type": "area",
+    "parent": "japan",
+    "description": "Diving in Fukui.",
+    "coordinates": [
+      35.8209,
+      135.8698
+    ]
+  },
+  "hokkaido": {
+    "children": [],
+    "id": "hokkaido",
+    "name": "Hokkaido",
+    "type": "area",
+    "parent": "japan",
+    "description": "Diving in Hokkaido.",
+    "coordinates": [
+      43.665,
+      142.8835
+    ]
+  },
+  "kagoshima": {
+    "children": [],
+    "id": "kagoshima",
+    "name": "Kagoshima",
+    "type": "area",
+    "parent": "japan",
+    "description": "Diving in Kagoshima.",
+    "coordinates": [
+      28.7605,
+      129.6699
+    ]
+  },
+  "kanagawa": {
+    "children": [],
+    "id": "kanagawa",
+    "name": "Kanagawa",
+    "type": "area",
+    "parent": "japan",
+    "description": "Diving in Kanagawa.",
+    "coordinates": [
+      35.2056,
+      139.4563
+    ]
+  },
+  "kochi": {
+    "children": [],
+    "id": "kochi",
+    "name": "Kochi",
+    "type": "area",
+    "parent": "japan",
+    "description": "Diving in Kochi.",
+    "coordinates": [
+      32.783,
+      132.535
+    ]
+  },
+  "nagasaki": {
+    "children": [],
+    "id": "nagasaki",
+    "name": "Nagasaki",
+    "type": "area",
+    "parent": "japan",
+    "description": "Diving in Nagasaki.",
+    "coordinates": [
+      33.5807,
+      129.2773
+    ]
+  },
   "okinawa": {
     "children": [],
     "id": "okinawa",
@@ -99,6 +207,186 @@
       "big animals"
     ],
     "image": "https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?w=800&h=600&fit=crop"
+  },
+  "okinawa-prefecture": {
+    "children": [],
+    "id": "okinawa-prefecture",
+    "name": "Okinawa Prefecture",
+    "type": "area",
+    "parent": "japan",
+    "description": "Diving in Okinawa Prefecture.",
+    "coordinates": [
+      25.385,
+      125.5898
+    ]
+  },
+  "shizuoka": {
+    "children": [],
+    "id": "shizuoka",
+    "name": "Shizuoka",
+    "type": "area",
+    "parent": "japan",
+    "description": "Diving in Shizuoka.",
+    "coordinates": [
+      34.8705,
+      138.945
+    ]
+  },
+  "shizuoka-prefecture": {
+    "children": [],
+    "id": "shizuoka-prefecture",
+    "name": "Shizuoka Prefecture",
+    "type": "area",
+    "parent": "japan",
+    "description": "Diving in Shizuoka Prefecture.",
+    "coordinates": [
+      34.9442,
+      138.9503
+    ]
+  },
+  "tokyo": {
+    "children": [],
+    "id": "tokyo",
+    "name": "Tokyo",
+    "type": "area",
+    "parent": "japan",
+    "description": "Diving in Tokyo.",
+    "coordinates": [
+      32.6143,
+      139.9749
+    ]
+  },
+  "tokyo-metropolis": {
+    "children": [],
+    "id": "tokyo-metropolis",
+    "name": "Tokyo Metropolis",
+    "type": "area",
+    "parent": "japan",
+    "description": "Diving in Tokyo Metropolis.",
+    "coordinates": [
+      29.2747,
+      141.2925
+    ]
+  },
+  "wakayama": {
+    "children": [],
+    "id": "wakayama",
+    "name": "Wakayama",
+    "type": "area",
+    "parent": "japan",
+    "description": "Diving in Wakayama.",
+    "coordinates": [
+      33.4693,
+      135.7783
+    ]
+  },
+  "wakayama-prefecture": {
+    "children": [],
+    "id": "wakayama-prefecture",
+    "name": "Wakayama Prefecture",
+    "type": "area",
+    "parent": "japan",
+    "description": "Diving in Wakayama Prefecture.",
+    "coordinates": [
+      33.5772,
+      135.5589
+    ]
+  },
+  "yamagata": {
+    "children": [],
+    "id": "yamagata",
+    "name": "Yamagata",
+    "type": "area",
+    "parent": "japan",
+    "description": "Diving in Yamagata.",
+    "coordinates": [
+      39.203,
+      139.558
+    ]
+  },
+  "south-korea": {
+    "children": [],
+    "id": "south-korea",
+    "name": "South Korea",
+    "type": "country",
+    "parent": "east-asia",
+    "description": "Diving in South Korea.",
+    "coordinates": [
+      34.3815,
+      127.3029
+    ]
+  },
+  "gangwon-do": {
+    "children": [],
+    "id": "gangwon-do",
+    "name": "Gangwon-do",
+    "type": "area",
+    "parent": "south-korea",
+    "description": "Diving in Gangwon-do.",
+    "coordinates": [
+      38.1823,
+      128.6146
+    ]
+  },
+  "gyeongsangbuk-do": {
+    "children": [],
+    "id": "gyeongsangbuk-do",
+    "name": "Gyeongsangbuk-do",
+    "type": "area",
+    "parent": "south-korea",
+    "description": "Diving in Gyeongsangbuk-do.",
+    "coordinates": [
+      37.5246,
+      130.9012
+    ]
+  },
+  "jeju-do": {
+    "children": [],
+    "id": "jeju-do",
+    "name": "Jeju-do",
+    "type": "area",
+    "parent": "south-korea",
+    "description": "Diving in Jeju-do.",
+    "coordinates": [
+      33.3565,
+      126.5585
+    ]
+  },
+  "taiwan": {
+    "children": [],
+    "id": "taiwan",
+    "name": "Taiwan",
+    "type": "country",
+    "parent": "east-asia",
+    "description": "Diving in Taiwan.",
+    "coordinates": [
+      22.3625,
+      121.1013
+    ]
+  },
+  "pingtung-county": {
+    "children": [],
+    "id": "pingtung-county",
+    "name": "Pingtung County",
+    "type": "area",
+    "parent": "taiwan",
+    "description": "Diving in Pingtung County.",
+    "coordinates": [
+      21.9409,
+      120.7699
+    ]
+  },
+  "taitung-county": {
+    "children": [],
+    "id": "taitung-county",
+    "name": "Taitung County",
+    "type": "area",
+    "parent": "taiwan",
+    "description": "Diving in Taitung County.",
+    "coordinates": [
+      22.6587,
+      121.4742
+    ]
   },
   "kerama-islands": {
     "children": [],

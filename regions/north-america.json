@@ -32,18 +32,6 @@
     ],
     "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&h=600&fit=crop"
   },
-  "united-states": {
-    "children": [],
-    "id": "united-states",
-    "name": "United States",
-    "type": "country",
-    "parent": "north-america",
-    "description": "California kelp forests, Florida springs, and Pacific Northwest wrecks.",
-    "coordinates": [
-      37.0902,
-      -95.7129
-    ]
-  },
   "canada": {
     "children": [],
     "id": "canada",
@@ -54,6 +42,102 @@
     "coordinates": [
       56.1304,
       -106.3468
+    ]
+  },
+  "alberta": {
+    "children": [],
+    "id": "alberta",
+    "name": "Alberta",
+    "type": "area",
+    "parent": "canada",
+    "description": "Diving in Alberta.",
+    "coordinates": [
+      52.8586,
+      -112.4882
+    ]
+  },
+  "british-columbia": {
+    "children": [],
+    "id": "british-columbia",
+    "name": "British Columbia",
+    "type": "area",
+    "parent": "canada",
+    "description": "Diving in British Columbia.",
+    "coordinates": [
+      49.6708,
+      -124.6165
+    ]
+  },
+  "manitoba": {
+    "children": [],
+    "id": "manitoba",
+    "name": "Manitoba",
+    "type": "area",
+    "parent": "canada",
+    "description": "Diving in Manitoba.",
+    "coordinates": [
+      50.6547,
+      -99.9442
+    ]
+  },
+  "new-brunswick": {
+    "children": [],
+    "id": "new-brunswick",
+    "name": "New Brunswick",
+    "type": "area",
+    "parent": "canada",
+    "description": "Diving in New Brunswick.",
+    "coordinates": [
+      44.9548,
+      -66.822
+    ]
+  },
+  "newfoundland-and-labrador": {
+    "children": [],
+    "id": "newfoundland-and-labrador",
+    "name": "Newfoundland and Labrador",
+    "type": "area",
+    "parent": "canada",
+    "description": "Diving in Newfoundland and Labrador.",
+    "coordinates": [
+      47.6117,
+      -53.036
+    ]
+  },
+  "nova-scotia": {
+    "children": [],
+    "id": "nova-scotia",
+    "name": "Nova Scotia",
+    "type": "area",
+    "parent": "canada",
+    "description": "Diving in Nova Scotia.",
+    "coordinates": [
+      44.739,
+      -63.4732
+    ]
+  },
+  "ontario": {
+    "children": [],
+    "id": "ontario",
+    "name": "Ontario",
+    "type": "area",
+    "parent": "canada",
+    "description": "Diving in Ontario.",
+    "coordinates": [
+      45.2021,
+      -81.1382
+    ]
+  },
+  "quebec": {
+    "children": [],
+    "id": "quebec",
+    "name": "Quebec",
+    "type": "area",
+    "parent": "canada",
+    "description": "Diving in Quebec.",
+    "coordinates": [
+      47.7723,
+      -69.8784
     ]
   },
   "mexico": {
@@ -69,6 +153,714 @@
     "coordinates": [
       23.6345,
       -102.5528
+    ]
+  },
+  "baja-california": {
+    "children": [],
+    "id": "baja-california",
+    "name": "Baja California",
+    "type": "area",
+    "parent": "mexico",
+    "description": "Sea lions, whale sharks, and big animal action in the Sea of Cortez.",
+    "coordinates": [
+      24.1426,
+      -110.3128
+    ]
+  },
+  "baja-california-sur": {
+    "children": [],
+    "id": "baja-california-sur",
+    "name": "Baja California Sur",
+    "type": "area",
+    "parent": "mexico",
+    "description": "Diving in Baja California Sur.",
+    "coordinates": [
+      24.011,
+      -110.1855
+    ]
+  },
+  "colima": {
+    "children": [],
+    "id": "colima",
+    "name": "Colima",
+    "type": "area",
+    "parent": "mexico",
+    "description": "Diving in Colima.",
+    "coordinates": [
+      18.9223,
+      -111.0587
+    ]
+  },
+  "guerrero": {
+    "children": [],
+    "id": "guerrero",
+    "name": "Guerrero",
+    "type": "area",
+    "parent": "mexico",
+    "description": "Diving in Guerrero.",
+    "coordinates": [
+      17.6625,
+      -101.6525
+    ]
+  },
+  "jalisco": {
+    "children": [],
+    "id": "jalisco",
+    "name": "Jalisco",
+    "type": "area",
+    "parent": "mexico",
+    "description": "Diving in Jalisco.",
+    "coordinates": [
+      20.3593,
+      -105.2527
+    ]
+  },
+  "nayarit": {
+    "children": [],
+    "id": "nayarit",
+    "name": "Nayarit",
+    "type": "area",
+    "parent": "mexico",
+    "description": "Diving in Nayarit.",
+    "coordinates": [
+      20.7025,
+      -105.5625
+    ]
+  },
+  "oaxaca": {
+    "children": [],
+    "id": "oaxaca",
+    "name": "Oaxaca",
+    "type": "area",
+    "parent": "mexico",
+    "description": "Diving in Oaxaca.",
+    "coordinates": [
+      15.7332,
+      -96.1696
+    ]
+  },
+  "quintana-roo": {
+    "children": [],
+    "id": "quintana-roo",
+    "name": "Quintana Roo",
+    "type": "area",
+    "parent": "mexico",
+    "description": "Diving in Quintana Roo.",
+    "coordinates": [
+      20.4466,
+      -87.0921
+    ]
+  },
+  "san-luis-potosi": {
+    "children": [],
+    "id": "san-luis-potosi",
+    "name": "San Luis Potosi",
+    "type": "area",
+    "parent": "mexico",
+    "description": "Diving in San Luis Potosi.",
+    "coordinates": [
+      21.8607,
+      -100.0276
+    ]
+  },
+  "sonora": {
+    "children": [],
+    "id": "sonora",
+    "name": "Sonora",
+    "type": "area",
+    "parent": "mexico",
+    "description": "Diving in Sonora.",
+    "coordinates": [
+      27.9476,
+      -111.0548
+    ]
+  },
+  "veracruz": {
+    "children": [],
+    "id": "veracruz",
+    "name": "Veracruz",
+    "type": "area",
+    "parent": "mexico",
+    "description": "Diving in Veracruz.",
+    "coordinates": [
+      19.1485,
+      -95.998
+    ]
+  },
+  "yucatan": {
+    "children": [],
+    "id": "yucatan",
+    "name": "Yucatán Peninsula",
+    "type": "area",
+    "parent": "mexico",
+    "description": "Cenotes, Cozumel reefs, and Caribbean drift diving.",
+    "coordinates": [
+      20.632,
+      -87.0696
+    ]
+  },
+  "united-states": {
+    "children": [],
+    "id": "united-states",
+    "name": "United States",
+    "type": "country",
+    "parent": "north-america",
+    "description": "California kelp forests, Florida springs, and Pacific Northwest wrecks.",
+    "coordinates": [
+      37.0902,
+      -95.7129
+    ]
+  },
+  "alabama": {
+    "children": [],
+    "id": "alabama",
+    "name": "Alabama",
+    "type": "area",
+    "parent": "united-states",
+    "description": "Diving in Alabama.",
+    "coordinates": [
+      33.2966,
+      -86.8166
+    ]
+  },
+  "arizona": {
+    "children": [],
+    "id": "arizona",
+    "name": "Arizona",
+    "type": "area",
+    "parent": "united-states",
+    "description": "Diving in Arizona.",
+    "coordinates": [
+      34.9747,
+      -113.6959
+    ]
+  },
+  "arkansas": {
+    "children": [],
+    "id": "arkansas",
+    "name": "Arkansas",
+    "type": "area",
+    "parent": "united-states",
+    "description": "Diving in Arkansas.",
+    "coordinates": [
+      35.8239,
+      -93.3131
+    ]
+  },
+  "california": {
+    "children": [],
+    "id": "california",
+    "name": "California",
+    "type": "area",
+    "parent": "united-states",
+    "description": "Diving in California.",
+    "coordinates": [
+      34.8073,
+      -119.8973
+    ]
+  },
+  "collier-county": {
+    "children": [],
+    "id": "collier-county",
+    "name": "Collier County",
+    "type": "area",
+    "parent": "united-states",
+    "description": "Diving in Collier County.",
+    "coordinates": [
+      25.8934,
+      -81.7234
+    ]
+  },
+  "colorado": {
+    "children": [],
+    "id": "colorado",
+    "name": "Colorado",
+    "type": "area",
+    "parent": "united-states",
+    "description": "Diving in Colorado.",
+    "coordinates": [
+      40.1721,
+      -105.0091
+    ]
+  },
+  "connecticut": {
+    "children": [],
+    "id": "connecticut",
+    "name": "Connecticut",
+    "type": "area",
+    "parent": "united-states",
+    "description": "Diving in Connecticut.",
+    "coordinates": [
+      41.4881,
+      -71.9144
+    ]
+  },
+  "delaware": {
+    "children": [],
+    "id": "delaware",
+    "name": "Delaware",
+    "type": "area",
+    "parent": "united-states",
+    "description": "Diving in Delaware.",
+    "coordinates": [
+      38.5918,
+      -75.1684
+    ]
+  },
+  "florida": {
+    "children": [],
+    "id": "florida",
+    "name": "Florida",
+    "type": "area",
+    "parent": "united-states",
+    "description": "Wrecks, reefs, and freshwater springs from the Keys to the Panhandle.",
+    "coordinates": [
+      27.9944,
+      -81.7603
+    ]
+  },
+  "georgia": {
+    "children": [],
+    "id": "georgia",
+    "name": "Georgia",
+    "type": "area",
+    "parent": "united-states",
+    "description": "Diving in Georgia.",
+    "coordinates": [
+      32.5037,
+      -84.9974
+    ]
+  },
+  "guam": {
+    "children": [],
+    "id": "guam",
+    "name": "Guam",
+    "type": "area",
+    "parent": "united-states",
+    "description": "Diving in Guam.",
+    "coordinates": [
+      13.4571,
+      144.6665
+    ]
+  },
+  "hawaii": {
+    "children": [],
+    "id": "hawaii",
+    "name": "Hawaii",
+    "type": "area",
+    "parent": "united-states",
+    "description": "Diving in Hawaii.",
+    "coordinates": [
+      20.8392,
+      -157.1278
+    ]
+  },
+  "idaho": {
+    "children": [],
+    "id": "idaho",
+    "name": "Idaho",
+    "type": "area",
+    "parent": "united-states",
+    "description": "Diving in Idaho.",
+    "coordinates": [
+      46.827,
+      -116.6214
+    ]
+  },
+  "illinois": {
+    "children": [],
+    "id": "illinois",
+    "name": "Illinois",
+    "type": "area",
+    "parent": "united-states",
+    "description": "Diving in Illinois.",
+    "coordinates": [
+      41.283,
+      -88.2517
+    ]
+  },
+  "indiana": {
+    "children": [],
+    "id": "indiana",
+    "name": "Indiana",
+    "type": "area",
+    "parent": "united-states",
+    "description": "Diving in Indiana.",
+    "coordinates": [
+      40.474,
+      -85.9114
+    ]
+  },
+  "iowa": {
+    "children": [],
+    "id": "iowa",
+    "name": "Iowa",
+    "type": "area",
+    "parent": "united-states",
+    "description": "Diving in Iowa.",
+    "coordinates": [
+      43.139,
+      -93.2198
+    ]
+  },
+  "kentucky": {
+    "children": [],
+    "id": "kentucky",
+    "name": "Kentucky",
+    "type": "area",
+    "parent": "united-states",
+    "description": "Diving in Kentucky.",
+    "coordinates": [
+      36.861,
+      -87.4668
+    ]
+  },
+  "maine": {
+    "children": [],
+    "id": "maine",
+    "name": "Maine",
+    "type": "area",
+    "parent": "united-states",
+    "description": "Diving in Maine.",
+    "coordinates": [
+      43.0042,
+      -70.6033
+    ]
+  },
+  "maryland": {
+    "children": [],
+    "id": "maryland",
+    "name": "Maryland",
+    "type": "area",
+    "parent": "united-states",
+    "description": "Diving in Maryland.",
+    "coordinates": [
+      38.857,
+      -76.6679
+    ]
+  },
+  "massachusetts": {
+    "children": [],
+    "id": "massachusetts",
+    "name": "Massachusetts",
+    "type": "area",
+    "parent": "united-states",
+    "description": "Diving in Massachusetts.",
+    "coordinates": [
+      42.6289,
+      -70.6325
+    ]
+  },
+  "michigan": {
+    "children": [],
+    "id": "michigan",
+    "name": "Michigan",
+    "type": "area",
+    "parent": "united-states",
+    "description": "Diving in Michigan.",
+    "coordinates": [
+      45.1664,
+      -85.2319
+    ]
+  },
+  "minnesota": {
+    "children": [],
+    "id": "minnesota",
+    "name": "Minnesota",
+    "type": "area",
+    "parent": "united-states",
+    "description": "Diving in Minnesota.",
+    "coordinates": [
+      46.386,
+      -93.3733
+    ]
+  },
+  "missouri": {
+    "children": [],
+    "id": "missouri",
+    "name": "Missouri",
+    "type": "area",
+    "parent": "united-states",
+    "description": "Diving in Missouri.",
+    "coordinates": [
+      36.6044,
+      -93.3274
+    ]
+  },
+  "nevada": {
+    "children": [],
+    "id": "nevada",
+    "name": "Nevada",
+    "type": "area",
+    "parent": "united-states",
+    "description": "Diving in Nevada.",
+    "coordinates": [
+      37.6227,
+      -117.3643
+    ]
+  },
+  "new-hampshire": {
+    "children": [],
+    "id": "new-hampshire",
+    "name": "New Hampshire",
+    "type": "area",
+    "parent": "united-states",
+    "description": "Diving in New Hampshire.",
+    "coordinates": [
+      43.059,
+      -70.7125
+    ]
+  },
+  "new-jersey": {
+    "children": [],
+    "id": "new-jersey",
+    "name": "New Jersey",
+    "type": "area",
+    "parent": "united-states",
+    "description": "Diving in New Jersey.",
+    "coordinates": [
+      40.1793,
+      -74.0362
+    ]
+  },
+  "new-mexico": {
+    "children": [],
+    "id": "new-mexico",
+    "name": "New Mexico",
+    "type": "area",
+    "parent": "united-states",
+    "description": "Diving in New Mexico.",
+    "coordinates": [
+      34.9334,
+      -104.6684
+    ]
+  },
+  "new-york": {
+    "children": [],
+    "id": "new-york",
+    "name": "New York",
+    "type": "area",
+    "parent": "united-states",
+    "description": "Diving in New York.",
+    "coordinates": [
+      40.8342,
+      -73.8301
+    ]
+  },
+  "north-carolina": {
+    "children": [],
+    "id": "north-carolina",
+    "name": "North Carolina",
+    "type": "area",
+    "parent": "united-states",
+    "description": "Diving in North Carolina.",
+    "coordinates": [
+      34.9417,
+      -75.9077
+    ]
+  },
+  "northern-mariana-islands": {
+    "children": [],
+    "id": "northern-mariana-islands",
+    "name": "Northern Mariana Islands",
+    "type": "area",
+    "parent": "united-states",
+    "description": "Diving in Northern Mariana Islands.",
+    "coordinates": [
+      15.2135,
+      145.7677
+    ]
+  },
+  "ohio": {
+    "children": [],
+    "id": "ohio",
+    "name": "Ohio",
+    "type": "area",
+    "parent": "united-states",
+    "description": "Diving in Ohio.",
+    "coordinates": [
+      41.1874,
+      -82.7779
+    ]
+  },
+  "oklahoma": {
+    "children": [],
+    "id": "oklahoma",
+    "name": "Oklahoma",
+    "type": "area",
+    "parent": "united-states",
+    "description": "Diving in Oklahoma.",
+    "coordinates": [
+      34.8153,
+      -96.0456
+    ]
+  },
+  "oregon": {
+    "children": [],
+    "id": "oregon",
+    "name": "Oregon",
+    "type": "area",
+    "parent": "united-states",
+    "description": "Diving in Oregon.",
+    "coordinates": [
+      44.2796,
+      -124.1725
+    ]
+  },
+  "pennsylvania": {
+    "children": [],
+    "id": "pennsylvania",
+    "name": "Pennsylvania",
+    "type": "area",
+    "parent": "united-states",
+    "description": "Diving in Pennsylvania.",
+    "coordinates": [
+      40.7551,
+      -76.5764
+    ]
+  },
+  "rhode-island": {
+    "children": [],
+    "id": "rhode-island",
+    "name": "Rhode Island",
+    "type": "area",
+    "parent": "united-states",
+    "description": "Diving in Rhode Island.",
+    "coordinates": [
+      41.4794,
+      -71.3604
+    ]
+  },
+  "south-carolina": {
+    "children": [],
+    "id": "south-carolina",
+    "name": "South Carolina",
+    "type": "area",
+    "parent": "united-states",
+    "description": "Diving in South Carolina.",
+    "coordinates": [
+      34.9696,
+      -82.9133
+    ]
+  },
+  "south-dakota": {
+    "children": [],
+    "id": "south-dakota",
+    "name": "South Dakota",
+    "type": "area",
+    "parent": "united-states",
+    "description": "Diving in South Dakota.",
+    "coordinates": [
+      44.0703,
+      -103.493
+    ]
+  },
+  "tennessee": {
+    "children": [],
+    "id": "tennessee",
+    "name": "Tennessee",
+    "type": "area",
+    "parent": "united-states",
+    "description": "Diving in Tennessee.",
+    "coordinates": [
+      35.993,
+      -85.3198
+    ]
+  },
+  "texas": {
+    "children": [],
+    "id": "texas",
+    "name": "Texas",
+    "type": "area",
+    "parent": "united-states",
+    "description": "Diving in Texas.",
+    "coordinates": [
+      28.367,
+      -94.3869
+    ]
+  },
+  "united-states-virgin-islands": {
+    "children": [],
+    "id": "united-states-virgin-islands",
+    "name": "United States Virgin Islands",
+    "type": "area",
+    "parent": "united-states",
+    "description": "Diving in United States Virgin Islands.",
+    "coordinates": [
+      18.0105,
+      -64.7377
+    ]
+  },
+  "us-virgin-islands": {
+    "children": [],
+    "id": "us-virgin-islands",
+    "name": "U.S. Virgin Islands",
+    "type": "area",
+    "parent": "united-states",
+    "description": "Diving in U.S. Virgin Islands.",
+    "coordinates": [
+      18.0894,
+      -64.8215
+    ]
+  },
+  "utah": {
+    "children": [],
+    "id": "utah",
+    "name": "Utah",
+    "type": "area",
+    "parent": "united-states",
+    "description": "Diving in Utah.",
+    "coordinates": [
+      38.8216,
+      -112.4341
+    ]
+  },
+  "virginia": {
+    "children": [],
+    "id": "virginia",
+    "name": "Virginia",
+    "type": "area",
+    "parent": "united-states",
+    "description": "Diving in Virginia.",
+    "coordinates": [
+      37.0171,
+      -78.6909
+    ]
+  },
+  "washington": {
+    "children": [],
+    "id": "washington",
+    "name": "Washington",
+    "type": "area",
+    "parent": "united-states",
+    "description": "Diving in Washington.",
+    "coordinates": [
+      47.9286,
+      -122.7591
+    ]
+  },
+  "west-virginia": {
+    "children": [],
+    "id": "west-virginia",
+    "name": "West Virginia",
+    "type": "area",
+    "parent": "united-states",
+    "description": "Diving in West Virginia.",
+    "coordinates": [
+      38.7452,
+      -80.4545
+    ]
+  },
+  "wisconsin": {
+    "children": [],
+    "id": "wisconsin",
+    "name": "Wisconsin",
+    "type": "area",
+    "parent": "united-states",
+    "description": "Diving in Wisconsin.",
+    "coordinates": [
+      43.7071,
+      -88.1511
     ]
   },
   "monterey": {
@@ -356,18 +1148,6 @@
     ],
     "image": "https://images.unsplash.com/photo-1464983953574-0892a716854b?w=800&h=600&fit=crop"
   },
-  "florida": {
-    "children": [],
-    "id": "florida",
-    "name": "Florida",
-    "type": "area",
-    "parent": "united-states",
-    "description": "Wrecks, reefs, and freshwater springs from the Keys to the Panhandle.",
-    "coordinates": [
-      27.9944,
-      -81.7603
-    ]
-  },
   "florida-keys": {
     "children": [],
     "id": "florida-keys",
@@ -486,30 +1266,6 @@
     "coordinates": [
       29.8342,
       -82.7032
-    ]
-  },
-  "baja-california": {
-    "children": [],
-    "id": "baja-california",
-    "name": "Baja California",
-    "type": "area",
-    "parent": "mexico",
-    "description": "Sea lions, whale sharks, and big animal action in the Sea of Cortez.",
-    "coordinates": [
-      24.1426,
-      -110.3128
-    ]
-  },
-  "yucatan": {
-    "children": [],
-    "id": "yucatan",
-    "name": "Yucatán Peninsula",
-    "type": "area",
-    "parent": "mexico",
-    "description": "Cenotes, Cozumel reefs, and Caribbean drift diving.",
-    "coordinates": [
-      20.632,
-      -87.0696
     ]
   },
   "pacific-northwest": {
