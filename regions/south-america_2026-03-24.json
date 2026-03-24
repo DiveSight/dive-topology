@@ -1,0 +1,835 @@
+{
+  "belize": {
+    "children": [],
+    "id": "belize",
+    "name": "Belize",
+    "type": "country",
+    "parent": "south-america",
+    "description": "Blue Hole, barrier reef, and atolls teeming with life.",
+    "coordinates": [
+      17.1899,
+      -88.4976
+    ]
+  },
+  "belize-district": {
+    "children": [],
+    "id": "belize-district",
+    "name": "Belize District",
+    "type": "area",
+    "parent": "belize",
+    "description": "Diving in Belize District.",
+    "coordinates": [
+      17.5628,
+      -87.8292
+    ]
+  },
+  "stann-creek-district": {
+    "children": [],
+    "id": "stann-creek-district",
+    "name": "Stann Creek District",
+    "type": "area",
+    "parent": "belize",
+    "description": "Diving in Stann Creek District.",
+    "coordinates": [
+      16.7047,
+      -88.1156
+    ]
+  },
+  "toledo-district": {
+    "children": [],
+    "id": "toledo-district",
+    "name": "Toledo District",
+    "type": "area",
+    "parent": "belize",
+    "description": "Diving in Toledo District.",
+    "coordinates": [
+      16.6878,
+      -87.8515
+    ]
+  },
+  "costa-rica": {
+    "children": [],
+    "id": "costa-rica",
+    "name": "Costa Rica",
+    "type": "country",
+    "parent": "south-america",
+    "description": "Cocos Island, hammerheads, and Pacific coast diving.",
+    "coordinates": [
+      9.7489,
+      -83.7534
+    ]
+  },
+  "guanacaste": {
+    "children": [],
+    "id": "guanacaste",
+    "name": "Guanacaste",
+    "type": "area",
+    "parent": "costa-rica",
+    "description": "Diving in Guanacaste.",
+    "coordinates": [
+      10.6148,
+      -85.8239
+    ]
+  },
+  "limn": {
+    "children": [],
+    "id": "limn",
+    "name": "Limón",
+    "type": "area",
+    "parent": "costa-rica",
+    "description": "Diving in Limón.",
+    "coordinates": [
+      9.6643,
+      -82.731
+    ]
+  },
+  "puntarenas": {
+    "children": [],
+    "id": "puntarenas",
+    "name": "Puntarenas",
+    "type": "area",
+    "parent": "costa-rica",
+    "description": "Diving in Puntarenas.",
+    "coordinates": [
+      6.159,
+      -86.5775
+    ]
+  },
+  "south-america": {
+    "children": [],
+    "id": "south-america",
+    "name": "South America",
+    "type": "major",
+    "description": "Paradise with cenotes and whale sharks.",
+    "coordinates": [
+      -8.7832,
+      -55.4915
+    ],
+    "bestTime": "December–May for tropics, November–April for Galápagos.",
+    "floraFauna": [
+      "hard corals",
+      "soft corals",
+      "reef fish",
+      "whale sharks",
+      "hammerhead sharks",
+      "sea lions",
+      "kelp forests",
+      "groupers"
+    ],
+    "tags": [
+      "tropical",
+      "temperate",
+      "coral",
+      "kelp",
+      "big animals",
+      "reefs",
+      "unique species"
+    ],
+    "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&h=600&fit=crop"
+  },
+  "argentina": {
+    "children": [],
+    "id": "argentina",
+    "name": "Argentina",
+    "type": "country",
+    "parent": "south-america",
+    "description": "Patagonian kelp forests, sea lions, and cold water diving.",
+    "coordinates": [
+      -38.4161,
+      -63.6167
+    ]
+  },
+  "buenos-aires": {
+    "children": [],
+    "id": "buenos-aires",
+    "name": "Buenos Aires",
+    "type": "area",
+    "parent": "argentina",
+    "description": "Diving in Buenos Aires.",
+    "coordinates": [
+      -38.0388,
+      -57.5058
+    ]
+  },
+  "chubut": {
+    "children": [],
+    "id": "chubut",
+    "name": "Chubut",
+    "type": "area",
+    "parent": "argentina",
+    "description": "Diving in Chubut.",
+    "coordinates": [
+      -42.7545,
+      -64.9503
+    ]
+  },
+  "tierra-del-fuego": {
+    "children": [],
+    "id": "tierra-del-fuego",
+    "name": "Tierra del Fuego",
+    "type": "area",
+    "parent": "argentina",
+    "description": "Diving in Tierra del Fuego.",
+    "coordinates": [
+      -54.8367,
+      -68.3533
+    ]
+  },
+  "brazil": {
+    "children": [],
+    "id": "brazil",
+    "aliases": [
+      "brasil"
+    ],
+    "name": "Brazil",
+    "type": "country",
+    "parent": "south-america",
+    "description": "Fernando de Noronha, wrecks, and warm Atlantic reefs.",
+    "coordinates": [
+      -14.235,
+      -51.9253
+    ]
+  },
+  "bahia": {
+    "children": [],
+    "id": "bahia",
+    "name": "Bahia",
+    "type": "area",
+    "parent": "brazil",
+    "description": "Diving in Bahia.",
+    "coordinates": [
+      -17.5412,
+      -38.6715
+    ]
+  },
+  "distrito-federal": {
+    "children": [],
+    "id": "distrito-federal",
+    "name": "Distrito Federal",
+    "type": "area",
+    "parent": "brazil",
+    "description": "Diving in Distrito Federal.",
+    "coordinates": [
+      -15.7959,
+      -47.7869
+    ]
+  },
+  "espirito-santo": {
+    "children": [],
+    "id": "espirito-santo",
+    "name": "Espirito Santo",
+    "type": "area",
+    "parent": "brazil",
+    "description": "Diving in Espirito Santo.",
+    "coordinates": [
+      -20.6998,
+      -40.4067
+    ]
+  },
+  "goias": {
+    "children": [],
+    "id": "goias",
+    "name": "Goias",
+    "type": "area",
+    "parent": "brazil",
+    "description": "Diving in Goias.",
+    "coordinates": [
+      -14.011,
+      -49.1817
+    ]
+  },
+  "pernambuco": {
+    "children": [],
+    "id": "pernambuco",
+    "name": "Pernambuco",
+    "type": "area",
+    "parent": "brazil",
+    "description": "Diving in Pernambuco.",
+    "coordinates": [
+      -3.8411,
+      -32.4179
+    ]
+  },
+  "rio-de-janeiro": {
+    "children": [],
+    "id": "rio-de-janeiro",
+    "name": "Rio de Janeiro",
+    "type": "area",
+    "parent": "brazil",
+    "description": "Diving in Rio de Janeiro.",
+    "coordinates": [
+      -22.8873,
+      -42.3677
+    ]
+  },
+  "rio-grande-do-sul": {
+    "children": [],
+    "id": "rio-grande-do-sul",
+    "name": "Rio Grande do Sul",
+    "type": "area",
+    "parent": "brazil",
+    "description": "Diving in Rio Grande do Sul.",
+    "coordinates": [
+      -29.436,
+      -49.4206
+    ]
+  },
+  "santa-catarina": {
+    "children": [],
+    "id": "santa-catarina",
+    "name": "Santa Catarina",
+    "type": "area",
+    "parent": "brazil",
+    "description": "Diving in Santa Catarina.",
+    "coordinates": [
+      -27.2707,
+      -48.385
+    ]
+  },
+  "chile": {
+    "children": [],
+    "id": "chile",
+    "name": "Chile",
+    "type": "country",
+    "parent": "south-america",
+    "description": "Humboldt current, kelp forests, and Easter Island diving.",
+    "coordinates": [
+      -35.6751,
+      -71.543
+    ]
+  },
+  "coquimbo": {
+    "children": [],
+    "id": "coquimbo",
+    "name": "Coquimbo",
+    "type": "area",
+    "parent": "chile",
+    "description": "Diving in Coquimbo.",
+    "coordinates": [
+      -29.2464,
+      -71.4625
+    ]
+  },
+  "region-de-valparaiso": {
+    "children": [],
+    "id": "region-de-valparaiso",
+    "name": "Region de Valparaiso",
+    "type": "area",
+    "parent": "chile",
+    "description": "Diving in Region de Valparaiso.",
+    "coordinates": [
+      -32.2386,
+      -71.5151
+    ]
+  },
+  "valparaso": {
+    "children": [],
+    "id": "valparaso",
+    "name": "Valparaíso",
+    "type": "area",
+    "parent": "chile",
+    "description": "Diving in Valparaíso.",
+    "coordinates": [
+      -30.0436,
+      -93.4168
+    ]
+  },
+  "ecuador": {
+    "children": [],
+    "id": "ecuador",
+    "name": "Ecuador",
+    "type": "country",
+    "parent": "south-america",
+    "description": "Galápagos and Pacific coast diving with whale sharks and sea lions.",
+    "coordinates": [
+      -1.8312,
+      -78.1834
+    ]
+  },
+  "galapagos": {
+    "children": [],
+    "id": "galapagos",
+    "name": "Galápagos Islands",
+    "type": "area",
+    "parent": "ecuador",
+    "description": "World-famous for big pelagics, marine iguanas, and unique endemics.",
+    "coordinates": [
+      -0.9538,
+      -90.9656
+    ]
+  },
+  "manabi": {
+    "children": [],
+    "id": "manabi",
+    "name": "Manabi",
+    "type": "area",
+    "parent": "ecuador",
+    "description": "Diving in Manabi.",
+    "coordinates": [
+      -1.2611,
+      -81.0698
+    ]
+  },
+  "santa-elena": {
+    "children": [],
+    "id": "santa-elena",
+    "name": "Santa Elena",
+    "type": "area",
+    "parent": "ecuador",
+    "description": "Diving in Santa Elena.",
+    "coordinates": [
+      -1.4205,
+      -81.1089
+    ]
+  },
+  "falkland-islands": {
+    "children": [],
+    "id": "falkland-islands",
+    "name": "Falkland Islands",
+    "type": "country",
+    "parent": "south-america",
+    "description": "Diving in Falkland Islands.",
+    "coordinates": [
+      -51.708,
+      -59.0536
+    ]
+  },
+  "east-falkland": {
+    "children": [],
+    "id": "east-falkland",
+    "name": "East Falkland",
+    "type": "area",
+    "parent": "falkland-islands",
+    "description": "Diving in East Falkland.",
+    "coordinates": [
+      -51.8051,
+      -58.193
+    ]
+  },
+  "west-falkland": {
+    "children": [],
+    "id": "west-falkland",
+    "name": "West Falkland",
+    "type": "area",
+    "parent": "falkland-islands",
+    "description": "Diving in West Falkland.",
+    "coordinates": [
+      -51.5622,
+      -60.3445
+    ]
+  },
+  "panama": {
+    "children": [],
+    "id": "panama",
+    "name": "Panama",
+    "aliases": [
+      "Panamá"
+    ],
+    "type": "country",
+    "parent": "south-america",
+    "description": "Caribbean and Pacific coasts, wrecks, reefs, and the Panama Canal.",
+    "coordinates": [
+      8.538,
+      -80.7821
+    ]
+  },
+  "bocas-del-toro": {
+    "children": [],
+    "id": "bocas-del-toro",
+    "name": "Bocas del Toro",
+    "type": "area",
+    "parent": "panama",
+    "description": "Diving in Bocas del Toro.",
+    "coordinates": [
+      9.1488,
+      -82.4417
+    ]
+  },
+  "bocas-del-toro-province": {
+    "children": [],
+    "id": "bocas-del-toro-province",
+    "name": "Bocas del Toro Province",
+    "type": "area",
+    "parent": "panama",
+    "description": "Diving in Bocas del Toro Province.",
+    "coordinates": [
+      9.3343,
+      -82.1981
+    ]
+  },
+  "chiriqui": {
+    "children": [],
+    "id": "chiriqui",
+    "name": "Chiriqui",
+    "type": "area",
+    "parent": "panama",
+    "description": "Diving in Chiriqui.",
+    "coordinates": [
+      7.9079,
+      -82.1642
+    ]
+  },
+  "guna-yala": {
+    "children": [],
+    "id": "guna-yala",
+    "name": "Guna Yala",
+    "type": "area",
+    "parent": "panama",
+    "description": "Diving in Guna Yala.",
+    "coordinates": [
+      9.4096,
+      -78.5586
+    ]
+  },
+  "los-santos": {
+    "children": [],
+    "id": "los-santos",
+    "name": "Los Santos",
+    "type": "area",
+    "parent": "panama",
+    "description": "Diving in Los Santos.",
+    "coordinates": [
+      7.34,
+      -80.14
+    ]
+  },
+  "provincia-de-panama": {
+    "children": [],
+    "id": "provincia-de-panama",
+    "name": "Provincia de Panama",
+    "type": "area",
+    "parent": "panama",
+    "description": "Diving in Provincia de Panama.",
+    "coordinates": [
+      8.4543,
+      -79.0589
+    ]
+  },
+  "veraguas": {
+    "children": [],
+    "id": "veraguas",
+    "name": "Veraguas",
+    "type": "area",
+    "parent": "panama",
+    "description": "Diving in Veraguas.",
+    "coordinates": [
+      7.5712,
+      -81.7262
+    ]
+  },
+  "veraguas-province": {
+    "children": [],
+    "id": "veraguas-province",
+    "name": "Veraguas Province",
+    "type": "area",
+    "parent": "panama",
+    "description": "Diving in Veraguas Province.",
+    "coordinates": [
+      7.5501,
+      -81.7515
+    ]
+  },
+  "peru": {
+    "children": [],
+    "id": "peru",
+    "name": "Peru",
+    "aliases": [
+      "Perú"
+    ],
+    "type": "country",
+    "parent": "south-america",
+    "description": "Cold water diving, kelp forests, sea lions, and Humboldt current marine life along the Pacific coast.",
+    "coordinates": [
+      -9.19,
+      -75.0152
+    ]
+  },
+  "ica": {
+    "children": [],
+    "id": "ica",
+    "name": "Ica",
+    "type": "area",
+    "parent": "peru",
+    "description": "Diving in Ica.",
+    "coordinates": [
+      -13.875,
+      -76.2925
+    ]
+  },
+  "lima": {
+    "children": [],
+    "id": "lima",
+    "name": "Lima",
+    "type": "area",
+    "parent": "peru",
+    "description": "Diving in Lima.",
+    "coordinates": [
+      -12.1381,
+      -77.1516
+    ]
+  },
+  "piura": {
+    "children": [],
+    "id": "piura",
+    "name": "Piura",
+    "type": "area",
+    "parent": "peru",
+    "description": "Diving in Piura.",
+    "coordinates": [
+      -4.1671,
+      -81.1275
+    ]
+  },
+  "tumbes": {
+    "children": [],
+    "id": "tumbes",
+    "name": "Tumbes",
+    "type": "area",
+    "parent": "peru",
+    "description": "Diving in Tumbes.",
+    "coordinates": [
+      -3.9657,
+      -80.976
+    ]
+  },
+  "suriname": {
+    "children": [],
+    "id": "suriname",
+    "name": "Suriname",
+    "type": "country",
+    "parent": "south-america",
+    "description": "Diving in Suriname.",
+    "coordinates": [
+      5.8959,
+      -55.1924
+    ]
+  },
+  "commewijne": {
+    "children": [],
+    "id": "commewijne",
+    "name": "Commewijne",
+    "type": "area",
+    "parent": "suriname",
+    "description": "Diving in Commewijne.",
+    "coordinates": [
+      5.8674,
+      -54.8165
+    ]
+  },
+  "coronie": {
+    "children": [],
+    "id": "coronie",
+    "name": "Coronie",
+    "type": "area",
+    "parent": "suriname",
+    "description": "Diving in Coronie.",
+    "coordinates": [
+      5.9055,
+      -55.7411
+    ]
+  },
+  "marowijne": {
+    "children": [],
+    "id": "marowijne",
+    "name": "Marowijne",
+    "type": "area",
+    "parent": "suriname",
+    "description": "Diving in Marowijne.",
+    "coordinates": [
+      5.9695,
+      -54.0179
+    ]
+  },
+  "nickerie": {
+    "children": [],
+    "id": "nickerie",
+    "name": "Nickerie",
+    "type": "area",
+    "parent": "suriname",
+    "description": "Diving in Nickerie.",
+    "coordinates": [
+      5.8789,
+      -56.5678
+    ]
+  },
+  "paramaribo": {
+    "children": [],
+    "id": "paramaribo",
+    "name": "Paramaribo",
+    "type": "area",
+    "parent": "suriname",
+    "description": "Diving in Paramaribo.",
+    "coordinates": [
+      5.8861,
+      -55.0801
+    ]
+  },
+  "saramacca": {
+    "children": [],
+    "id": "saramacca",
+    "name": "Saramacca",
+    "type": "area",
+    "parent": "suriname",
+    "description": "Diving in Saramacca.",
+    "coordinates": [
+      5.9456,
+      -55.5123
+    ]
+  },
+  "wanica": {
+    "children": [],
+    "id": "wanica",
+    "name": "Wanica",
+    "type": "area",
+    "parent": "suriname",
+    "description": "Diving in Wanica.",
+    "coordinates": [
+      5.8567,
+      -55.2134
+    ]
+  },
+  "uruguay": {
+    "children": [],
+    "id": "uruguay",
+    "name": "Uruguay",
+    "type": "country",
+    "parent": "south-america",
+    "description": "Diving in Uruguay.",
+    "coordinates": [
+      -34.5318,
+      -54.5036
+    ]
+  },
+  "colonia": {
+    "children": [],
+    "id": "colonia",
+    "name": "Colonia",
+    "type": "area",
+    "parent": "uruguay",
+    "description": "Diving in Colonia.",
+    "coordinates": [
+      -34.4667,
+      -57.85
+    ]
+  },
+  "maldonado": {
+    "children": [],
+    "id": "maldonado",
+    "name": "Maldonado",
+    "type": "area",
+    "parent": "uruguay",
+    "description": "Diving in Maldonado.",
+    "coordinates": [
+      -34.9046,
+      -54.9144
+    ]
+  },
+  "rocha": {
+    "children": [],
+    "id": "rocha",
+    "name": "Rocha",
+    "type": "area",
+    "parent": "uruguay",
+    "description": "Diving in Rocha.",
+    "coordinates": [
+      -34.2604,
+      -53.7771
+    ]
+  },
+  "venezuela": {
+    "children": [],
+    "id": "venezuela",
+    "name": "Venezuela",
+    "type": "country",
+    "parent": "south-america",
+    "description": "Caribbean coast, coral reefs, and marine parks like Los Roques.",
+    "coordinates": [
+      6.4238,
+      -66.5897
+    ]
+  },
+  "anzotegui": {
+    "children": [],
+    "id": "anzotegui",
+    "name": "Anzoátegui",
+    "type": "area",
+    "parent": "venezuela",
+    "description": "Diving in Anzoátegui.",
+    "coordinates": [
+      10.403,
+      -64.3501
+    ]
+  },
+  "carabobo": {
+    "children": [],
+    "id": "carabobo",
+    "name": "Carabobo",
+    "type": "area",
+    "parent": "venezuela",
+    "description": "Diving in Carabobo.",
+    "coordinates": [
+      10.487,
+      -67.9439
+    ]
+  },
+  "falcn": {
+    "children": [],
+    "id": "falcn",
+    "name": "Falcón",
+    "type": "area",
+    "parent": "venezuela",
+    "description": "Diving in Falcón.",
+    "coordinates": [
+      10.8032,
+      -67.6936
+    ]
+  },
+  "federal-dependencies": {
+    "children": [],
+    "id": "federal-dependencies",
+    "name": "Federal Dependencies",
+    "type": "area",
+    "parent": "venezuela",
+    "description": "Diving in Federal Dependencies.",
+    "coordinates": [
+      11.9057,
+      -66.8797
+    ]
+  },
+  "nueva-esparta": {
+    "children": [],
+    "id": "nueva-esparta",
+    "name": "Nueva Esparta",
+    "type": "area",
+    "parent": "venezuela",
+    "description": "Diving in Nueva Esparta.",
+    "coordinates": [
+      11.0931,
+      -63.9538
+    ]
+  },
+  "sucre": {
+    "children": [],
+    "id": "sucre",
+    "name": "Sucre",
+    "type": "area",
+    "parent": "venezuela",
+    "description": "Diving in Sucre.",
+    "coordinates": [
+      10.362,
+      -64.327
+    ]
+  },
+  "zulia": {
+    "children": [],
+    "id": "zulia",
+    "name": "Zulia",
+    "type": "area",
+    "parent": "venezuela",
+    "description": "Diving in Zulia.",
+    "coordinates": [
+      10.5794,
+      -72.6409
+    ]
+  }
+}

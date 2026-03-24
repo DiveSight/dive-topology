@@ -1,0 +1,1089 @@
+{
+  "madagascar": {
+    "children": [],
+    "id": "madagascar",
+    "name": "Madagascar",
+    "type": "country",
+    "parent": "indian-ocean",
+    "description": "Remote reefs, whale sharks, and unique marine biodiversity.",
+    "coordinates": [
+      -18.7669,
+      46.8691
+    ]
+  },
+  "analanjirofo": {
+    "children": [],
+    "id": "analanjirofo",
+    "name": "Analanjirofo",
+    "type": "area",
+    "parent": "madagascar",
+    "description": "Diving in Analanjirofo.",
+    "coordinates": [
+      -19.275,
+      49.835
+    ]
+  },
+  "atsimo-andrefana": {
+    "children": [],
+    "id": "atsimo-andrefana",
+    "name": "Atsimo-Andrefana",
+    "type": "area",
+    "parent": "madagascar",
+    "description": "Diving in Atsimo-Andrefana.",
+    "coordinates": [
+      -23.3874,
+      43.6243
+    ]
+  },
+  "diana": {
+    "children": [],
+    "id": "diana",
+    "name": "Diana",
+    "type": "area",
+    "parent": "madagascar",
+    "description": "Diving in Diana.",
+    "coordinates": [
+      -13.4929,
+      48.3233
+    ]
+  },
+  "diana-region": {
+    "children": [],
+    "id": "diana-region",
+    "name": "Diana Region",
+    "type": "area",
+    "parent": "madagascar",
+    "description": "Diving in Diana Region.",
+    "coordinates": [
+      -13.1833,
+      48.3954
+    ]
+  },
+  "menabe": {
+    "children": [],
+    "id": "menabe",
+    "name": "Menabe",
+    "type": "area",
+    "parent": "madagascar",
+    "description": "Diving in Menabe.",
+    "coordinates": [
+      -18.75,
+      43.65
+    ]
+  },
+  "mauritius": {
+    "children": [],
+    "id": "mauritius",
+    "name": "Mauritius",
+    "type": "country",
+    "parent": "indian-ocean",
+    "description": "Wrecks, coral gardens, and year-round warm water diving.",
+    "coordinates": [
+      -20.3484,
+      57.5522
+    ],
+    "bestTime": "November–April for best conditions.",
+    "floraFauna": [
+      "hard corals",
+      "soft corals",
+      "reef fish",
+      "turtles",
+      "groupers",
+      "rays"
+    ],
+    "tags": [
+      "tropical",
+      "coral",
+      "reefs",
+      "wrecks",
+      "warm water"
+    ],
+    "image": "https://images.unsplash.com/photo-1465101046530-73398c7f28ca?w=800&h=600&fit=crop"
+  },
+  "black-river": {
+    "children": [],
+    "id": "black-river",
+    "name": "Black River",
+    "type": "area",
+    "parent": "mauritius",
+    "description": "Diving in Black River.",
+    "coordinates": [
+      -20.2842,
+      57.346
+    ]
+  },
+  "black-river-district": {
+    "children": [],
+    "id": "black-river-district",
+    "name": "Black River District",
+    "type": "area",
+    "parent": "mauritius",
+    "description": "Diving in Black River District.",
+    "coordinates": [
+      -20.4093,
+      57.3417
+    ]
+  },
+  "flacq": {
+    "children": [],
+    "id": "flacq",
+    "name": "Flacq",
+    "type": "area",
+    "parent": "mauritius",
+    "description": "Diving in Flacq.",
+    "coordinates": [
+      -20.1981,
+      57.7766
+    ]
+  },
+  "flacq-district": {
+    "children": [],
+    "id": "flacq-district",
+    "name": "Flacq District",
+    "type": "area",
+    "parent": "mauritius",
+    "description": "Diving in Flacq District.",
+    "coordinates": [
+      -20.1685,
+      57.7595
+    ]
+  },
+  "grand-port": {
+    "children": [],
+    "id": "grand-port",
+    "name": "Grand Port",
+    "type": "area",
+    "parent": "mauritius",
+    "description": "Diving in Grand Port.",
+    "coordinates": [
+      -20.4357,
+      57.7132
+    ]
+  },
+  "grand-port-district": {
+    "children": [],
+    "id": "grand-port-district",
+    "name": "Grand Port District",
+    "type": "area",
+    "parent": "mauritius",
+    "description": "Diving in Grand Port District.",
+    "coordinates": [
+      -20.4855,
+      57.6525
+    ]
+  },
+  "pamplemousses": {
+    "children": [],
+    "id": "pamplemousses",
+    "name": "Pamplemousses",
+    "type": "area",
+    "parent": "mauritius",
+    "description": "Diving in Pamplemousses.",
+    "coordinates": [
+      -20.0155,
+      57.5571
+    ]
+  },
+  "pamplemousses-district": {
+    "children": [],
+    "id": "pamplemousses-district",
+    "name": "Pamplemousses District",
+    "type": "area",
+    "parent": "mauritius",
+    "description": "Diving in Pamplemousses District.",
+    "coordinates": [
+      -19.8205,
+      57.7005
+    ]
+  },
+  "plaines-wilhems": {
+    "children": [],
+    "id": "plaines-wilhems",
+    "name": "Plaines Wilhems",
+    "type": "area",
+    "parent": "mauritius",
+    "description": "Diving in Plaines Wilhems.",
+    "coordinates": [
+      -20.0813,
+      57.483
+    ]
+  },
+  "riviere-du-rempart": {
+    "children": [],
+    "id": "riviere-du-rempart",
+    "name": "Riviere du Rempart",
+    "type": "area",
+    "parent": "mauritius",
+    "description": "Diving in Riviere du Rempart.",
+    "coordinates": [
+      -19.9422,
+      57.6198
+    ]
+  },
+  "rivire-du-rempart": {
+    "children": [],
+    "id": "rivire-du-rempart",
+    "name": "Rivière du Rempart",
+    "type": "area",
+    "parent": "mauritius",
+    "description": "Diving in Rivière du Rempart.",
+    "coordinates": [
+      -20.0645,
+      57.7095
+    ]
+  },
+  "rivire-du-rempart-district": {
+    "children": [],
+    "id": "rivire-du-rempart-district",
+    "name": "Rivière du Rempart District",
+    "type": "area",
+    "parent": "mauritius",
+    "description": "Diving in Rivière du Rempart District.",
+    "coordinates": [
+      -19.9845,
+      57.6325
+    ]
+  },
+  "rodrigues-island": {
+    "children": [],
+    "id": "rodrigues-island",
+    "name": "Rodrigues Island",
+    "type": "area",
+    "parent": "mauritius",
+    "description": "Diving in Rodrigues Island.",
+    "coordinates": [
+      -19.7208,
+      63.4225
+    ]
+  },
+  "savanne": {
+    "children": [],
+    "id": "savanne",
+    "name": "Savanne",
+    "type": "area",
+    "parent": "mauritius",
+    "description": "Diving in Savanne.",
+    "coordinates": [
+      -20.4847,
+      57.5787
+    ]
+  },
+  "savanne-district": {
+    "children": [],
+    "id": "savanne-district",
+    "name": "Savanne District",
+    "type": "area",
+    "parent": "mauritius",
+    "description": "Diving in Savanne District.",
+    "coordinates": [
+      -20.5025,
+      57.4475
+    ]
+  },
+  "reunion": {
+    "children": [],
+    "id": "reunion",
+    "name": "Réunion",
+    "type": "country",
+    "parent": "indian-ocean",
+    "description": "Volcanic island diving, lava flows, and coral reefs.",
+    "coordinates": [
+      -21.1151,
+      55.5364
+    ]
+  },
+  "arrondissement-of-saint-benot": {
+    "children": [],
+    "id": "arrondissement-of-saint-benot",
+    "name": "Arrondissement of Saint-Benoît",
+    "type": "area",
+    "parent": "reunion",
+    "description": "Diving in Arrondissement of Saint-Benoît.",
+    "coordinates": [
+      -21.2,
+      55.81
+    ]
+  },
+  "arrondissement-of-saint-paul": {
+    "children": [],
+    "id": "arrondissement-of-saint-paul",
+    "name": "Arrondissement of Saint-Paul",
+    "type": "area",
+    "parent": "reunion",
+    "description": "Diving in Arrondissement of Saint-Paul.",
+    "coordinates": [
+      -21.0353,
+      55.2613
+    ]
+  },
+  "arrondissement-of-saint-pierre": {
+    "children": [],
+    "id": "arrondissement-of-saint-pierre",
+    "name": "Arrondissement of Saint-Pierre",
+    "type": "area",
+    "parent": "reunion",
+    "description": "Diving in Arrondissement of Saint-Pierre.",
+    "coordinates": [
+      -21.2183,
+      55.3233
+    ]
+  },
+  "saint-denis": {
+    "children": [],
+    "id": "saint-denis",
+    "name": "Saint-Denis",
+    "type": "area",
+    "parent": "reunion",
+    "description": "Diving in Saint-Denis.",
+    "coordinates": [
+      -20.945,
+      55.3239
+    ]
+  },
+  "saint-leu": {
+    "children": [],
+    "id": "saint-leu",
+    "name": "Saint-Leu",
+    "type": "area",
+    "parent": "reunion",
+    "description": "Diving in Saint-Leu.",
+    "coordinates": [
+      -21.1825,
+      55.2844
+    ]
+  },
+  "saint-paul": {
+    "children": [],
+    "id": "saint-paul",
+    "name": "Saint-Paul",
+    "type": "area",
+    "parent": "reunion",
+    "description": "Diving in Saint-Paul.",
+    "coordinates": [
+      -21.0609,
+      55.2329
+    ]
+  },
+  "saint-pierre": {
+    "children": [],
+    "id": "saint-pierre",
+    "name": "Saint-Pierre",
+    "type": "area",
+    "parent": "reunion",
+    "description": "Diving in Saint-Pierre.",
+    "coordinates": [
+      -21.3285,
+      55.4852
+    ]
+  },
+  "tang-sal": {
+    "children": [],
+    "id": "tang-sal",
+    "name": "Étang-Salé",
+    "type": "area",
+    "parent": "reunion",
+    "description": "Diving in Étang-Salé.",
+    "coordinates": [
+      -21.2745,
+      55.3278
+    ]
+  },
+  "seychelles": {
+    "children": [],
+    "id": "seychelles",
+    "name": "Seychelles",
+    "type": "country",
+    "aliases": [
+      "Sesel"
+    ],
+    "parent": "indian-ocean",
+    "description": "Granite islands, coral reefs, and big pelagic encounters.",
+    "coordinates": [
+      -4.6796,
+      55.492
+    ],
+    "bestTime": "March–May and October–November for best diving.",
+    "floraFauna": [
+      "hard corals",
+      "soft corals",
+      "reef fish",
+      "manta rays",
+      "turtles",
+      "groupers",
+      "rays"
+    ],
+    "tags": [
+      "tropical",
+      "coral",
+      "reefs",
+      "big animals",
+      "granite islands"
+    ],
+    "image": "https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?w=800&h=600&fit=crop"
+  },
+  "aldabra-group": {
+    "children": [],
+    "id": "aldabra-group",
+    "name": "Aldabra Group",
+    "type": "area",
+    "parent": "seychelles",
+    "description": "Diving in Aldabra Group.",
+    "coordinates": [
+      -9.7375,
+      47.2308
+    ]
+  },
+  "alphonse-group": {
+    "children": [],
+    "id": "alphonse-group",
+    "name": "Alphonse Group",
+    "type": "area",
+    "parent": "seychelles",
+    "description": "Diving in Alphonse Group.",
+    "coordinates": [
+      -7.0671,
+      52.7286
+    ]
+  },
+  "amirante-islands": {
+    "children": [],
+    "id": "amirante-islands",
+    "name": "Amirante Islands",
+    "type": "area",
+    "parent": "seychelles",
+    "description": "Diving in Amirante Islands.",
+    "coordinates": [
+      -5.4292,
+      53.39
+    ]
+  },
+  "farquhar-group": {
+    "children": [],
+    "id": "farquhar-group",
+    "name": "Farquhar Group",
+    "type": "area",
+    "parent": "seychelles",
+    "description": "Diving in Farquhar Group.",
+    "coordinates": [
+      -9.8583,
+      50.8783
+    ]
+  },
+  "frgate": {
+    "children": [],
+    "id": "frgate",
+    "name": "Frégate",
+    "type": "area",
+    "parent": "seychelles",
+    "description": "Diving in Frégate.",
+    "coordinates": [
+      -4.5875,
+      55.94
+    ]
+  },
+  "la-digue": {
+    "children": [],
+    "id": "la-digue",
+    "name": "La Digue",
+    "type": "area",
+    "parent": "seychelles",
+    "description": "Diving in La Digue.",
+    "coordinates": [
+      -4.3045,
+      55.857
+    ]
+  },
+  "mah": {
+    "children": [],
+    "id": "mah",
+    "name": "Mahé",
+    "type": "area",
+    "parent": "seychelles",
+    "description": "Diving in Mahé.",
+    "coordinates": [
+      -4.632,
+      55.4314
+    ]
+  },
+  "north-island": {
+    "children": [],
+    "id": "north-island",
+    "name": "North Island",
+    "type": "area",
+    "parent": "seychelles",
+    "description": "Diving in North Island.",
+    "coordinates": [
+      -19.9117,
+      115.0666
+    ]
+  },
+  "praslin": {
+    "children": [],
+    "id": "praslin",
+    "name": "Praslin",
+    "type": "area",
+    "parent": "seychelles",
+    "description": "Diving in Praslin.",
+    "coordinates": [
+      -4.2951,
+      55.7043
+    ]
+  },
+  "indian-ocean": {
+    "children": [],
+    "id": "indian-ocean",
+    "name": "Indian Ocean",
+    "type": "major",
+    "description": "Luxury diving with pristine reefs and abundant marine life",
+    "coordinates": [
+      -10,
+      75
+    ],
+    "bestTime": "November–April for best conditions, varies by region.",
+    "floraFauna": [
+      "hard corals",
+      "soft corals",
+      "reef fish",
+      "whale sharks",
+      "manta rays",
+      "turtles",
+      "dolphins",
+      "groupers"
+    ],
+    "tags": [
+      "tropical",
+      "coral",
+      "reefs",
+      "big animals",
+      "pristine",
+      "luxury"
+    ],
+    "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&h=600&fit=crop",
+    "aliases": [
+      "ދިވެހިރާއްޖެ"
+    ]
+  },
+  "india": {
+    "children": [],
+    "id": "india",
+    "name": "India",
+    "type": "country",
+    "parent": "indian-ocean",
+    "description": "Diverse diving from the Andaman Islands to Lakshadweep and Goa.",
+    "coordinates": [
+      20.5937,
+      78.9629
+    ]
+  },
+  "andaman-and-nicobar-islands": {
+    "children": [],
+    "id": "andaman-and-nicobar-islands",
+    "name": "Andaman and Nicobar Islands",
+    "type": "area",
+    "parent": "india",
+    "description": "Diving in Andaman and Nicobar Islands.",
+    "coordinates": [
+      12.1854,
+      93.1543
+    ]
+  },
+  "goa": {
+    "children": [],
+    "id": "goa",
+    "name": "Goa",
+    "type": "area",
+    "parent": "india",
+    "description": "Wrecks, shallow reefs, and beginner-friendly diving on India's southwest coast.",
+    "coordinates": [
+      15.2993,
+      74.124
+    ]
+  },
+  "karnataka": {
+    "children": [],
+    "id": "karnataka",
+    "name": "Karnataka",
+    "type": "area",
+    "parent": "india",
+    "description": "Diving in Karnataka.",
+    "coordinates": [
+      14.0176,
+      74.3269
+    ]
+  },
+  "kerala": {
+    "children": [],
+    "id": "kerala",
+    "name": "Kerala",
+    "type": "area",
+    "parent": "india",
+    "description": "Diving in Kerala.",
+    "coordinates": [
+      8.5653,
+      76.9092
+    ]
+  },
+  "maharashtra": {
+    "children": [],
+    "id": "maharashtra",
+    "name": "Maharashtra",
+    "type": "area",
+    "parent": "india",
+    "description": "Diving in Maharashtra.",
+    "coordinates": [
+      15.8897,
+      73.4623
+    ]
+  },
+  "puducherry": {
+    "children": [],
+    "id": "puducherry",
+    "name": "Puducherry",
+    "type": "area",
+    "parent": "india",
+    "description": "Diving in Puducherry.",
+    "coordinates": [
+      11.8143,
+      79.9281
+    ]
+  },
+  "tamil-nadu": {
+    "children": [],
+    "id": "tamil-nadu",
+    "name": "Tamil Nadu",
+    "type": "area",
+    "parent": "india",
+    "description": "Diving in Tamil Nadu.",
+    "coordinates": [
+      11.9641,
+      79.9681
+    ]
+  },
+  "maldives": {
+    "children": [],
+    "id": "maldives",
+    "name": "Maldives",
+    "type": "country",
+    "parent": "indian-ocean",
+    "description": "Iconic atolls, manta rays, whale sharks, and luxury liveaboards.",
+    "coordinates": [
+      3.2028,
+      73.2207
+    ],
+    "bestTime": "November–April for best visibility and weather.",
+    "floraFauna": [
+      "hard corals",
+      "soft corals",
+      "reef fish",
+      "whale sharks",
+      "manta rays",
+      "turtles",
+      "groupers"
+    ],
+    "tags": [
+      "tropical",
+      "coral",
+      "reefs",
+      "big animals",
+      "luxury",
+      "atolls"
+    ],
+    "image": "https://images.unsplash.com/photo-1464983953574-0892a716854b?w=800&h=600&fit=crop"
+  },
+  "addu-atoll": {
+    "children": [],
+    "id": "addu-atoll",
+    "name": "Addu Atoll",
+    "type": "area",
+    "parent": "maldives",
+    "description": "Diving in Addu Atoll.",
+    "coordinates": [
+      -0.61,
+      73.1469
+    ]
+  },
+  "alif-alif-atoll": {
+    "children": [],
+    "id": "alif-alif-atoll",
+    "name": "Alif Alif Atoll",
+    "type": "area",
+    "parent": "maldives",
+    "description": "Diving in Alif Alif Atoll.",
+    "coordinates": [
+      3.9382,
+      72.8278
+    ]
+  },
+  "alif-dhaal-atoll": {
+    "children": [],
+    "id": "alif-dhaal-atoll",
+    "name": "Alif Dhaal Atoll",
+    "type": "area",
+    "parent": "maldives",
+    "description": "Diving in Alif Dhaal Atoll.",
+    "coordinates": [
+      3.6248,
+      72.9144
+    ]
+  },
+  "ari-atoll": {
+    "children": [],
+    "id": "ari-atoll",
+    "name": "Ari Atoll",
+    "type": "area",
+    "parent": "maldives",
+    "description": "Diving in Ari Atoll.",
+    "coordinates": [
+      3.9458,
+      72.9768
+    ]
+  },
+  "baa-atoll": {
+    "children": [],
+    "id": "baa-atoll",
+    "name": "Baa Atoll",
+    "type": "area",
+    "parent": "maldives",
+    "description": "Diving in Baa Atoll.",
+    "coordinates": [
+      5.1751,
+      73.073
+    ]
+  },
+  "dhaalu-atoll": {
+    "children": [],
+    "id": "dhaalu-atoll",
+    "name": "Dhaalu Atoll",
+    "type": "area",
+    "parent": "maldives",
+    "description": "Diving in Dhaalu Atoll.",
+    "coordinates": [
+      2.9083,
+      72.8833
+    ]
+  },
+  "faafu-atoll": {
+    "children": [],
+    "id": "faafu-atoll",
+    "name": "Faafu Atoll",
+    "type": "area",
+    "parent": "maldives",
+    "description": "Diving in Faafu Atoll.",
+    "coordinates": [
+      3.2017,
+      72.9383
+    ]
+  },
+  "gaafu-alifu-atoll": {
+    "children": [],
+    "id": "gaafu-alifu-atoll",
+    "name": "Gaafu Alifu Atoll",
+    "type": "area",
+    "parent": "maldives",
+    "description": "Diving in Gaafu Alifu Atoll.",
+    "coordinates": [
+      0.65,
+      73.36
+    ]
+  },
+  "gaafu-dhaalu-atoll": {
+    "children": [],
+    "id": "gaafu-dhaalu-atoll",
+    "name": "Gaafu Dhaalu Atoll",
+    "type": "area",
+    "parent": "maldives",
+    "description": "Diving in Gaafu Dhaalu Atoll.",
+    "coordinates": [
+      0.6138,
+      73.4762
+    ]
+  },
+  "kaafu-atoll": {
+    "children": [],
+    "id": "kaafu-atoll",
+    "name": "Kaafu Atoll",
+    "type": "area",
+    "parent": "maldives",
+    "description": "Diving in Kaafu Atoll.",
+    "coordinates": [
+      3.6768,
+      73.4719
+    ]
+  },
+  "laamu-atoll": {
+    "children": [],
+    "id": "laamu-atoll",
+    "name": "Laamu Atoll",
+    "type": "area",
+    "parent": "maldives",
+    "description": "Diving in Laamu Atoll.",
+    "coordinates": [
+      2.0325,
+      73.4575
+    ]
+  },
+  "lhaviyani-atoll": {
+    "children": [],
+    "id": "lhaviyani-atoll",
+    "name": "Lhaviyani Atoll",
+    "type": "area",
+    "parent": "maldives",
+    "description": "Diving in Lhaviyani Atoll.",
+    "coordinates": [
+      5.4542,
+      73.4126
+    ]
+  },
+  "meemu-atoll": {
+    "children": [],
+    "id": "meemu-atoll",
+    "name": "Meemu Atoll",
+    "type": "area",
+    "parent": "maldives",
+    "description": "Diving in Meemu Atoll.",
+    "coordinates": [
+      3.1075,
+      73.1325
+    ]
+  },
+  "north-ari-atoll": {
+    "children": [],
+    "id": "north-ari-atoll",
+    "name": "North Ari Atoll",
+    "type": "area",
+    "parent": "maldives",
+    "description": "Diving in North Ari Atoll.",
+    "coordinates": [
+      4.0567,
+      72.8767
+    ]
+  },
+  "north-mal-atoll": {
+    "children": [],
+    "id": "north-mal-atoll",
+    "name": "North Malé Atoll",
+    "type": "area",
+    "parent": "maldives",
+    "description": "Diving in North Malé Atoll.",
+    "coordinates": [
+      4.266,
+      73.5047
+    ]
+  },
+  "north-male-atoll": {
+    "children": [],
+    "id": "north-male-atoll",
+    "name": "North Male Atoll",
+    "type": "area",
+    "parent": "maldives",
+    "description": "Diving in North Male Atoll.",
+    "coordinates": [
+      4.2761,
+      73.5109
+    ]
+  },
+  "rasdhoo-atoll": {
+    "children": [],
+    "id": "rasdhoo-atoll",
+    "name": "Rasdhoo Atoll",
+    "type": "area",
+    "parent": "maldives",
+    "description": "Diving in Rasdhoo Atoll.",
+    "coordinates": [
+      4.22,
+      72.9775
+    ]
+  },
+  "south-ari-atoll": {
+    "children": [],
+    "id": "south-ari-atoll",
+    "name": "South Ari Atoll",
+    "type": "area",
+    "parent": "maldives",
+    "description": "Diving in South Ari Atoll.",
+    "coordinates": [
+      3.6275,
+      72.8263
+    ]
+  },
+  "south-mal-atoll": {
+    "children": [],
+    "id": "south-mal-atoll",
+    "name": "South Malé Atoll",
+    "type": "area",
+    "parent": "maldives",
+    "description": "Diving in South Malé Atoll.",
+    "coordinates": [
+      4.1183,
+      73.5389
+    ]
+  },
+  "south-male-atoll": {
+    "children": [],
+    "id": "south-male-atoll",
+    "name": "South Male Atoll",
+    "type": "area",
+    "parent": "maldives",
+    "description": "Diving in South Male Atoll.",
+    "coordinates": [
+      3.9042,
+      73.4379
+    ]
+  },
+  "thaa-atoll": {
+    "children": [],
+    "id": "thaa-atoll",
+    "name": "Thaa Atoll",
+    "type": "area",
+    "parent": "maldives",
+    "description": "Diving in Thaa Atoll.",
+    "coordinates": [
+      2.4,
+      73.0925
+    ]
+  },
+  "vaavu-atoll": {
+    "children": [],
+    "id": "vaavu-atoll",
+    "name": "Vaavu Atoll",
+    "type": "area",
+    "parent": "maldives",
+    "description": "Diving in Vaavu Atoll.",
+    "coordinates": [
+      3.5912,
+      73.4435
+    ]
+  },
+  "sri-lanka": {
+    "children": [],
+    "id": "sri-lanka",
+    "name": "Sri Lanka",
+    "type": "country",
+    "parent": "indian-ocean",
+    "description": "Wrecks, blue whales, and vibrant reefs off the teardrop island.",
+    "coordinates": [
+      7.8731,
+      80.7718
+    ]
+  },
+  "eastern-province": {
+    "children": [],
+    "id": "eastern-province",
+    "name": "Eastern Province",
+    "type": "area",
+    "parent": "sri-lanka",
+    "description": "Diving in Eastern Province.",
+    "coordinates": [
+      8.2345,
+      81.4809
+    ]
+  },
+  "north-western-province": {
+    "children": [],
+    "id": "north-western-province",
+    "name": "North Western Province",
+    "type": "area",
+    "parent": "sri-lanka",
+    "description": "Diving in North Western Province.",
+    "coordinates": [
+      8.2257,
+      79.7943
+    ]
+  },
+  "southern-province": {
+    "children": [],
+    "id": "southern-province",
+    "name": "Southern Province",
+    "type": "area",
+    "parent": "sri-lanka",
+    "description": "Diving in Southern Province.",
+    "coordinates": [
+      6.0424,
+      80.3342
+    ]
+  },
+  "western-province": {
+    "children": [],
+    "id": "western-province",
+    "name": "Western Province",
+    "type": "area",
+    "parent": "sri-lanka",
+    "description": "Diving in Western Province.",
+    "coordinates": [
+      -5.2074,
+      141.2658
+    ]
+  },
+  "chagos": {
+    "children": [],
+    "id": "chagos",
+    "name": "Chagos Archipelago",
+    "type": "area",
+    "parent": "indian-ocean",
+    "description": "Pristine, protected atolls with limited access and untouched reefs.",
+    "coordinates": [
+      -6,
+      71.5
+    ]
+  },
+  "cocos-islands": {
+    "children": [],
+    "id": "cocos-islands",
+    "name": "Cocos (Keeling) Islands",
+    "type": "area",
+    "parent": "indian-ocean",
+    "description": "Remote Australian territory with clear water and healthy reefs.",
+    "coordinates": [
+      -12.1642,
+      96.871
+    ]
+  },
+  "christmas-island": {
+    "children": [],
+    "id": "christmas-island",
+    "name": "Christmas Island",
+    "type": "area",
+    "parent": "indian-ocean",
+    "description": "Steep drop-offs, whale sharks, and unique red crab migrations.",
+    "coordinates": [
+      -10.4475,
+      105.6904
+    ]
+  },
+  "andaman-islands": {
+    "children": [],
+    "id": "andaman-islands",
+    "name": "Andaman Islands",
+    "type": "area",
+    "parent": "india",
+    "description": "Remote archipelago with world-class reefs, wrecks, and big pelagics.",
+    "coordinates": [
+      11.7401,
+      92.6586
+    ]
+  },
+  "havelock-island": {
+    "children": [],
+    "id": "havelock-island",
+    "name": "Havelock Island",
+    "type": "subarea",
+    "parent": "andaman-islands",
+    "description": "India's most famous dive destination, with vibrant reefs and elephants on the beach.",
+    "coordinates": [
+      11.967,
+      92.9827
+    ]
+  },
+  "lakshadweep": {
+    "children": [],
+    "id": "lakshadweep",
+    "name": "Lakshadweep",
+    "type": "area",
+    "parent": "india",
+    "description": "Coral atolls, turquoise lagoons, and excellent visibility off India's west coast.",
+    "coordinates": [
+      10.5667,
+      72.6417
+    ]
+  }
+}
