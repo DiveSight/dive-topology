@@ -11,13 +11,17 @@
     ],
     "bestTime": "March–June and September–November for best conditions.",
     "floraFauna": [
-      "hard corals",
-      "soft corals",
-      "reef fish",
-      "sharks",
-      "turtles",
+      "fire coral",
+      "table coral",
+      "broccoli coral",
+      "xenia coral",
+      "oceanic whitetip shark",
+      "grey reef shark",
+      "green sea turtle",
+      "hawksbill turtle",
       "dolphins",
-      "groupers"
+      "coral grouper",
+      "red sea coral grouper"
     ],
     "tags": [
       "tropical",
@@ -51,13 +55,17 @@
     ],
     "bestTime": "March–June and September–November for best conditions.",
     "floraFauna": [
-      "hard corals",
-      "soft corals",
-      "reef fish",
-      "sharks",
-      "turtles",
+      "fire coral",
+      "table coral",
+      "broccoli coral",
+      "xenia coral",
+      "oceanic whitetip shark",
+      "grey reef shark",
+      "green sea turtle",
+      "hawksbill turtle",
       "dolphins",
-      "groupers"
+      "coral grouper",
+      "red sea coral grouper"
     ],
     "tags": [
       "tropical",
@@ -82,13 +90,17 @@
     ],
     "bestTime": "March–June and September–November for best conditions.",
     "floraFauna": [
-      "hard corals",
-      "soft corals",
-      "reef fish",
-      "sharks",
-      "turtles",
+      "fire coral",
+      "table coral",
+      "broccoli coral",
+      "xenia coral",
+      "oceanic whitetip shark",
+      "grey reef shark",
+      "green sea turtle",
+      "hawksbill turtle",
       "dolphins",
-      "groupers"
+      "coral grouper",
+      "red sea coral grouper"
     ],
     "tags": [
       "tropical",
@@ -221,11 +233,14 @@
     ],
     "bestTime": "March–June and September–November for best conditions.",
     "floraFauna": [
-      "hard corals",
-      "soft corals",
-      "reef fish",
-      "sharks",
-      "turtles",
+      "fire coral",
+      "table coral",
+      "broccoli coral",
+      "xenia coral",
+      "oceanic whitetip shark",
+      "grey reef shark",
+      "green sea turtle",
+      "hawksbill turtle",
       "dolphins"
     ],
     "tags": [
@@ -448,6 +463,426 @@
     "coordinates": [
       12.4587,
       54.1325
+    ]
+  },
+  "iran": {
+    "children": [],
+    "id": "iran",
+    "name": "Iran",
+    "type": "country",
+    "parent": "middle-east",
+    "description": "Diving in Iran.",
+    "coordinates": [
+      26.850416,
+      56.292572
+    ]
+  },
+  "united-arab-emirates": {
+    "children": [],
+    "id": "united-arab-emirates",
+    "name": "United Arab Emirates",
+    "type": "country",
+    "parent": "middle-east",
+    "description": "Diving in United Arab Emirates.",
+    "coordinates": [
+      25.958045,
+      55.224152
+    ]
+  },
+  "pakistan": {
+    "children": [],
+    "id": "pakistan",
+    "name": "Pakistan",
+    "type": "country",
+    "parent": "middle-east",
+    "description": "Diving in Pakistan.",
+    "coordinates": [
+      24.894689,
+      66.620686
+    ]
+  },
+  "iraq": {
+    "children": [],
+    "id": "iraq",
+    "name": "Iraq",
+    "type": "country",
+    "parent": "middle-east",
+    "description": "Diving in Iraq.",
+    "coordinates": [
+      33.85217,
+      43.286133
+    ]
+  },
+  "turkmenistan": {
+    "children": [],
+    "id": "turkmenistan",
+    "name": "Turkmenistan",
+    "type": "country",
+    "parent": "middle-east",
+    "description": "Diving in Turkmenistan.",
+    "coordinates": [
+      37.59696,
+      66.406088
+    ]
+  },
+  "makkah": {
+    "children": [],
+    "id": "makkah",
+    "name": "Makkah",
+    "type": "area",
+    "parent": "saudi-arabia",
+    "description": "Diving in Makkah.",
+    "coordinates": [
+      22.017703,
+      38.863621
+    ]
+  },
+  "magna": {
+    "children": [],
+    "id": "magna",
+    "name": "Magna",
+    "type": "area",
+    "parent": "saudi-arabia",
+    "description": "Diving in Magna.",
+    "coordinates": [
+      28.435297,
+      34.757416
+    ]
+  },
+  "bir-al-mashi": {
+    "children": [],
+    "id": "bir-al-mashi",
+    "name": "Bi'r Al Mashi",
+    "type": "area",
+    "parent": "saudi-arabia",
+    "description": "Diving in Bi'r Al Mashi.",
+    "coordinates": [
+      28.87689,
+      34.832089
+    ]
+  },
+  "aden": {
+    "children": [],
+    "id": "aden",
+    "name": "Aden",
+    "type": "area",
+    "parent": "saudi-arabia",
+    "description": "Diving in Aden.",
+    "coordinates": [
+      28.071681,
+      34.860702
+    ]
+  },
+  "eastern-provine": {
+    "children": [],
+    "id": "eastern-provine",
+    "name": "Eastern Provine",
+    "type": "area",
+    "parent": "saudi-arabia",
+    "description": "Diving in Eastern Provine.",
+    "coordinates": [
+      27.359972,
+      49.887371
+    ]
+  },
+  "eilat": {
+    "children": [],
+    "id": "eilat",
+    "name": "Eilat",
+    "type": "area",
+    "parent": "israel",
+    "description": "Diving in Eilat.",
+    "coordinates": [
+      29.490264,
+      34.906976
+    ]
+  },
+  "ahmadi": {
+    "children": [],
+    "id": "ahmadi",
+    "name": "Ahmadi",
+    "type": "area",
+    "parent": "kuwait",
+    "description": "Diving in Ahmadi.",
+    "coordinates": [
+      28.646005,
+      48.497772
+    ]
+  },
+  "jazirat-kharabah": {
+    "children": [],
+    "id": "jazirat-kharabah",
+    "name": "Jazirat Kharabah",
+    "type": "area",
+    "parent": "oman",
+    "description": "Diving in Jazirat Kharabah.",
+    "coordinates": [
+      23.832775,
+      58.176856
+    ]
+  },
+  "eastern-islands": {
+    "children": [],
+    "id": "eastern-islands",
+    "name": "Eastern Islands",
+    "type": "area",
+    "parent": "oman",
+    "description": "Diving in Eastern Islands.",
+    "coordinates": [
+      23.862488,
+      58.119328
+    ]
+  },
+  "jazirat-jun": {
+    "children": [],
+    "id": "jazirat-jun",
+    "name": "Jazirat Jun",
+    "type": "area",
+    "parent": "oman",
+    "description": "Diving in Jazirat Jun.",
+    "coordinates": [
+      23.838898,
+      57.975562
+    ]
+  },
+  "ad-dimaniyat-islands": {
+    "children": [],
+    "id": "ad-dimaniyat-islands",
+    "name": "Ad Dimaniyat Islands",
+    "type": "area",
+    "parent": "oman",
+    "description": "Diving in Ad Dimaniyat Islands.",
+    "coordinates": [
+      23.857974,
+      58.080468
+    ]
+  },
+  "hormozgan-province": {
+    "children": [],
+    "id": "hormozgan-province",
+    "name": "Hormozgan Province",
+    "type": "area",
+    "parent": "iran",
+    "description": "Diving in Hormozgan Province.",
+    "coordinates": [
+      26.850416,
+      56.292572
+    ]
+  },
+  "musandam": {
+    "children": [],
+    "id": "musandam",
+    "name": "Musandam",
+    "type": "area",
+    "parent": "oman",
+    "description": "Diving in Musandam.",
+    "coordinates": [
+      26.138796,
+      56.489639
+    ]
+  },
+  "kish-island": {
+    "children": [],
+    "id": "kish-island",
+    "name": "Kish Island",
+    "type": "area",
+    "parent": "iran",
+    "description": "Diving in Kish Island.",
+    "coordinates": [
+      26.582387,
+      53.991623
+    ]
+  },
+  "haifa": {
+    "children": [],
+    "id": "haifa",
+    "name": "Haifa",
+    "type": "area",
+    "parent": "israel",
+    "description": "Diving in Haifa.",
+    "coordinates": [
+      32.905653,
+      34.962445
+    ]
+  },
+  "dubai": {
+    "children": [],
+    "id": "dubai",
+    "name": "Dubai",
+    "type": "area",
+    "parent": "united-arab-emirates",
+    "description": "Diving in Dubai.",
+    "coordinates": [
+      25.13363,
+      55.15789
+    ]
+  },
+  "sharjah": {
+    "children": [],
+    "id": "sharjah",
+    "name": "Sharjah",
+    "type": "area",
+    "parent": "united-arab-emirates",
+    "description": "Diving in Sharjah.",
+    "coordinates": [
+      25.384976,
+      56.36776
+    ]
+  },
+  "abu-dhabi": {
+    "children": [],
+    "id": "abu-dhabi",
+    "name": "Abu Dhabi",
+    "type": "area",
+    "parent": "united-arab-emirates",
+    "description": "Diving in Abu Dhabi.",
+    "coordinates": [
+      24.419462,
+      54.048581
+    ]
+  },
+  "fujairah": {
+    "children": [],
+    "id": "fujairah",
+    "name": "Fujairah",
+    "type": "area",
+    "parent": "united-arab-emirates",
+    "description": "Diving in Fujairah.",
+    "coordinates": [
+      25.099205,
+      56.453247
+    ]
+  },
+  "ajman": {
+    "children": [],
+    "id": "ajman",
+    "name": "Ajman",
+    "type": "area",
+    "parent": "united-arab-emirates",
+    "description": "Diving in Ajman.",
+    "coordinates": [
+      25.448235,
+      55.388947
+    ]
+  },
+  "charna-island": {
+    "children": [],
+    "id": "charna-island",
+    "name": "Charna Island",
+    "type": "area",
+    "parent": "pakistan",
+    "description": "Diving in Charna Island.",
+    "coordinates": [
+      24.894689,
+      66.620686
+    ]
+  },
+  "tharthar-depression": {
+    "children": [],
+    "id": "tharthar-depression",
+    "name": "Tharthar Depression",
+    "type": "area",
+    "parent": "iraq",
+    "description": "Diving in Tharthar Depression.",
+    "coordinates": [
+      33.85217,
+      43.286133
+    ]
+  },
+  "lebap": {
+    "children": [],
+    "id": "lebap",
+    "name": "Lebap",
+    "type": "area",
+    "parent": "turkmenistan",
+    "description": "Diving in Lebap.",
+    "coordinates": [
+      37.59696,
+      66.406088
+    ]
+  },
+  "semenawi-keyih-bahri": {
+    "children": [],
+    "id": "semenawi-keyih-bahri",
+    "name": "Semenawi Keyih Bahri",
+    "type": "area",
+    "parent": "eritrea",
+    "description": "Diving in Semenawi Keyih Bahri.",
+    "coordinates": [
+      16.611848,
+      39.46701
+    ]
+  },
+  "sinai": {
+    "children": [],
+    "id": "sinai",
+    "name": "Sinai",
+    "type": "area",
+    "parent": "egypt",
+    "description": "Diving in Sinai.",
+    "coordinates": [
+      27.727906,
+      34.09461
+    ]
+  },
+  "lake-timsah": {
+    "children": [],
+    "id": "lake-timsah",
+    "name": "Lake Timsah",
+    "type": "area",
+    "parent": "egypt",
+    "description": "Diving in Lake Timsah.",
+    "coordinates": [
+      30.581401,
+      32.272103
+    ]
+  },
+  "port-said-governorate": {
+    "children": [],
+    "id": "port-said-governorate",
+    "name": "Port Said Governorate",
+    "type": "area",
+    "parent": "egypt",
+    "description": "Diving in Port Said Governorate.",
+    "coordinates": [
+      31.241481,
+      32.31328
+    ]
+  },
+  "aqaba-qasabah": {
+    "children": [],
+    "id": "aqaba-qasabah",
+    "name": "Aqaba Qasabah",
+    "type": "area",
+    "parent": "jordan",
+    "description": "Diving in Aqaba Qasabah.",
+    "coordinates": [
+      29.462468,
+      34.970427
+    ]
+  },
+  "mesaieed": {
+    "children": [],
+    "id": "mesaieed",
+    "name": "Mesaieed",
+    "type": "area",
+    "parent": "qatar",
+    "description": "Diving in Mesaieed.",
+    "coordinates": [
+      24.868858,
+      51.530643
+    ]
+  },
+  "faiyum-governorate": {
+    "children": [],
+    "id": "faiyum-governorate",
+    "name": "Faiyum Governorate",
+    "type": "area",
+    "parent": "egypt",
+    "description": "Diving in Faiyum Governorate.",
+    "coordinates": [
+      29.391748,
+      30.745239
     ]
   }
 }

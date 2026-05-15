@@ -12,7 +12,6 @@
     "bestTime": "December–May for best conditions.",
     "floraFauna": [
       "kelp forests",
-      "reef fish",
       "stingrays",
       "seals",
       "nudibranchs",
@@ -114,7 +113,6 @@
     "bestTime": "December–May for best conditions.",
     "floraFauna": [
       "kelp forests",
-      "reef fish",
       "nudibranchs",
       "octopus"
     ],
@@ -141,7 +139,6 @@
     "bestTime": "December–May for best conditions.",
     "floraFauna": [
       "kelp forests",
-      "reef fish",
       "stingrays",
       "nudibranchs",
       "octopus"
@@ -168,7 +165,6 @@
     "bestTime": "December–May for best conditions.",
     "floraFauna": [
       "kelp forests",
-      "reef fish",
       "stingrays",
       "nudibranchs",
       "octopus"
@@ -221,7 +217,6 @@
     "bestTime": "December–May for best conditions.",
     "floraFauna": [
       "kelp forests",
-      "reef fish",
       "nudibranchs",
       "octopus"
     ],
@@ -247,7 +242,6 @@
     "bestTime": "December–May for best conditions.",
     "floraFauna": [
       "kelp forests",
-      "reef fish",
       "nudibranchs",
       "octopus"
     ],
@@ -273,7 +267,6 @@
     "bestTime": "December–May for best conditions.",
     "floraFauna": [
       "kelp forests",
-      "reef fish",
       "stingrays",
       "nudibranchs",
       "octopus"
@@ -286,5 +279,53 @@
       "easy"
     ],
     "image": "https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?w=800&h=600&fit=crop"
+  },
+  "taranaki": {
+    "children": [],
+    "id": "taranaki",
+    "name": "Taranaki",
+    "type": "area",
+    "parent": "new-zealand",
+    "description": "Diving in Taranaki.",
+    "coordinates": [
+      -39.0510533338038,
+      174.0265371684241
+    ]
+  },
+  "otago": {
+    "children": [],
+    "id": "otago",
+    "name": "Otago",
+    "type": "area",
+    "parent": "new-zealand",
+    "description": "Diving in Otago.",
+    "coordinates": [
+      -46.45252398141123,
+      169.8081207275391
+    ]
+  },
+  "southland": {
+    "children": [],
+    "id": "southland",
+    "name": "Southland",
+    "type": "area",
+    "parent": "new-zealand",
+    "description": "Diving in Southland.",
+    "coordinates": [
+      -45.28436837987179,
+      166.9249820709229
+    ]
+  },
+  "nelson": {
+    "children": [],
+    "id": "nelson",
+    "name": "Nelson",
+    "type": "area",
+    "parent": "new-zealand",
+    "description": "Diving in Nelson.",
+    "coordinates": [
+      -41.15539335830358,
+      173.4054565429688
+    ]
   }
 }

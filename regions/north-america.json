@@ -13,13 +13,17 @@
     "floraFauna": [
       "kelp forests",
       "sea lions",
-      "hard corals",
-      "soft corals",
+      "brain coral",
+      "star coral",
+      "sea fan",
+      "sea rod",
       "manatees",
       "goliath groupers",
-      "reef sharks",
+      "Caribbean reef shark",
+      "nurse shark",
       "octopus",
-      "turtles"
+      "green sea turtle",
+      "loggerhead turtle"
     ],
     "tags": [
       "kelp",
@@ -1278,6 +1282,90 @@
     "coordinates": [
       47.7511,
       -120.7401
+    ]
+  },
+  "guatemala": {
+    "children": [],
+    "id": "guatemala",
+    "name": "Guatemala",
+    "type": "country",
+    "parent": "north-america",
+    "description": "Diving in Guatemala.",
+    "coordinates": [
+      14.676597,
+      -91.186523
+    ]
+  },
+  "montana": {
+    "children": [],
+    "id": "montana",
+    "name": "Montana",
+    "type": "area",
+    "parent": "canada",
+    "description": "Diving in Montana.",
+    "coordinates": [
+      48.550251,
+      -113.977833
+    ]
+  },
+  "american-samoa": {
+    "children": [],
+    "id": "american-samoa",
+    "name": "American Samoa",
+    "type": "area",
+    "parent": "united-states",
+    "description": "Diving in American Samoa.",
+    "coordinates": [
+      -14.294827,
+      -170.661192
+    ]
+  },
+  "wyoming": {
+    "children": [],
+    "id": "wyoming",
+    "name": "Wyoming",
+    "type": "area",
+    "parent": "united-states",
+    "description": "Diving in Wyoming.",
+    "coordinates": [
+      44.461231,
+      -110.345306
+    ]
+  },
+  "alaska": {
+    "children": [],
+    "id": "alaska",
+    "name": "Alaska",
+    "type": "area",
+    "parent": "united-states",
+    "description": "Diving in Alaska.",
+    "coordinates": [
+      55.293388,
+      -131.546516
+    ]
+  },
+  "morelos": {
+    "children": [],
+    "id": "morelos",
+    "name": "Morelos",
+    "type": "area",
+    "parent": "mexico",
+    "description": "Diving in Morelos.",
+    "coordinates": [
+      18.711537,
+      -99.111807
+    ]
+  },
+  "izabal": {
+    "children": [],
+    "id": "izabal",
+    "name": "Izabal",
+    "type": "area",
+    "parent": "guatemala",
+    "description": "Diving in Izabal.",
+    "coordinates": [
+      14.676597,
+      -91.186523
     ]
   }
 }

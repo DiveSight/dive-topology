@@ -11,9 +11,10 @@
     ],
     "bestTime": "April–November for tropics, December–May for temperate south.",
     "floraFauna": [
-      "hard corals",
-      "soft corals",
-      "reef fish",
+      "staghorn coral",
+      "plate coral",
+      "leather coral",
+      "sea whip",
       "whale sharks",
       "manta rays",
       "sea turtles",
@@ -161,12 +162,14 @@
     ],
     "bestTime": "June–November for best visibility and weather.",
     "floraFauna": [
-      "hard corals",
-      "soft corals",
-      "reef fish",
+      "staghorn coral",
+      "plate coral",
+      "leather coral",
+      "sea whip",
       "sea turtles",
       "manta rays",
-      "sharks",
+      "grey reef shark",
+      "wobbegong shark",
       "giant clams"
     ],
     "tags": [
@@ -194,10 +197,12 @@
     "floraFauna": [
       "whale sharks",
       "manta rays",
-      "hard corals",
-      "soft corals",
-      "reef fish",
-      "turtles",
+      "staghorn coral",
+      "plate coral",
+      "leather coral",
+      "sea whip",
+      "green sea turtle",
+      "loggerhead turtle",
       "dugongs"
     ],
     "tags": [
@@ -222,12 +227,15 @@
     ],
     "bestTime": "September–December for best conditions.",
     "floraFauna": [
-      "sharks",
+      "grey reef shark",
+      "wobbegong shark",
       "manta rays",
-      "hard corals",
-      "soft corals",
-      "reef fish",
-      "turtles"
+      "staghorn coral",
+      "plate coral",
+      "leather coral",
+      "sea whip",
+      "green sea turtle",
+      "loggerhead turtle"
     ],
     "tags": [
       "remote",
@@ -253,10 +261,13 @@
     "floraFauna": [
       "doubleheader wrasse",
       "ballina angelfish",
-      "hard corals",
-      "soft corals",
+      "staghorn coral",
+      "plate coral",
+      "leather coral",
+      "sea whip",
       "kelp forests",
-      "turtles"
+      "green sea turtle",
+      "loggerhead turtle"
     ],
     "tags": [
       "unique species",
@@ -281,7 +292,8 @@
     "bestTime": "October–May for best conditions.",
     "floraFauna": [
       "weedy sea dragons",
-      "sharks",
+      "grey reef shark",
+      "wobbegong shark",
       "kelp forests",
       "octopus",
       "nudibranchs"
@@ -336,11 +348,14 @@
     ],
     "bestTime": "September–December for best conditions.",
     "floraFauna": [
-      "hard corals",
-      "soft corals",
-      "reef fish",
-      "sharks",
-      "turtles",
+      "staghorn coral",
+      "plate coral",
+      "leather coral",
+      "sea whip",
+      "grey reef shark",
+      "wobbegong shark",
+      "green sea turtle",
+      "loggerhead turtle",
       "giant clams"
     ],
     "tags": [
@@ -351,5 +366,29 @@
       "pristine"
     ],
     "image": "https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?w=800&h=600&fit=crop"
+  },
+  "cocos-keeling-islands": {
+    "children": [],
+    "id": "cocos-keeling-islands",
+    "name": "Cocos (Keeling) Islands",
+    "type": "area",
+    "parent": "australia",
+    "description": "Diving in Cocos (Keeling) Islands.",
+    "coordinates": [
+      -12.06987400339725,
+      96.83452606201173
+    ]
+  },
+  "jervis-bay-territory": {
+    "children": [],
+    "id": "jervis-bay-territory",
+    "name": "Jervis Bay Territory",
+    "type": "area",
+    "parent": "australia",
+    "description": "Diving in Jervis Bay Territory.",
+    "coordinates": [
+      -35.12462534634692,
+      150.7524365186692
+    ]
   }
 }

@@ -2,7 +2,9 @@
   "group": {
     "id": "macro-invertebrate",
     "name": "Macro Invertebrate",
-    "alias": ["macro-crustaceans"],
+    "alias": [
+      "macro-crustaceans"
+    ],
     "category": "macro",
     "color": "pink",
     "description": "Small, photogenic invertebrates such as nudibranchs and cleaner shrimps."
@@ -11,39 +13,116 @@
     {
       "id": "crab",
       "name": "Crab",
-      "alias": ["crab", "crabs", "brachyura"],
+      "alias": [
+        "crab",
+        "crabs",
+        "brachyura"
+      ],
       "rarity": "common",
       "scientific-name": "Brachyura",
       "size": "varied",
       "taxon-id": "brachyura",
-      "behavior": ["scavenging", "burrowing", "sideways-walking"],
+      "behavior": [
+        "scavenging",
+        "burrowing",
+        "sideways-walking"
+      ],
       "description": "Crabs are a diverse group of crustaceans found in nearly all marine environments, known for their sideways walk and hard exoskeleton.",
-      "best-months": [1,2,3,4,5,6,7,8,9,10,11,12],
-      "best-regions": ["global", "estuaries", "reefs", "mudflats"],
-      "depth": {"max": 200, "min": 0},
-      "diet": ["detritus", "algae", "small invertebrates"],
-      "habitat": ["rocky-reefs", "sandy-bottoms", "mangroves", "coral-reefs"]
+      "best-months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "best-regions": [
+        "global",
+        "estuaries",
+        "reefs",
+        "mudflats"
+      ],
+      "depth": {
+        "max": 200,
+        "min": 0
+      },
+      "diet": [
+        "detritus",
+        "algae",
+        "small invertebrates"
+      ],
+      "habitat": [
+        "rocky-reefs",
+        "sandy-bottoms",
+        "mangroves",
+        "coral-reefs"
+      ]
     },
     {
       "id": "lobster",
       "name": "Lobster",
-      "alias": ["lobster", "lobsters", "nephropidae", "palinuridae"],
+      "alias": [
+        "lobster",
+        "lobsters",
+        "nephropidae",
+        "palinuridae"
+      ],
       "rarity": "uncommon",
       "scientific-name": "Nephropidae",
       "size": "large",
       "taxon-id": "nephropidae",
-      "behavior": ["nocturnal", "burrowing", "shelter-seeking"],
+      "behavior": [
+        "nocturnal",
+        "burrowing",
+        "shelter-seeking"
+      ],
       "description": "Lobsters are large, bottom-dwelling crustaceans with long bodies and muscular tails, found in rocky and coral reefs worldwide.",
-      "best-months": [1,2,3,4,5,6,7,8,9,10,11,12],
-      "best-regions": ["global", "temperate-reefs", "tropics-global"],
-      "depth": {"max": 500, "min": 1},
-      "diet": ["mollusks", "crustaceans", "algae", "detritus"],
-      "habitat": ["rocky-reefs", "kelp-forests", "coral-reefs", "sandy-bottoms"]
+      "best-months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "best-regions": [
+        "global",
+        "temperate-reefs",
+        "tropics-global"
+      ],
+      "depth": {
+        "max": 500,
+        "min": 1
+      },
+      "diet": [
+        "mollusks",
+        "crustaceans",
+        "algae",
+        "detritus"
+      ],
+      "habitat": [
+        "rocky-reefs",
+        "kelp-forests",
+        "coral-reefs",
+        "sandy-bottoms"
+      ]
     },
     {
       "id": "chromodoris-willani",
       "image": "https://images.unsplash.com/photo-1521804906057-1df8fdb718b4?w=800&q=80",
-      "name": "Willan’s Chromodoris",
+      "name": "Willan's chromodoris",
       "rarity": "common",
       "scientific-name": "Chromodoris willani",
       "size": "very-small",
@@ -181,7 +260,7 @@
     {
       "id": "skunk-cleaner-shrimp",
       "image": "https://images.unsplash.com/photo-1600768693397-6c4d75b121f2?w=800&q=80",
-      "name": "Skunk Cleaner Shrimp",
+      "name": "Cleaner Shrimp",
       "rarity": "common",
       "scientific-name": "Lysmata amboinensis",
       "size": "very-small",
@@ -219,30 +298,64 @@
         "cleaning-stations"
       ]
     },
-          {
-            "id": "tasmanian-giant-crab",
-            "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=80",
-            "name": "Tasmanian Giant Crab",
-            "alias": ["tasmanian giant crab", "pseudocarcinus gigas", "giant crab"],
-            "rarity": "rare",
-            "scientific-name": "Pseudocarcinus gigas",
-            "size": "very-large",
-            "taxon-id": "pseudocarcinus-gigas",
-            "behavior": ["benthic-dwelling", "deep-water"],
-            "best-months": [1,2,3,4,5,6,7,8,9,10,11,12],
-            "best-regions": ["southern-australia", "tasmania"],
-            "depth": {"max": 400, "min": 20},
-            "diet": ["carrion", "mollusks", "crustaceans"],
-            "habitat": ["deep-reefs", "continental-shelf"]
-          },
+    {
+      "id": "tasmanian-giant-crab",
+      "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=80",
+      "name": "Tasmanian Giant Crab",
+      "alias": [
+        "tasmanian giant crab",
+        "pseudocarcinus gigas",
+        "giant crab"
+      ],
+      "rarity": "rare",
+      "scientific-name": "Pseudocarcinus gigas",
+      "size": "very-large",
+      "taxon-id": "pseudocarcinus-gigas",
+      "behavior": [
+        "benthic-dwelling",
+        "deep-water"
+      ],
+      "best-months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "best-regions": [
+        "southern-australia",
+        "tasmania"
+      ],
+      "depth": {
+        "max": 400,
+        "min": 20
+      },
+      "diet": [
+        "carrion",
+        "mollusks",
+        "crustaceans"
+      ],
+      "habitat": [
+        "deep-reefs",
+        "continental-shelf"
+      ]
+    },
     {
       "id": "common-octopus",
       "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=80",
-      "name": "Common Octopus",
+      "name": "Octopus vulgaris",
       "alias": [
         "octopus",
         "common octopus",
-        "cephalopod", "cephalopods"
+        "cephalopod",
+        "cephalopods"
       ],
       "rarity": "common",
       "scientific-name": "Octopus vulgaris",
@@ -379,9 +492,10 @@
     {
       "id": "weedy-sea-dragon",
       "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=80",
-      "name": "Weedy Sea Dragon",
+      "name": "Weedy Seadragon",
       "alias": [
-        "weedy sea dragon", "weedy sea dragons"
+        "weedy sea dragon",
+        "weedy sea dragons"
       ],
       "rarity": "uncommon",
       "scientific-name": "Phyllopteryx taeniolatus",
@@ -522,7 +636,7 @@
     {
       "id": "sea-tulip",
       "image": "https://images.unsplash.com/photo-1464983953574-0892a716854b?w=800&q=80",
-      "name": "Sea Tulip",
+      "name": "Southern Sea Tulip",
       "alias": [
         "sea tulip",
         "pyura spinifera"
@@ -570,9 +684,10 @@
     {
       "id": "leafy-sea-dragon",
       "image": "https://images.unsplash.com/photo-1464983953574-0892a716854b?w=800&q=80",
-      "name": "Leafy Sea Dragon",
+      "name": "Southern Sea Dragon",
       "alias": [
-        "leafy sea dragon", "leafy sea dragons",
+        "leafy sea dragon",
+        "leafy sea dragons",
         "sea dragon",
         "phycodurus eques"
       ],
@@ -668,7 +783,7 @@
     {
       "id": "eleven-armed-sea-star",
       "image": "https://images.unsplash.com/photo-1464983953574-0892a716854b?w=800&q=80",
-      "name": "Eleven-armed Sea Star",
+      "name": "Eleven-Armed Sea Star",
       "alias": [
         "eleven-armed sea star",
         "coscinasterias calamaria"
@@ -721,7 +836,8 @@
       "name": "Sea Anemone",
       "alias": [
         "sea anemone",
-        "anemone", "anemones",
+        "anemone",
+        "anemones",
         "actiniaria"
       ],
       "rarity": "common",
@@ -867,7 +983,7 @@
     },
     {
       "id": "common-sea-star",
-      "name": "Common Sea Star",
+      "name": "Common Starfish",
       "alias": [
         "common sea star",
         "asterias rubens",
@@ -1018,7 +1134,8 @@
       "id": "sponge",
       "name": "Sponge",
       "alias": [
-        "sponge", "sponges",
+        "sponge",
+        "sponges",
         "porifera"
       ],
       "rarity": "common",
@@ -1062,7 +1179,7 @@
     },
     {
       "id": "purple-sea-urchin",
-      "name": "Purple Sea Urchin",
+      "name": "Heliocidaris Sea Urchin",
       "alias": [
         "purple sea urchin",
         "helocidaris erythrogramma"
@@ -1103,56 +1220,160 @@
         "rocky-reefs",
         "kelp-forests"
       ]
-    }
-      ,
-      {
-        "id": "jellyfish",
-        "name": "Jellyfish",
-        "kind": "group",
-        "alias": ["jellyfish", "jellies", "scyphozoa"],
-        "rarity": "common",
-        "scientific-name": "Scyphozoa",
-        "size": "varied",
-        "taxon-id": "scyphozoa",
-        "behavior": ["drifting", "stinging", "planktonic"],
-        "best-months": [1,2,3,4,5,6,7,8,9,10,11,12],
-        "best-regions": ["global"],
-        "depth": {"max": 1000, "min": 0},
-        "diet": ["zooplankton", "small fish", "eggs"],
-        "habitat": ["open-ocean", "coastal-waters", "bays"]
-      }
-      ,
-      {
-        "id": "clam",
-        "name": "Clam",
-        "alias": ["clam", "clams", "venus clam", "venus clams", "veneridae"],
-        "rarity": "common",
-        "scientific-name": "Veneridae",
-        "size": "small",
-        "taxon-id": "veneridae",
-        "behavior": ["burrowing", "filter-feeding"],
-        "description": "Clams are bivalve mollusks found in sand or mud, known for their burrowing lifestyle and importance in marine ecosystems.",
-        "best-months": [1,2,3,4,5,6,7,8,9,10,11,12],
-        "best-regions": ["global", "estuaries", "coastal-waters"],
-        "depth": {"max": 50, "min": 0},
-        "diet": ["plankton", "organic particles"],
-        "habitat": ["sand-flats", "mudflats", "estuaries"]
+    },
+    {
+      "id": "jellyfish",
+      "name": "Jellyfish",
+      "kind": "group",
+      "alias": [
+        "jellyfish",
+        "jellies",
+        "scyphozoa"
+      ],
+      "rarity": "common",
+      "scientific-name": "Scyphozoa",
+      "size": "varied",
+      "taxon-id": "scyphozoa",
+      "behavior": [
+        "drifting",
+        "stinging",
+        "planktonic"
+      ],
+      "best-months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "best-regions": [
+        "global"
+      ],
+      "depth": {
+        "max": 1000,
+        "min": 0
       },
-      {
-        "id": "giant-clam",
-        "name": "Giant Clam",
-        "alias": ["giant clam", "giant clams", "tridacna", "tridacna gigas"],
-        "rarity": "uncommon",
-        "scientific-name": "Tridacna gigas",
-        "size": "very-large",
-        "taxon-id": "tridacna-gigas",
-        "behavior": ["sessile", "filter-feeding", "symbiotic-algae"],
-        "description": "Giant clams are the largest living bivalve mollusks, famous for their size, colorful mantles, and symbiosis with algae.",
-        "best-months": [1,2,3,4,5,6,7,8,9,10,11,12],
-        "best-regions": ["indo-pacific", "great-barrier-reef", "coral-triangle"],
-        "depth": {"max": 20, "min": 1},
-        "diet": ["plankton", "algae", "organic particles"],
-        "habitat": ["coral-reefs", "lagoon-reefs"]
-      }
+      "diet": [
+        "zooplankton",
+        "small fish",
+        "eggs"
+      ],
+      "habitat": [
+        "open-ocean",
+        "coastal-waters",
+        "bays"
+      ]
+    },
+    {
+      "id": "clam",
+      "name": "Clam",
+      "alias": [
+        "clam",
+        "clams",
+        "venus clam",
+        "venus clams",
+        "veneridae"
+      ],
+      "rarity": "common",
+      "scientific-name": "Veneridae",
+      "size": "small",
+      "taxon-id": "veneridae",
+      "behavior": [
+        "burrowing",
+        "filter-feeding"
+      ],
+      "description": "Clams are bivalve mollusks found in sand or mud, known for their burrowing lifestyle and importance in marine ecosystems.",
+      "best-months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "best-regions": [
+        "global",
+        "estuaries",
+        "coastal-waters"
+      ],
+      "depth": {
+        "max": 50,
+        "min": 0
+      },
+      "diet": [
+        "plankton",
+        "organic particles"
+      ],
+      "habitat": [
+        "sand-flats",
+        "mudflats",
+        "estuaries"
+      ]
+    },
+    {
+      "id": "giant-clam",
+      "name": "Giant Clam",
+      "alias": [
+        "giant clam",
+        "giant clams",
+        "tridacna",
+        "tridacna gigas"
+      ],
+      "rarity": "uncommon",
+      "scientific-name": "Tridacna gigas",
+      "size": "very-large",
+      "taxon-id": "tridacna-gigas",
+      "behavior": [
+        "sessile",
+        "filter-feeding",
+        "symbiotic-algae"
+      ],
+      "description": "Giant clams are the largest living bivalve mollusks, famous for their size, colorful mantles, and symbiosis with algae.",
+      "best-months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "best-regions": [
+        "indo-pacific",
+        "great-barrier-reef",
+        "coral-triangle"
+      ],
+      "depth": {
+        "max": 20,
+        "min": 1
+      },
+      "diet": [
+        "plankton",
+        "algae",
+        "organic particles"
+      ],
+      "habitat": [
+        "coral-reefs",
+        "lagoon-reefs"
+      ]
+    }
   ]
 }

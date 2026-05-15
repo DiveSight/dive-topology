@@ -11,13 +11,17 @@
     ],
     "bestTime": "May–October for best conditions, varies by island.",
     "floraFauna": [
-      "hard corals",
-      "soft corals",
-      "reef fish",
-      "sharks",
+      "staghorn coral",
+      "plate coral",
+      "leather coral",
+      "sea fan",
+      "grey reef shark",
+      "blacktip reef shark",
       "manta rays",
-      "turtles",
-      "groupers",
+      "green sea turtle",
+      "hawksbill turtle",
+      "coral grouper",
+      "giant grouper",
       "humpback whales"
     ],
     "tags": [
@@ -43,11 +47,14 @@
     ],
     "bestTime": "May–October for best conditions.",
     "floraFauna": [
-      "hard corals",
-      "soft corals",
-      "reef fish",
-      "turtles",
-      "groupers"
+      "staghorn coral",
+      "plate coral",
+      "leather coral",
+      "sea fan",
+      "green sea turtle",
+      "hawksbill turtle",
+      "coral grouper",
+      "giant grouper"
     ],
     "tags": [
       "tropical",
@@ -242,13 +249,17 @@
     ],
     "bestTime": "May–October for best conditions.",
     "floraFauna": [
-      "soft corals",
-      "hard corals",
-      "reef fish",
-      "sharks",
+      "leather coral",
+      "sea fan",
+      "staghorn coral",
+      "plate coral",
+      "grey reef shark",
+      "blacktip reef shark",
       "manta rays",
-      "groupers",
-      "turtles"
+      "coral grouper",
+      "giant grouper",
+      "green sea turtle",
+      "hawksbill turtle"
     ],
     "tags": [
       "tropical",
@@ -381,13 +392,17 @@
     ],
     "bestTime": "April–November for best conditions.",
     "floraFauna": [
-      "sharks",
+      "grey reef shark",
+      "blacktip reef shark",
       "manta rays",
-      "hard corals",
-      "soft corals",
-      "reef fish",
-      "turtles",
-      "groupers"
+      "staghorn coral",
+      "plate coral",
+      "leather coral",
+      "sea fan",
+      "green sea turtle",
+      "hawksbill turtle",
+      "coral grouper",
+      "giant grouper"
     ],
     "tags": [
       "tropical",
@@ -631,9 +646,10 @@
     ],
     "bestTime": "December–April for best conditions.",
     "floraFauna": [
-      "reef-fish",
-      "corals",
-      "sharks"
+      "staghorn coral",
+      "plate coral",
+      "grey reef shark",
+      "blacktip reef shark"
     ],
     "tags": [
       "wrecks",
@@ -727,12 +743,16 @@
     ],
     "bestTime": "April–November for best conditions.",
     "floraFauna": [
-      "hard corals",
-      "soft corals",
-      "reef fish",
-      "sharks",
-      "groupers",
-      "turtles"
+      "staghorn coral",
+      "plate coral",
+      "leather coral",
+      "sea fan",
+      "grey reef shark",
+      "blacktip reef shark",
+      "coral grouper",
+      "giant grouper",
+      "green sea turtle",
+      "hawksbill turtle"
     ],
     "tags": [
       "tropical",
@@ -807,9 +827,10 @@
     ],
     "bestTime": "November–May for best conditions.",
     "floraFauna": [
-      "sharks",
-      "reef-fish",
-      "corals",
+      "grey reef shark",
+      "blacktip reef shark",
+      "staghorn coral",
+      "plate coral",
       "jellyfish"
     ],
     "tags": [
@@ -1125,12 +1146,16 @@
     ],
     "bestTime": "May–November for best conditions.",
     "floraFauna": [
-      "hard corals",
-      "soft corals",
-      "reef fish",
-      "sharks",
-      "groupers",
-      "turtles"
+      "staghorn coral",
+      "plate coral",
+      "leather coral",
+      "sea fan",
+      "grey reef shark",
+      "blacktip reef shark",
+      "coral grouper",
+      "giant grouper",
+      "green sea turtle",
+      "hawksbill turtle"
     ],
     "tags": [
       "tropical",
@@ -1216,10 +1241,12 @@
     "bestTime": "July–October for humpbacks, May–October for diving.",
     "floraFauna": [
       "humpback whales",
-      "hard corals",
-      "soft corals",
-      "reef fish",
-      "turtles"
+      "staghorn coral",
+      "plate coral",
+      "leather coral",
+      "sea fan",
+      "green sea turtle",
+      "hawksbill turtle"
     ],
     "tags": [
       "tropical",
@@ -1291,12 +1318,16 @@
     ],
     "bestTime": "May–October for best conditions.",
     "floraFauna": [
-      "hard corals",
-      "soft corals",
-      "reef fish",
-      "sharks",
-      "groupers",
-      "turtles"
+      "staghorn coral",
+      "plate coral",
+      "leather coral",
+      "sea fan",
+      "grey reef shark",
+      "blacktip reef shark",
+      "coral grouper",
+      "giant grouper",
+      "green sea turtle",
+      "hawksbill turtle"
     ],
     "tags": [
       "tropical",
@@ -1428,6 +1459,318 @@
     "coordinates": [
       -19.0544,
       -169.8672
+    ]
+  },
+  "united-states-minor-outlying-islands": {
+    "children": [],
+    "id": "united-states-minor-outlying-islands",
+    "name": "United States Minor Outlying Islands",
+    "type": "country",
+    "parent": "south-pacific",
+    "description": "Diving in United States Minor Outlying Islands.",
+    "coordinates": [
+      5.878844385586964,
+      -162.1391487121582
+    ]
+  },
+  "federated-states-of-micronesia": {
+    "children": [],
+    "id": "federated-states-of-micronesia",
+    "name": "Federated States of Micronesia",
+    "type": "country",
+    "parent": "south-pacific",
+    "description": "Diving in Federated States of Micronesia.",
+    "coordinates": [
+      9.417395,
+      138.038921
+    ]
+  },
+  "palmyra-atoll": {
+    "children": [],
+    "id": "palmyra-atoll",
+    "name": "Palmyra Atoll",
+    "type": "area",
+    "parent": "united-states-minor-outlying-islands",
+    "description": "Diving in Palmyra Atoll.",
+    "coordinates": [
+      5.878844385586964,
+      -162.1391487121582
+    ]
+  },
+  "mamanuca-islands": {
+    "children": [],
+    "id": "mamanuca-islands",
+    "name": "Mamanuca Islands",
+    "type": "area",
+    "parent": "fiji",
+    "description": "Diving in Mamanuca Islands.",
+    "coordinates": [
+      -17.675755,
+      177.24844
+    ]
+  },
+  "sandalwood-island": {
+    "children": [],
+    "id": "sandalwood-island",
+    "name": "Sandalwood Island",
+    "type": "area",
+    "parent": "fiji",
+    "description": "Diving in Sandalwood Island.",
+    "coordinates": [
+      -17.151945,
+      179.111137
+    ]
+  },
+  "beachcomber-island": {
+    "children": [],
+    "id": "beachcomber-island",
+    "name": "Beachcomber Island",
+    "type": "area",
+    "parent": "fiji",
+    "description": "Diving in Beachcomber Island.",
+    "coordinates": [
+      -17.65809,
+      177.258825
+    ]
+  },
+  "rakiraki": {
+    "children": [],
+    "id": "rakiraki",
+    "name": "Rakiraki",
+    "type": "area",
+    "parent": "fiji",
+    "description": "Diving in Rakiraki.",
+    "coordinates": [
+      -17.288672,
+      178.224268
+    ]
+  },
+  "kadavu-island": {
+    "children": [],
+    "id": "kadavu-island",
+    "name": "Kadavu Island",
+    "type": "area",
+    "parent": "fiji",
+    "description": "Diving in Kadavu Island.",
+    "coordinates": [
+      -19.04719,
+      178.091812
+    ]
+  },
+  "ono-island": {
+    "children": [],
+    "id": "ono-island",
+    "name": "Ono Island",
+    "type": "area",
+    "parent": "fiji",
+    "description": "Diving in Ono Island.",
+    "coordinates": [
+      -18.929434,
+      178.53967
+    ]
+  },
+  "tavarua": {
+    "children": [],
+    "id": "tavarua",
+    "name": "Tavarua",
+    "type": "area",
+    "parent": "fiji",
+    "description": "Diving in Tavarua.",
+    "coordinates": [
+      -17.838421,
+      177.179775
+    ]
+  },
+  "vatu-i-ra": {
+    "children": [],
+    "id": "vatu-i-ra",
+    "name": "Vatu-i-ra",
+    "type": "area",
+    "parent": "fiji",
+    "description": "Diving in Vatu-i-ra.",
+    "coordinates": [
+      -17.324943,
+      178.353671
+    ]
+  },
+  "vanua-levu": {
+    "children": [],
+    "id": "vanua-levu",
+    "name": "Vanua Levu",
+    "type": "area",
+    "parent": "fiji",
+    "description": "Diving in Vanua Levu.",
+    "coordinates": [
+      -16.783013,
+      179.906788
+    ]
+  },
+  "beqa-island": {
+    "children": [],
+    "id": "beqa-island",
+    "name": "Beqa Island",
+    "type": "area",
+    "parent": "fiji",
+    "description": "Diving in Beqa Island.",
+    "coordinates": [
+      -18.325114,
+      178.107176
+    ]
+  },
+  "yanuca-island": {
+    "children": [],
+    "id": "yanuca-island",
+    "name": "Yanuca Island",
+    "type": "area",
+    "parent": "fiji",
+    "description": "Diving in Yanuca Island.",
+    "coordinates": [
+      -18.517377,
+      177.941093
+    ]
+  },
+  "ngerechong": {
+    "children": [],
+    "id": "ngerechong",
+    "name": "Ngerechong",
+    "type": "area",
+    "parent": "palau",
+    "description": "Diving in Ngerechong.",
+    "coordinates": [
+      7.121674,
+      134.360733
+    ]
+  },
+  "tuamotus": {
+    "children": [],
+    "id": "tuamotus",
+    "name": "Tuamotus",
+    "type": "area",
+    "parent": "french-polynesia",
+    "description": "Diving in Tuamotus.",
+    "coordinates": [
+      -14.9335,
+      -147.7151
+    ]
+  },
+  "viti-levu": {
+    "children": [],
+    "id": "viti-levu",
+    "name": "Viti Levu",
+    "type": "area",
+    "parent": "fiji",
+    "description": "Diving in Viti Levu.",
+    "coordinates": [
+      -18.20477,
+      177.6615
+    ]
+  },
+  "mana-island": {
+    "children": [],
+    "id": "mana-island",
+    "name": "Mana Island",
+    "type": "area",
+    "parent": "fiji",
+    "description": "Diving in Mana Island.",
+    "coordinates": [
+      -17.655636,
+      177.108364
+    ]
+  },
+  "lau-group": {
+    "children": [],
+    "id": "lau-group",
+    "name": "Lau Group",
+    "type": "area",
+    "parent": "fiji",
+    "description": "Diving in Lau Group.",
+    "coordinates": [
+      -18.682675,
+      178.516846
+    ]
+  },
+  "yadua-island": {
+    "children": [],
+    "id": "yadua-island",
+    "name": "Yadua Island",
+    "type": "area",
+    "parent": "fiji",
+    "description": "Diving in Yadua Island.",
+    "coordinates": [
+      -16.838062,
+      178.353767
+    ]
+  },
+  "malolo-lailai": {
+    "children": [],
+    "id": "malolo-lailai",
+    "name": "Malolo Lailai",
+    "type": "area",
+    "parent": "fiji",
+    "description": "Diving in Malolo Lailai.",
+    "coordinates": [
+      -17.804265,
+      177.20089
+    ]
+  },
+  "gau-island": {
+    "children": [],
+    "id": "gau-island",
+    "name": "Gau Island",
+    "type": "area",
+    "parent": "fiji",
+    "description": "Diving in Gau Island.",
+    "coordinates": [
+      -18.020528,
+      179.36554
+    ]
+  },
+  "babeldaob": {
+    "children": [],
+    "id": "babeldaob",
+    "name": "Babeldaob",
+    "type": "area",
+    "parent": "palau",
+    "description": "Diving in Babeldaob.",
+    "coordinates": [
+      7.541529,
+      134.462357
+    ]
+  },
+  "saipan": {
+    "children": [],
+    "id": "saipan",
+    "name": "Saipan",
+    "type": "area",
+    "parent": "northern-mariana-islands",
+    "description": "Diving in Saipan.",
+    "coordinates": [
+      15.17702,
+      145.69279
+    ]
+  },
+  "tinian": {
+    "children": [],
+    "id": "tinian",
+    "name": "Tinian",
+    "type": "area",
+    "parent": "northern-mariana-islands",
+    "description": "Diving in Tinian.",
+    "coordinates": [
+      15.07676,
+      145.60369
+    ]
+  },
+  "rota": {
+    "children": [],
+    "id": "rota",
+    "name": "Rota",
+    "type": "area",
+    "parent": "northern-mariana-islands",
+    "description": "Diving in Rota.",
+    "coordinates": [
+      14.12218,
+      145.16308
     ]
   }
 }

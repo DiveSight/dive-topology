@@ -11,10 +11,11 @@
     ],
     "bestTime": "May–October for subtropical, June–November for temperate.",
     "floraFauna": [
-      "hard corals",
-      "soft corals",
+      "staghorn coral",
+      "table coral",
+      "dendronephthya soft coral",
+      "sea fan",
       "kelp forests",
-      "reef fish",
       "manta rays",
       "hammerhead sharks",
       "humpback whales",
@@ -74,10 +75,11 @@
     ],
     "bestTime": "May–October for Okinawa, June–November for Izu.",
     "floraFauna": [
-      "hard corals",
-      "soft corals",
+      "staghorn coral",
+      "table coral",
+      "dendronephthya soft coral",
+      "sea fan",
       "kelp forests",
-      "reef fish",
       "manta rays",
       "hammerhead sharks",
       "nudibranchs",
@@ -192,9 +194,10 @@
     ],
     "bestTime": "May–October for best conditions.",
     "floraFauna": [
-      "hard corals",
-      "soft corals",
-      "reef fish",
+      "staghorn coral",
+      "table coral",
+      "dendronephthya soft coral",
+      "sea fan",
       "manta rays",
       "sea turtles",
       "nudibranchs"
@@ -401,9 +404,10 @@
     ],
     "bestTime": "January–April for humpbacks, May–October for diving.",
     "floraFauna": [
-      "hard corals",
-      "soft corals",
-      "reef fish",
+      "staghorn coral",
+      "table coral",
+      "dendronephthya soft coral",
+      "sea fan",
       "humpback whales",
       "sea turtles",
       "nudibranchs"
@@ -432,9 +436,10 @@
     "bestTime": "December–April for hammerheads.",
     "floraFauna": [
       "hammerhead sharks",
-      "hard corals",
-      "soft corals",
-      "reef fish",
+      "staghorn coral",
+      "table coral",
+      "dendronephthya soft coral",
+      "sea fan",
       "nudibranchs"
     ],
     "tags": [
@@ -461,10 +466,10 @@
     "bestTime": "June–November for best conditions.",
     "floraFauna": [
       "kelp forests",
-      "reef fish",
       "nudibranchs",
       "octopus",
-      "soft corals"
+      "dendronephthya soft coral",
+      "sea fan"
     ],
     "tags": [
       "temperate",
@@ -490,9 +495,10 @@
     "floraFauna": [
       "dolphins",
       "whales",
-      "hard corals",
-      "soft corals",
-      "reef fish"
+      "staghorn coral",
+      "table coral",
+      "dendronephthya soft coral",
+      "sea fan"
     ],
     "tags": [
       "remote",
@@ -502,5 +508,41 @@
       "adventure"
     ],
     "image": "https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?w=800&h=600&fit=crop"
+  },
+  "mongolia": {
+    "children": [],
+    "id": "mongolia",
+    "name": "Mongolia",
+    "type": "country",
+    "parent": "east-asia",
+    "description": "Diving in Mongolia.",
+    "coordinates": [
+      50.680797,
+      100.327148
+    ]
+  },
+  "hainan": {
+    "children": [],
+    "id": "hainan",
+    "name": "Hainan",
+    "type": "area",
+    "parent": "china",
+    "description": "Diving in Hainan.",
+    "coordinates": [
+      18.25282838073841,
+      109.0846252441406
+    ]
+  },
+  "lake-khvsgl": {
+    "children": [],
+    "id": "lake-khvsgl",
+    "name": "Lake Khövsgöl",
+    "type": "area",
+    "parent": "mongolia",
+    "description": "Diving in Lake Khövsgöl.",
+    "coordinates": [
+      50.680797,
+      100.327148
+    ]
   }
 }

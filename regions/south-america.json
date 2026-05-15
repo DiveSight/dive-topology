@@ -107,14 +107,15 @@
     ],
     "bestTime": "December–May for tropics, November–April for Galápagos.",
     "floraFauna": [
-      "hard corals",
-      "soft corals",
-      "reef fish",
+      "brain coral",
+      "star coral",
+      "sea fan",
+      "sea whip",
       "whale sharks",
       "hammerhead sharks",
       "sea lions",
       "kelp forests",
-      "groupers"
+      "goliath grouper"
     ],
     "tags": [
       "tropical",
@@ -830,6 +831,258 @@
     "coordinates": [
       10.5794,
       -72.6409
+    ]
+  },
+  "limon": {
+    "children": [],
+    "id": "limon",
+    "name": "Limon",
+    "type": "area",
+    "parent": "costa-rica",
+    "description": "Diving in Limon.",
+    "coordinates": [
+      9.645008,
+      -82.694414
+    ]
+  },
+  "portobelo": {
+    "children": [],
+    "id": "portobelo",
+    "name": "Portobelo",
+    "type": "area",
+    "parent": "panama",
+    "description": "Diving in Portobelo.",
+    "coordinates": [
+      9.550815,
+      -79.67062
+    ]
+  },
+  "santa-isabel": {
+    "children": [],
+    "id": "santa-isabel",
+    "name": "Santa Isabel",
+    "type": "area",
+    "parent": "panama",
+    "description": "Diving in Santa Isabel.",
+    "coordinates": [
+      9.72327,
+      -79.344635
+    ]
+  },
+  "stann-creek": {
+    "children": [],
+    "id": "stann-creek",
+    "name": "Stann Creek",
+    "type": "area",
+    "parent": "belize",
+    "description": "Diving in Stann Creek.",
+    "coordinates": [
+      16.883403,
+      -88.058681
+    ]
+  },
+  "taledo": {
+    "children": [],
+    "id": "taledo",
+    "name": "Taledo",
+    "type": "area",
+    "parent": "belize",
+    "description": "Diving in Taledo.",
+    "coordinates": [
+      16.432134,
+      -88.195496
+    ]
+  },
+  "chubut-province": {
+    "children": [],
+    "id": "chubut-province",
+    "name": "Chubut Province",
+    "type": "area",
+    "parent": "argentina",
+    "description": "Diving in Chubut Province.",
+    "coordinates": [
+      -42.794519,
+      -64.925938
+    ]
+  },
+  "valparaiso": {
+    "children": [],
+    "id": "valparaiso",
+    "name": "Valparaiso",
+    "type": "area",
+    "parent": "chile",
+    "description": "Diving in Valparaiso.",
+    "coordinates": [
+      -33.019691,
+      -71.631954
+    ]
+  },
+  "easter-island": {
+    "children": [],
+    "id": "easter-island",
+    "name": "Easter Island",
+    "type": "area",
+    "parent": "chile",
+    "description": "Diving in Easter Island.",
+    "coordinates": [
+      -27.052552,
+      -109.387436
+    ]
+  },
+  "antofagasta": {
+    "children": [],
+    "id": "antofagasta",
+    "name": "Antofagasta",
+    "type": "area",
+    "parent": "chile",
+    "description": "Diving in Antofagasta.",
+    "coordinates": [
+      -23.329016,
+      -70.595398
+    ]
+  },
+  "sao-paulo": {
+    "children": [],
+    "id": "sao-paulo",
+    "name": "Sao Paulo",
+    "type": "area",
+    "parent": "brazil",
+    "description": "Diving in Sao Paulo.",
+    "coordinates": [
+      -23.911733,
+      -45.483913
+    ]
+  },
+  "state-of-parana": {
+    "children": [],
+    "id": "state-of-parana",
+    "name": "State Of Parana",
+    "type": "area",
+    "parent": "brazil",
+    "description": "Diving in State Of Parana.",
+    "coordinates": [
+      -25.410025,
+      -49.37994
+    ]
+  },
+  "galapagos-islands": {
+    "children": [],
+    "id": "galapagos-islands",
+    "name": "Galapagos Islands",
+    "type": "area",
+    "parent": "ecuador",
+    "description": "Diving in Galapagos Islands.",
+    "coordinates": [
+      -0.76048,
+      -90.304323
+    ]
+  },
+  "alagoas": {
+    "children": [],
+    "id": "alagoas",
+    "name": "Alagoas",
+    "type": "area",
+    "parent": "brazil",
+    "description": "Diving in Alagoas.",
+    "coordinates": [
+      -9.771318,
+      -35.568924
+    ]
+  },
+  "ceara": {
+    "children": [],
+    "id": "ceara",
+    "name": "Ceara",
+    "type": "area",
+    "parent": "brazil",
+    "description": "Diving in Ceara.",
+    "coordinates": [
+      -3.266661,
+      -37.928925
+    ]
+  },
+  "rio-grande-do-norte": {
+    "children": [],
+    "id": "rio-grande-do-norte",
+    "name": "Rio Grande Do Norte",
+    "type": "area",
+    "parent": "brazil",
+    "description": "Diving in Rio Grande Do Norte.",
+    "coordinates": [
+      -5.326175,
+      -35.299072
+    ]
+  },
+  "los-roques-archipelago": {
+    "children": [],
+    "id": "los-roques-archipelago",
+    "name": "Los Roques Archipelago",
+    "type": "area",
+    "parent": "venezuela",
+    "description": "Diving in Los Roques Archipelago.",
+    "coordinates": [
+      11.937731,
+      -66.656113
+    ]
+  },
+  "neuquen": {
+    "children": [],
+    "id": "neuquen",
+    "name": "Neuquen",
+    "type": "area",
+    "parent": "argentina",
+    "description": "Diving in Neuquen.",
+    "coordinates": [
+      -37.868097,
+      -71.049271
+    ]
+  },
+  "cordoba": {
+    "children": [],
+    "id": "cordoba",
+    "name": "Cordoba",
+    "type": "area",
+    "parent": "argentina",
+    "description": "Diving in Cordoba.",
+    "coordinates": [
+      -32.200895,
+      -64.653387
+    ]
+  },
+  "mendoza": {
+    "children": [],
+    "id": "mendoza",
+    "name": "Mendoza",
+    "type": "area",
+    "parent": "argentina",
+    "description": "Diving in Mendoza.",
+    "coordinates": [
+      -34.593744,
+      -68.6695
+    ]
+  },
+  "salto-department": {
+    "children": [],
+    "id": "salto-department",
+    "name": "Salto Department",
+    "type": "area",
+    "parent": "uruguay",
+    "description": "Diving in Salto Department.",
+    "coordinates": [
+      -31.225885,
+      -57.851815
+    ]
+  },
+  "minas-gerais": {
+    "children": [],
+    "id": "minas-gerais",
+    "name": "Minas Gerais",
+    "type": "area",
+    "parent": "brazil",
+    "description": "Diving in Minas Gerais.",
+    "coordinates": [
+      -20.124044,
+      -47.310562
     ]
   }
 }

@@ -182,15 +182,13 @@
       "notes": "Requiem sharks including many reef sharks",
       "parent-id": "chondrichthyes",
       "rank": "genus",
-      "scientific-name": "Carcharhinus",
-      "taxon-id": "carcharhinus"
+      "scientific-name": "Carcharhinus"
     },
     "carcharhinus-amblyrhynchos": {
       "children": [],
       "common-name": "grey-reef-shark",
       "example-species": [],
       "notes": "Common Indo-Pacific reef shark",
-      "parent-id": "carcharhinus",
       "rank": "species",
       "scientific-name": "Carcharhinus amblyrhynchos",
       "taxon-id": "carcharhinus-amblyrhynchos"
@@ -237,7 +235,6 @@
     "chondrichthyes": {
       "children": [
         "rhincodon",
-        "carcharhinus",
         "sphyrna",
         "mobula",
         "taeniura"

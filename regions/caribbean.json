@@ -11,15 +11,21 @@
     ],
     "bestTime": "December–May for best conditions, but year-round diving.",
     "floraFauna": [
-      "hard corals",
-      "soft corals",
-      "reef fish",
-      "turtles",
-      "sharks",
-      "rays",
-      "groupers",
-      "parrotfish",
-      "sponges"
+      "staghorn coral",
+      "elkhorn coral",
+      "sea fans",
+      "sea plumes",
+      "green sea turtle",
+      "hawksbill turtle",
+      "Caribbean reef shark",
+      "nurse shark",
+      "southern stingray",
+      "spotted eagle ray",
+      "Nassau grouper",
+      "tiger grouper",
+      "stoplight parrotfish",
+      "queen parrotfish",
+      "barrel sponge"
     ],
     "tags": [
       "tropical",
@@ -117,14 +123,20 @@
     ],
     "bestTime": "November–May for best visibility and weather.",
     "floraFauna": [
-      "reef sharks",
+      "Caribbean reef shark",
+      "nurse shark",
       "tiger sharks",
       "hammerhead sharks",
-      "hard corals",
-      "soft corals",
-      "turtles",
-      "groupers",
-      "sponges"
+      "staghorn coral",
+      "elkhorn coral",
+      "sea fans",
+      "sea plumes",
+      "green sea turtle",
+      "hawksbill turtle",
+      "Nassau grouper",
+      "tiger grouper",
+      "barrel sponge",
+      "tube sponge"
     ],
     "tags": [
       "sharks",
@@ -557,11 +569,14 @@
     "bestTime": "December–May for best conditions.",
     "floraFauna": [
       "stingrays",
-      "hard corals",
-      "soft corals",
-      "reef fish",
-      "turtles",
-      "groupers"
+      "staghorn coral",
+      "elkhorn coral",
+      "sea fans",
+      "sea plumes",
+      "green sea turtle",
+      "hawksbill turtle",
+      "Nassau grouper",
+      "tiger grouper"
     ],
     "tags": [
       "wall diving",
@@ -789,10 +804,11 @@
     ],
     "bestTime": "November–May for best conditions.",
     "floraFauna": [
-      "reef-fish",
-      "corals",
+      "staghorn coral",
+      "brain coral",
       "whales",
-      "sponges"
+      "barrel sponge",
+      "tube sponge"
     ],
     "tags": [
       "volcanic",
@@ -1058,10 +1074,11 @@
     ],
     "bestTime": "March–September for best conditions.",
     "floraFauna": [
-      "reef-fish",
       "whale-shark",
-      "corals",
-      "sponges"
+      "staghorn coral",
+      "brain coral",
+      "barrel sponge",
+      "tube sponge"
     ],
     "tags": [
       "bay islands",
@@ -1131,12 +1148,16 @@
     ],
     "bestTime": "December–April for best conditions.",
     "floraFauna": [
-      "hard corals",
-      "soft corals",
-      "reef fish",
-      "turtles",
-      "parrotfish",
-      "sponges"
+      "staghorn coral",
+      "elkhorn coral",
+      "sea fans",
+      "sea plumes",
+      "green sea turtle",
+      "hawksbill turtle",
+      "stoplight parrotfish",
+      "queen parrotfish",
+      "barrel sponge",
+      "tube sponge"
     ],
     "tags": [
       "tropical",
@@ -1232,9 +1253,10 @@
     ],
     "bestTime": "December–April for best conditions.",
     "floraFauna": [
-      "reef-fish",
-      "corals",
-      "sponges"
+      "staghorn coral",
+      "brain coral",
+      "barrel sponge",
+      "tube sponge"
     ],
     "tags": [
       "corn islands",
@@ -1569,10 +1591,12 @@
     ],
     "bestTime": "January–May for best conditions.",
     "floraFauna": [
-      "corals",
-      "sponges",
-      "reef fish",
-      "turtles"
+      "staghorn coral",
+      "brain coral",
+      "barrel sponge",
+      "tube sponge",
+      "green sea turtle",
+      "hawksbill turtle"
     ],
     "tags": [
       "reefs",
@@ -1624,11 +1648,14 @@
     "bestTime": "January–April for humpbacks; December–May for diving.",
     "floraFauna": [
       "humpback whales",
-      "hard corals",
-      "soft corals",
-      "reef fish",
-      "turtles",
-      "groupers"
+      "staghorn coral",
+      "elkhorn coral",
+      "sea fans",
+      "sea plumes",
+      "green sea turtle",
+      "hawksbill turtle",
+      "Nassau grouper",
+      "tiger grouper"
     ],
     "tags": [
       "wall diving",
@@ -1760,11 +1787,14 @@
     ],
     "bestTime": "May–October for warmest water.",
     "floraFauna": [
-      "hard corals",
-      "soft corals",
-      "reef fish",
-      "parrotfish",
-      "sponges"
+      "staghorn coral",
+      "elkhorn coral",
+      "sea fans",
+      "sea plumes",
+      "stoplight parrotfish",
+      "queen parrotfish",
+      "barrel sponge",
+      "tube sponge"
     ],
     "tags": [
       "wreck diving",
@@ -1799,11 +1829,14 @@
     ],
     "bestTime": "December–April for Caribbean coast.",
     "floraFauna": [
-      "reef-fish",
-      "corals",
-      "turtles",
-      "sharks",
-      "sponges"
+      "staghorn coral",
+      "brain coral",
+      "green sea turtle",
+      "hawksbill turtle",
+      "Caribbean reef shark",
+      "nurse shark",
+      "barrel sponge",
+      "tube sponge"
     ],
     "tags": [
       "reefs",
@@ -1898,9 +1931,10 @@
     ],
     "bestTime": "November–April for best conditions.",
     "floraFauna": [
-      "reef-fish",
-      "corals",
-      "sponges"
+      "staghorn coral",
+      "brain coral",
+      "barrel sponge",
+      "tube sponge"
     ],
     "tags": [
       "pacific",
@@ -1962,6 +1996,678 @@
     "coordinates": [
       17.0608,
       -61.7964
+    ]
+  },
+  "st-vincent-and-the-grenadines": {
+    "children": [],
+    "id": "st-vincent-and-the-grenadines",
+    "name": "St. Vincent And The Grenadines",
+    "type": "country",
+    "parent": "caribbean",
+    "description": "Diving in St. Vincent And The Grenadines.",
+    "coordinates": [
+      12.596282,
+      -61.45503
+    ]
+  },
+  "st-kitts-and-nevis": {
+    "children": [],
+    "id": "st-kitts-and-nevis",
+    "name": "St. Kitts And Nevis",
+    "type": "country",
+    "parent": "caribbean",
+    "description": "Diving in St. Kitts And Nevis.",
+    "coordinates": [
+      17.220331,
+      -62.664385
+    ]
+  },
+  "british-virgin-islands": {
+    "children": [],
+    "id": "british-virgin-islands",
+    "name": "British Virgin Islands",
+    "type": "country",
+    "parent": "caribbean",
+    "description": "Diving in British Virgin Islands.",
+    "coordinates": [
+      18.360065,
+      -64.589138
+    ]
+  },
+  "sint-maarten": {
+    "children": [],
+    "id": "sint-maarten",
+    "name": "Sint Maarten",
+    "type": "country",
+    "parent": "caribbean",
+    "description": "Diving in Sint Maarten.",
+    "coordinates": [
+      18.048684,
+      -63.145337
+    ]
+  },
+  "trinidad-and-tobago": {
+    "children": [],
+    "id": "trinidad-and-tobago",
+    "name": "Trinidad And Tobago",
+    "type": "country",
+    "parent": "caribbean",
+    "description": "Diving in Trinidad And Tobago.",
+    "coordinates": [
+      11.229929,
+      -60.768557
+    ]
+  },
+  "union-island": {
+    "children": [],
+    "id": "union-island",
+    "name": "Union Island",
+    "type": "area",
+    "parent": "st-vincent-and-the-grenadines",
+    "description": "Diving in Union Island.",
+    "coordinates": [
+      12.596282,
+      -61.45503
+    ]
+  },
+  "bequia": {
+    "children": [],
+    "id": "bequia",
+    "name": "Bequia",
+    "type": "area",
+    "parent": "st-vincent-and-the-grenadines",
+    "description": "Diving in Bequia.",
+    "coordinates": [
+      12.994522,
+      -61.279249
+    ]
+  },
+  "tobago-cays": {
+    "children": [],
+    "id": "tobago-cays",
+    "name": "Tobago Cays",
+    "type": "area",
+    "parent": "st-vincent-and-the-grenadines",
+    "description": "Diving in Tobago Cays.",
+    "coordinates": [
+      12.621996,
+      -61.350317
+    ]
+  },
+  "sail-rock": {
+    "children": [],
+    "id": "sail-rock",
+    "name": "Sail Rock",
+    "type": "area",
+    "parent": "st-vincent-and-the-grenadines",
+    "description": "Diving in Sail Rock.",
+    "coordinates": [
+      12.620237,
+      -61.263027
+    ]
+  },
+  "petit-saint-vincent": {
+    "children": [],
+    "id": "petit-saint-vincent",
+    "name": "Petit Saint Vincent",
+    "type": "area",
+    "parent": "st-vincent-and-the-grenadines",
+    "description": "Diving in Petit Saint Vincent.",
+    "coordinates": [
+      12.544175,
+      -61.406193
+    ]
+  },
+  "mayreau": {
+    "children": [],
+    "id": "mayreau",
+    "name": "Mayreau",
+    "type": "area",
+    "parent": "st-vincent-and-the-grenadines",
+    "description": "Diving in Mayreau.",
+    "coordinates": [
+      12.635481,
+      -61.380186
+    ]
+  },
+  "san-pedro-de-macoris": {
+    "children": [],
+    "id": "san-pedro-de-macoris",
+    "name": "San Pedro De Macoris",
+    "type": "area",
+    "parent": "dominican-republic",
+    "description": "Diving in San Pedro De Macoris.",
+    "coordinates": [
+      18.424489,
+      -69.409218
+    ]
+  },
+  "samana": {
+    "children": [],
+    "id": "samana",
+    "name": "Samana",
+    "type": "area",
+    "parent": "dominican-republic",
+    "description": "Diving in Samana.",
+    "coordinates": [
+      19.29478,
+      -69.212837
+    ]
+  },
+  "la-romana": {
+    "children": [],
+    "id": "la-romana",
+    "name": "La Romana",
+    "type": "area",
+    "parent": "dominican-republic",
+    "description": "Diving in La Romana.",
+    "coordinates": [
+      18.393624,
+      -68.924103
+    ]
+  },
+  "la-altagracia": {
+    "children": [],
+    "id": "la-altagracia",
+    "name": "La Altagracia",
+    "type": "area",
+    "parent": "dominican-republic",
+    "description": "Diving in La Altagracia.",
+    "coordinates": [
+      18.658606,
+      -68.35041
+    ]
+  },
+  "vieques-island": {
+    "children": [],
+    "id": "vieques-island",
+    "name": "Vieques Island",
+    "type": "area",
+    "parent": "puerto-rico",
+    "description": "Diving in Vieques Island.",
+    "coordinates": [
+      18.105555,
+      -65.381441
+    ]
+  },
+  "catalina-island": {
+    "children": [],
+    "id": "catalina-island",
+    "name": "Catalina Island",
+    "type": "area",
+    "parent": "dominican-republic",
+    "description": "Diving in Catalina Island.",
+    "coordinates": [
+      18.34866,
+      -68.981781
+    ]
+  },
+  "st-thomas": {
+    "children": [],
+    "id": "st-thomas",
+    "name": "St. Thomas",
+    "type": "area",
+    "parent": "us-virgin-islands",
+    "description": "Diving in St. Thomas.",
+    "coordinates": [
+      18.339535,
+      -65.004473
+    ]
+  },
+  "culebra-island": {
+    "children": [],
+    "id": "culebra-island",
+    "name": "Culebra Island",
+    "type": "area",
+    "parent": "puerto-rico",
+    "description": "Diving in Culebra Island.",
+    "coordinates": [
+      18.3089,
+      -65.323162
+    ]
+  },
+  "saona-island": {
+    "children": [],
+    "id": "saona-island",
+    "name": "Saona Island",
+    "type": "area",
+    "parent": "dominican-republic",
+    "description": "Diving in Saona Island.",
+    "coordinates": [
+      18.188259,
+      -68.799133
+    ]
+  },
+  "la-caleta": {
+    "children": [],
+    "id": "la-caleta",
+    "name": "La Caleta",
+    "type": "area",
+    "parent": "dominican-republic",
+    "description": "Diving in La Caleta.",
+    "coordinates": [
+      18.419197,
+      -69.686966
+    ]
+  },
+  "catalinita-island": {
+    "children": [],
+    "id": "catalinita-island",
+    "name": "Catalinita Island",
+    "type": "area",
+    "parent": "dominican-republic",
+    "description": "Diving in Catalinita Island.",
+    "coordinates": [
+      18.207502,
+      -68.634167
+    ]
+  },
+  "st-kitts": {
+    "children": [],
+    "id": "st-kitts",
+    "name": "St. Kitts",
+    "type": "area",
+    "parent": "st-kitts-and-nevis",
+    "description": "Diving in St. Kitts.",
+    "coordinates": [
+      17.220331,
+      -62.664385
+    ]
+  },
+  "isles-des-saintes": {
+    "children": [],
+    "id": "isles-des-saintes",
+    "name": "Isles Des Saintes",
+    "type": "area",
+    "parent": "guadeloupe",
+    "description": "Diving in Isles Des Saintes.",
+    "coordinates": [
+      15.859141,
+      -61.647516
+    ]
+  },
+  "st-croix": {
+    "children": [],
+    "id": "st-croix",
+    "name": "St. Croix",
+    "type": "area",
+    "parent": "us-virgin-islands",
+    "description": "Diving in St. Croix.",
+    "coordinates": [
+      17.722444,
+      -64.900918
+    ]
+  },
+  "tintamarre-island": {
+    "children": [],
+    "id": "tintamarre-island",
+    "name": "Tintamarre Island",
+    "type": "area",
+    "parent": "st-martin",
+    "description": "Diving in Tintamarre Island.",
+    "coordinates": [
+      18.118445,
+      -62.993374
+    ]
+  },
+  "peter-island": {
+    "children": [],
+    "id": "peter-island",
+    "name": "Peter Island",
+    "type": "area",
+    "parent": "british-virgin-islands",
+    "description": "Diving in Peter Island.",
+    "coordinates": [
+      18.360065,
+      -64.589138
+    ]
+  },
+  "saba-island": {
+    "children": [],
+    "id": "saba-island",
+    "name": "Saba Island",
+    "type": "area",
+    "parent": "caribbean-netherlands",
+    "description": "Diving in Saba Island.",
+    "coordinates": [
+      17.627008,
+      -63.215547
+    ]
+  },
+  "salt-island": {
+    "children": [],
+    "id": "salt-island",
+    "name": "Salt Island",
+    "type": "area",
+    "parent": "british-virgin-islands",
+    "description": "Diving in Salt Island.",
+    "coordinates": [
+      18.363323,
+      -64.547768
+    ]
+  },
+  "st-john": {
+    "children": [],
+    "id": "st-john",
+    "name": "St. John",
+    "type": "area",
+    "parent": "us-virgin-islands",
+    "description": "Diving in St. John.",
+    "coordinates": [
+      18.352896,
+      -64.833326
+    ]
+  },
+  "norman-island": {
+    "children": [],
+    "id": "norman-island",
+    "name": "Norman Island",
+    "type": "area",
+    "parent": "british-virgin-islands",
+    "description": "Diving in Norman Island.",
+    "coordinates": [
+      18.333018,
+      -64.623814
+    ]
+  },
+  "cooper-island": {
+    "children": [],
+    "id": "cooper-island",
+    "name": "Cooper Island",
+    "type": "area",
+    "parent": "british-virgin-islands",
+    "description": "Diving in Cooper Island.",
+    "coordinates": [
+      18.363649,
+      -64.50983
+    ]
+  },
+  "ginger-island": {
+    "children": [],
+    "id": "ginger-island",
+    "name": "Ginger Island",
+    "type": "area",
+    "parent": "british-virgin-islands",
+    "description": "Diving in Ginger Island.",
+    "coordinates": [
+      18.378311,
+      -64.483738
+    ]
+  },
+  "great-dog-island": {
+    "children": [],
+    "id": "great-dog-island",
+    "name": "Great Dog Island",
+    "type": "area",
+    "parent": "british-virgin-islands",
+    "description": "Diving in Great Dog Island.",
+    "coordinates": [
+      18.475376,
+      -64.451809
+    ]
+  },
+  "prickley-pear-cays": {
+    "children": [],
+    "id": "prickley-pear-cays",
+    "name": "Prickley Pear Cays",
+    "type": "area",
+    "parent": "anguilla",
+    "description": "Diving in Prickley Pear Cays.",
+    "coordinates": [
+      18.257556,
+      -63.150787
+    ]
+  },
+  "playa-larga": {
+    "children": [],
+    "id": "playa-larga",
+    "name": "Playa Larga",
+    "type": "area",
+    "parent": "cuba",
+    "description": "Diving in Playa Larga.",
+    "coordinates": [
+      22.166669,
+      -81.138668
+    ]
+  },
+  "mayabeque": {
+    "children": [],
+    "id": "mayabeque",
+    "name": "Mayabeque",
+    "type": "area",
+    "parent": "cuba",
+    "description": "Diving in Mayabeque.",
+    "coordinates": [
+      23.147601,
+      -81.721888
+    ]
+  },
+  "villa-clara": {
+    "children": [],
+    "id": "villa-clara",
+    "name": "Villa Clara",
+    "type": "area",
+    "parent": "cuba",
+    "description": "Diving in Villa Clara.",
+    "coordinates": [
+      23.192125,
+      -81.246643
+    ]
+  },
+  "the-exuma-cays": {
+    "children": [],
+    "id": "the-exuma-cays",
+    "name": "The Exuma Cays",
+    "type": "area",
+    "parent": "bahamas",
+    "description": "Diving in The Exuma Cays.",
+    "coordinates": [
+      23.568865,
+      -75.81944
+    ]
+  },
+  "jardines-de-la-reina": {
+    "children": [],
+    "id": "jardines-de-la-reina",
+    "name": "Jardines De La Reina",
+    "type": "area",
+    "parent": "cuba",
+    "description": "Diving in Jardines De La Reina.",
+    "coordinates": [
+      20.844695,
+      -79.014015
+    ]
+  },
+  "little-san-salvador-island": {
+    "children": [],
+    "id": "little-san-salvador-island",
+    "name": "Little San Salvador Island",
+    "type": "area",
+    "parent": "bahamas",
+    "description": "Diving in Little San Salvador Island.",
+    "coordinates": [
+      24.442149,
+      -75.962906
+    ]
+  },
+  "holguin": {
+    "children": [],
+    "id": "holguin",
+    "name": "Holguin",
+    "type": "area",
+    "parent": "cuba",
+    "description": "Diving in Holguin.",
+    "coordinates": [
+      21.117811,
+      -75.92411
+    ]
+  },
+  "cayo-coco": {
+    "children": [],
+    "id": "cayo-coco",
+    "name": "Cayo Coco",
+    "type": "area",
+    "parent": "cuba",
+    "description": "Diving in Cayo Coco.",
+    "coordinates": [
+      22.606721,
+      -78.613186
+    ]
+  },
+  "cayo-guillermo": {
+    "children": [],
+    "id": "cayo-guillermo",
+    "name": "Cayo Guillermo",
+    "type": "area",
+    "parent": "cuba",
+    "description": "Diving in Cayo Guillermo.",
+    "coordinates": [
+      22.647601,
+      -78.785362
+    ]
+  },
+  "cayo-romano": {
+    "children": [],
+    "id": "cayo-romano",
+    "name": "Cayo Romano",
+    "type": "area",
+    "parent": "cuba",
+    "description": "Diving in Cayo Romano.",
+    "coordinates": [
+      22.481472,
+      -78.217678
+    ]
+  },
+  "san-salvador": {
+    "children": [],
+    "id": "san-salvador",
+    "name": "San Salvador",
+    "type": "area",
+    "parent": "bahamas",
+    "description": "Diving in San Salvador.",
+    "coordinates": [
+      23.941232,
+      -74.493356
+    ]
+  },
+  "south-bimini": {
+    "children": [],
+    "id": "south-bimini",
+    "name": "South Bimini",
+    "type": "area",
+    "parent": "bahamas",
+    "description": "Diving in South Bimini.",
+    "coordinates": [
+      25.756996,
+      -79.292107
+    ]
+  },
+  "great-abaco": {
+    "children": [],
+    "id": "great-abaco",
+    "name": "Great Abaco",
+    "type": "area",
+    "parent": "bahamas",
+    "description": "Diving in Great Abaco.",
+    "coordinates": [
+      25.844393,
+      -77.183933
+    ]
+  },
+  "scrub-island": {
+    "children": [],
+    "id": "scrub-island",
+    "name": "Scrub Island",
+    "type": "area",
+    "parent": "anguilla",
+    "description": "Diving in Scrub Island.",
+    "coordinates": [
+      18.296697,
+      -62.95769
+    ]
+  },
+  "dog-island": {
+    "children": [],
+    "id": "dog-island",
+    "name": "Dog Island",
+    "type": "area",
+    "parent": "anguilla",
+    "description": "Diving in Dog Island.",
+    "coordinates": [
+      18.266929,
+      -63.262625
+    ]
+  },
+  "pinar-del-rio": {
+    "children": [],
+    "id": "pinar-del-rio",
+    "name": "Pinar Del Rio",
+    "type": "area",
+    "parent": "cuba",
+    "description": "Diving in Pinar Del Rio.",
+    "coordinates": [
+      21.916134,
+      -84.483147
+    ]
+  },
+  "racs": {
+    "children": [],
+    "id": "racs",
+    "name": "RACS",
+    "type": "area",
+    "parent": "nicaragua",
+    "description": "Diving in RACS.",
+    "coordinates": [
+      12.296943,
+      -82.992793
+    ]
+  },
+  "choco": {
+    "children": [],
+    "id": "choco",
+    "name": "Choco",
+    "type": "area",
+    "parent": "colombia",
+    "description": "Diving in Choco.",
+    "coordinates": [
+      5.464263,
+      -77.614975
+    ]
+  },
+  "san-andrs-and-providencia": {
+    "children": [],
+    "id": "san-andrs-and-providencia",
+    "name": "San Andrés And Providencia",
+    "type": "area",
+    "parent": "colombia",
+    "description": "Diving in San Andrés And Providencia.",
+    "coordinates": [
+      12.485521,
+      -81.736844
+    ]
+  },
+  "antioquia": {
+    "children": [],
+    "id": "antioquia",
+    "name": "Antioquia",
+    "type": "area",
+    "parent": "colombia",
+    "description": "Diving in Antioquia.",
+    "coordinates": [
+      6.28288,
+      -75.196266
+    ]
+  },
+  "antigua": {
+    "children": [],
+    "id": "antigua",
+    "name": "Antigua",
+    "type": "area",
+    "parent": "antigua-and-barbuda",
+    "description": "Diving in Antigua.",
+    "coordinates": [
+      17.194259,
+      -61.794491
     ]
   }
 }

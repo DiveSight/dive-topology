@@ -84,12 +84,16 @@
     ],
     "bestTime": "November–April for best conditions.",
     "floraFauna": [
-      "hard corals",
-      "soft corals",
-      "reef fish",
-      "turtles",
-      "groupers",
-      "rays"
+      "staghorn coral",
+      "table coral",
+      "sea fan",
+      "leather coral",
+      "green sea turtle",
+      "hawksbill turtle",
+      "coral grouper",
+      "giant grouper",
+      "blue-spotted ribbontail ray",
+      "spotted eagle ray"
     ],
     "tags": [
       "tropical",
@@ -404,13 +408,17 @@
     ],
     "bestTime": "March–May and October–November for best diving.",
     "floraFauna": [
-      "hard corals",
-      "soft corals",
-      "reef fish",
+      "staghorn coral",
+      "table coral",
+      "sea fan",
+      "leather coral",
       "manta rays",
-      "turtles",
-      "groupers",
-      "rays"
+      "green sea turtle",
+      "hawksbill turtle",
+      "coral grouper",
+      "giant grouper",
+      "blue-spotted ribbontail ray",
+      "spotted eagle ray"
     ],
     "tags": [
       "tropical",
@@ -541,14 +549,17 @@
     ],
     "bestTime": "November–April for best conditions, varies by region.",
     "floraFauna": [
-      "hard corals",
-      "soft corals",
-      "reef fish",
+      "staghorn coral",
+      "table coral",
+      "sea fan",
+      "leather coral",
       "whale sharks",
       "manta rays",
-      "turtles",
+      "green sea turtle",
+      "hawksbill turtle",
       "dolphins",
-      "groupers"
+      "coral grouper",
+      "giant grouper"
     ],
     "tags": [
       "tropical",
@@ -672,13 +683,16 @@
     ],
     "bestTime": "November–April for best visibility and weather.",
     "floraFauna": [
-      "hard corals",
-      "soft corals",
-      "reef fish",
+      "staghorn coral",
+      "table coral",
+      "sea fan",
+      "leather coral",
       "whale sharks",
       "manta rays",
-      "turtles",
-      "groupers"
+      "green sea turtle",
+      "hawksbill turtle",
+      "coral grouper",
+      "giant grouper"
     ],
     "tags": [
       "tropical",
@@ -1084,6 +1098,162 @@
     "coordinates": [
       10.5667,
       72.6417
+    ]
+  },
+  "addu-city": {
+    "children": [],
+    "id": "addu-city",
+    "name": "Addu City",
+    "type": "area",
+    "parent": "maldives",
+    "description": "Diving in Addu City.",
+    "coordinates": [
+      -0.671352,
+      73.210659
+    ]
+  },
+  "gnaviyani": {
+    "children": [],
+    "id": "gnaviyani",
+    "name": "Gnaviyani",
+    "type": "area",
+    "parent": "maldives",
+    "description": "Diving in Gnaviyani.",
+    "coordinates": [
+      -0.272254,
+      73.406525
+    ]
+  },
+  "male": {
+    "children": [],
+    "id": "male",
+    "name": "Male",
+    "type": "area",
+    "parent": "maldives",
+    "description": "Diving in Male.",
+    "coordinates": [
+      0.557547,
+      73.100967
+    ]
+  },
+  "upper-south-province": {
+    "children": [],
+    "id": "upper-south-province",
+    "name": "Upper South Province",
+    "type": "area",
+    "parent": "maldives",
+    "description": "Diving in Upper South Province.",
+    "coordinates": [
+      0.435672,
+      73.572178
+    ]
+  },
+  "noonu-atoll": {
+    "children": [],
+    "id": "noonu-atoll",
+    "name": "Noonu Atoll",
+    "type": "area",
+    "parent": "maldives",
+    "description": "Diving in Noonu Atoll.",
+    "coordinates": [
+      3.54579,
+      72.930379
+    ]
+  },
+  "raa-atoll": {
+    "children": [],
+    "id": "raa-atoll",
+    "name": "Raa Atoll",
+    "type": "area",
+    "parent": "maldives",
+    "description": "Diving in Raa Atoll.",
+    "coordinates": [
+      4.278027,
+      73.011875
+    ]
+  },
+  "haa-alifu-atoll": {
+    "children": [],
+    "id": "haa-alifu-atoll",
+    "name": "Haa Alifu Atoll",
+    "type": "area",
+    "parent": "maldives",
+    "description": "Diving in Haa Alifu Atoll.",
+    "coordinates": [
+      7.097145,
+      72.909393
+    ]
+  },
+  "haa-dhaalu-atoll": {
+    "children": [],
+    "id": "haa-dhaalu-atoll",
+    "name": "Haa Dhaalu Atoll",
+    "type": "area",
+    "parent": "maldives",
+    "description": "Diving in Haa Dhaalu Atoll.",
+    "coordinates": [
+      6.750192,
+      73.070068
+    ]
+  },
+  "meghalaya": {
+    "children": [],
+    "id": "meghalaya",
+    "name": "Meghalaya",
+    "type": "area",
+    "parent": "india",
+    "description": "Diving in Meghalaya.",
+    "coordinates": [
+      25.186066,
+      92.074871
+    ]
+  },
+  "toliara": {
+    "children": [],
+    "id": "toliara",
+    "name": "Toliara",
+    "type": "area",
+    "parent": "madagascar",
+    "description": "Diving in Toliara.",
+    "coordinates": [
+      -23.155671,
+      43.559933
+    ]
+  },
+  "nosy-valiha": {
+    "children": [],
+    "id": "nosy-valiha",
+    "name": "Nosy Valiha",
+    "type": "area",
+    "parent": "madagascar",
+    "description": "Diving in Nosy Valiha.",
+    "coordinates": [
+      -14.144566,
+      47.566681
+    ]
+  },
+  "antsiranana": {
+    "children": [],
+    "id": "antsiranana",
+    "name": "Antsiranana",
+    "type": "area",
+    "parent": "madagascar",
+    "description": "Diving in Antsiranana.",
+    "coordinates": [
+      -13.979381,
+      47.639465
+    ]
+  },
+  "anorotsangana": {
+    "children": [],
+    "id": "anorotsangana",
+    "name": "Anorotsangana",
+    "type": "area",
+    "parent": "madagascar",
+    "description": "Diving in Anorotsangana.",
+    "coordinates": [
+      -13.425688,
+      48.014374
     ]
   }
 }

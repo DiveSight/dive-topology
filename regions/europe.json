@@ -1,15 +1,4 @@
 {
-  "europe": {
-    "children": [],
-    "id": "europe",
-    "name": "Europe",
-    "type": "major",
-    "description": "Diving in the Europe region.",
-    "coordinates": [
-      0,
-      0
-    ]
-  },
   "albania": {
     "children": [],
     "id": "albania",
@@ -1684,12 +1673,13 @@
     ],
     "bestTime": "May–October for best conditions.",
     "floraFauna": [
-      "hard corals",
-      "soft corals",
-      "reef fish",
-      "groupers",
+      "red coral",
+      "yellow sea fan",
+      "red gorgonian",
+      "dusky grouper",
       "octopus",
-      "sponges"
+      "bath sponge",
+      "elephant ear sponge"
     ],
     "tags": [
       "mediterranean",
@@ -2006,18 +1996,6 @@
     "coordinates": [
       52.522,
       6.1091
-    ]
-  },
-  "saba": {
-    "children": [],
-    "id": "saba",
-    "name": "Saba",
-    "type": "area",
-    "parent": "netherlands",
-    "description": "Diving in Saba.",
-    "coordinates": [
-      17.6324,
-      -63.2409
     ]
   },
   "south-holland": {
@@ -3227,14 +3205,15 @@
     ],
     "bestTime": "May–October for Mediterranean, June–September for Atlantic/temperate.",
     "floraFauna": [
-      "hard corals",
-      "soft corals",
+      "red coral",
+      "yellow sea fan",
+      "red gorgonian",
       "kelp forests",
-      "reef fish",
-      "groupers",
+      "dusky grouper",
       "octopus",
       "seals",
-      "sponges"
+      "bath sponge",
+      "elephant ear sponge"
     ],
     "tags": [
       "temperate",
@@ -3260,12 +3239,13 @@
     ],
     "bestTime": "May–October for best conditions.",
     "floraFauna": [
-      "hard corals",
-      "soft corals",
-      "reef fish",
-      "groupers",
+      "red coral",
+      "yellow sea fan",
+      "red gorgonian",
+      "dusky grouper",
       "octopus",
-      "sponges"
+      "bath sponge",
+      "elephant ear sponge"
     ],
     "tags": [
       "mediterranean",
@@ -3389,8 +3369,9 @@
     "bestTime": "May–September for best conditions.",
     "floraFauna": [
       "kelp",
-      "crabs",
-      "lobsters",
+      "spider crab",
+      "European lobster",
+      "slipper lobster",
       "wrasse"
     ],
     "tags": [
@@ -3399,5 +3380,2741 @@
       "temperate"
     ],
     "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&h=600&fit=crop"
+  },
+  "russia": {
+    "children": [],
+    "id": "russia",
+    "name": "Russia",
+    "type": "country",
+    "parent": "europe",
+    "description": "Diving in Russia.",
+    "coordinates": [
+      57.1087,
+      59.4673
+    ]
+  },
+  "ukraine": {
+    "children": [],
+    "id": "ukraine",
+    "name": "Ukraine",
+    "type": "country",
+    "parent": "europe",
+    "description": "Diving in Ukraine.",
+    "coordinates": [
+      46.476411,
+      31.114311
+    ]
+  },
+  "estonia": {
+    "children": [],
+    "id": "estonia",
+    "name": "Estonia",
+    "type": "country",
+    "parent": "europe",
+    "description": "Diving in Estonia.",
+    "coordinates": [
+      59.4182,
+      24.1907
+    ]
+  },
+  "latvia": {
+    "children": [],
+    "id": "latvia",
+    "name": "Latvia",
+    "type": "country",
+    "parent": "europe",
+    "description": "Diving in Latvia.",
+    "coordinates": [
+      56.8927,
+      21.0496
+    ]
+  },
+  "lithuania": {
+    "children": [],
+    "id": "lithuania",
+    "name": "Lithuania",
+    "type": "country",
+    "parent": "europe",
+    "description": "Diving in Lithuania.",
+    "coordinates": [
+      55.592025,
+      23.218961
+    ]
+  },
+  "sverdlovsk-oblast": {
+    "children": [],
+    "id": "sverdlovsk-oblast",
+    "name": "Sverdlovsk Oblast",
+    "type": "area",
+    "parent": "russia",
+    "description": "Diving in Sverdlovsk Oblast.",
+    "coordinates": [
+      57.1087,
+      59.4673
+    ]
+  },
+  "chelyabinsk-oblast": {
+    "children": [],
+    "id": "chelyabinsk-oblast",
+    "name": "Chelyabinsk Oblast",
+    "type": "area",
+    "parent": "russia",
+    "description": "Diving in Chelyabinsk Oblast.",
+    "coordinates": [
+      55.0429,
+      60.3143
+    ]
+  },
+  "kurgan-oblast": {
+    "children": [],
+    "id": "kurgan-oblast",
+    "name": "Kurgan Oblast",
+    "type": "area",
+    "parent": "russia",
+    "description": "Diving in Kurgan Oblast.",
+    "coordinates": [
+      55.7183,
+      64.3271
+    ]
+  },
+  "altai-republic": {
+    "children": [],
+    "id": "altai-republic",
+    "name": "Altai Republic",
+    "type": "area",
+    "parent": "russia",
+    "description": "Diving in Altai Republic.",
+    "coordinates": [
+      51.7428,
+      87.4773
+    ]
+  },
+  "krasnoyarsk-region": {
+    "children": [],
+    "id": "krasnoyarsk-region",
+    "name": "Krasnoyarsk Region",
+    "type": "area",
+    "parent": "russia",
+    "description": "Diving in Krasnoyarsk Region.",
+    "coordinates": [
+      55.5339,
+      88.8262
+    ]
+  },
+  "east-siberian": {
+    "children": [],
+    "id": "east-siberian",
+    "name": "East Siberian",
+    "type": "area",
+    "parent": "russia",
+    "description": "Diving in East Siberian.",
+    "coordinates": [
+      51.851049,
+      104.854889
+    ]
+  },
+  "leningrad-oblast": {
+    "children": [],
+    "id": "leningrad-oblast",
+    "name": "Leningrad Oblast",
+    "type": "area",
+    "parent": "russia",
+    "description": "Diving in Leningrad Oblast.",
+    "coordinates": [
+      60.725306,
+      29.955146
+    ]
+  },
+  "pelagie-islands": {
+    "children": [],
+    "id": "pelagie-islands",
+    "name": "Pelagie Islands",
+    "type": "area",
+    "parent": "italy",
+    "description": "Diving in Pelagie Islands.",
+    "coordinates": [
+      35.558764,
+      12.3452
+    ]
+  },
+  "puglia-region": {
+    "children": [],
+    "id": "puglia-region",
+    "name": "Puglia Region",
+    "type": "area",
+    "parent": "italy",
+    "description": "Diving in Puglia Region.",
+    "coordinates": [
+      39.812228,
+      18.393431
+    ]
+  },
+  "campania-region": {
+    "children": [],
+    "id": "campania-region",
+    "name": "Campania Region",
+    "type": "area",
+    "parent": "italy",
+    "description": "Diving in Campania Region.",
+    "coordinates": [
+      39.995665,
+      15.397532
+    ]
+  },
+  "calabria-region": {
+    "children": [],
+    "id": "calabria-region",
+    "name": "Calabria Region",
+    "type": "area",
+    "parent": "italy",
+    "description": "Diving in Calabria Region.",
+    "coordinates": [
+      38.140497,
+      15.653715
+    ]
+  },
+  "liguria-region": {
+    "children": [],
+    "id": "liguria-region",
+    "name": "Liguria Region",
+    "type": "area",
+    "parent": "italy",
+    "description": "Diving in Liguria Region.",
+    "coordinates": [
+      44.394481,
+      8.841248
+    ]
+  },
+  "tuscany-region": {
+    "children": [],
+    "id": "tuscany-region",
+    "name": "Tuscany Region",
+    "type": "area",
+    "parent": "italy",
+    "description": "Diving in Tuscany Region.",
+    "coordinates": [
+      42.443348,
+      11.093059
+    ]
+  },
+  "lazio-region": {
+    "children": [],
+    "id": "lazio-region",
+    "name": "Lazio Region",
+    "type": "area",
+    "parent": "italy",
+    "description": "Diving in Lazio Region.",
+    "coordinates": [
+      42.046488,
+      11.807899
+    ]
+  },
+  "marche-region": {
+    "children": [],
+    "id": "marche-region",
+    "name": "Marche Region",
+    "type": "area",
+    "parent": "italy",
+    "description": "Diving in Marche Region.",
+    "coordinates": [
+      43.548673,
+      13.631973
+    ]
+  },
+  "abruzzo-region": {
+    "children": [],
+    "id": "abruzzo-region",
+    "name": "Abruzzo Region",
+    "type": "area",
+    "parent": "italy",
+    "description": "Diving in Abruzzo Region.",
+    "coordinates": [
+      42.881751,
+      13.923841
+    ]
+  },
+  "emilia-romagna-region": {
+    "children": [],
+    "id": "emilia-romagna-region",
+    "name": "Emilia-romagna Region",
+    "type": "area",
+    "parent": "italy",
+    "description": "Diving in Emilia-romagna Region.",
+    "coordinates": [
+      44.38444,
+      12.5825
+    ]
+  },
+  "veneto-region": {
+    "children": [],
+    "id": "veneto-region",
+    "name": "Veneto Region",
+    "type": "area",
+    "parent": "italy",
+    "description": "Diving in Veneto Region.",
+    "coordinates": [
+      45.319052,
+      11.784554
+    ]
+  },
+  "lombardy-region": {
+    "children": [],
+    "id": "lombardy-region",
+    "name": "Lombardy Region",
+    "type": "area",
+    "parent": "italy",
+    "description": "Diving in Lombardy Region.",
+    "coordinates": [
+      45.594041,
+      10.590563
+    ]
+  },
+  "trentino-alto": {
+    "children": [],
+    "id": "trentino-alto",
+    "name": "Trentino-alto",
+    "type": "area",
+    "parent": "italy",
+    "description": "Diving in Trentino-alto.",
+    "coordinates": [
+      45.877536,
+      10.854599
+    ]
+  },
+  "voria-kinouria": {
+    "children": [],
+    "id": "voria-kinouria",
+    "name": "Voria Kinouria",
+    "type": "area",
+    "parent": "greece",
+    "description": "Diving in Voria Kinouria.",
+    "coordinates": [
+      37.332733,
+      22.813504
+    ]
+  },
+  "patras": {
+    "children": [],
+    "id": "patras",
+    "name": "Patras",
+    "type": "area",
+    "parent": "greece",
+    "description": "Diving in Patras.",
+    "coordinates": [
+      38.327583,
+      21.886246
+    ]
+  },
+  "attica-region": {
+    "children": [],
+    "id": "attica-region",
+    "name": "Attica Region",
+    "type": "area",
+    "parent": "greece",
+    "description": "Diving in Attica Region.",
+    "coordinates": [
+      37.65605,
+      23.939917
+    ]
+  },
+  "central-greece": {
+    "children": [],
+    "id": "central-greece",
+    "name": "Central Greece",
+    "type": "area",
+    "parent": "greece",
+    "description": "Diving in Central Greece.",
+    "coordinates": [
+      38.384459,
+      23.832436
+    ]
+  },
+  "vari": {
+    "children": [],
+    "id": "vari",
+    "name": "Vari",
+    "type": "area",
+    "parent": "greece",
+    "description": "Diving in Vari.",
+    "coordinates": [
+      37.804004,
+      23.798425
+    ]
+  },
+  "kato-alepochori": {
+    "children": [],
+    "id": "kato-alepochori",
+    "name": "Kato Alepochori",
+    "type": "area",
+    "parent": "greece",
+    "description": "Diving in Kato Alepochori.",
+    "coordinates": [
+      38.092653,
+      23.185573
+    ]
+  },
+  "vilia": {
+    "children": [],
+    "id": "vilia",
+    "name": "Vilia",
+    "type": "area",
+    "parent": "greece",
+    "description": "Diving in Vilia.",
+    "coordinates": [
+      38.12196,
+      23.200593
+    ]
+  },
+  "salamina": {
+    "children": [],
+    "id": "salamina",
+    "name": "Salamina",
+    "type": "area",
+    "parent": "greece",
+    "description": "Diving in Salamina.",
+    "coordinates": [
+      37.883997,
+      23.47362
+    ]
+  },
+  "skopelos-island": {
+    "children": [],
+    "id": "skopelos-island",
+    "name": "Skopelos Island",
+    "type": "area",
+    "parent": "greece",
+    "description": "Diving in Skopelos Island.",
+    "coordinates": [
+      39.114477,
+      23.642342
+    ]
+  },
+  "vouliagmeni": {
+    "children": [],
+    "id": "vouliagmeni",
+    "name": "Vouliagmeni",
+    "type": "area",
+    "parent": "greece",
+    "description": "Diving in Vouliagmeni.",
+    "coordinates": [
+      37.813681,
+      23.766539
+    ]
+  },
+  "fleves-island": {
+    "children": [],
+    "id": "fleves-island",
+    "name": "Fleves Island",
+    "type": "area",
+    "parent": "greece",
+    "description": "Diving in Fleves Island.",
+    "coordinates": [
+      37.765487,
+      23.756647
+    ]
+  },
+  "pontikonhsi": {
+    "children": [],
+    "id": "pontikonhsi",
+    "name": "Pontikonhsi",
+    "type": "area",
+    "parent": "greece",
+    "description": "Diving in Pontikonhsi.",
+    "coordinates": [
+      37.790711,
+      23.82441
+    ]
+  },
+  "solygeia": {
+    "children": [],
+    "id": "solygeia",
+    "name": "Solygeia",
+    "type": "area",
+    "parent": "greece",
+    "description": "Diving in Solygeia.",
+    "coordinates": [
+      37.742144,
+      23.120899
+    ]
+  },
+  "santorini": {
+    "children": [],
+    "id": "santorini",
+    "name": "Santorini",
+    "type": "area",
+    "parent": "greece",
+    "description": "Diving in Santorini.",
+    "coordinates": [
+      36.365457,
+      25.493431
+    ]
+  },
+  "aegean-islands": {
+    "children": [],
+    "id": "aegean-islands",
+    "name": "Aegean Islands",
+    "type": "area",
+    "parent": "greece",
+    "description": "Diving in Aegean Islands.",
+    "coordinates": [
+      36.945049,
+      27.173168
+    ]
+  },
+  "ikaria": {
+    "children": [],
+    "id": "ikaria",
+    "name": "Ikaria",
+    "type": "area",
+    "parent": "greece",
+    "description": "Diving in Ikaria.",
+    "coordinates": [
+      37.600343,
+      26.276027
+    ]
+  },
+  "ammoulliani": {
+    "children": [],
+    "id": "ammoulliani",
+    "name": "Ammoulliani",
+    "type": "area",
+    "parent": "greece",
+    "description": "Diving in Ammoulliani.",
+    "coordinates": [
+      40.306299,
+      23.969109
+    ]
+  },
+  "thassos-island": {
+    "children": [],
+    "id": "thassos-island",
+    "name": "Thassos Island",
+    "type": "area",
+    "parent": "greece",
+    "description": "Diving in Thassos Island.",
+    "coordinates": [
+      40.705392,
+      24.78465
+    ]
+  },
+  "murcia-region": {
+    "children": [],
+    "id": "murcia-region",
+    "name": "Murcia Region",
+    "type": "area",
+    "parent": "spain",
+    "description": "Diving in Murcia Region.",
+    "coordinates": [
+      37.629052,
+      -0.693319
+    ]
+  },
+  "andalusia-region": {
+    "children": [],
+    "id": "andalusia-region",
+    "name": "Andalusia Region",
+    "type": "area",
+    "parent": "spain",
+    "description": "Diving in Andalusia Region.",
+    "coordinates": [
+      36.833882,
+      -2.012815
+    ]
+  },
+  "valenciana-region": {
+    "children": [],
+    "id": "valenciana-region",
+    "name": "Valenciana Region",
+    "type": "area",
+    "parent": "spain",
+    "description": "Diving in Valenciana Region.",
+    "coordinates": [
+      38.518086,
+      -0.122566
+    ]
+  },
+  "balearic-islands": {
+    "children": [],
+    "id": "balearic-islands",
+    "name": "Balearic Islands",
+    "type": "area",
+    "parent": "spain",
+    "description": "Diving in Balearic Islands.",
+    "coordinates": [
+      39.893458,
+      3.195949
+    ]
+  },
+  "asturias": {
+    "children": [],
+    "id": "asturias",
+    "name": "Asturias",
+    "type": "area",
+    "parent": "spain",
+    "description": "Diving in Asturias.",
+    "coordinates": [
+      43.551223,
+      -5.663195
+    ]
+  },
+  "catalonia-region": {
+    "children": [],
+    "id": "catalonia-region",
+    "name": "Catalonia Region",
+    "type": "area",
+    "parent": "spain",
+    "description": "Diving in Catalonia Region.",
+    "coordinates": [
+      42.319552,
+      3.331132
+    ]
+  },
+  "algarve": {
+    "children": [],
+    "id": "algarve",
+    "name": "Algarve",
+    "type": "area",
+    "parent": "portugal",
+    "description": "Diving in Algarve.",
+    "coordinates": [
+      36.952498,
+      -7.947407
+    ]
+  },
+  "peniche": {
+    "children": [],
+    "id": "peniche",
+    "name": "Peniche",
+    "type": "area",
+    "parent": "portugal",
+    "description": "Diving in Peniche.",
+    "coordinates": [
+      39.413006,
+      -9.502165
+    ]
+  },
+  "setubal": {
+    "children": [],
+    "id": "setubal",
+    "name": "Setubal",
+    "type": "area",
+    "parent": "portugal",
+    "description": "Diving in Setubal.",
+    "coordinates": [
+      38.406859,
+      -9.223666
+    ]
+  },
+  "estremadura": {
+    "children": [],
+    "id": "estremadura",
+    "name": "Estremadura",
+    "type": "area",
+    "parent": "portugal",
+    "description": "Diving in Estremadura.",
+    "coordinates": [
+      39.602448,
+      -9.08432
+    ]
+  },
+  "pedrogao": {
+    "children": [],
+    "id": "pedrogao",
+    "name": "Pedrogao",
+    "type": "area",
+    "parent": "portugal",
+    "description": "Diving in Pedrogao.",
+    "coordinates": [
+      39.504736,
+      -8.615084
+    ]
+  },
+  "almada": {
+    "children": [],
+    "id": "almada",
+    "name": "Almada",
+    "type": "area",
+    "parent": "portugal",
+    "description": "Diving in Almada.",
+    "coordinates": [
+      38.504654,
+      -9.227657
+    ]
+  },
+  "alcanena": {
+    "children": [],
+    "id": "alcanena",
+    "name": "Alcanena",
+    "type": "area",
+    "parent": "portugal",
+    "description": "Diving in Alcanena.",
+    "coordinates": [
+      39.445175,
+      -8.711257
+    ]
+  },
+  "normandy": {
+    "children": [],
+    "id": "normandy",
+    "name": "Normandy",
+    "type": "area",
+    "parent": "france",
+    "description": "Diving in Normandy.",
+    "coordinates": [
+      49.359346,
+      -0.647163
+    ]
+  },
+  "nouvelle-aquitaine": {
+    "children": [],
+    "id": "nouvelle-aquitaine",
+    "name": "Nouvelle-aquitaine",
+    "type": "area",
+    "parent": "france",
+    "description": "Diving in Nouvelle-aquitaine.",
+    "coordinates": [
+      43.655143,
+      -1.439188
+    ]
+  },
+  "occitanie": {
+    "children": [],
+    "id": "occitanie",
+    "name": "Occitanie",
+    "type": "area",
+    "parent": "france",
+    "description": "Diving in Occitanie.",
+    "coordinates": [
+      42.448858,
+      3.170757
+    ]
+  },
+  "isle-of-man": {
+    "children": [],
+    "id": "isle-of-man",
+    "name": "Isle of Man",
+    "type": "area",
+    "parent": "united-kingdom",
+    "description": "Diving in Isle of Man.",
+    "coordinates": [
+      54.075002,
+      -4.787979
+    ]
+  },
+  "algiers": {
+    "children": [],
+    "id": "algiers",
+    "name": "Algiers",
+    "type": "area",
+    "parent": "algeria",
+    "description": "Diving in Algiers.",
+    "coordinates": [
+      36.881543,
+      3.286285
+    ]
+  },
+  "djerba": {
+    "children": [],
+    "id": "djerba",
+    "name": "Djerba",
+    "type": "area",
+    "parent": "tunisia",
+    "description": "Diving in Djerba.",
+    "coordinates": [
+      33.837057,
+      11.018429
+    ]
+  },
+  "auvergne-rhne-alpes": {
+    "children": [],
+    "id": "auvergne-rhne-alpes",
+    "name": "Auvergne-rhône-alpes",
+    "type": "area",
+    "parent": "france",
+    "description": "Diving in Auvergne-rhône-alpes.",
+    "coordinates": [
+      45.891203,
+      6.156807
+    ]
+  },
+  "kerry": {
+    "children": [],
+    "id": "kerry",
+    "name": "Kerry",
+    "type": "area",
+    "parent": "ireland",
+    "description": "Diving in Kerry.",
+    "coordinates": [
+      52.070854,
+      -10.582237
+    ]
+  },
+  "cork": {
+    "children": [],
+    "id": "cork",
+    "name": "Cork",
+    "type": "area",
+    "parent": "ireland",
+    "description": "Diving in Cork.",
+    "coordinates": [
+      51.613753,
+      -10.319595
+    ]
+  },
+  "galway": {
+    "children": [],
+    "id": "galway",
+    "name": "Galway",
+    "type": "area",
+    "parent": "ireland",
+    "description": "Diving in Galway.",
+    "coordinates": [
+      53.632221,
+      -10.258055
+    ]
+  },
+  "clare": {
+    "children": [],
+    "id": "clare",
+    "name": "Clare",
+    "type": "area",
+    "parent": "ireland",
+    "description": "Diving in Clare.",
+    "coordinates": [
+      52.680727,
+      -9.674106
+    ]
+  },
+  "sligo": {
+    "children": [],
+    "id": "sligo",
+    "name": "Sligo",
+    "type": "area",
+    "parent": "ireland",
+    "description": "Diving in Sligo.",
+    "coordinates": [
+      54.475,
+      -8.456104
+    ]
+  },
+  "dublin": {
+    "children": [],
+    "id": "dublin",
+    "name": "Dublin",
+    "type": "area",
+    "parent": "ireland",
+    "description": "Diving in Dublin.",
+    "coordinates": [
+      53.271783,
+      -6.089172
+    ]
+  },
+  "lika-senj": {
+    "children": [],
+    "id": "lika-senj",
+    "name": "Lika-Senj",
+    "type": "area",
+    "parent": "croatia",
+    "description": "Diving in Lika-Senj.",
+    "coordinates": [
+      44.603437,
+      14.870749
+    ]
+  },
+  "kornati": {
+    "children": [],
+    "id": "kornati",
+    "name": "Kornati",
+    "type": "area",
+    "parent": "croatia",
+    "description": "Diving in Kornati.",
+    "coordinates": [
+      44.941807,
+      14.580531
+    ]
+  },
+  "solta": {
+    "children": [],
+    "id": "solta",
+    "name": "Solta",
+    "type": "area",
+    "parent": "croatia",
+    "description": "Diving in Solta.",
+    "coordinates": [
+      43.337441,
+      16.365833
+    ]
+  },
+  "murter": {
+    "children": [],
+    "id": "murter",
+    "name": "Murter",
+    "type": "area",
+    "parent": "croatia",
+    "description": "Diving in Murter.",
+    "coordinates": [
+      43.760556,
+      15.632923
+    ]
+  },
+  "otoi-paranj": {
+    "children": [],
+    "id": "otoi-paranj",
+    "name": "Otočić Paržanj",
+    "type": "area",
+    "parent": "croatia",
+    "description": "Diving in Otočić Paržanj.",
+    "coordinates": [
+      43.173971,
+      16.325496
+    ]
+  },
+  "veli-tetovisnjak": {
+    "children": [],
+    "id": "veli-tetovisnjak",
+    "name": "Veli-Tetovisnjak",
+    "type": "area",
+    "parent": "croatia",
+    "description": "Diving in Veli-Tetovisnjak.",
+    "coordinates": [
+      43.715767,
+      15.608139
+    ]
+  },
+  "kaprije": {
+    "children": [],
+    "id": "kaprije",
+    "name": "Kaprije",
+    "type": "area",
+    "parent": "croatia",
+    "description": "Diving in Kaprije.",
+    "coordinates": [
+      43.719455,
+      15.670382
+    ]
+  },
+  "zirje-island": {
+    "children": [],
+    "id": "zirje-island",
+    "name": "Zirje Island",
+    "type": "area",
+    "parent": "croatia",
+    "description": "Diving in Zirje Island.",
+    "coordinates": [
+      43.65638,
+      15.631437
+    ]
+  },
+  "vodnjak": {
+    "children": [],
+    "id": "vodnjak",
+    "name": "Vodnjak",
+    "type": "area",
+    "parent": "croatia",
+    "description": "Diving in Vodnjak.",
+    "coordinates": [
+      43.168807,
+      16.314744
+    ]
+  },
+  "paphos-district": {
+    "children": [],
+    "id": "paphos-district",
+    "name": "Paphos District",
+    "type": "area",
+    "parent": "cyprus",
+    "description": "Diving in Paphos District.",
+    "coordinates": [
+      34.664841,
+      32.408295
+    ]
+  },
+  "famagusta-district": {
+    "children": [],
+    "id": "famagusta-district",
+    "name": "Famagusta District",
+    "type": "area",
+    "parent": "cyprus",
+    "description": "Diving in Famagusta District.",
+    "coordinates": [
+      34.959142,
+      34.070695
+    ]
+  },
+  "larnaca-district": {
+    "children": [],
+    "id": "larnaca-district",
+    "name": "Larnaca District",
+    "type": "area",
+    "parent": "cyprus",
+    "description": "Diving in Larnaca District.",
+    "coordinates": [
+      34.8572,
+      33.660049
+    ]
+  },
+  "akrotiri": {
+    "children": [],
+    "id": "akrotiri",
+    "name": "Akrotiri",
+    "type": "area",
+    "parent": "cyprus",
+    "description": "Diving in Akrotiri.",
+    "coordinates": [
+      34.560859,
+      32.936325
+    ]
+  },
+  "dhekelia": {
+    "children": [],
+    "id": "dhekelia",
+    "name": "Dhekelia",
+    "type": "area",
+    "parent": "cyprus",
+    "description": "Diving in Dhekelia.",
+    "coordinates": [
+      34.927038,
+      33.855057
+    ]
+  },
+  "kyrenia-district": {
+    "children": [],
+    "id": "kyrenia-district",
+    "name": "Kyrenia District",
+    "type": "area",
+    "parent": "cyprus",
+    "description": "Diving in Kyrenia District.",
+    "coordinates": [
+      35.377854,
+      33.219566
+    ]
+  },
+  "limassol-district": {
+    "children": [],
+    "id": "limassol-district",
+    "name": "Limassol District",
+    "type": "area",
+    "parent": "cyprus",
+    "description": "Diving in Limassol District.",
+    "coordinates": [
+      34.656086,
+      33.032799
+    ]
+  },
+  "fyn-island": {
+    "children": [],
+    "id": "fyn-island",
+    "name": "Fyn Island",
+    "type": "area",
+    "parent": "denmark",
+    "description": "Diving in Fyn Island.",
+    "coordinates": [
+      55.517747,
+      9.70037
+    ]
+  },
+  "kegnaes": {
+    "children": [],
+    "id": "kegnaes",
+    "name": "Kegnaes",
+    "type": "area",
+    "parent": "denmark",
+    "description": "Diving in Kegnaes.",
+    "coordinates": [
+      54.837873,
+      9.93576
+    ]
+  },
+  "vest-agder": {
+    "children": [],
+    "id": "vest-agder",
+    "name": "Vest-Agder",
+    "type": "area",
+    "parent": "norway",
+    "description": "Diving in Vest-Agder.",
+    "coordinates": [
+      58.022828,
+      7.318439
+    ]
+  },
+  "byfjorden": {
+    "children": [],
+    "id": "byfjorden",
+    "name": "Byfjorden",
+    "type": "area",
+    "parent": "norway",
+    "description": "Diving in Byfjorden.",
+    "coordinates": [
+      59.040676,
+      5.628734
+    ]
+  },
+  "vastra-gotaland": {
+    "children": [],
+    "id": "vastra-gotaland",
+    "name": "Vastra Gotaland",
+    "type": "area",
+    "parent": "sweden",
+    "description": "Diving in Vastra Gotaland.",
+    "coordinates": [
+      58.277416,
+      11.419258
+    ]
+  },
+  "langeland": {
+    "children": [],
+    "id": "langeland",
+    "name": "Langeland",
+    "type": "area",
+    "parent": "denmark",
+    "description": "Diving in Langeland.",
+    "coordinates": [
+      54.72462,
+      10.715103
+    ]
+  },
+  "gullmarsfjorden": {
+    "children": [],
+    "id": "gullmarsfjorden",
+    "name": "Gullmarsfjorden",
+    "type": "area",
+    "parent": "sweden",
+    "description": "Diving in Gullmarsfjorden.",
+    "coordinates": [
+      58.362291,
+      11.60083
+    ]
+  },
+  "vestfold": {
+    "children": [],
+    "id": "vestfold",
+    "name": "Vestfold",
+    "type": "area",
+    "parent": "norway",
+    "description": "Diving in Vestfold.",
+    "coordinates": [
+      59.035609,
+      10.288696
+    ]
+  },
+  "skane": {
+    "children": [],
+    "id": "skane",
+    "name": "Skane",
+    "type": "area",
+    "parent": "sweden",
+    "description": "Diving in Skane.",
+    "coordinates": [
+      55.787385,
+      12.778473
+    ]
+  },
+  "oslo": {
+    "children": [],
+    "id": "oslo",
+    "name": "Oslo",
+    "type": "area",
+    "parent": "norway",
+    "description": "Diving in Oslo.",
+    "coordinates": [
+      59.820143,
+      10.603008
+    ]
+  },
+  "surahammar-municipality": {
+    "children": [],
+    "id": "surahammar-municipality",
+    "name": "Surahammar Municipality",
+    "type": "area",
+    "parent": "sweden",
+    "description": "Diving in Surahammar Municipality.",
+    "coordinates": [
+      59.240285,
+      17.053485
+    ]
+  },
+  "sydals": {
+    "children": [],
+    "id": "sydals",
+    "name": "Sydals",
+    "type": "area",
+    "parent": "denmark",
+    "description": "Diving in Sydals.",
+    "coordinates": [
+      54.922407,
+      10.106049
+    ]
+  },
+  "northeastern-region": {
+    "children": [],
+    "id": "northeastern-region",
+    "name": "Northeastern Region",
+    "type": "area",
+    "parent": "iceland",
+    "description": "Diving in Northeastern Region.",
+    "coordinates": [
+      65.775744,
+      -18.127441
+    ]
+  },
+  "hordaland": {
+    "children": [],
+    "id": "hordaland",
+    "name": "Hordaland",
+    "type": "area",
+    "parent": "norway",
+    "description": "Diving in Hordaland.",
+    "coordinates": [
+      60.722914,
+      5.649719
+    ]
+  },
+  "sor-trondelag": {
+    "children": [],
+    "id": "sor-trondelag",
+    "name": "Sor-Trondelag",
+    "type": "area",
+    "parent": "norway",
+    "description": "Diving in Sor-Trondelag.",
+    "coordinates": [
+      63.453578,
+      9.969921
+    ]
+  },
+  "leksand": {
+    "children": [],
+    "id": "leksand",
+    "name": "Leksand",
+    "type": "area",
+    "parent": "sweden",
+    "description": "Diving in Leksand.",
+    "coordinates": [
+      60.727993,
+      14.999275
+    ]
+  },
+  "dalarna": {
+    "children": [],
+    "id": "dalarna",
+    "name": "Dalarna",
+    "type": "area",
+    "parent": "sweden",
+    "description": "Diving in Dalarna.",
+    "coordinates": [
+      60.600881,
+      14.870427
+    ]
+  },
+  "sandoya": {
+    "children": [],
+    "id": "sandoya",
+    "name": "Sandoya",
+    "type": "area",
+    "parent": "norway",
+    "description": "Diving in Sandoya.",
+    "coordinates": [
+      68.50208,
+      15.177612
+    ]
+  },
+  "offersoy": {
+    "children": [],
+    "id": "offersoy",
+    "name": "Offersoy",
+    "type": "area",
+    "parent": "norway",
+    "description": "Diving in Offersoy.",
+    "coordinates": [
+      68.286668,
+      15.625305
+    ]
+  },
+  "stormolla": {
+    "children": [],
+    "id": "stormolla",
+    "name": "Stormolla",
+    "type": "area",
+    "parent": "norway",
+    "description": "Diving in Stormolla.",
+    "coordinates": [
+      68.224599,
+      14.968872
+    ]
+  },
+  "austvagoy-island": {
+    "children": [],
+    "id": "austvagoy-island",
+    "name": "Austvagoy Island",
+    "type": "area",
+    "parent": "norway",
+    "description": "Diving in Austvagoy Island.",
+    "coordinates": [
+      68.208291,
+      14.622803
+    ]
+  },
+  "korsnes": {
+    "children": [],
+    "id": "korsnes",
+    "name": "Korsnes",
+    "type": "area",
+    "parent": "norway",
+    "description": "Diving in Korsnes.",
+    "coordinates": [
+      68.258198,
+      16.12793
+    ]
+  },
+  "kitee": {
+    "children": [],
+    "id": "kitee",
+    "name": "Kitee",
+    "type": "area",
+    "parent": "finland",
+    "description": "Diving in Kitee.",
+    "coordinates": [
+      62.023467,
+      29.864053
+    ]
+  },
+  "vlore-county": {
+    "children": [],
+    "id": "vlore-county",
+    "name": "Vlore County",
+    "type": "area",
+    "parent": "albania",
+    "description": "Diving in Vlore County.",
+    "coordinates": [
+      39.767381,
+      19.975805
+    ]
+  },
+  "sarande": {
+    "children": [],
+    "id": "sarande",
+    "name": "Sarande",
+    "type": "area",
+    "parent": "albania",
+    "description": "Diving in Sarande.",
+    "coordinates": [
+      39.859418,
+      20.009451
+    ]
+  },
+  "bar-municipality": {
+    "children": [],
+    "id": "bar-municipality",
+    "name": "Bar Municipality",
+    "type": "area",
+    "parent": "montenegro",
+    "description": "Diving in Bar Municipality.",
+    "coordinates": [
+      42.072998,
+      19.06703
+    ]
+  },
+  "budva-municipality": {
+    "children": [],
+    "id": "budva-municipality",
+    "name": "Budva Municipality",
+    "type": "area",
+    "parent": "montenegro",
+    "description": "Diving in Budva Municipality.",
+    "coordinates": [
+      42.244785,
+      18.8867
+    ]
+  },
+  "lustica": {
+    "children": [],
+    "id": "lustica",
+    "name": "Lustica",
+    "type": "area",
+    "parent": "montenegro",
+    "description": "Diving in Lustica.",
+    "coordinates": [
+      42.399075,
+      18.572946
+    ]
+  },
+  "sveti-nikola-island": {
+    "children": [],
+    "id": "sveti-nikola-island",
+    "name": "Sveti Nikola Island",
+    "type": "area",
+    "parent": "montenegro",
+    "description": "Diving in Sveti Nikola Island.",
+    "coordinates": [
+      42.260541,
+      18.868847
+    ]
+  },
+  "kotor-municipality": {
+    "children": [],
+    "id": "kotor-municipality",
+    "name": "Kotor Municipality",
+    "type": "area",
+    "parent": "montenegro",
+    "description": "Diving in Kotor Municipality.",
+    "coordinates": [
+      42.356261,
+      18.70225
+    ]
+  },
+  "karaburun-peninsula": {
+    "children": [],
+    "id": "karaburun-peninsula",
+    "name": "Karaburun Peninsula",
+    "type": "area",
+    "parent": "albania",
+    "description": "Diving in Karaburun Peninsula.",
+    "coordinates": [
+      40.419324,
+      19.291563
+    ]
+  },
+  "sazan-island": {
+    "children": [],
+    "id": "sazan-island",
+    "name": "Sazan Island",
+    "type": "area",
+    "parent": "albania",
+    "description": "Diving in Sazan Island.",
+    "coordinates": [
+      40.491693,
+      19.271715
+    ]
+  },
+  "herceg-novi-municipality": {
+    "children": [],
+    "id": "herceg-novi-municipality",
+    "name": "Herceg Novi Municipality",
+    "type": "area",
+    "parent": "montenegro",
+    "description": "Diving in Herceg Novi Municipality.",
+    "coordinates": [
+      42.358544,
+      18.554192
+    ]
+  },
+  "chernomorets": {
+    "children": [],
+    "id": "chernomorets",
+    "name": "Chernomorets",
+    "type": "area",
+    "parent": "bulgaria",
+    "description": "Diving in Chernomorets.",
+    "coordinates": [
+      42.459416,
+      27.632246
+    ]
+  },
+  "friedrichshafen": {
+    "children": [],
+    "id": "friedrichshafen",
+    "name": "Friedrichshafen",
+    "type": "area",
+    "parent": "germany",
+    "description": "Diving in Friedrichshafen.",
+    "coordinates": [
+      47.644574,
+      9.423523
+    ]
+  },
+  "spittal-an-der-drau": {
+    "children": [],
+    "id": "spittal-an-der-drau",
+    "name": "Spittal An Der Drau",
+    "type": "area",
+    "parent": "austria",
+    "description": "Diving in Spittal An Der Drau.",
+    "coordinates": [
+      46.699038,
+      13.411539
+    ]
+  },
+  "anif": {
+    "children": [],
+    "id": "anif",
+    "name": "Anif",
+    "type": "area",
+    "parent": "austria",
+    "description": "Diving in Anif.",
+    "coordinates": [
+      47.734244,
+      13.078773
+    ]
+  },
+  "mileov": {
+    "children": [],
+    "id": "mileov",
+    "name": "Milešov",
+    "type": "area",
+    "parent": "czech-republic",
+    "description": "Diving in Milešov.",
+    "coordinates": [
+      49.599544,
+      14.188285
+    ]
+  },
+  "mrkov": {
+    "children": [],
+    "id": "mrkov",
+    "name": "Mrákov",
+    "type": "area",
+    "parent": "czech-republic",
+    "description": "Diving in Mrákov.",
+    "coordinates": [
+      49.391689,
+      12.96391
+    ]
+  },
+  "ttkovice": {
+    "children": [],
+    "id": "ttkovice",
+    "name": "Štětkovice",
+    "type": "area",
+    "parent": "czech-republic",
+    "description": "Diving in Štětkovice.",
+    "coordinates": [
+      49.664267,
+      14.502532
+    ]
+  },
+  "st-gilgen": {
+    "children": [],
+    "id": "st-gilgen",
+    "name": "St Gilgen",
+    "type": "area",
+    "parent": "austria",
+    "description": "Diving in St Gilgen.",
+    "coordinates": [
+      47.909995,
+      13.572085
+    ]
+  },
+  "central-bohemian-region": {
+    "children": [],
+    "id": "central-bohemian-region",
+    "name": "Central Bohemian Region",
+    "type": "area",
+    "parent": "czech-republic",
+    "description": "Diving in Central Bohemian Region.",
+    "coordinates": [
+      49.958884,
+      14.196954
+    ]
+  },
+  "bezov-hory": {
+    "children": [],
+    "id": "bezov-hory",
+    "name": "Březové Hory",
+    "type": "area",
+    "parent": "czech-republic",
+    "description": "Diving in Březové Hory.",
+    "coordinates": [
+      49.564707,
+      13.894744
+    ]
+  },
+  "starnberger-see": {
+    "children": [],
+    "id": "starnberger-see",
+    "name": "Starnberger See",
+    "type": "area",
+    "parent": "germany",
+    "description": "Diving in Starnberger See.",
+    "coordinates": [
+      47.934172,
+      11.334307
+    ]
+  },
+  "reutte": {
+    "children": [],
+    "id": "reutte",
+    "name": "Reutte",
+    "type": "area",
+    "parent": "austria",
+    "description": "Diving in Reutte.",
+    "coordinates": [
+      47.486251,
+      10.842991
+    ]
+  },
+  "weissenbach-am-lech": {
+    "children": [],
+    "id": "weissenbach-am-lech",
+    "name": "Weissenbach Am Lech",
+    "type": "area",
+    "parent": "austria",
+    "description": "Diving in Weissenbach Am Lech.",
+    "coordinates": [
+      47.435113,
+      10.61157
+    ]
+  },
+  "borek": {
+    "children": [],
+    "id": "borek",
+    "name": "Borek",
+    "type": "area",
+    "parent": "czech-republic",
+    "description": "Diving in Borek.",
+    "coordinates": [
+      49.792555,
+      15.578978
+    ]
+  },
+  "znojmo": {
+    "children": [],
+    "id": "znojmo",
+    "name": "Znojmo",
+    "type": "area",
+    "parent": "czech-republic",
+    "description": "Diving in Znojmo.",
+    "coordinates": [
+      48.948379,
+      16.275065
+    ]
+  },
+  "perov-district": {
+    "children": [],
+    "id": "perov-district",
+    "name": "Přerov District",
+    "type": "area",
+    "parent": "czech-republic",
+    "description": "Diving in Přerov District.",
+    "coordinates": [
+      49.557289,
+      17.482553
+    ]
+  },
+  "bruntl-district": {
+    "children": [],
+    "id": "bruntl-district",
+    "name": "Bruntál District",
+    "type": "area",
+    "parent": "czech-republic",
+    "description": "Diving in Bruntál District.",
+    "coordinates": [
+      49.946097,
+      17.658677
+    ]
+  },
+  "glucksburg": {
+    "children": [],
+    "id": "glucksburg",
+    "name": "Glucksburg",
+    "type": "area",
+    "parent": "germany",
+    "description": "Diving in Glucksburg.",
+    "coordinates": [
+      54.881396,
+      9.622822
+    ]
+  },
+  "plompetoren": {
+    "children": [],
+    "id": "plompetoren",
+    "name": "Plompetoren",
+    "type": "area",
+    "parent": "netherlands",
+    "description": "Diving in Plompetoren.",
+    "coordinates": [
+      51.683253,
+      3.775434
+    ]
+  },
+  "tholen": {
+    "children": [],
+    "id": "tholen",
+    "name": "Tholen",
+    "type": "area",
+    "parent": "netherlands",
+    "description": "Diving in Tholen.",
+    "coordinates": [
+      51.524806,
+      4.093523
+    ]
+  },
+  "otterndorf": {
+    "children": [],
+    "id": "otterndorf",
+    "name": "Otterndorf",
+    "type": "area",
+    "parent": "germany",
+    "description": "Diving in Otterndorf.",
+    "coordinates": [
+      53.841792,
+      8.930168
+    ]
+  },
+  "borkum": {
+    "children": [],
+    "id": "borkum",
+    "name": "Borkum",
+    "type": "area",
+    "parent": "germany",
+    "description": "Diving in Borkum.",
+    "coordinates": [
+      53.520717,
+      6.756592
+    ]
+  },
+  "galjoen-zonder-poen": {
+    "children": [],
+    "id": "galjoen-zonder-poen",
+    "name": "Galjoen Zonder Poen",
+    "type": "area",
+    "parent": "netherlands",
+    "description": "Diving in Galjoen Zonder Poen.",
+    "coordinates": [
+      51.528964,
+      3.964964
+    ]
+  },
+  "dreischor": {
+    "children": [],
+    "id": "dreischor",
+    "name": "Dreischor",
+    "type": "area",
+    "parent": "netherlands",
+    "description": "Diving in Dreischor.",
+    "coordinates": [
+      51.695132,
+      4.012134
+    ]
+  },
+  "scharendijke": {
+    "children": [],
+    "id": "scharendijke",
+    "name": "Scharendijke",
+    "type": "area",
+    "parent": "netherlands",
+    "description": "Diving in Scharendijke.",
+    "coordinates": [
+      51.739959,
+      3.830452
+    ]
+  },
+  "bruinisse": {
+    "children": [],
+    "id": "bruinisse",
+    "name": "Bruinisse",
+    "type": "area",
+    "parent": "netherlands",
+    "description": "Diving in Bruinisse.",
+    "coordinates": [
+      51.644176,
+      4.090154
+    ]
+  },
+  "oostvoornse": {
+    "children": [],
+    "id": "oostvoornse",
+    "name": "Oostvoornse",
+    "type": "area",
+    "parent": "netherlands",
+    "description": "Diving in Oostvoornse.",
+    "coordinates": [
+      51.929049,
+      4.057843
+    ]
+  },
+  "gent": {
+    "children": [],
+    "id": "gent",
+    "name": "Gent",
+    "type": "area",
+    "parent": "belgium",
+    "description": "Diving in Gent.",
+    "coordinates": [
+      51.044509,
+      3.683079
+    ]
+  },
+  "breda": {
+    "children": [],
+    "id": "breda",
+    "name": "Breda",
+    "type": "area",
+    "parent": "netherlands",
+    "description": "Diving in Breda.",
+    "coordinates": [
+      51.519853,
+      4.753389
+    ]
+  },
+  "grote-hegge-lake": {
+    "children": [],
+    "id": "grote-hegge-lake",
+    "name": "Grote Hegge Lake",
+    "type": "area",
+    "parent": "netherlands",
+    "description": "Diving in Grote Hegge Lake.",
+    "coordinates": [
+      51.154397,
+      5.842495
+    ]
+  },
+  "lower-saxony": {
+    "children": [],
+    "id": "lower-saxony",
+    "name": "Lower Saxony",
+    "type": "area",
+    "parent": "germany",
+    "description": "Diving in Lower Saxony.",
+    "coordinates": [
+      54.002119,
+      8.340683
+    ]
+  },
+  "schouwen-duiveland": {
+    "children": [],
+    "id": "schouwen-duiveland",
+    "name": "Schouwen-Duiveland",
+    "type": "area",
+    "parent": "netherlands",
+    "description": "Diving in Schouwen-Duiveland.",
+    "coordinates": [
+      51.613833,
+      3.958941
+    ]
+  },
+  "bremerhaven": {
+    "children": [],
+    "id": "bremerhaven",
+    "name": "Bremerhaven",
+    "type": "area",
+    "parent": "germany",
+    "description": "Diving in Bremerhaven.",
+    "coordinates": [
+      53.510101,
+      8.538437
+    ]
+  },
+  "brouwershaven": {
+    "children": [],
+    "id": "brouwershaven",
+    "name": "Brouwershaven",
+    "type": "area",
+    "parent": "netherlands",
+    "description": "Diving in Brouwershaven.",
+    "coordinates": [
+      51.744303,
+      3.887959
+    ]
+  },
+  "lessines": {
+    "children": [],
+    "id": "lessines",
+    "name": "Lessines",
+    "type": "area",
+    "parent": "belgium",
+    "description": "Diving in Lessines.",
+    "coordinates": [
+      50.704408,
+      3.847425
+    ]
+  },
+  "polderveld-lake": {
+    "children": [],
+    "id": "polderveld-lake",
+    "name": "Polderveld Lake",
+    "type": "area",
+    "parent": "netherlands",
+    "description": "Diving in Polderveld Lake.",
+    "coordinates": [
+      51.170612,
+      5.895989
+    ]
+  },
+  "raamsdonksveer": {
+    "children": [],
+    "id": "raamsdonksveer",
+    "name": "Raamsdonksveer",
+    "type": "area",
+    "parent": "netherlands",
+    "description": "Diving in Raamsdonksveer.",
+    "coordinates": [
+      51.683426,
+      4.876213
+    ]
+  },
+  "goese-sas": {
+    "children": [],
+    "id": "goese-sas",
+    "name": "Goese Sas",
+    "type": "area",
+    "parent": "netherlands",
+    "description": "Diving in Goese Sas.",
+    "coordinates": [
+      51.540517,
+      3.929393
+    ]
+  },
+  "vinkeveense-plassen": {
+    "children": [],
+    "id": "vinkeveense-plassen",
+    "name": "Vinkeveense Plassen",
+    "type": "area",
+    "parent": "netherlands",
+    "description": "Diving in Vinkeveense Plassen.",
+    "coordinates": [
+      52.242242,
+      4.950757
+    ]
+  },
+  "frisian-islands": {
+    "children": [],
+    "id": "frisian-islands",
+    "name": "Frisian Islands",
+    "type": "area",
+    "parent": "germany",
+    "description": "Diving in Frisian Islands.",
+    "coordinates": [
+      54.482805,
+      6.833496
+    ]
+  },
+  "vodecee": {
+    "children": [],
+    "id": "vodecee",
+    "name": "Vodecee",
+    "type": "area",
+    "parent": "belgium",
+    "description": "Diving in Vodecee.",
+    "coordinates": [
+      50.194347,
+      4.573381
+    ]
+  },
+  "zilvermeer": {
+    "children": [],
+    "id": "zilvermeer",
+    "name": "Zilvermeer",
+    "type": "area",
+    "parent": "belgium",
+    "description": "Diving in Zilvermeer.",
+    "coordinates": [
+      51.224881,
+      5.171535
+    ]
+  },
+  "blausteinsee": {
+    "children": [],
+    "id": "blausteinsee",
+    "name": "Blausteinsee",
+    "type": "area",
+    "parent": "germany",
+    "description": "Diving in Blausteinsee.",
+    "coordinates": [
+      50.854157,
+      6.267271
+    ]
+  },
+  "naturagart-tauchpark": {
+    "children": [],
+    "id": "naturagart-tauchpark",
+    "name": "Naturagart Tauchpark",
+    "type": "area",
+    "parent": "germany",
+    "description": "Diving in Naturagart Tauchpark.",
+    "coordinates": [
+      52.239968,
+      7.678156
+    ]
+  },
+  "molengreend-lake": {
+    "children": [],
+    "id": "molengreend-lake",
+    "name": "Molengreend Lake",
+    "type": "area",
+    "parent": "netherlands",
+    "description": "Diving in Molengreend Lake.",
+    "coordinates": [
+      51.156201,
+      5.899701
+    ]
+  },
+  "quern": {
+    "children": [],
+    "id": "quern",
+    "name": "Quern",
+    "type": "area",
+    "parent": "germany",
+    "description": "Diving in Quern.",
+    "coordinates": [
+      54.82047,
+      9.747963
+    ]
+  },
+  "lac-de-leau-dheure": {
+    "children": [],
+    "id": "lac-de-leau-dheure",
+    "name": "Lac De L'eau D'heure",
+    "type": "area",
+    "parent": "belgium",
+    "description": "Diving in Lac De L'eau D'heure.",
+    "coordinates": [
+      50.183288,
+      4.3876
+    ]
+  },
+  "steinberg": {
+    "children": [],
+    "id": "steinberg",
+    "name": "Steinberg",
+    "type": "area",
+    "parent": "germany",
+    "description": "Diving in Steinberg.",
+    "coordinates": [
+      54.835698,
+      9.799805
+    ]
+  },
+  "ouddorp": {
+    "children": [],
+    "id": "ouddorp",
+    "name": "Ouddorp",
+    "type": "area",
+    "parent": "netherlands",
+    "description": "Diving in Ouddorp.",
+    "coordinates": [
+      51.793581,
+      3.912206
+    ]
+  },
+  "carriere-de-lille-sprimont": {
+    "children": [],
+    "id": "carriere-de-lille-sprimont",
+    "name": "Carriere De Lille Sprimont",
+    "type": "area",
+    "parent": "belgium",
+    "description": "Diving in Carriere De Lille Sprimont.",
+    "coordinates": [
+      50.50154,
+      5.649118
+    ]
+  },
+  "fehmarn": {
+    "children": [],
+    "id": "fehmarn",
+    "name": "Fehmarn",
+    "type": "area",
+    "parent": "germany",
+    "description": "Diving in Fehmarn.",
+    "coordinates": [
+      54.375958,
+      11.264076
+    ]
+  },
+  "vorpommern-rugen": {
+    "children": [],
+    "id": "vorpommern-rugen",
+    "name": "Vorpommern-Rugen",
+    "type": "area",
+    "parent": "germany",
+    "description": "Diving in Vorpommern-Rugen.",
+    "coordinates": [
+      54.875817,
+      13.690338
+    ]
+  },
+  "opole-voivodeship": {
+    "children": [],
+    "id": "opole-voivodeship",
+    "name": "Opole Voivodeship",
+    "type": "area",
+    "parent": "poland",
+    "description": "Diving in Opole Voivodeship.",
+    "coordinates": [
+      50.660999,
+      17.950709
+    ]
+  },
+  "baltenhagen": {
+    "children": [],
+    "id": "baltenhagen",
+    "name": "Baltenhagen",
+    "type": "area",
+    "parent": "germany",
+    "description": "Diving in Baltenhagen.",
+    "coordinates": [
+      54.02552,
+      11.142197
+    ]
+  },
+  "hel-peninsula": {
+    "children": [],
+    "id": "hel-peninsula",
+    "name": "Hel Peninsula",
+    "type": "area",
+    "parent": "poland",
+    "description": "Diving in Hel Peninsula.",
+    "coordinates": [
+      54.649929,
+      18.581693
+    ]
+  },
+  "rerik": {
+    "children": [],
+    "id": "rerik",
+    "name": "Rerik",
+    "type": "area",
+    "parent": "germany",
+    "description": "Diving in Rerik.",
+    "coordinates": [
+      54.130687,
+      11.64068
+    ]
+  },
+  "lesser-poland": {
+    "children": [],
+    "id": "lesser-poland",
+    "name": "Lesser Poland",
+    "type": "area",
+    "parent": "poland",
+    "description": "Diving in Lesser Poland.",
+    "coordinates": [
+      50.023055,
+      19.861863
+    ]
+  },
+  "st-nad-labem-region": {
+    "children": [],
+    "id": "st-nad-labem-region",
+    "name": "Ústí Nad Labem Region",
+    "type": "area",
+    "parent": "czech-republic",
+    "description": "Diving in Ústí Nad Labem Region.",
+    "coordinates": [
+      50.640251,
+      13.753746
+    ]
+  },
+  "plon": {
+    "children": [],
+    "id": "plon",
+    "name": "Plon",
+    "type": "area",
+    "parent": "germany",
+    "description": "Diving in Plon.",
+    "coordinates": [
+      54.632518,
+      10.409546
+    ]
+  },
+  "travemunde": {
+    "children": [],
+    "id": "travemunde",
+    "name": "Travemunde",
+    "type": "area",
+    "parent": "germany",
+    "description": "Diving in Travemunde.",
+    "coordinates": [
+      53.967195,
+      10.887794
+    ]
+  },
+  "pomorskie-province": {
+    "children": [],
+    "id": "pomorskie-province",
+    "name": "Pomorskie Province",
+    "type": "area",
+    "parent": "poland",
+    "description": "Diving in Pomorskie Province.",
+    "coordinates": [
+      54.510254,
+      18.288243
+    ]
+  },
+  "gmina-lesin": {
+    "children": [],
+    "id": "gmina-lesin",
+    "name": "Gmina Ślesin",
+    "type": "area",
+    "parent": "poland",
+    "description": "Diving in Gmina Ślesin.",
+    "coordinates": [
+      52.340735,
+      18.26871
+    ]
+  },
+  "hradec-krlov-region": {
+    "children": [],
+    "id": "hradec-krlov-region",
+    "name": "Hradec Králové Region",
+    "type": "area",
+    "parent": "czech-republic",
+    "description": "Diving in Hradec Králové Region.",
+    "coordinates": [
+      50.465274,
+      15.495636
+    ]
+  },
+  "timmendorfer-strand": {
+    "children": [],
+    "id": "timmendorfer-strand",
+    "name": "Timmendorfer Strand",
+    "type": "area",
+    "parent": "germany",
+    "description": "Diving in Timmendorfer Strand.",
+    "coordinates": [
+      53.995661,
+      10.831146
+    ]
+  },
+  "silesian-voivodeship": {
+    "children": [],
+    "id": "silesian-voivodeship",
+    "name": "Silesian Voivodeship",
+    "type": "area",
+    "parent": "poland",
+    "description": "Diving in Silesian Voivodeship.",
+    "coordinates": [
+      50.228924,
+      19.311883
+    ]
+  },
+  "suwalki-region": {
+    "children": [],
+    "id": "suwalki-region",
+    "name": "Suwalki Region",
+    "type": "area",
+    "parent": "poland",
+    "description": "Diving in Suwalki Region.",
+    "coordinates": [
+      54.26272,
+      22.818143
+    ]
+  },
+  "olecko-county": {
+    "children": [],
+    "id": "olecko-county",
+    "name": "Olecko County",
+    "type": "area",
+    "parent": "poland",
+    "description": "Diving in Olecko County.",
+    "coordinates": [
+      53.541928,
+      20.802453
+    ]
+  },
+  "komarom-esztergom": {
+    "children": [],
+    "id": "komarom-esztergom",
+    "name": "Komarom-Esztergom",
+    "type": "area",
+    "parent": "hungary",
+    "description": "Diving in Komarom-Esztergom.",
+    "coordinates": [
+      47.731761,
+      18.737977
+    ]
+  },
+  "budapest": {
+    "children": [],
+    "id": "budapest",
+    "name": "Budapest",
+    "type": "area",
+    "parent": "hungary",
+    "description": "Diving in Budapest.",
+    "coordinates": [
+      47.518172,
+      19.03583
+    ]
+  },
+  "trnava-region": {
+    "children": [],
+    "id": "trnava-region",
+    "name": "Trnava Region",
+    "type": "area",
+    "parent": "slovakia",
+    "description": "Diving in Trnava Region.",
+    "coordinates": [
+      48.116787,
+      17.612028
+    ]
+  },
+  "somogy": {
+    "children": [],
+    "id": "somogy",
+    "name": "Somogy",
+    "type": "area",
+    "parent": "hungary",
+    "description": "Diving in Somogy.",
+    "coordinates": [
+      46.24181,
+      16.990678
+    ]
+  },
+  "borsod-abauj-zemplen": {
+    "children": [],
+    "id": "borsod-abauj-zemplen",
+    "name": "Borsod-Abauj-Zemplen",
+    "type": "area",
+    "parent": "hungary",
+    "description": "Diving in Borsod-Abauj-Zemplen.",
+    "coordinates": [
+      48.395003,
+      20.64007
+    ]
+  },
+  "bolshoy-utrish": {
+    "children": [],
+    "id": "bolshoy-utrish",
+    "name": "Bol'shoy Utrish",
+    "type": "area",
+    "parent": "russia",
+    "description": "Diving in Bol'shoy Utrish.",
+    "coordinates": [
+      44.643498,
+      37.792797
+    ]
+  },
+  "sochi": {
+    "children": [],
+    "id": "sochi",
+    "name": "Sochi",
+    "type": "area",
+    "parent": "russia",
+    "description": "Diving in Sochi.",
+    "coordinates": [
+      43.54945,
+      39.744501
+    ]
+  },
+  "divnomorskoe": {
+    "children": [],
+    "id": "divnomorskoe",
+    "name": "Divnomorskoe",
+    "type": "area",
+    "parent": "russia",
+    "description": "Diving in Divnomorskoe.",
+    "coordinates": [
+      44.496,
+      38.1339
+    ]
+  },
+  "odessa-oblast": {
+    "children": [],
+    "id": "odessa-oblast",
+    "name": "Odessa Oblast",
+    "type": "area",
+    "parent": "ukraine",
+    "description": "Diving in Odessa Oblast.",
+    "coordinates": [
+      46.476411,
+      31.114311
+    ]
+  },
+  "crimea": {
+    "children": [],
+    "id": "crimea",
+    "name": "Crimea",
+    "type": "area",
+    "parent": "ukraine",
+    "description": "Diving in Crimea.",
+    "coordinates": [
+      45.321254,
+      32.382202
+    ]
+  },
+  "babugent": {
+    "children": [],
+    "id": "babugent",
+    "name": "Babugent",
+    "type": "area",
+    "parent": "russia",
+    "description": "Diving in Babugent.",
+    "coordinates": [
+      43.2325,
+      43.5398
+    ]
+  },
+  "lohusalu": {
+    "children": [],
+    "id": "lohusalu",
+    "name": "Lohusalu",
+    "type": "area",
+    "parent": "estonia",
+    "description": "Diving in Lohusalu.",
+    "coordinates": [
+      59.4182,
+      24.1907
+    ]
+  },
+  "lunakla": {
+    "children": [],
+    "id": "lunakla",
+    "name": "Lõunaküla",
+    "type": "area",
+    "parent": "estonia",
+    "description": "Diving in Lõunaküla.",
+    "coordinates": [
+      59.5064,
+      24.5208
+    ]
+  },
+  "tallinn": {
+    "children": [],
+    "id": "tallinn",
+    "name": "Tallinn",
+    "type": "area",
+    "parent": "estonia",
+    "description": "Diving in Tallinn.",
+    "coordinates": [
+      59.4755,
+      24.7256
+    ]
+  },
+  "pavilosta": {
+    "children": [],
+    "id": "pavilosta",
+    "name": "Pavilosta",
+    "type": "area",
+    "parent": "latvia",
+    "description": "Diving in Pavilosta.",
+    "coordinates": [
+      56.8927,
+      21.0496
+    ]
+  },
+  "tammeme": {
+    "children": [],
+    "id": "tammeme",
+    "name": "Tammemäe",
+    "type": "area",
+    "parent": "estonia",
+    "description": "Diving in Tammemäe.",
+    "coordinates": [
+      59.317,
+      24.6991
+    ]
+  },
+  "ntu": {
+    "children": [],
+    "id": "ntu",
+    "name": "Äntu",
+    "type": "area",
+    "parent": "estonia",
+    "description": "Diving in Äntu.",
+    "coordinates": [
+      59.0601,
+      26.2399
+    ]
+  },
+  "muraste": {
+    "children": [],
+    "id": "muraste",
+    "name": "Muraste",
+    "type": "area",
+    "parent": "estonia",
+    "description": "Diving in Muraste.",
+    "coordinates": [
+      59.4706,
+      24.4502
+    ]
+  },
+  "kelmes": {
+    "children": [],
+    "id": "kelmes",
+    "name": "Kelmes",
+    "type": "area",
+    "parent": "lithuania",
+    "description": "Diving in Kelmes.",
+    "coordinates": [
+      55.592025,
+      23.218961
+    ]
+  },
+  "saadjrv": {
+    "children": [],
+    "id": "saadjrv",
+    "name": "Saadjärv",
+    "type": "area",
+    "parent": "estonia",
+    "description": "Diving in Saadjärv.",
+    "coordinates": [
+      58.5381,
+      26.6561
+    ]
+  },
+  "kurevere": {
+    "children": [],
+    "id": "kurevere",
+    "name": "Kurevere",
+    "type": "area",
+    "parent": "estonia",
+    "description": "Diving in Kurevere.",
+    "coordinates": [
+      58.3924,
+      21.9706
+    ]
+  },
+  "liivaranna": {
+    "children": [],
+    "id": "liivaranna",
+    "name": "Liivaranna",
+    "type": "area",
+    "parent": "estonia",
+    "description": "Diving in Liivaranna.",
+    "coordinates": [
+      58.581,
+      22.6413
+    ]
+  },
+  "hara": {
+    "children": [],
+    "id": "hara",
+    "name": "Hara",
+    "type": "area",
+    "parent": "estonia",
+    "description": "Diving in Hara.",
+    "coordinates": [
+      59.5617,
+      25.6703
+    ]
+  },
+  "tagalaht-bay": {
+    "children": [],
+    "id": "tagalaht-bay",
+    "name": "Tagalaht Bay",
+    "type": "area",
+    "parent": "estonia",
+    "description": "Diving in Tagalaht Bay.",
+    "coordinates": [
+      58.4823,
+      22.0691
+    ]
+  },
+  "lobi": {
+    "children": [],
+    "id": "lobi",
+    "name": "Lobi",
+    "type": "area",
+    "parent": "estonia",
+    "description": "Diving in Lobi.",
+    "coordinates": [
+      59.6451,
+      25.948
+    ]
+  },
+  "jeti": {
+    "children": [],
+    "id": "jeti",
+    "name": "Jeti",
+    "type": "area",
+    "parent": "estonia",
+    "description": "Diving in Jeti.",
+    "coordinates": [
+      57.9045,
+      25.8584
+    ]
+  },
+  "roslep": {
+    "children": [],
+    "id": "roslep",
+    "name": "Roslep",
+    "type": "area",
+    "parent": "estonia",
+    "description": "Diving in Roslep.",
+    "coordinates": [
+      59.203,
+      23.403
+    ]
+  },
+  "plateliai-lake": {
+    "children": [],
+    "id": "plateliai-lake",
+    "name": "Plateliai Lake",
+    "type": "area",
+    "parent": "lithuania",
+    "description": "Diving in Plateliai Lake.",
+    "coordinates": [
+      56.0372,
+      21.8625
+    ]
+  },
+  "trakai": {
+    "children": [],
+    "id": "trakai",
+    "name": "Trakai",
+    "type": "area",
+    "parent": "lithuania",
+    "description": "Diving in Trakai.",
+    "coordinates": [
+      54.650846,
+      24.930553
+    ]
+  },
+  "rummu": {
+    "children": [],
+    "id": "rummu",
+    "name": "Rummu",
+    "type": "area",
+    "parent": "estonia",
+    "description": "Diving in Rummu.",
+    "coordinates": [
+      59.2262,
+      24.232
+    ]
+  },
+  "ruge": {
+    "children": [],
+    "id": "ruge",
+    "name": "Rõuge",
+    "type": "area",
+    "parent": "estonia",
+    "description": "Diving in Rõuge.",
+    "coordinates": [
+      57.73,
+      26.9178
+    ]
+  },
+  "valdai": {
+    "children": [],
+    "id": "valdai",
+    "name": "Valdai",
+    "type": "area",
+    "parent": "russia",
+    "description": "Diving in Valdai.",
+    "coordinates": [
+      57.9659,
+      33.3029
+    ]
+  },
+  "moscow": {
+    "children": [],
+    "id": "moscow",
+    "name": "Moscow",
+    "type": "area",
+    "parent": "russia",
+    "description": "Diving in Moscow.",
+    "coordinates": [
+      56.145167,
+      37.467499
+    ]
+  },
+  "bryansk": {
+    "children": [],
+    "id": "bryansk",
+    "name": "Bryansk",
+    "type": "area",
+    "parent": "russia",
+    "description": "Diving in Bryansk.",
+    "coordinates": [
+      53.241101,
+      34.478953
+    ]
+  },
+  "ryazan-oblast": {
+    "children": [],
+    "id": "ryazan-oblast",
+    "name": "Ryazan Oblast",
+    "type": "area",
+    "parent": "russia",
+    "description": "Diving in Ryazan Oblast.",
+    "coordinates": [
+      54.04344,
+      39.758019
+    ]
+  },
+  "usadie": {
+    "children": [],
+    "id": "usadie",
+    "name": "Usadie",
+    "type": "area",
+    "parent": "russia",
+    "description": "Diving in Usadie.",
+    "coordinates": [
+      58.0128,
+      33.259
+    ]
+  },
+  "tolstyakovo": {
+    "children": [],
+    "id": "tolstyakovo",
+    "name": "Tolstyakovo",
+    "type": "area",
+    "parent": "russia",
+    "description": "Diving in Tolstyakovo.",
+    "coordinates": [
+      56.2738,
+      36.9838
+    ]
+  },
+  "tver": {
+    "children": [],
+    "id": "tver",
+    "name": "Tver",
+    "type": "area",
+    "parent": "russia",
+    "description": "Diving in Tver.",
+    "coordinates": [
+      56.8493,
+      36.0078
+    ]
+  },
+  "polevoy": {
+    "children": [],
+    "id": "polevoy",
+    "name": "Polevoy",
+    "type": "area",
+    "parent": "russia",
+    "description": "Diving in Polevoy.",
+    "coordinates": [
+      54.6286,
+      41.0993
+    ]
+  },
+  "vad": {
+    "children": [],
+    "id": "vad",
+    "name": "Vad",
+    "type": "area",
+    "parent": "russia",
+    "description": "Diving in Vad.",
+    "coordinates": [
+      55.5434,
+      44.197
+    ]
+  },
+  "orda": {
+    "children": [],
+    "id": "orda",
+    "name": "Orda",
+    "type": "area",
+    "parent": "russia",
+    "description": "Diving in Orda.",
+    "coordinates": [
+      57.1814,
+      56.8884
+    ]
+  },
+  "gorny": {
+    "children": [],
+    "id": "gorny",
+    "name": "Gorny",
+    "type": "area",
+    "parent": "russia",
+    "description": "Diving in Gorny.",
+    "coordinates": [
+      55.1248,
+      83.9179
+    ]
+  },
+  "nilmoguba": {
+    "children": [],
+    "id": "nilmoguba",
+    "name": "Nilmoguba",
+    "type": "area",
+    "parent": "russia",
+    "description": "Diving in Nilmoguba.",
+    "coordinates": [
+      66.5046,
+      33.1428
+    ]
   }
 }

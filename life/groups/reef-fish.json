@@ -1,9 +1,12 @@
 {
   "group": {
-    "id":"reef-fish",
+    "id": "reef-fish",
     "name": "Reef Fish",
     "category": "reef-fish",
-    "alias": ["reef-fish","reef fish"],
+    "alias": [
+      "reef-fish",
+      "reef fish"
+    ],
     "color": "yellow",
     "description": "Colorful bony fish associated with coral reefs."
   },
@@ -11,114 +14,366 @@
     {
       "id": "doubleheader-wrasse",
       "name": "Doubleheader Wrasse",
-      "alias": ["doubleheader wrasse", "coris bulbifrons", "doubleheader"],
+      "alias": [
+        "doubleheader wrasse",
+        "coris bulbifrons",
+        "doubleheader"
+      ],
       "rarity": "rare",
       "scientific-name": "Coris bulbifrons",
       "size": "large",
       "taxon-id": "coris-bulbifrons",
-      "behavior": ["schooling", "reef-dwelling", "sex-changing"],
+      "behavior": [
+        "schooling",
+        "reef-dwelling",
+        "sex-changing"
+      ],
       "description": "The doubleheader wrasse is a large, rare wrasse found in subtropical reefs of eastern Australia, notable for its bulbous forehead in males.",
-      "best-months": [1,2,3,4,5,6,7,8,9,10,11,12],
-      "best-regions": ["eastern-australia", "lord-howe-island"],
-      "depth": {"max": 40, "min": 2},
-      "diet": ["crustaceans", "mollusks", "echinoderms"],
-      "habitat": ["rocky-reefs", "coral-reefs"]
+      "best-months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "best-regions": [
+        "eastern-australia",
+        "lord-howe-island"
+      ],
+      "depth": {
+        "max": 40,
+        "min": 2
+      },
+      "diet": [
+        "crustaceans",
+        "mollusks",
+        "echinoderms"
+      ],
+      "habitat": [
+        "rocky-reefs",
+        "coral-reefs"
+      ]
     },
     {
       "id": "ballina-angelfish",
       "name": "Ballina Angelfish",
-      "alias": ["ballina angelfish", "chaetodontoplus ballinae", "ballina"],
+      "alias": [
+        "ballina angelfish",
+        "chaetodontoplus ballinae",
+        "ballina"
+      ],
       "rarity": "rare",
       "scientific-name": "Chaetodontoplus ballinae",
       "size": "medium",
       "taxon-id": "chaetodontoplus-ballinae",
-      "behavior": ["solitary", "reef-dwelling", "shy"],
+      "behavior": [
+        "solitary",
+        "reef-dwelling",
+        "shy"
+      ],
       "description": "The Ballina angelfish is a rare, striking angelfish endemic to deep reefs off eastern Australia, recognized by its bold black and white pattern.",
-      "best-months": [1,2,3,4,5,6,7,8,9,10,11,12],
-      "best-regions": ["eastern-australia", "ballina", "solitary-islands"],
-      "depth": {"max": 150, "min": 15},
-      "diet": ["sponges", "tunicates", "algae"],
-      "habitat": ["deep-reefs", "rocky-reefs"]
+      "best-months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "best-regions": [
+        "eastern-australia",
+        "ballina",
+        "solitary-islands"
+      ],
+      "depth": {
+        "max": 150,
+        "min": 15
+      },
+      "diet": [
+        "sponges",
+        "tunicates",
+        "algae"
+      ],
+      "habitat": [
+        "deep-reefs",
+        "rocky-reefs"
+      ]
     },
     {
       "id": "sheephead",
       "name": "California Sheephead",
-      "alias": ["sheephead", "california sheephead", "semicossyphus pulcher", "sheephead wrasse"],
+      "alias": [
+        "sheephead",
+        "california sheephead",
+        "semicossyphus pulcher",
+        "sheephead wrasse"
+      ],
       "rarity": "uncommon",
       "scientific-name": "Semicossyphus pulcher",
       "size": "medium",
       "taxon-id": "semicossyphus-pulcher",
-      "behavior": ["sex-changing", "territorial", "reef-dwelling"],
+      "behavior": [
+        "sex-changing",
+        "territorial",
+        "reef-dwelling"
+      ],
       "description": "The California sheephead is a wrasse native to the eastern Pacific, known for its dramatic color change and sequential hermaphroditism.",
-      "best-months": [1,2,3,4,5,6,7,8,9,10,11,12],
-      "best-regions": ["california", "baja-california", "eastern-pacific"],
-      "depth": {"max": 90, "min": 3},
-      "diet": ["urchins", "crustaceans", "mollusks"],
-      "habitat": ["kelp-forests", "rocky-reefs"]
+      "best-months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "best-regions": [
+        "california",
+        "baja-california",
+        "eastern-pacific"
+      ],
+      "depth": {
+        "max": 90,
+        "min": 3
+      },
+      "diet": [
+        "urchins",
+        "crustaceans",
+        "mollusks"
+      ],
+      "habitat": [
+        "kelp-forests",
+        "rocky-reefs"
+      ]
     },
     {
       "id": "goliath-grouper",
       "name": "Goliath Grouper",
-      "alias": ["goliath grouper", "goliath groupers", "epinephelus itajara", "jewfish"],
+      "alias": [
+        "goliath grouper",
+        "goliath groupers",
+        "epinephelus itajara",
+        "jewfish"
+      ],
       "rarity": "rare",
       "scientific-name": "Epinephelus itajara",
       "size": "very-large",
       "taxon-id": "epinephelus-itajara",
-      "behavior": ["site-attached", "solitary", "ambush-predator"],
+      "behavior": [
+        "site-attached",
+        "solitary",
+        "ambush-predator"
+      ],
       "description": "The goliath grouper is one of the largest reef fish, found in the Atlantic and eastern Pacific, known for its massive size and booming sounds.",
-      "best-months": [1,2,3,4,5,6,7,8,9,10,11,12],
-      "best-regions": ["florida", "caribbean", "brazil", "eastern-pacific"],
-      "depth": {"max": 100, "min": 5},
-      "diet": ["fish", "crustaceans", "octopus"],
-      "habitat": ["rocky-reefs", "wrecks", "mangroves"]
+      "best-months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "best-regions": [
+        "florida",
+        "caribbean",
+        "brazil",
+        "eastern-pacific"
+      ],
+      "depth": {
+        "max": 100,
+        "min": 5
+      },
+      "diet": [
+        "fish",
+        "crustaceans",
+        "octopus"
+      ],
+      "habitat": [
+        "rocky-reefs",
+        "wrecks",
+        "mangroves"
+      ]
     },
     {
       "id": "giant-black-sea-bass",
       "name": "Giant Black Sea Bass",
-      "alias": ["giant black sea bass", "black sea bass", "stereolepis gigas", "giant sea bass"],
+      "alias": [
+        "giant black sea bass",
+        "black sea bass",
+        "stereolepis gigas",
+        "giant sea bass"
+      ],
       "rarity": "rare",
       "scientific-name": "Stereolepis gigas",
       "size": "very-large",
       "taxon-id": "stereolepis-gigas",
-      "behavior": ["site-attached", "slow-moving", "long-lived"],
+      "behavior": [
+        "site-attached",
+        "slow-moving",
+        "long-lived"
+      ],
       "description": "The giant black sea bass is a massive, long-lived reef fish native to the eastern Pacific, known for its size and recovery from overfishing.",
-      "best-months": [1,2,3,4,5,6,7,8,9,10,11,12],
-      "best-regions": ["california", "baja-california", "eastern-pacific"],
-      "depth": {"max": 100, "min": 5},
-      "diet": ["fish", "crustaceans", "cephalopods"],
-      "habitat": ["rocky-reefs", "kelp-forests"]
+      "best-months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "best-regions": [
+        "california",
+        "baja-california",
+        "eastern-pacific"
+      ],
+      "depth": {
+        "max": 100,
+        "min": 5
+      },
+      "diet": [
+        "fish",
+        "crustaceans",
+        "cephalopods"
+      ],
+      "habitat": [
+        "rocky-reefs",
+        "kelp-forests"
+      ]
     },
     {
       "id": "rockfish",
       "name": "Rockfish",
-      "alias": ["rockfish", "rockfishes", "sebastes"],
+      "alias": [
+        "rockfish",
+        "rockfishes",
+        "sebastes"
+      ],
       "rarity": "common",
       "scientific-name": "Sebastes",
       "size": "medium",
       "taxon-id": "sebastes",
-      "behavior": ["schooling", "bottom-dwelling", "site-attached"],
+      "behavior": [
+        "schooling",
+        "bottom-dwelling",
+        "site-attached"
+      ],
       "description": "Rockfish are a diverse group of spiny-finned fish found in rocky reefs, especially in the Pacific, known for their longevity and variety of colors.",
-      "best-months": [1,2,3,4,5,6,7,8,9,10,11,12],
-      "best-regions": ["north-pacific", "california", "alaska", "japan"],
-      "depth": {"max": 300, "min": 1},
-      "diet": ["crustaceans", "small fish", "zooplankton"],
-      "habitat": ["rocky-reefs", "kelp-forests", "deep-reefs"]
+      "best-months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "best-regions": [
+        "north-pacific",
+        "california",
+        "alaska",
+        "japan"
+      ],
+      "depth": {
+        "max": 300,
+        "min": 1
+      },
+      "diet": [
+        "crustaceans",
+        "small fish",
+        "zooplankton"
+      ],
+      "habitat": [
+        "rocky-reefs",
+        "kelp-forests",
+        "deep-reefs"
+      ]
     },
     {
       "id": "frogfish",
       "name": "Frogfish",
-      "alias": ["frogfish", "anglerfish", "antennariidae", "frogfishes"],
+      "alias": [
+        "frogfish",
+        "anglerfish",
+        "antennariidae",
+        "frogfishes"
+      ],
       "rarity": "uncommon",
       "scientific-name": "Antennariidae",
       "size": "small",
       "taxon-id": "antennariidae",
-      "behavior": ["ambush-predator", "camouflage", "slow-moving"],
+      "behavior": [
+        "ambush-predator",
+        "camouflage",
+        "slow-moving"
+      ],
       "description": "Frogfish are masters of camouflage, using a lure to attract prey and blending perfectly with sponges and corals on the reef.",
-      "best-months": [1,2,3,4,5,6,7,8,9,10,11,12],
-      "best-regions": ["tropics-global", "indo-pacific", "caribbean"],
-      "depth": {"max": 100, "min": 1},
-      "diet": ["small fish", "crustaceans"],
-      "habitat": ["coral-reefs", "sponges", "rocky-reefs"]
+      "best-months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "best-regions": [
+        "tropics-global",
+        "indo-pacific",
+        "caribbean"
+      ],
+      "depth": {
+        "max": 100,
+        "min": 1
+      },
+      "diet": [
+        "small fish",
+        "crustaceans"
+      ],
+      "habitat": [
+        "coral-reefs",
+        "sponges",
+        "rocky-reefs"
+      ]
     },
     {
       "id": "clown-anemonefish",
@@ -188,7 +443,20 @@
         "reef-dwelling"
       ],
       "description": "The Garibaldi is a bright orange damselfish, California's state marine fish, known for its bold color and territorial nature.",
-      "best-months": [1,2,3,4,5,6,7,8,9,10,11,12],
+      "best-months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
       "best-regions": [
         "california",
         "eastern-pacific"
@@ -210,7 +478,7 @@
     {
       "id": "blue-devil-damselfish",
       "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=80",
-      "name": "Blue Devil Damselfish",
+      "name": "Southern Blue Devil",
       "alias": [
         "damselfish"
       ],
@@ -424,9 +692,7 @@
       "id": "great-barracuda",
       "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=80",
       "name": "Great Barracuda",
-      "alias": [
-        "barracuda"
-      ],
+      "alias": [],
       "diet": [
         "fish",
         "cephalopods"
@@ -1042,52 +1308,6 @@
       ]
     },
     {
-      "id": "grouper",
-      "kind": "group",
-      "image": "https://images.unsplash.com/photo-1464983953574-0892a716854b?w=800&q=80",
-      "name": "Grouper",
-      "rarity": "common",
-      "alias": ["groupers"],
-      "scientific-name": "Epinephelus striatus",
-      "size": "large",
-      "taxon-id": "epinephelus-striatus",
-      "behavior": [
-        "aggregation-spawning",
-        "reef-dwelling",
-        "ambush-predator"
-      ],
-      "best-months": [
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7,
-        8,
-        9,
-        10,
-        11,
-        12
-      ],
-      "best-regions": [
-        "caribbean",
-        "tropical-atlantic"
-      ],
-      "depth": {
-        "max": 100,
-        "min": 1
-      },
-      "diet": [
-        "fish",
-        "crustaceans"
-      ],
-      "habitat": [
-        "coral-reefs",
-        "rocky-reefs"
-      ]
-    },
-    {
       "id": "nassau-grouper",
       "image": "https://images.unsplash.com/photo-1464983953574-0892a716854b?w=800&q=80",
       "name": "Nassau Grouper",
@@ -1420,7 +1640,7 @@
     {
       "id": "black-sea-bream",
       "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=80",
-      "name": "Black Sea Bream",
+      "name": "Southern Black Bream",
       "alias": [
         "sea bream",
         "bream"
@@ -1852,55 +2072,6 @@
         "open-water",
         "reef-edges",
         "kelp-forests"
-      ]
-    },
-    {
-      "id": "sweep",
-      "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=80",
-      "name": "Sweep",
-      "alias": [
-        "sweep",
-        "sea sweep",
-        "silver sweep"
-      ],
-      "rarity": "common",
-      "scientific-name": "Scorpis spp.",
-      "size": "medium",
-      "taxon-id": "scorpis-spp",
-      "behavior": [
-        "schooling",
-        "reef-dwelling"
-      ],
-      "best-months": [
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7,
-        8,
-        9,
-        10,
-        11,
-        12
-      ],
-      "best-regions": [
-        "southern-australia",
-        "new-zealand"
-      ],
-      "depth": {
-        "max": 60,
-        "min": 1
-      },
-      "diet": [
-        "plankton",
-        "algae"
-      ],
-      "habitat": [
-        "rocky-reefs",
-        "kelp-forests",
-        "coastal-waters"
       ]
     },
     {
@@ -2645,7 +2816,7 @@
     {
       "id": "blue-devil-fish",
       "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=80",
-      "name": "Blue Devil Fish",
+      "name": "Southern Blue Devil",
       "alias": [
         "blue devil fish",
         "blue devil"
@@ -3384,7 +3555,7 @@
     {
       "id": "trevally",
       "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=80",
-      "name": "Trevally",
+      "name": "Giant Trevally",
       "alias": [
         "trevally",
         "caranx",
@@ -3927,41 +4098,111 @@
         "coral-reefs",
         "lagoon-reefs"
       ]
-    }
-  ,
+    },
     {
       "id": "seahorse",
       "name": "Seahorse",
-      "alias": ["seahorse", "seahorses", "hippocampus"],
+      "alias": [
+        "seahorse",
+        "seahorses",
+        "hippocampus"
+      ],
       "rarity": "uncommon",
       "scientific-name": "Hippocampus",
       "size": "small",
       "taxon-id": "hippocampus",
-      "behavior": ["camouflage", "tail-grasping", "brood-carrying", "slow-moving"],
+      "behavior": [
+        "camouflage",
+        "tail-grasping",
+        "brood-carrying",
+        "slow-moving"
+      ],
       "description": "Seahorses are small, upright-swimming fish known for their horse-like head, prehensile tail, and unique reproductive behavior where males carry the eggs.",
-      "best-months": [1,2,3,4,5,6,7,8,9,10,11,12],
-      "best-regions": ["tropics-global", "temperate-reefs", "estuaries"],
-      "depth": {"max": 50, "min": 1},
-      "diet": ["small-crustaceans", "zooplankton"],
-      "habitat": ["seagrass-beds", "kelp-forests", "coral-reefs", "estuaries"]
+      "best-months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "best-regions": [
+        "tropics-global",
+        "temperate-reefs",
+        "estuaries"
+      ],
+      "depth": {
+        "max": 50,
+        "min": 1
+      },
+      "diet": [
+        "small-crustaceans",
+        "zooplankton"
+      ],
+      "habitat": [
+        "seagrass-beds",
+        "kelp-forests",
+        "coral-reefs",
+        "estuaries"
+      ]
     },
     {
       "id": "sardine",
       "name": "Sardine",
-      "alias": ["sardine", "sardines", "pilchard", "pilchards", "sardinella"],
+      "alias": [
+        "sardine",
+        "sardines",
+        "pilchard",
+        "pilchards",
+        "sardinella"
+      ],
       "rarity": "common",
       "scientific-name": "Sardinella",
       "size": "small",
       "taxon-id": "sardinella",
-      "behavior": ["schooling", "fast-swimming", "bait-ball-forming"],
+      "behavior": [
+        "schooling",
+        "fast-swimming",
+        "bait-ball-forming"
+      ],
       "description": "Sardines are small, silvery, schooling fish found in large numbers in coastal waters, important as prey for many marine predators.",
-      "best-months": [1,2,3,4,5,6,7,8,9,10,11,12],
-      "best-regions": ["global", "temperate-oceans", "tropics-global"],
-      "depth": {"max": 200, "min": 0},
-      "diet": ["plankton", "zooplankton"],
-      "habitat": ["coastal-waters", "open-ocean"]
+      "best-months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "best-regions": [
+        "global",
+        "temperate-oceans",
+        "tropics-global"
+      ],
+      "depth": {
+        "max": 200,
+        "min": 0
+      },
+      "diet": [
+        "plankton",
+        "zooplankton"
+      ],
+      "habitat": [
+        "coastal-waters",
+        "open-ocean"
+      ]
     }
-
-
   ]
 }

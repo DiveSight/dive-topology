@@ -11,13 +11,15 @@
     ],
     "bestTime": "April-November (varies by country)",
     "floraFauna": [
-      "reef-fish",
-      "sharks",
+      "whitetip reef shark",
+      "blacktip reef shark",
       "manta-ray",
-      "turtles",
+      "green sea turtle",
+      "hawksbill turtle",
       "nudibranchs",
       "macro-crustaceans",
-      "corals",
+      "staghorn coral",
+      "table coral",
       "cephalopods",
       "seahorse"
     ],
@@ -50,8 +52,8 @@
     ],
     "bestTime": "March–October for best conditions.",
     "floraFauna": [
-      "reef-fish",
-      "corals"
+      "staghorn coral",
+      "table coral"
     ],
     "tags": [
       "wrecks",
@@ -77,8 +79,8 @@
     ],
     "bestTime": "November–May for best conditions.",
     "floraFauna": [
-      "reef-fish",
-      "corals",
+      "staghorn coral",
+      "table coral",
       "nudibranchs",
       "macro-crustaceans"
     ],
@@ -163,13 +165,15 @@
     ],
     "bestTime": "April-November",
     "floraFauna": [
-      "reef-fish",
-      "sharks",
+      "whitetip reef shark",
+      "blacktip reef shark",
       "manta-ray",
-      "turtles",
+      "green sea turtle",
+      "hawksbill turtle",
       "nudibranchs",
       "macro-crustaceans",
-      "corals",
+      "staghorn coral",
+      "table coral",
       "cephalopods",
       "seahorse"
     ],
@@ -208,12 +212,13 @@
     ],
     "bestTime": "May-November",
     "floraFauna": [
-      "reef-fish",
       "manta-ray",
-      "turtles",
+      "green sea turtle",
+      "hawksbill turtle",
       "nudibranchs",
       "macro-crustaceans",
-      "corals"
+      "staghorn coral",
+      "table coral"
     ],
     "tags": [
       "wrecks",
@@ -476,11 +481,13 @@
     ],
     "bestTime": "April-September (Borneo)",
     "floraFauna": [
-      "reef-fish",
-      "turtles",
-      "sharks",
+      "green sea turtle",
+      "hawksbill turtle",
+      "whitetip reef shark",
+      "blacktip reef shark",
       "macro-crustaceans",
-      "corals",
+      "staghorn coral",
+      "table coral",
       "nudibranchs"
     ],
     "tags": [
@@ -564,11 +571,13 @@
     ],
     "bestTime": "April-September",
     "floraFauna": [
-      "reef-fish",
-      "turtles",
-      "sharks",
+      "green sea turtle",
+      "hawksbill turtle",
+      "whitetip reef shark",
+      "blacktip reef shark",
       "macro-crustaceans",
-      "corals"
+      "staghorn coral",
+      "table coral"
     ],
     "tags": [
       "macro",
@@ -590,9 +599,9 @@
     ],
     "bestTime": "April-September",
     "floraFauna": [
-      "reef-fish",
       "macro-crustaceans",
-      "corals"
+      "staghorn coral",
+      "table coral"
     ],
     "tags": [
       "wrecks",
@@ -638,9 +647,10 @@
     ],
     "bestTime": "November-April",
     "floraFauna": [
-      "reef-fish",
-      "sharks",
-      "corals",
+      "whitetip reef shark",
+      "blacktip reef shark",
+      "staghorn coral",
+      "table coral",
       "macro-crustaceans"
     ],
     "tags": [
@@ -700,11 +710,13 @@
     ],
     "bestTime": "March-June",
     "floraFauna": [
-      "reef-fish",
-      "turtles",
-      "sharks",
+      "green sea turtle",
+      "hawksbill turtle",
+      "whitetip reef shark",
+      "blacktip reef shark",
       "macro-crustaceans",
-      "corals",
+      "staghorn coral",
+      "table coral",
       "nudibranchs"
     ],
     "tags": [
@@ -921,10 +933,12 @@
     ],
     "bestTime": "March-June",
     "floraFauna": [
-      "reef-fish",
-      "turtles",
-      "sharks",
-      "corals",
+      "green sea turtle",
+      "hawksbill turtle",
+      "whitetip reef shark",
+      "blacktip reef shark",
+      "staghorn coral",
+      "table coral",
       "macro-crustaceans"
     ],
     "tags": [
@@ -1019,10 +1033,10 @@
     ],
     "bestTime": "April-October",
     "floraFauna": [
-      "reef-fish",
       "macro-crustaceans",
       "nudibranchs",
-      "corals"
+      "staghorn coral",
+      "table coral"
     ],
     "tags": [
       "urban diving",
@@ -1045,10 +1059,12 @@
     ],
     "bestTime": "November-May",
     "floraFauna": [
-      "reef-fish",
-      "turtles",
-      "sharks",
-      "corals",
+      "green sea turtle",
+      "hawksbill turtle",
+      "whitetip reef shark",
+      "blacktip reef shark",
+      "staghorn coral",
+      "table coral",
       "macro-crustaceans",
       "nudibranchs"
     ],
@@ -1169,9 +1185,10 @@
     ],
     "bestTime": "November-May",
     "floraFauna": [
-      "reef-fish",
-      "turtles",
-      "corals",
+      "green sea turtle",
+      "hawksbill turtle",
+      "staghorn coral",
+      "table coral",
       "macro-crustaceans"
     ],
     "tags": [
@@ -1260,10 +1277,11 @@
     ],
     "bestTime": "April–November for best conditions.",
     "floraFauna": [
-      "reef-fish",
-      "corals",
+      "staghorn coral",
+      "table coral",
       "nudibranchs",
-      "turtles"
+      "green sea turtle",
+      "hawksbill turtle"
     ],
     "tags": [
       "pristine",
@@ -1361,9 +1379,9 @@
     ],
     "bestTime": "April-September",
     "floraFauna": [
-      "reef-fish",
       "macro-crustaceans",
-      "corals",
+      "staghorn coral",
+      "table coral",
       "nudibranchs"
     ],
     "tags": [
@@ -1554,11 +1572,13 @@
     ],
     "bestTime": "May-October",
     "floraFauna": [
-      "reef-fish",
-      "turtles",
-      "sharks",
+      "green sea turtle",
+      "hawksbill turtle",
+      "whitetip reef shark",
+      "blacktip reef shark",
       "nudibranchs",
-      "corals"
+      "staghorn coral",
+      "table coral"
     ],
     "tags": [
       "turtles",
@@ -1581,11 +1601,12 @@
     ],
     "bestTime": "April-November",
     "floraFauna": [
-      "reef-fish",
-      "sharks",
+      "whitetip reef shark",
+      "blacktip reef shark",
       "manta-ray",
       "nudibranchs",
-      "corals",
+      "staghorn coral",
+      "table coral",
       "macro-crustaceans"
     ],
     "tags": [
@@ -1609,9 +1630,9 @@
     ],
     "bestTime": "April-November",
     "floraFauna": [
-      "reef-fish",
       "whale-shark",
-      "corals",
+      "staghorn coral",
+      "table coral",
       "macro-crustaceans"
     ],
     "tags": [
@@ -1635,8 +1656,8 @@
     "bestTime": "October-November",
     "floraFauna": [
       "hammerhead",
-      "reef-fish",
-      "corals"
+      "staghorn coral",
+      "table coral"
     ],
     "tags": [
       "hammerheads",
@@ -1659,11 +1680,12 @@
     ],
     "bestTime": "March-December",
     "floraFauna": [
-      "reef-fish",
-      "corals",
+      "staghorn coral",
+      "table coral",
       "macro-crustaceans",
       "nudibranchs",
-      "turtles"
+      "green sea turtle",
+      "hawksbill turtle"
     ],
     "tags": [
       "pristine reefs",
@@ -1687,9 +1709,10 @@
     "bestTime": "May-October",
     "floraFauna": [
       "whale-shark",
-      "reef-fish",
-      "turtles",
-      "corals"
+      "green sea turtle",
+      "hawksbill turtle",
+      "staghorn coral",
+      "table coral"
     ],
     "tags": [
       "whale sharks",
@@ -1713,8 +1736,7 @@
     "floraFauna": [
       "macro-crustaceans",
       "nudibranchs",
-      "cephalopods",
-      "reef-fish"
+      "cephalopods"
     ],
     "tags": [
       "muck diving",
@@ -1736,11 +1758,12 @@
     ],
     "bestTime": "April-November",
     "floraFauna": [
-      "reef-fish",
-      "sharks",
+      "whitetip reef shark",
+      "blacktip reef shark",
       "macro-crustaceans",
       "nudibranchs",
-      "corals"
+      "staghorn coral",
+      "table coral"
     ],
     "tags": [
       "current",
@@ -1762,13 +1785,15 @@
     ],
     "bestTime": "October-April",
     "floraFauna": [
-      "reef-fish",
       "manta-ray",
-      "turtles",
+      "green sea turtle",
+      "hawksbill turtle",
       "nudibranchs",
-      "corals",
+      "staghorn coral",
+      "table coral",
       "macro-crustaceans",
-      "sharks"
+      "whitetip reef shark",
+      "blacktip reef shark"
     ],
     "tags": [
       "biodiversity",
@@ -1793,10 +1818,12 @@
     "bestTime": "April-November",
     "floraFauna": [
       "manta-ray",
-      "reef-fish",
-      "sharks",
-      "turtles",
-      "corals",
+      "whitetip reef shark",
+      "blacktip reef shark",
+      "green sea turtle",
+      "hawksbill turtle",
+      "staghorn coral",
+      "table coral",
       "nudibranchs"
     ],
     "tags": [
@@ -1820,11 +1847,12 @@
     ],
     "bestTime": "May-November",
     "floraFauna": [
-      "reef-fish",
-      "turtles",
+      "green sea turtle",
+      "hawksbill turtle",
       "nudibranchs",
       "macro-crustaceans",
-      "corals"
+      "staghorn coral",
+      "table coral"
     ],
     "tags": [
       "wrecks",
@@ -1849,8 +1877,7 @@
       "macro-crustaceans",
       "nudibranchs",
       "cephalopods",
-      "seahorse",
-      "reef-fish"
+      "seahorse"
     ],
     "tags": [
       "macro",
@@ -1872,10 +1899,11 @@
     ],
     "bestTime": "March-June",
     "floraFauna": [
-      "reef-fish",
-      "turtles",
+      "green sea turtle",
+      "hawksbill turtle",
       "macro-crustaceans",
-      "corals"
+      "staghorn coral",
+      "table coral"
     ],
     "tags": [
       "wrecks",
@@ -1897,10 +1925,12 @@
     ],
     "bestTime": "March-June",
     "floraFauna": [
-      "reef-fish",
-      "sharks",
-      "turtles",
-      "corals"
+      "whitetip reef shark",
+      "blacktip reef shark",
+      "green sea turtle",
+      "hawksbill turtle",
+      "staghorn coral",
+      "table coral"
     ],
     "tags": [
       "big animals",
@@ -1923,11 +1953,12 @@
     ],
     "bestTime": "March-June",
     "floraFauna": [
-      "reef-fish",
-      "turtles",
+      "green sea turtle",
+      "hawksbill turtle",
       "macro-crustaceans",
       "nudibranchs",
-      "corals"
+      "staghorn coral",
+      "table coral"
     ],
     "tags": [
       "macro",
@@ -1949,11 +1980,12 @@
     ],
     "bestTime": "March-June",
     "floraFauna": [
-      "reef-fish",
-      "turtles",
+      "green sea turtle",
+      "hawksbill turtle",
       "macro-crustaceans",
       "nudibranchs",
-      "corals"
+      "staghorn coral",
+      "table coral"
     ],
     "tags": [
       "macro",
@@ -1976,7 +2008,6 @@
     "bestTime": "March-June",
     "floraFauna": [
       "thresher-shark",
-      "reef-fish",
       "macro-crustaceans",
       "nudibranchs"
     ],
@@ -2002,8 +2033,8 @@
     "floraFauna": [
       "macro-crustaceans",
       "nudibranchs",
-      "reef-fish",
-      "corals"
+      "staghorn coral",
+      "table coral"
     ],
     "tags": [
       "macro",
@@ -2026,8 +2057,7 @@
     "bestTime": "March-June",
     "floraFauna": [
       "macro-crustaceans",
-      "nudibranchs",
-      "reef-fish"
+      "nudibranchs"
     ],
     "tags": [
       "macro",
@@ -2049,10 +2079,10 @@
     ],
     "bestTime": "March-June",
     "floraFauna": [
-      "reef-fish",
       "macro-crustaceans",
       "nudibranchs",
-      "corals"
+      "staghorn coral",
+      "table coral"
     ],
     "tags": [
       "macro",
@@ -2074,10 +2104,12 @@
     ],
     "bestTime": "November-May",
     "floraFauna": [
-      "reef-fish",
-      "turtles",
-      "sharks",
-      "corals",
+      "green sea turtle",
+      "hawksbill turtle",
+      "whitetip reef shark",
+      "blacktip reef shark",
+      "staghorn coral",
+      "table coral",
       "macro-crustaceans"
     ],
     "tags": [
@@ -2100,10 +2132,12 @@
     ],
     "bestTime": "November-May",
     "floraFauna": [
-      "reef-fish",
-      "sharks",
-      "turtles",
-      "corals"
+      "whitetip reef shark",
+      "blacktip reef shark",
+      "green sea turtle",
+      "hawksbill turtle",
+      "staghorn coral",
+      "table coral"
     ],
     "tags": [
       "big animals",
@@ -2125,10 +2159,12 @@
     ],
     "bestTime": "April-September",
     "floraFauna": [
-      "turtles",
-      "sharks",
-      "reef-fish",
-      "corals"
+      "green sea turtle",
+      "hawksbill turtle",
+      "whitetip reef shark",
+      "blacktip reef shark",
+      "staghorn coral",
+      "table coral"
     ],
     "tags": [
       "turtles",
@@ -2150,10 +2186,11 @@
     ],
     "bestTime": "April-September",
     "floraFauna": [
-      "reef-fish",
-      "turtles",
+      "green sea turtle",
+      "hawksbill turtle",
       "macro-crustaceans",
-      "corals"
+      "staghorn coral",
+      "table coral"
     ],
     "tags": [
       "macro",
@@ -2175,9 +2212,9 @@
     ],
     "bestTime": "April-September",
     "floraFauna": [
-      "reef-fish",
       "macro-crustaceans",
-      "corals"
+      "staghorn coral",
+      "table coral"
     ],
     "tags": [
       "coral reefs",
@@ -2201,8 +2238,8 @@
     "floraFauna": [
       "macro-crustaceans",
       "nudibranchs",
-      "reef-fish",
-      "corals"
+      "staghorn coral",
+      "table coral"
     ],
     "tags": [
       "macro",
@@ -2224,10 +2261,11 @@
     ],
     "bestTime": "March-September",
     "floraFauna": [
-      "turtles",
+      "green sea turtle",
+      "hawksbill turtle",
       "dugongs",
-      "reef-fish",
-      "corals"
+      "staghorn coral",
+      "table coral"
     ],
     "tags": [
       "turtles",
@@ -2250,9 +2288,9 @@
     ],
     "bestTime": "November-April",
     "floraFauna": [
-      "reef-fish",
       "macro-crustaceans",
-      "corals"
+      "staghorn coral",
+      "table coral"
     ],
     "tags": [
       "macro",
@@ -2274,9 +2312,10 @@
     ],
     "bestTime": "November-April",
     "floraFauna": [
-      "reef-fish",
-      "sharks",
-      "corals",
+      "whitetip reef shark",
+      "blacktip reef shark",
+      "staghorn coral",
+      "table coral",
       "macro-crustaceans"
     ],
     "tags": [
@@ -2300,9 +2339,10 @@
     ],
     "bestTime": "February-April",
     "floraFauna": [
-      "sharks",
-      "reef-fish",
-      "corals"
+      "whitetip reef shark",
+      "blacktip reef shark",
+      "staghorn coral",
+      "table coral"
     ],
     "tags": [
       "pelagics",
@@ -2324,9 +2364,10 @@
     ],
     "bestTime": "February-April",
     "floraFauna": [
-      "reef-fish",
-      "sharks",
-      "corals",
+      "whitetip reef shark",
+      "blacktip reef shark",
+      "staghorn coral",
+      "table coral",
       "macro-crustaceans"
     ],
     "tags": [
@@ -2349,9 +2390,9 @@
     ],
     "bestTime": "April-September",
     "floraFauna": [
-      "reef-fish",
       "macro-crustaceans",
-      "corals"
+      "staghorn coral",
+      "table coral"
     ],
     "tags": [
       "coral reefs",
@@ -2373,10 +2414,11 @@
     ],
     "bestTime": "April-September",
     "floraFauna": [
-      "reef-fish",
       "macro-crustaceans",
-      "corals",
-      "turtles"
+      "staghorn coral",
+      "table coral",
+      "green sea turtle",
+      "hawksbill turtle"
     ],
     "tags": [
       "macro",
@@ -2398,10 +2440,11 @@
     ],
     "bestTime": "April-September",
     "floraFauna": [
-      "turtles",
+      "green sea turtle",
+      "hawksbill turtle",
       "jellyfish",
-      "reef-fish",
-      "corals"
+      "staghorn coral",
+      "table coral"
     ],
     "tags": [
       "turtles",
@@ -2409,5 +2452,293 @@
       "coral reefs"
     ],
     "image": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=800&q=80"
+  },
+  "mindanao": {
+    "children": [],
+    "id": "mindanao",
+    "name": "Mindanao",
+    "type": "area",
+    "parent": "philippines",
+    "description": "Diving in Mindanao.",
+    "coordinates": [
+      9.212699,
+      124.768596
+    ]
+  },
+  "johor": {
+    "children": [],
+    "id": "johor",
+    "name": "Johor",
+    "type": "area",
+    "parent": "malaysia",
+    "description": "Diving in Johor.",
+    "coordinates": [
+      2.432076,
+      104.516566
+    ]
+  },
+  "sembilan-island": {
+    "children": [],
+    "id": "sembilan-island",
+    "name": "Sembilan Island",
+    "type": "area",
+    "parent": "malaysia",
+    "description": "Diving in Sembilan Island.",
+    "coordinates": [
+      4.004064,
+      100.507886
+    ]
+  },
+  "kapas-island": {
+    "children": [],
+    "id": "kapas-island",
+    "name": "Kapas Island",
+    "type": "area",
+    "parent": "malaysia",
+    "description": "Diving in Kapas Island.",
+    "coordinates": [
+      5.214203,
+      103.261893
+    ]
+  },
+  "bidong-island": {
+    "children": [],
+    "id": "bidong-island",
+    "name": "Bidong Island",
+    "type": "area",
+    "parent": "malaysia",
+    "description": "Diving in Bidong Island.",
+    "coordinates": [
+      5.614702,
+      103.057878
+    ]
+  },
+  "rayong": {
+    "children": [],
+    "id": "rayong",
+    "name": "Rayong",
+    "type": "area",
+    "parent": "thailand",
+    "description": "Diving in Rayong.",
+    "coordinates": [
+      12.578185,
+      101.69898
+    ]
+  },
+  "zadetkyi": {
+    "children": [],
+    "id": "zadetkyi",
+    "name": "Zadetkyi",
+    "type": "area",
+    "parent": "myanmar",
+    "description": "Diving in Zadetkyi.",
+    "coordinates": [
+      9.930977,
+      98.063278
+    ]
+  },
+  "nga-mann-island": {
+    "children": [],
+    "id": "nga-mann-island",
+    "name": "Nga Mann Island",
+    "type": "area",
+    "parent": "myanmar",
+    "description": "Diving in Nga Mann Island.",
+    "coordinates": [
+      10.53372,
+      98.120956
+    ]
+  },
+  "bo-wei-island": {
+    "children": [],
+    "id": "bo-wei-island",
+    "name": "Bo Wei Island",
+    "type": "area",
+    "parent": "myanmar",
+    "description": "Diving in Bo Wei Island.",
+    "coordinates": [
+      10.339238,
+      97.969894
+    ]
+  },
+  "macbride-island": {
+    "children": [],
+    "id": "macbride-island",
+    "name": "Macbride Island",
+    "type": "area",
+    "parent": "myanmar",
+    "description": "Diving in Macbride Island.",
+    "coordinates": [
+      10.014834,
+      97.931442
+    ]
+  },
+  "krong-preah-sihanouk": {
+    "children": [],
+    "id": "krong-preah-sihanouk",
+    "name": "Krong Preah Sihanouk",
+    "type": "area",
+    "parent": "cambodia",
+    "description": "Diving in Krong Preah Sihanouk.",
+    "coordinates": [
+      10.719309,
+      103.194494
+    ]
+  },
+  "muara-muara": {
+    "children": [],
+    "id": "muara-muara",
+    "name": "Muara Muara",
+    "type": "area",
+    "parent": "brunei",
+    "description": "Diving in Muara Muara.",
+    "coordinates": [
+      5.076752,
+      115.178089
+    ]
+  },
+  "java": {
+    "children": [],
+    "id": "java",
+    "name": "Java",
+    "type": "area",
+    "parent": "indonesia",
+    "description": "Diving in Java.",
+    "coordinates": [
+      -5.980484,
+      105.851877
+    ]
+  },
+  "west-sumatra": {
+    "children": [],
+    "id": "west-sumatra",
+    "name": "West Sumatra",
+    "type": "area",
+    "parent": "indonesia",
+    "description": "Diving in West Sumatra.",
+    "coordinates": [
+      -1.201005,
+      100.425832
+    ]
+  },
+  "sumatra": {
+    "children": [],
+    "id": "sumatra",
+    "name": "Sumatra",
+    "type": "area",
+    "parent": "indonesia",
+    "description": "Diving in Sumatra.",
+    "coordinates": [
+      -7.695473,
+      113.825858
+    ]
+  },
+  "sulawesi": {
+    "children": [],
+    "id": "sulawesi",
+    "name": "Sulawesi",
+    "type": "area",
+    "parent": "indonesia",
+    "description": "Diving in Sulawesi.",
+    "coordinates": [
+      -0.580892,
+      119.769173
+    ]
+  },
+  "south-sulawesi": {
+    "children": [],
+    "id": "south-sulawesi",
+    "name": "South Sulawesi",
+    "type": "area",
+    "parent": "indonesia",
+    "description": "Diving in South Sulawesi.",
+    "coordinates": [
+      -5.674495,
+      120.477791
+    ]
+  },
+  "papua": {
+    "children": [],
+    "id": "papua",
+    "name": "Papua",
+    "type": "area",
+    "parent": "indonesia",
+    "description": "Diving in Papua.",
+    "coordinates": [
+      -3.174111,
+      134.884644
+    ]
+  },
+  "north-sumatra": {
+    "children": [],
+    "id": "north-sumatra",
+    "name": "North Sumatra",
+    "type": "area",
+    "parent": "indonesia",
+    "description": "Diving in North Sumatra.",
+    "coordinates": [
+      1.328944,
+      97.609314
+    ]
+  },
+  "riau-islands": {
+    "children": [],
+    "id": "riau-islands",
+    "name": "Riau Islands",
+    "type": "area",
+    "parent": "indonesia",
+    "description": "Diving in Riau Islands.",
+    "coordinates": [
+      3.20775,
+      106.320031
+    ]
+  },
+  "pulau-mentigi": {
+    "children": [],
+    "id": "pulau-mentigi",
+    "name": "Pulau Mentigi",
+    "type": "area",
+    "parent": "malaysia",
+    "description": "Diving in Pulau Mentigi.",
+    "coordinates": [
+      0.60635,
+      104.098135
+    ]
+  },
+  "pyin-sa-island": {
+    "children": [],
+    "id": "pyin-sa-island",
+    "name": "Pyin Sa Island",
+    "type": "area",
+    "parent": "myanmar",
+    "description": "Diving in Pyin Sa Island.",
+    "coordinates": [
+      10.120302,
+      98.033066
+    ]
+  },
+  "zadetkalay": {
+    "children": [],
+    "id": "zadetkalay",
+    "name": "Zadetkalay",
+    "type": "area",
+    "parent": "myanmar",
+    "description": "Diving in Zadetkalay.",
+    "coordinates": [
+      10.133821,
+      98.096237
+    ]
+  },
+  "kyun-pila-island": {
+    "children": [],
+    "id": "kyun-pila-island",
+    "name": "Kyun Pila Island",
+    "type": "area",
+    "parent": "myanmar",
+    "description": "Diving in Kyun Pila Island.",
+    "coordinates": [
+      10.647112,
+      97.938995
+    ]
   }
 }

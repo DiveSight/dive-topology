@@ -12,14 +12,17 @@
     "bestTime": "Varies by region; generally May–October for southern Africa, October–April for Red Sea.",
     "floraFauna": [
       "kelp forests",
-      "hard corals",
-      "soft corals",
-      "reef sharks",
+      "staghorn coral",
+      "brain coral",
+      "sea fan",
+      "leather coral",
+      "blacktip reef shark",
       "great white sharks",
       "ragged-tooth sharks",
       "sardines",
       "seals",
-      "turtles",
+      "green sea turtle",
+      "loggerhead turtle",
       "dolphins",
       "whales"
     ],
@@ -73,10 +76,14 @@
     ],
     "bestTime": "October–March for best visibility and pelagics.",
     "floraFauna": [
-      "hard corals",
-      "soft corals",
-      "turtles",
-      "reef sharks",
+      "staghorn coral",
+      "table coral",
+      "sea fan",
+      "leather coral",
+      "green sea turtle",
+      "hawksbill turtle",
+      "whitetip reef shark",
+      "grey reef shark",
       "dolphins",
       "whale sharks"
     ],
@@ -164,11 +171,13 @@
     "floraFauna": [
       "whale sharks",
       "manta rays",
-      "turtles",
+      "green sea turtle",
+      "hawksbill turtle",
       "dolphins",
-      "hard corals",
-      "soft corals",
-      "reef fish"
+      "staghorn coral",
+      "table coral",
+      "sea fan",
+      "leather coral"
     ],
     "tags": [
       "whale sharks",
@@ -245,8 +254,7 @@
       "ragged-tooth sharks",
       "sardines",
       "seals",
-      "kelp forests",
-      "reef fish"
+      "kelp forests"
     ],
     "tags": [
       "sharks",
@@ -344,12 +352,14 @@
     ],
     "bestTime": "October–March for best conditions.",
     "floraFauna": [
-      "hard corals",
-      "soft corals",
+      "staghorn coral",
+      "table coral",
+      "sea fan",
+      "leather coral",
       "whale sharks",
-      "turtles",
-      "dolphins",
-      "reef fish"
+      "green sea turtle",
+      "hawksbill turtle",
+      "dolphins"
     ],
     "tags": [
       "tropical",
@@ -639,9 +649,10 @@
     "bestTime": "November–February for whale sharks.",
     "floraFauna": [
       "whale sharks",
-      "hard corals",
-      "soft corals",
-      "reef fish"
+      "staghorn coral",
+      "table coral",
+      "sea fan",
+      "leather coral"
     ],
     "tags": [
       "whale sharks",
@@ -690,11 +701,15 @@
     "bestTime": "October–June for best conditions.",
     "floraFauna": [
       "hammerhead sharks",
-      "reef sharks",
-      "hard corals",
-      "soft corals",
+      "whitetip reef shark",
+      "grey reef shark",
+      "fire coral",
+      "table coral",
+      "broccoli coral",
+      "xenia coral",
       "barracuda",
-      "turtles"
+      "green sea turtle",
+      "hawksbill turtle"
     ],
     "tags": [
       "red sea",
@@ -770,10 +785,14 @@
     ],
     "bestTime": "October–March for best conditions.",
     "floraFauna": [
-      "hard corals",
-      "soft corals",
-      "reef sharks",
-      "turtles"
+      "staghorn coral",
+      "table coral",
+      "sea fan",
+      "leather coral",
+      "whitetip reef shark",
+      "grey reef shark",
+      "green sea turtle",
+      "hawksbill turtle"
     ],
     "tags": [
       "remote",
@@ -800,10 +819,13 @@
     ],
     "bestTime": "November–May for best visibility.",
     "floraFauna": [
-      "hard corals",
-      "soft corals",
+      "staghorn coral",
+      "brain coral",
+      "sea fan",
+      "leather coral",
       "dolphins",
-      "turtles"
+      "green sea turtle",
+      "loggerhead turtle"
     ],
     "tags": [
       "atlantic",
@@ -830,8 +852,9 @@
     ],
     "bestTime": "March–November for best diving.",
     "floraFauna": [
-      "turtles",
-      "rays"
+      "green sea turtle",
+      "loggerhead turtle",
+      "manta ray"
     ],
     "tags": [
       "volcanic",
@@ -841,5 +864,245 @@
       "adventure"
     ],
     "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&h=600&fit=crop"
+  },
+  "saint-helena-island": {
+    "children": [],
+    "id": "saint-helena-island",
+    "name": "Saint Helena Island",
+    "type": "country",
+    "parent": "africa",
+    "description": "Diving in Saint Helena Island.",
+    "coordinates": [
+      -15.916391,
+      -5.720658
+    ]
+  },
+  "inhaca-island": {
+    "children": [],
+    "id": "inhaca-island",
+    "name": "Inhaca Island",
+    "type": "area",
+    "parent": "mozambique",
+    "description": "Diving in Inhaca Island.",
+    "coordinates": [
+      -25.998244,
+      32.911391
+    ]
+  },
+  "maputo": {
+    "children": [],
+    "id": "maputo",
+    "name": "Maputo",
+    "type": "area",
+    "parent": "mozambique",
+    "description": "Diving in Maputo.",
+    "coordinates": [
+      -26.74538,
+      32.930403
+    ]
+  },
+  "durban": {
+    "children": [],
+    "id": "durban",
+    "name": "Durban",
+    "type": "area",
+    "parent": "south-africa",
+    "description": "Diving in Durban.",
+    "coordinates": [
+      -29.950473,
+      31.024017
+    ]
+  },
+  "cabo-delgado": {
+    "children": [],
+    "id": "cabo-delgado",
+    "name": "Cabo Delgado",
+    "type": "area",
+    "parent": "mozambique",
+    "description": "Diving in Cabo Delgado.",
+    "coordinates": [
+      -12.75556,
+      40.63389
+    ]
+  },
+  "moheli": {
+    "children": [],
+    "id": "moheli",
+    "name": "Moheli",
+    "type": "area",
+    "parent": "comoros",
+    "description": "Diving in Moheli.",
+    "coordinates": [
+      -12.434062,
+      43.702583
+    ]
+  },
+  "ponta-nangamba": {
+    "children": [],
+    "id": "ponta-nangamba",
+    "name": "Ponta Nangamba",
+    "type": "area",
+    "parent": "mozambique",
+    "description": "Diving in Ponta Nangamba.",
+    "coordinates": [
+      -12.65833,
+      40.63
+    ]
+  },
+  "pwani": {
+    "children": [],
+    "id": "pwani",
+    "name": "Pwani",
+    "type": "area",
+    "parent": "tanzania",
+    "description": "Diving in Pwani.",
+    "coordinates": [
+      -7.982398,
+      39.830933
+    ]
+  },
+  "zanzibar": {
+    "children": [],
+    "id": "zanzibar",
+    "name": "Zanzibar",
+    "type": "area",
+    "parent": "tanzania",
+    "description": "Diving in Zanzibar.",
+    "coordinates": [
+      -6.197984,
+      39.148922
+    ]
+  },
+  "wasini-island": {
+    "children": [],
+    "id": "wasini-island",
+    "name": "Wasini Island",
+    "type": "area",
+    "parent": "kenya",
+    "description": "Diving in Wasini Island.",
+    "coordinates": [
+      -4.659068,
+      39.394913
+    ]
+  },
+  "kilifi": {
+    "children": [],
+    "id": "kilifi",
+    "name": "Kilifi",
+    "type": "area",
+    "parent": "kenya",
+    "description": "Diving in Kilifi.",
+    "coordinates": [
+      -3.79266,
+      39.848785
+    ]
+  },
+  "mombasa": {
+    "children": [],
+    "id": "mombasa",
+    "name": "Mombasa",
+    "type": "area",
+    "parent": "kenya",
+    "description": "Diving in Mombasa.",
+    "coordinates": [
+      -4.124888,
+      39.702187
+    ]
+  },
+  "pemba": {
+    "children": [],
+    "id": "pemba",
+    "name": "Pemba",
+    "type": "area",
+    "parent": "tanzania",
+    "description": "Diving in Pemba.",
+    "coordinates": [
+      -4.899927,
+      39.604855
+    ]
+  },
+  "tanga": {
+    "children": [],
+    "id": "tanga",
+    "name": "Tanga",
+    "type": "area",
+    "parent": "tanzania",
+    "description": "Diving in Tanga.",
+    "coordinates": [
+      -5.529023,
+      39.057083
+    ]
+  },
+  "sal": {
+    "children": [],
+    "id": "sal",
+    "name": "Sal",
+    "type": "area",
+    "parent": "cape-verde",
+    "description": "Diving in Sal.",
+    "coordinates": [
+      16.583881,
+      -22.880487
+    ]
+  },
+  "boa-vista": {
+    "children": [],
+    "id": "boa-vista",
+    "name": "Boa Vista",
+    "type": "area",
+    "parent": "cape-verde",
+    "description": "Diving in Boa Vista.",
+    "coordinates": [
+      16.14906,
+      -22.949581
+    ]
+  },
+  "so-vicente": {
+    "children": [],
+    "id": "so-vicente",
+    "name": "São Vicente",
+    "type": "area",
+    "parent": "cape-verde",
+    "description": "Diving in São Vicente.",
+    "coordinates": [
+      16.910874,
+      -24.99042
+    ]
+  },
+  "dakar": {
+    "children": [],
+    "id": "dakar",
+    "name": "Dakar",
+    "type": "area",
+    "parent": "senegal",
+    "description": "Diving in Dakar.",
+    "coordinates": [
+      14.62096,
+      -17.454958
+    ]
+  },
+  "al-bahr-al-ahmar": {
+    "children": [],
+    "id": "al-bahr-al-ahmar",
+    "name": "Al Bahr Al Ahmar",
+    "type": "area",
+    "parent": "sudan",
+    "description": "Diving in Al Bahr Al Ahmar.",
+    "coordinates": [
+      18.503052,
+      38.839417
+    ]
+  },
+  "djibouti-city": {
+    "children": [],
+    "id": "djibouti-city",
+    "name": "Djibouti City",
+    "type": "area",
+    "parent": "djibouti",
+    "description": "Diving in Djibouti City.",
+    "coordinates": [
+      11.612052,
+      43.075676
+    ]
   }
 }
