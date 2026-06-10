@@ -31,7 +31,154 @@
       "reefs",
       "unique species"
     ],
-    "image": "https://images.unsplash.com/photo-1695250436127-479676ab4dd3?ixid=M3w4MzAyODF8MHwxfHNlYXJjaHwxfHxBdXN0cmFsaWElMjBkaXZpbmclMjBtYXJpbmV8ZW58MHwwfHx8MTc2MzA0ODY3OHww&ixlib=rb-4.1.0&w=800&h=600&fit=crop"
+    "image": "https://images.unsplash.com/photo-1695250436127-479676ab4dd3?ixid=M3w4MzAyODF8MHwxfHNlYXJjaHwxfHxBdXN0cmFsaWElMjBkaXZpbmclMjBtYXJpbmV8ZW58MHwwfHx8MTc2MzA0ODY3OHww&ixlib=rb-4.1.0&w=800&h=600&fit=crop",
+    "conditions": {
+      "source": "monthly_climatology",
+      "basis": "10yr",
+      "siteCount": 2493,
+      "span": "varies",
+      "byMonth": [
+        {
+          "m": 1,
+          "tempC": 24,
+          "waveM": 1.2,
+          "vizM": 16,
+          "rainMm": 148,
+          "windMs": 3.3,
+          "sunnyDays": 7
+        },
+        {
+          "m": 2,
+          "tempC": 24.5,
+          "waveM": 1.2,
+          "vizM": 15,
+          "rainMm": 127,
+          "windMs": 3.2,
+          "sunnyDays": 7
+        },
+        {
+          "m": 3,
+          "tempC": 24.5,
+          "waveM": 1.2,
+          "vizM": 14,
+          "rainMm": 147,
+          "windMs": 3.1,
+          "sunnyDays": 7
+        },
+        {
+          "m": 4,
+          "tempC": 23.5,
+          "waveM": 1.3,
+          "vizM": 14,
+          "rainMm": 98,
+          "windMs": 3.7,
+          "sunnyDays": 8
+        },
+        {
+          "m": 5,
+          "tempC": 22,
+          "waveM": 1.4,
+          "vizM": 14,
+          "rainMm": 79,
+          "windMs": 4.4,
+          "sunnyDays": 9
+        },
+        {
+          "m": 6,
+          "tempC": 20.5,
+          "waveM": 1.4,
+          "vizM": 14,
+          "rainMm": 70,
+          "windMs": 4.4,
+          "sunnyDays": 8
+        },
+        {
+          "m": 7,
+          "tempC": 19.5,
+          "waveM": 1.4,
+          "vizM": 14,
+          "rainMm": 65,
+          "windMs": 4.4,
+          "sunnyDays": 10
+        },
+        {
+          "m": 8,
+          "tempC": 19,
+          "waveM": 1.4,
+          "vizM": 14,
+          "rainMm": 55,
+          "windMs": 4,
+          "sunnyDays": 11
+        },
+        {
+          "m": 9,
+          "tempC": 19.5,
+          "waveM": 1.3,
+          "vizM": 15,
+          "rainMm": 44,
+          "windMs": 3.8,
+          "sunnyDays": 11
+        },
+        {
+          "m": 10,
+          "tempC": 20.5,
+          "waveM": 1.2,
+          "vizM": 15,
+          "rainMm": 53,
+          "windMs": 3.3,
+          "sunnyDays": 11
+        },
+        {
+          "m": 11,
+          "tempC": 22,
+          "waveM": 1.2,
+          "vizM": 15,
+          "rainMm": 55,
+          "windMs": 3.4,
+          "sunnyDays": 10
+        },
+        {
+          "m": 12,
+          "tempC": 23,
+          "waveM": 1.1,
+          "vizM": 16,
+          "rainMm": 103,
+          "windMs": 3.3,
+          "sunnyDays": 9
+        }
+      ],
+      "windows": {
+        "warmest": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "calmest": [],
+        "clearest": [],
+        "driest": [
+          8,
+          9,
+          10,
+          11
+        ],
+        "lightestWind": [
+          1,
+          2,
+          3,
+          10,
+          12
+        ],
+        "best": [
+          8,
+          9,
+          10,
+          11
+        ]
+      },
+      "generatedAt": "2026-06-10T20:55:50.761Z"
+    },
+    "bestTimeAuto": "On the Pacific coast, August to November brings the driest months, with temperatures from 19°C to 25°C. In the Indian Ocean, December to March sees the calmest seas, maintaining warm waters at 27–29°C, diveable year-round."
   },
   "new-south-wales": {
     "children": [],
@@ -108,7 +255,7 @@
       -42.0409,
       146.8087
     ],
-    "bestTime": "December–May for best conditions.",
+    "bestTime": "December–May.",
     "floraFauna": [
       "kelp forests",
       "weedy sea dragons",
@@ -160,7 +307,7 @@
       -18.2871,
       147.6992
     ],
-    "bestTime": "June–November for best visibility and weather.",
+    "bestTime": "June–November.",
     "floraFauna": [
       "staghorn coral",
       "plate coral",
@@ -225,7 +372,7 @@
       -16,
       151
     ],
-    "bestTime": "September–December for best conditions.",
+    "bestTime": "September–December.",
     "floraFauna": [
       "grey reef shark",
       "wobbegong shark",
@@ -257,7 +404,7 @@
       -31.55,
       159.08
     ],
-    "bestTime": "September–May for best diving.",
+    "bestTime": "September–May.",
     "floraFauna": [
       "doubleheader wrasse",
       "ballina angelfish",
@@ -289,7 +436,7 @@
       -33.8688,
       151.2093
     ],
-    "bestTime": "October–May for best conditions.",
+    "bestTime": "October–May.",
     "floraFauna": [
       "weedy sea dragons",
       "grey reef shark",
@@ -318,7 +465,7 @@
       -37.8136,
       144.9631
     ],
-    "bestTime": "December–May for best conditions.",
+    "bestTime": "December–May.",
     "floraFauna": [
       "weedy sea dragons",
       "seals",
@@ -346,7 +493,7 @@
       -17.3,
       119.3
     ],
-    "bestTime": "September–December for best conditions.",
+    "bestTime": "September–December.",
     "floraFauna": [
       "staghorn coral",
       "plate coral",

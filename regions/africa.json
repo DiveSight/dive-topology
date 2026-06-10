@@ -49,7 +49,158 @@
     "coordinates": [
       -11.9082,
       43.4713
-    ]
+    ],
+    "conditions": {
+      "source": "monthly_climatology",
+      "basis": "10yr",
+      "siteCount": 41,
+      "span": "single",
+      "byMonth": [
+        {
+          "m": 1,
+          "tempC": 29.5,
+          "waveM": 0.9,
+          "vizM": 27,
+          "rainMm": 288,
+          "windMs": 2.8,
+          "sunnyDays": 2
+        },
+        {
+          "m": 2,
+          "tempC": 29.5,
+          "waveM": 0.9,
+          "vizM": 26,
+          "rainMm": 191,
+          "windMs": 2.1,
+          "sunnyDays": 2
+        },
+        {
+          "m": 3,
+          "tempC": 30,
+          "waveM": 0.8,
+          "vizM": 26,
+          "rainMm": 155,
+          "windMs": 1.3,
+          "sunnyDays": 3
+        },
+        {
+          "m": 4,
+          "tempC": 29.5,
+          "waveM": 1,
+          "vizM": 25,
+          "rainMm": 146,
+          "windMs": 2.9,
+          "sunnyDays": 5
+        },
+        {
+          "m": 5,
+          "tempC": 28.5,
+          "waveM": 1.2,
+          "vizM": 23,
+          "rainMm": 59,
+          "windMs": 4.7,
+          "sunnyDays": 12
+        },
+        {
+          "m": 6,
+          "tempC": 27.5,
+          "waveM": 1.3,
+          "vizM": 23,
+          "rainMm": 42,
+          "windMs": 4.9,
+          "sunnyDays": 14
+        },
+        {
+          "m": 7,
+          "tempC": 26.5,
+          "waveM": 1.3,
+          "vizM": 21,
+          "rainMm": 32,
+          "windMs": 4.9,
+          "sunnyDays": 15
+        },
+        {
+          "m": 8,
+          "tempC": 26,
+          "waveM": 1.2,
+          "vizM": 22,
+          "rainMm": 23,
+          "windMs": 3.4,
+          "sunnyDays": 18
+        },
+        {
+          "m": 9,
+          "tempC": 26,
+          "waveM": 1,
+          "vizM": 23,
+          "rainMm": 22,
+          "windMs": 2.1,
+          "sunnyDays": 18
+        },
+        {
+          "m": 10,
+          "tempC": 27,
+          "waveM": 0.9,
+          "vizM": 25,
+          "rainMm": 30,
+          "windMs": 1.8,
+          "sunnyDays": 17
+        },
+        {
+          "m": 11,
+          "tempC": 28,
+          "waveM": 0.8,
+          "vizM": 26,
+          "rainMm": 45,
+          "windMs": 2,
+          "sunnyDays": 13
+        },
+        {
+          "m": 12,
+          "tempC": 29,
+          "waveM": 0.7,
+          "vizM": 27,
+          "rainMm": 110,
+          "windMs": 1.7,
+          "sunnyDays": 8
+        }
+      ],
+      "windows": {
+        "warmest": [
+          1,
+          2,
+          3,
+          4,
+          12
+        ],
+        "calmest": [
+          1,
+          2,
+          3,
+          10,
+          11,
+          12
+        ],
+        "clearest": [],
+        "driest": [
+          7,
+          8,
+          9,
+          10
+        ],
+        "lightestWind": [
+          3,
+          10,
+          11,
+          12
+        ],
+        "best": [
+          10
+        ]
+      },
+      "generatedAt": "2026-06-10T20:55:50.761Z"
+    },
+    "bestTime": "October's calm seas and dry weather make it the most favorable time, with mild water temperatures ranging from 26–30°C."
   },
   "grande-comore": {
     "children": [],
@@ -74,7 +225,7 @@
       -1.2921,
       36.8219
     ],
-    "bestTime": "October–March for best visibility and pelagics.",
+    "bestTime": "February to April and November to December bring the calmest seas in Kenya, with water at a warm 28–29°C. For pelagic encounters and visibility, consider diving October to March.",
     "floraFauna": [
       "staghorn coral",
       "table coral",
@@ -94,7 +245,168 @@
       "big animals",
       "reefs"
     ],
-    "image": "https://images.unsplash.com/photo-1518717758536-85ae29035b6d?w=800&h=600&fit=crop"
+    "image": "https://images.unsplash.com/photo-1518717758536-85ae29035b6d?w=800&h=600&fit=crop",
+    "conditions": {
+      "source": "monthly_climatology",
+      "basis": "10yr",
+      "siteCount": 71,
+      "span": "single",
+      "byMonth": [
+        {
+          "m": 1,
+          "tempC": 28,
+          "waveM": 1,
+          "vizM": 11,
+          "rainMm": 23,
+          "windMs": 3.9,
+          "sunnyDays": 10
+        },
+        {
+          "m": 2,
+          "tempC": 28,
+          "waveM": 0.9,
+          "vizM": 11,
+          "rainMm": 17,
+          "windMs": 3.5,
+          "sunnyDays": 9
+        },
+        {
+          "m": 3,
+          "tempC": 29,
+          "waveM": 0.7,
+          "vizM": 11,
+          "rainMm": 60,
+          "windMs": 2.4,
+          "sunnyDays": 9
+        },
+        {
+          "m": 4,
+          "tempC": 29,
+          "waveM": 0.9,
+          "vizM": 12,
+          "rainMm": 220,
+          "windMs": 4.1,
+          "sunnyDays": 3
+        },
+        {
+          "m": 5,
+          "tempC": 28,
+          "waveM": 1.2,
+          "vizM": 13,
+          "rainMm": 212,
+          "windMs": 5.6,
+          "sunnyDays": 5
+        },
+        {
+          "m": 6,
+          "tempC": 27,
+          "waveM": 1.5,
+          "vizM": 14,
+          "rainMm": 84,
+          "windMs": 5.9,
+          "sunnyDays": 8
+        },
+        {
+          "m": 7,
+          "tempC": 26,
+          "waveM": 1.5,
+          "vizM": 15,
+          "rainMm": 57,
+          "windMs": 5.8,
+          "sunnyDays": 9
+        },
+        {
+          "m": 8,
+          "tempC": 25.5,
+          "waveM": 1.4,
+          "vizM": 14,
+          "rainMm": 50,
+          "windMs": 5,
+          "sunnyDays": 10
+        },
+        {
+          "m": 9,
+          "tempC": 26,
+          "waveM": 1.3,
+          "vizM": 14,
+          "rainMm": 55,
+          "windMs": 4.5,
+          "sunnyDays": 11
+        },
+        {
+          "m": 10,
+          "tempC": 27,
+          "waveM": 1.1,
+          "vizM": 14,
+          "rainMm": 103,
+          "windMs": 3.6,
+          "sunnyDays": 9
+        },
+        {
+          "m": 11,
+          "tempC": 28,
+          "waveM": 0.8,
+          "vizM": 13,
+          "rainMm": 94,
+          "windMs": 2.2,
+          "sunnyDays": 8
+        },
+        {
+          "m": 12,
+          "tempC": 28.5,
+          "waveM": 0.8,
+          "vizM": 13,
+          "rainMm": 62,
+          "windMs": 2.7,
+          "sunnyDays": 9
+        }
+      ],
+      "windows": {
+        "warmest": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          11,
+          12
+        ],
+        "calmest": [
+          2,
+          3,
+          4,
+          11,
+          12
+        ],
+        "clearest": [
+          6,
+          7,
+          8,
+          9,
+          10
+        ],
+        "driest": [
+          1,
+          2,
+          8,
+          9
+        ],
+        "lightestWind": [
+          2,
+          3,
+          11,
+          12
+        ],
+        "best": [
+          2,
+          3,
+          4,
+          11,
+          12
+        ]
+      },
+      "generatedAt": "2026-06-10T20:55:50.761Z"
+    }
   },
   "kilifi-county": {
     "children": [],
@@ -154,7 +466,160 @@
     "coordinates": [
       -12.8128,
       45.1997
-    ]
+    ],
+    "conditions": {
+      "source": "monthly_climatology",
+      "basis": "10yr",
+      "siteCount": 25,
+      "span": "single",
+      "byMonth": [
+        {
+          "m": 1,
+          "tempC": 29.5,
+          "waveM": 0.8,
+          "vizM": 19,
+          "rainMm": 263,
+          "windMs": 3.1,
+          "sunnyDays": 2
+        },
+        {
+          "m": 2,
+          "tempC": 29.5,
+          "waveM": 0.7,
+          "vizM": 18,
+          "rainMm": 192,
+          "windMs": 2.3,
+          "sunnyDays": 2
+        },
+        {
+          "m": 3,
+          "tempC": 29.5,
+          "waveM": 0.6,
+          "vizM": 18,
+          "rainMm": 149,
+          "windMs": 1.5,
+          "sunnyDays": 4
+        },
+        {
+          "m": 4,
+          "tempC": 29.5,
+          "waveM": 0.8,
+          "vizM": 17,
+          "rainMm": 79,
+          "windMs": 2.4,
+          "sunnyDays": 8
+        },
+        {
+          "m": 5,
+          "tempC": 28.5,
+          "waveM": 0.9,
+          "vizM": 16,
+          "rainMm": 21,
+          "windMs": 4.6,
+          "sunnyDays": 17
+        },
+        {
+          "m": 6,
+          "tempC": 27.5,
+          "waveM": 1.1,
+          "vizM": 15,
+          "rainMm": 14,
+          "windMs": 5.1,
+          "sunnyDays": 18
+        },
+        {
+          "m": 7,
+          "tempC": 26.5,
+          "waveM": 1.2,
+          "vizM": 15,
+          "rainMm": 11,
+          "windMs": 5.3,
+          "sunnyDays": 18
+        },
+        {
+          "m": 8,
+          "tempC": 26,
+          "waveM": 1,
+          "vizM": 16,
+          "rainMm": 10,
+          "windMs": 3.1,
+          "sunnyDays": 21
+        },
+        {
+          "m": 9,
+          "tempC": 26.5,
+          "waveM": 0.9,
+          "vizM": 17,
+          "rainMm": 14,
+          "windMs": 1.4,
+          "sunnyDays": 20
+        },
+        {
+          "m": 10,
+          "tempC": 27,
+          "waveM": 0.8,
+          "vizM": 18,
+          "rainMm": 24,
+          "windMs": 1,
+          "sunnyDays": 18
+        },
+        {
+          "m": 11,
+          "tempC": 28,
+          "waveM": 0.7,
+          "vizM": 19,
+          "rainMm": 39,
+          "windMs": 1.8,
+          "sunnyDays": 14
+        },
+        {
+          "m": 12,
+          "tempC": 29,
+          "waveM": 0.6,
+          "vizM": 19,
+          "rainMm": 102,
+          "windMs": 1.5,
+          "sunnyDays": 8
+        }
+      ],
+      "windows": {
+        "warmest": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          12
+        ],
+        "calmest": [
+          2,
+          3,
+          11,
+          12
+        ],
+        "clearest": [],
+        "driest": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "lightestWind": [
+          3,
+          9,
+          10,
+          12
+        ],
+        "best": [
+          2,
+          3,
+          11,
+          12
+        ]
+      },
+      "generatedAt": "2026-06-10T20:55:50.761Z"
+    },
+    "bestTime": "Calmest seas appear from February to March and November to December, with water warming up to 29–30°C."
   },
   "mozambique": {
     "children": [],
@@ -167,7 +632,7 @@
       -18.6657,
       35.5296
     ],
-    "bestTime": "May–November for best visibility and big animals.",
+    "bestTime": "The period from June to September delivers calm seas and clear water, as temperatures hover around 24–25°C. May to November also sees enhanced visibility and the presence of big marine animals.",
     "floraFauna": [
       "whale sharks",
       "manta rays",
@@ -187,7 +652,162 @@
       "big animals",
       "beaches"
     ],
-    "image": "https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?w=800&h=600&fit=crop"
+    "image": "https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?w=800&h=600&fit=crop",
+    "conditions": {
+      "source": "monthly_climatology",
+      "basis": "10yr",
+      "siteCount": 245,
+      "span": "single",
+      "byMonth": [
+        {
+          "m": 1,
+          "tempC": 21.5,
+          "waveM": 2.3,
+          "vizM": 23,
+          "rainMm": 115,
+          "windMs": 3.3,
+          "sunnyDays": 4
+        },
+        {
+          "m": 2,
+          "tempC": 21,
+          "waveM": 2.2,
+          "vizM": 22,
+          "rainMm": 80,
+          "windMs": 3.1,
+          "sunnyDays": 4
+        },
+        {
+          "m": 3,
+          "tempC": 21,
+          "waveM": 2.2,
+          "vizM": 22,
+          "rainMm": 84,
+          "windMs": 3.3,
+          "sunnyDays": 5
+        },
+        {
+          "m": 4,
+          "tempC": 21,
+          "waveM": 1.9,
+          "vizM": 24,
+          "rainMm": 99,
+          "windMs": 2.9,
+          "sunnyDays": 5
+        },
+        {
+          "m": 5,
+          "tempC": 21.5,
+          "waveM": 1.7,
+          "vizM": 29,
+          "rainMm": 45,
+          "windMs": 3.2,
+          "sunnyDays": 8
+        },
+        {
+          "m": 6,
+          "tempC": 23,
+          "waveM": 1.4,
+          "vizM": 32,
+          "rainMm": 30,
+          "windMs": 3.6,
+          "sunnyDays": 10
+        },
+        {
+          "m": 7,
+          "tempC": 24,
+          "waveM": 1.2,
+          "vizM": 33,
+          "rainMm": 17,
+          "windMs": 4.4,
+          "sunnyDays": 12
+        },
+        {
+          "m": 8,
+          "tempC": 25,
+          "waveM": 1.3,
+          "vizM": 33,
+          "rainMm": 19,
+          "windMs": 3.2,
+          "sunnyDays": 13
+        },
+        {
+          "m": 9,
+          "tempC": 25,
+          "waveM": 1.5,
+          "vizM": 32,
+          "rainMm": 30,
+          "windMs": 2.6,
+          "sunnyDays": 11
+        },
+        {
+          "m": 10,
+          "tempC": 24.5,
+          "waveM": 2,
+          "vizM": 30,
+          "rainMm": 72,
+          "windMs": 2.5,
+          "sunnyDays": 8
+        },
+        {
+          "m": 11,
+          "tempC": 23,
+          "waveM": 2.1,
+          "vizM": 27,
+          "rainMm": 67,
+          "windMs": 3.2,
+          "sunnyDays": 7
+        },
+        {
+          "m": 12,
+          "tempC": 22,
+          "waveM": 2.4,
+          "vizM": 24,
+          "rainMm": 101,
+          "windMs": 2.8,
+          "sunnyDays": 5
+        }
+      ],
+      "windows": {
+        "warmest": [
+          7,
+          8,
+          9,
+          10
+        ],
+        "calmest": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "clearest": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "driest": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "lightestWind": [
+          4,
+          9,
+          10,
+          12
+        ],
+        "best": [
+          6,
+          7,
+          8,
+          9
+        ]
+      },
+      "generatedAt": "2026-06-10T20:55:50.761Z"
+    }
   },
   "cabo-delgado-province": {
     "children": [],
@@ -265,7 +885,157 @@
       "temperate",
       "adventure"
     ],
-    "image": "https://images.unsplash.com/photo-1464983953574-0892a716854b?w=800&h=600&fit=crop"
+    "image": "https://images.unsplash.com/photo-1464983953574-0892a716854b?w=800&h=600&fit=crop",
+    "conditions": {
+      "source": "monthly_climatology",
+      "basis": "10yr",
+      "siteCount": 294,
+      "span": "varies",
+      "byMonth": [
+        {
+          "m": 1,
+          "tempC": 19,
+          "waveM": 2.3,
+          "vizM": 17,
+          "rainMm": 51,
+          "windMs": 4,
+          "sunnyDays": 10
+        },
+        {
+          "m": 2,
+          "tempC": 18.5,
+          "waveM": 2.3,
+          "vizM": 17,
+          "rainMm": 26,
+          "windMs": 3.6,
+          "sunnyDays": 11
+        },
+        {
+          "m": 3,
+          "tempC": 18,
+          "waveM": 2.3,
+          "vizM": 18,
+          "rainMm": 34,
+          "windMs": 3.1,
+          "sunnyDays": 10
+        },
+        {
+          "m": 4,
+          "tempC": 18,
+          "waveM": 2.1,
+          "vizM": 20,
+          "rainMm": 43,
+          "windMs": 2.3,
+          "sunnyDays": 9
+        },
+        {
+          "m": 5,
+          "tempC": 18.5,
+          "waveM": 1.9,
+          "vizM": 24,
+          "rainMm": 38,
+          "windMs": 1.8,
+          "sunnyDays": 10
+        },
+        {
+          "m": 6,
+          "tempC": 19.5,
+          "waveM": 1.9,
+          "vizM": 26,
+          "rainMm": 62,
+          "windMs": 2.7,
+          "sunnyDays": 10
+        },
+        {
+          "m": 7,
+          "tempC": 20,
+          "waveM": 1.8,
+          "vizM": 27,
+          "rainMm": 52,
+          "windMs": 3.3,
+          "sunnyDays": 11
+        },
+        {
+          "m": 8,
+          "tempC": 20.5,
+          "waveM": 1.8,
+          "vizM": 27,
+          "rainMm": 43,
+          "windMs": 2.8,
+          "sunnyDays": 12
+        },
+        {
+          "m": 9,
+          "tempC": 21,
+          "waveM": 1.9,
+          "vizM": 26,
+          "rainMm": 40,
+          "windMs": 2.5,
+          "sunnyDays": 10
+        },
+        {
+          "m": 10,
+          "tempC": 20.5,
+          "waveM": 2.1,
+          "vizM": 24,
+          "rainMm": 57,
+          "windMs": 2.6,
+          "sunnyDays": 9
+        },
+        {
+          "m": 11,
+          "tempC": 20,
+          "waveM": 2.2,
+          "vizM": 21,
+          "rainMm": 52,
+          "windMs": 3.3,
+          "sunnyDays": 9
+        },
+        {
+          "m": 12,
+          "tempC": 20,
+          "waveM": 2.4,
+          "vizM": 19,
+          "rainMm": 56,
+          "windMs": 3.2,
+          "sunnyDays": 10
+        }
+      ],
+      "windows": {
+        "warmest": [
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ],
+        "calmest": [],
+        "clearest": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "driest": [
+          2,
+          3,
+          5,
+          9
+        ],
+        "lightestWind": [
+          4,
+          5,
+          9,
+          10
+        ],
+        "best": [
+          9
+        ]
+      },
+      "generatedAt": "2026-06-10T20:55:50.761Z"
+    },
+    "bestTimeAuto": "From June to August, the seas lie calmest, the water runs clearest, and the rains hold off. The water peaks at a warm 25–26°C in summer, cooling to around 20°C in winter. Conditions vary by coast."
   },
   "eastern-cape": {
     "children": [],
@@ -350,7 +1120,7 @@
       -6.369,
       34.8888
     ],
-    "bestTime": "October–March for best conditions.",
+    "bestTime": "February in Tanzania delivers calm seas and dry conditions, with warm water at 29–30°C. For extended favorable conditions, explore October through March.",
     "floraFauna": [
       "staghorn coral",
       "table coral",
@@ -368,7 +1138,156 @@
       "reefs",
       "islands"
     ],
-    "image": "https://images.unsplash.com/photo-1465101046530-73398c7f28ca?w=800&h=600&fit=crop"
+    "image": "https://images.unsplash.com/photo-1465101046530-73398c7f28ca?w=800&h=600&fit=crop",
+    "conditions": {
+      "source": "monthly_climatology",
+      "basis": "10yr",
+      "siteCount": 248,
+      "span": "single",
+      "byMonth": [
+        {
+          "m": 1,
+          "tempC": 28.5,
+          "waveM": 0.9,
+          "vizM": 12,
+          "rainMm": 61,
+          "windMs": 4.2,
+          "sunnyDays": 8
+        },
+        {
+          "m": 2,
+          "tempC": 29,
+          "waveM": 0.7,
+          "vizM": 11,
+          "rainMm": 41,
+          "windMs": 3.7,
+          "sunnyDays": 8
+        },
+        {
+          "m": 3,
+          "tempC": 29.5,
+          "waveM": 0.5,
+          "vizM": 11,
+          "rainMm": 123,
+          "windMs": 2.1,
+          "sunnyDays": 6
+        },
+        {
+          "m": 4,
+          "tempC": 29,
+          "waveM": 0.7,
+          "vizM": 12,
+          "rainMm": 331,
+          "windMs": 3.5,
+          "sunnyDays": 3
+        },
+        {
+          "m": 5,
+          "tempC": 28,
+          "waveM": 0.9,
+          "vizM": 12,
+          "rainMm": 175,
+          "windMs": 4.6,
+          "sunnyDays": 7
+        },
+        {
+          "m": 6,
+          "tempC": 27,
+          "waveM": 1.1,
+          "vizM": 13,
+          "rainMm": 57,
+          "windMs": 5,
+          "sunnyDays": 11
+        },
+        {
+          "m": 7,
+          "tempC": 26,
+          "waveM": 1.1,
+          "vizM": 12,
+          "rainMm": 32,
+          "windMs": 5,
+          "sunnyDays": 14
+        },
+        {
+          "m": 8,
+          "tempC": 25.5,
+          "waveM": 1,
+          "vizM": 12,
+          "rainMm": 27,
+          "windMs": 4.1,
+          "sunnyDays": 16
+        },
+        {
+          "m": 9,
+          "tempC": 26,
+          "waveM": 0.9,
+          "vizM": 11,
+          "rainMm": 34,
+          "windMs": 3.6,
+          "sunnyDays": 15
+        },
+        {
+          "m": 10,
+          "tempC": 27,
+          "waveM": 0.8,
+          "vizM": 12,
+          "rainMm": 82,
+          "windMs": 3.1,
+          "sunnyDays": 11
+        },
+        {
+          "m": 11,
+          "tempC": 28,
+          "waveM": 0.6,
+          "vizM": 13,
+          "rainMm": 101,
+          "windMs": 2.6,
+          "sunnyDays": 9
+        },
+        {
+          "m": 12,
+          "tempC": 29,
+          "waveM": 0.6,
+          "vizM": 13,
+          "rainMm": 96,
+          "windMs": 3.1,
+          "sunnyDays": 8
+        }
+      ],
+      "windows": {
+        "warmest": [
+          1,
+          2,
+          3,
+          4,
+          12
+        ],
+        "calmest": [
+          2,
+          3,
+          4,
+          11,
+          12
+        ],
+        "clearest": [],
+        "driest": [
+          2,
+          7,
+          8,
+          9
+        ],
+        "lightestWind": [
+          3,
+          10,
+          11,
+          12
+        ],
+        "best": [
+          2
+        ]
+      },
+      "generatedAt": "2026-06-10T20:55:50.761Z"
+    }
   },
   "dar-es-salaam-region": {
     "children": [],
@@ -549,7 +1468,7 @@
       31.7917,
       -7.0926
     ],
-    "bestTime": "May–October for best conditions.",
+    "bestTime": "From June to September, the seas calm and water clears, with temperatures rising to a mild 22–23°C. May through October provides optimal conditions overall.",
     "floraFauna": [
       "kelp forests",
       "octopus"
@@ -561,7 +1480,159 @@
       "temperate",
       "shore diving"
     ],
-    "image": "https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?w=800&h=600&fit=crop"
+    "image": "https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?w=800&h=600&fit=crop",
+    "conditions": {
+      "source": "monthly_climatology",
+      "basis": "10yr",
+      "siteCount": 9,
+      "span": "varies",
+      "byMonth": [
+        {
+          "m": 1,
+          "tempC": 16.5,
+          "waveM": 0.9,
+          "vizM": 10,
+          "rainMm": 37,
+          "windMs": 1.9,
+          "sunnyDays": 14
+        },
+        {
+          "m": 2,
+          "tempC": 16,
+          "waveM": 1,
+          "vizM": 9,
+          "rainMm": 35,
+          "windMs": 2.2,
+          "sunnyDays": 12
+        },
+        {
+          "m": 3,
+          "tempC": 16.5,
+          "waveM": 1,
+          "vizM": 9,
+          "rainMm": 65,
+          "windMs": 2.4,
+          "sunnyDays": 11
+        },
+        {
+          "m": 4,
+          "tempC": 17.5,
+          "waveM": 0.9,
+          "vizM": 10,
+          "rainMm": 41,
+          "windMs": 2,
+          "sunnyDays": 12
+        },
+        {
+          "m": 5,
+          "tempC": 18.5,
+          "waveM": 0.8,
+          "vizM": 12,
+          "rainMm": 20,
+          "windMs": 1.9,
+          "sunnyDays": 15
+        },
+        {
+          "m": 6,
+          "tempC": 20.5,
+          "waveM": 0.7,
+          "vizM": 13,
+          "rainMm": 6,
+          "windMs": 2.3,
+          "sunnyDays": 19
+        },
+        {
+          "m": 7,
+          "tempC": 22,
+          "waveM": 0.7,
+          "vizM": 13,
+          "rainMm": 1,
+          "windMs": 2.6,
+          "sunnyDays": 24
+        },
+        {
+          "m": 8,
+          "tempC": 22.5,
+          "waveM": 0.7,
+          "vizM": 13,
+          "rainMm": 4,
+          "windMs": 2.3,
+          "sunnyDays": 22
+        },
+        {
+          "m": 9,
+          "tempC": 22,
+          "waveM": 0.7,
+          "vizM": 12,
+          "rainMm": 14,
+          "windMs": 2.2,
+          "sunnyDays": 15
+        },
+        {
+          "m": 10,
+          "tempC": 20.5,
+          "waveM": 0.7,
+          "vizM": 12,
+          "rainMm": 33,
+          "windMs": 1.9,
+          "sunnyDays": 12
+        },
+        {
+          "m": 11,
+          "tempC": 19,
+          "waveM": 0.9,
+          "vizM": 11,
+          "rainMm": 39,
+          "windMs": 2.1,
+          "sunnyDays": 12
+        },
+        {
+          "m": 12,
+          "tempC": 17.5,
+          "waveM": 0.9,
+          "vizM": 10,
+          "rainMm": 43,
+          "windMs": 1.8,
+          "sunnyDays": 13
+        }
+      ],
+      "windows": {
+        "warmest": [
+          7,
+          8,
+          9
+        ],
+        "calmest": [
+          6,
+          7,
+          8,
+          9,
+          10
+        ],
+        "clearest": [
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ],
+        "driest": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "lightestWind": [],
+        "best": [
+          6,
+          7,
+          8,
+          9
+        ]
+      },
+      "generatedAt": "2026-06-10T20:55:50.761Z"
+    }
   },
   "casablanca-settat": {
     "children": [],
@@ -646,7 +1717,7 @@
       11.8251,
       42.5903
     ],
-    "bestTime": "November–February for whale sharks.",
+    "bestTime": "In the Indian Ocean, dive June to August for calm seas and dry weather. The Red Sea offers similar conditions June and August to September, with waters warming to 31–32°C. Whale sharks gather November to February.",
     "floraFauna": [
       "whale sharks",
       "staghorn coral",
@@ -661,7 +1732,162 @@
       "coral",
       "seasonal"
     ],
-    "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&h=600&fit=crop"
+    "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&h=600&fit=crop",
+    "conditions": {
+      "source": "monthly_climatology",
+      "basis": "10yr",
+      "siteCount": 63,
+      "span": "varies",
+      "byMonth": [
+        {
+          "m": 1,
+          "tempC": 27,
+          "waveM": 0.7,
+          "vizM": 16,
+          "rainMm": 65,
+          "windMs": 1,
+          "sunnyDays": 6
+        },
+        {
+          "m": 2,
+          "tempC": 26.5,
+          "waveM": 0.6,
+          "vizM": 16,
+          "rainMm": 77,
+          "windMs": 1,
+          "sunnyDays": 6
+        },
+        {
+          "m": 3,
+          "tempC": 27.5,
+          "waveM": 0.6,
+          "vizM": 15,
+          "rainMm": 79,
+          "windMs": 0.9,
+          "sunnyDays": 8
+        },
+        {
+          "m": 4,
+          "tempC": 29.5,
+          "waveM": 0.5,
+          "vizM": 19,
+          "rainMm": 71,
+          "windMs": 0.6,
+          "sunnyDays": 8
+        },
+        {
+          "m": 5,
+          "tempC": 31,
+          "waveM": 0.3,
+          "vizM": 22,
+          "rainMm": 89,
+          "windMs": 0.6,
+          "sunnyDays": 7
+        },
+        {
+          "m": 6,
+          "tempC": 32,
+          "waveM": 0.3,
+          "vizM": 23,
+          "rainMm": 46,
+          "windMs": 0.6,
+          "sunnyDays": 12
+        },
+        {
+          "m": 7,
+          "tempC": 30.5,
+          "waveM": 0.4,
+          "vizM": 24,
+          "rainMm": 30,
+          "windMs": 0.6,
+          "sunnyDays": 18
+        },
+        {
+          "m": 8,
+          "tempC": 30,
+          "waveM": 0.3,
+          "vizM": 25,
+          "rainMm": 51,
+          "windMs": 0.5,
+          "sunnyDays": 15
+        },
+        {
+          "m": 9,
+          "tempC": 31.5,
+          "waveM": 0.3,
+          "vizM": 24,
+          "rainMm": 85,
+          "windMs": 0.6,
+          "sunnyDays": 9
+        },
+        {
+          "m": 10,
+          "tempC": 31.5,
+          "waveM": 0.4,
+          "vizM": 21,
+          "rainMm": 92,
+          "windMs": 0.9,
+          "sunnyDays": 7
+        },
+        {
+          "m": 11,
+          "tempC": 29.5,
+          "waveM": 0.6,
+          "vizM": 18,
+          "rainMm": 118,
+          "windMs": 1,
+          "sunnyDays": 4
+        },
+        {
+          "m": 12,
+          "tempC": 28,
+          "waveM": 0.6,
+          "vizM": 16,
+          "rainMm": 88,
+          "windMs": 0.9,
+          "sunnyDays": 6
+        }
+      ],
+      "windows": {
+        "warmest": [
+          5,
+          6,
+          9,
+          10
+        ],
+        "calmest": [
+          5,
+          6,
+          8,
+          9
+        ],
+        "clearest": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "driest": [
+          1,
+          6,
+          7,
+          8
+        ],
+        "lightestWind": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        "best": [
+          6,
+          8
+        ]
+      },
+      "generatedAt": "2026-06-10T20:55:50.761Z"
+    }
   },
   "obock": {
     "children": [],
@@ -698,7 +1924,7 @@
       12.8628,
       30.2176
     ],
-    "bestTime": "October–June for best conditions.",
+    "bestTime": "July to August offers the calmest seas and driest months in Sudan, with water temperatures reaching a warm 31–32°C. Consider diving October to June for favorable conditions.",
     "floraFauna": [
       "hammerhead sharks",
       "whitetip reef shark",
@@ -719,7 +1945,156 @@
       "coral",
       "advanced"
     ],
-    "image": "https://images.unsplash.com/photo-1501594907352-04cda38ebc29?w=800&h=600&fit=crop"
+    "image": "https://images.unsplash.com/photo-1501594907352-04cda38ebc29?w=800&h=600&fit=crop",
+    "conditions": {
+      "source": "monthly_climatology",
+      "basis": "10yr",
+      "siteCount": 203,
+      "span": "single",
+      "byMonth": [
+        {
+          "m": 1,
+          "tempC": 26.5,
+          "waveM": 1,
+          "vizM": 19,
+          "rainMm": 27,
+          "windMs": 5.4,
+          "sunnyDays": 12
+        },
+        {
+          "m": 2,
+          "tempC": 25.5,
+          "waveM": 1,
+          "vizM": 18,
+          "rainMm": 7,
+          "windMs": 5.6,
+          "sunnyDays": 15
+        },
+        {
+          "m": 3,
+          "tempC": 26,
+          "waveM": 0.9,
+          "vizM": 19,
+          "rainMm": 2,
+          "windMs": 4.6,
+          "sunnyDays": 23
+        },
+        {
+          "m": 4,
+          "tempC": 27.5,
+          "waveM": 0.7,
+          "vizM": 20,
+          "rainMm": 2,
+          "windMs": 3.9,
+          "sunnyDays": 23
+        },
+        {
+          "m": 5,
+          "tempC": 29.5,
+          "waveM": 0.6,
+          "vizM": 20,
+          "rainMm": 1,
+          "windMs": 3,
+          "sunnyDays": 25
+        },
+        {
+          "m": 6,
+          "tempC": 30.5,
+          "waveM": 0.6,
+          "vizM": 19,
+          "rainMm": 0,
+          "windMs": 2.7,
+          "sunnyDays": 23
+        },
+        {
+          "m": 7,
+          "tempC": 31,
+          "waveM": 0.5,
+          "vizM": 19,
+          "rainMm": 0,
+          "windMs": 1.5,
+          "sunnyDays": 18
+        },
+        {
+          "m": 8,
+          "tempC": 32,
+          "waveM": 0.5,
+          "vizM": 18,
+          "rainMm": 1,
+          "windMs": 1.6,
+          "sunnyDays": 19
+        },
+        {
+          "m": 9,
+          "tempC": 32,
+          "waveM": 0.5,
+          "vizM": 21,
+          "rainMm": 2,
+          "windMs": 2.5,
+          "sunnyDays": 24
+        },
+        {
+          "m": 10,
+          "tempC": 31,
+          "waveM": 0.5,
+          "vizM": 24,
+          "rainMm": 18,
+          "windMs": 2.7,
+          "sunnyDays": 23
+        },
+        {
+          "m": 11,
+          "tempC": 30,
+          "waveM": 0.7,
+          "vizM": 22,
+          "rainMm": 49,
+          "windMs": 3.7,
+          "sunnyDays": 14
+        },
+        {
+          "m": 12,
+          "tempC": 28,
+          "waveM": 0.9,
+          "vizM": 19,
+          "rainMm": 40,
+          "windMs": 4.7,
+          "sunnyDays": 12
+        }
+      ],
+      "windows": {
+        "warmest": [
+          7,
+          8,
+          9,
+          10
+        ],
+        "calmest": [
+          7,
+          8,
+          9,
+          10
+        ],
+        "clearest": [],
+        "driest": [
+          5,
+          6,
+          7,
+          8
+        ],
+        "lightestWind": [
+          6,
+          7,
+          8,
+          9,
+          10
+        ],
+        "best": [
+          7,
+          8
+        ]
+      },
+      "generatedAt": "2026-06-10T20:55:50.761Z"
+    }
   },
   "red-sea-state": {
     "children": [],
@@ -744,7 +2119,7 @@
       -22.9576,
       18.4904
     ],
-    "bestTime": "November–April for best conditions.",
+    "bestTime": "November–April.",
     "floraFauna": [
       "kelp"
     ],
@@ -783,7 +2158,7 @@
       5.1521,
       46.1996
     ],
-    "bestTime": "October–March for best conditions.",
+    "bestTime": "October–March.",
     "floraFauna": [
       "staghorn coral",
       "table coral",
@@ -817,7 +2192,7 @@
       14.4974,
       -14.4524
     ],
-    "bestTime": "November–May for best visibility.",
+    "bestTime": "Between July and October, Senegal's waters reach their clearest, with temperatures warming to 28–29°C. For those seeking visibility, consider November to May as prime months.",
     "floraFauna": [
       "staghorn coral",
       "brain coral",
@@ -834,7 +2209,158 @@
       "temperate",
       "shore diving"
     ],
-    "image": "https://images.unsplash.com/photo-1518717758536-85ae29035b6d?w=800&h=600&fit=crop"
+    "image": "https://images.unsplash.com/photo-1518717758536-85ae29035b6d?w=800&h=600&fit=crop",
+    "conditions": {
+      "source": "monthly_climatology",
+      "basis": "10yr",
+      "siteCount": 11,
+      "span": "single",
+      "byMonth": [
+        {
+          "m": 1,
+          "tempC": 21,
+          "waveM": 1.3,
+          "vizM": 4,
+          "rainMm": 0,
+          "windMs": 5.7,
+          "sunnyDays": 12
+        },
+        {
+          "m": 2,
+          "tempC": 19,
+          "waveM": 1.4,
+          "vizM": 5,
+          "rainMm": 0,
+          "windMs": 6.5,
+          "sunnyDays": 13
+        },
+        {
+          "m": 3,
+          "tempC": 18,
+          "waveM": 1.4,
+          "vizM": 4,
+          "rainMm": 0,
+          "windMs": 6.8,
+          "sunnyDays": 19
+        },
+        {
+          "m": 4,
+          "tempC": 18.5,
+          "waveM": 1.4,
+          "vizM": 4,
+          "rainMm": 0,
+          "windMs": 6.7,
+          "sunnyDays": 20
+        },
+        {
+          "m": 5,
+          "tempC": 20.5,
+          "waveM": 1.3,
+          "vizM": 4,
+          "rainMm": 0,
+          "windMs": 5.3,
+          "sunnyDays": 19
+        },
+        {
+          "m": 6,
+          "tempC": 25,
+          "waveM": 1.2,
+          "vizM": 6,
+          "rainMm": 3,
+          "windMs": 3.6,
+          "sunnyDays": 15
+        },
+        {
+          "m": 7,
+          "tempC": 27.5,
+          "waveM": 1.2,
+          "vizM": 12,
+          "rainMm": 32,
+          "windMs": 3.4,
+          "sunnyDays": 7
+        },
+        {
+          "m": 8,
+          "tempC": 28.5,
+          "waveM": 1.2,
+          "vizM": 11,
+          "rainMm": 172,
+          "windMs": 2.8,
+          "sunnyDays": 3
+        },
+        {
+          "m": 9,
+          "tempC": 28.5,
+          "waveM": 1.1,
+          "vizM": 10,
+          "rainMm": 127,
+          "windMs": 1.8,
+          "sunnyDays": 4
+        },
+        {
+          "m": 10,
+          "tempC": 28.5,
+          "waveM": 1.1,
+          "vizM": 8,
+          "rainMm": 17,
+          "windMs": 2.7,
+          "sunnyDays": 13
+        },
+        {
+          "m": 11,
+          "tempC": 27,
+          "waveM": 1.2,
+          "vizM": 6,
+          "rainMm": 1,
+          "windMs": 4.9,
+          "sunnyDays": 10
+        },
+        {
+          "m": 12,
+          "tempC": 23.5,
+          "waveM": 1.3,
+          "vizM": 5,
+          "rainMm": 1,
+          "windMs": 5.8,
+          "sunnyDays": 11
+        }
+      ],
+      "windows": {
+        "warmest": [
+          7,
+          8,
+          9,
+          10
+        ],
+        "calmest": [],
+        "clearest": [
+          7,
+          8,
+          9,
+          10
+        ],
+        "driest": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "lightestWind": [
+          7,
+          8,
+          9,
+          10
+        ],
+        "best": [
+          7,
+          8,
+          9,
+          10
+        ]
+      },
+      "generatedAt": "2026-06-10T20:55:50.761Z"
+    }
   },
   "cape-verde": {
     "children": [],
@@ -850,7 +2376,7 @@
       16.5388,
       -23.0418
     ],
-    "bestTime": "March–November for best diving.",
+    "bestTime": "From May to July, the water runs clearest and the rains hold off. The water is warmest at 27–28°C, easing to around 23°C at its coolest.",
     "floraFauna": [
       "green sea turtle",
       "loggerhead turtle",
@@ -863,7 +2389,157 @@
       "caves",
       "adventure"
     ],
-    "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&h=600&fit=crop"
+    "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&h=600&fit=crop",
+    "conditions": {
+      "source": "monthly_climatology",
+      "basis": "10yr",
+      "siteCount": 65,
+      "span": "single",
+      "byMonth": [
+        {
+          "m": 1,
+          "tempC": 23.5,
+          "waveM": 1.7,
+          "vizM": 14,
+          "rainMm": 9,
+          "windMs": 6.1,
+          "sunnyDays": 13
+        },
+        {
+          "m": 2,
+          "tempC": 22.5,
+          "waveM": 1.7,
+          "vizM": 14,
+          "rainMm": 10,
+          "windMs": 6.5,
+          "sunnyDays": 12
+        },
+        {
+          "m": 3,
+          "tempC": 22.5,
+          "waveM": 1.6,
+          "vizM": 16,
+          "rainMm": 6,
+          "windMs": 6.3,
+          "sunnyDays": 16
+        },
+        {
+          "m": 4,
+          "tempC": 22.5,
+          "waveM": 1.6,
+          "vizM": 17,
+          "rainMm": 3,
+          "windMs": 5.9,
+          "sunnyDays": 15
+        },
+        {
+          "m": 5,
+          "tempC": 23,
+          "waveM": 1.5,
+          "vizM": 18,
+          "rainMm": 1,
+          "windMs": 6,
+          "sunnyDays": 16
+        },
+        {
+          "m": 6,
+          "tempC": 24,
+          "waveM": 1.4,
+          "vizM": 18,
+          "rainMm": 1,
+          "windMs": 5.2,
+          "sunnyDays": 19
+        },
+        {
+          "m": 7,
+          "tempC": 25,
+          "waveM": 1.3,
+          "vizM": 19,
+          "rainMm": 4,
+          "windMs": 3.7,
+          "sunnyDays": 16
+        },
+        {
+          "m": 8,
+          "tempC": 26.5,
+          "waveM": 1.2,
+          "vizM": 20,
+          "rainMm": 25,
+          "windMs": 2.9,
+          "sunnyDays": 13
+        },
+        {
+          "m": 9,
+          "tempC": 27.5,
+          "waveM": 1.3,
+          "vizM": 19,
+          "rainMm": 36,
+          "windMs": 3.7,
+          "sunnyDays": 13
+        },
+        {
+          "m": 10,
+          "tempC": 27,
+          "waveM": 1.4,
+          "vizM": 17,
+          "rainMm": 9,
+          "windMs": 4.8,
+          "sunnyDays": 15
+        },
+        {
+          "m": 11,
+          "tempC": 26,
+          "waveM": 1.5,
+          "vizM": 17,
+          "rainMm": 6,
+          "windMs": 5.3,
+          "sunnyDays": 12
+        },
+        {
+          "m": 12,
+          "tempC": 24.5,
+          "waveM": 1.6,
+          "vizM": 16,
+          "rainMm": 4,
+          "windMs": 6,
+          "sunnyDays": 13
+        }
+      ],
+      "windows": {
+        "warmest": [
+          8,
+          9,
+          10
+        ],
+        "calmest": [],
+        "clearest": [
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        "driest": [
+          4,
+          5,
+          6,
+          7,
+          12
+        ],
+        "lightestWind": [
+          7,
+          8,
+          9,
+          10
+        ],
+        "best": [
+          5,
+          6,
+          7
+        ]
+      },
+      "generatedAt": "2026-06-10T20:55:50.761Z"
+    }
   },
   "saint-helena-island": {
     "children": [],
@@ -875,7 +2551,154 @@
     "coordinates": [
       -15.916391,
       -5.720658
-    ]
+    ],
+    "conditions": {
+      "source": "monthly_climatology",
+      "basis": "10yr",
+      "siteCount": 9,
+      "span": "single",
+      "byMonth": [
+        {
+          "m": 1,
+          "tempC": 27,
+          "waveM": 1.7,
+          "vizM": 28,
+          "rainMm": 19,
+          "windMs": 6.1,
+          "sunnyDays": 11
+        },
+        {
+          "m": 2,
+          "tempC": 28,
+          "waveM": 1.7,
+          "vizM": 29,
+          "rainMm": 26,
+          "windMs": 6.1,
+          "sunnyDays": 10
+        },
+        {
+          "m": 3,
+          "tempC": 28.5,
+          "waveM": 1.8,
+          "vizM": 31,
+          "rainMm": 54,
+          "windMs": 6.1,
+          "sunnyDays": 9
+        },
+        {
+          "m": 4,
+          "tempC": 28.5,
+          "waveM": 2,
+          "vizM": 30,
+          "rainMm": 70,
+          "windMs": 6.7,
+          "sunnyDays": 8
+        },
+        {
+          "m": 5,
+          "tempC": 28,
+          "waveM": 2,
+          "vizM": 29,
+          "rainMm": 24,
+          "windMs": 7.6,
+          "sunnyDays": 11
+        },
+        {
+          "m": 6,
+          "tempC": 27.5,
+          "waveM": 2.1,
+          "vizM": 28,
+          "rainMm": 20,
+          "windMs": 7.5,
+          "sunnyDays": 11
+        },
+        {
+          "m": 7,
+          "tempC": 26,
+          "waveM": 2.1,
+          "vizM": 25,
+          "rainMm": 17,
+          "windMs": 7.6,
+          "sunnyDays": 11
+        },
+        {
+          "m": 8,
+          "tempC": 25,
+          "waveM": 2.1,
+          "vizM": 22,
+          "rainMm": 17,
+          "windMs": 7.4,
+          "sunnyDays": 11
+        },
+        {
+          "m": 9,
+          "tempC": 25,
+          "waveM": 2,
+          "vizM": 20,
+          "rainMm": 16,
+          "windMs": 7.4,
+          "sunnyDays": 10
+        },
+        {
+          "m": 10,
+          "tempC": 25,
+          "waveM": 1.9,
+          "vizM": 24,
+          "rainMm": 14,
+          "windMs": 7.3,
+          "sunnyDays": 10
+        },
+        {
+          "m": 11,
+          "tempC": 25.5,
+          "waveM": 1.9,
+          "vizM": 26,
+          "rainMm": 13,
+          "windMs": 7.3,
+          "sunnyDays": 10
+        },
+        {
+          "m": 12,
+          "tempC": 26,
+          "waveM": 1.8,
+          "vizM": 27,
+          "rainMm": 13,
+          "windMs": 7.1,
+          "sunnyDays": 11
+        }
+      ],
+      "windows": {
+        "warmest": [
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "calmest": [],
+        "clearest": [
+          2,
+          3,
+          4,
+          5
+        ],
+        "driest": [
+          9,
+          10,
+          11,
+          12
+        ],
+        "lightestWind": [],
+        "best": [
+          2,
+          3,
+          4,
+          5
+        ]
+      },
+      "generatedAt": "2026-06-10T20:55:50.761Z"
+    },
+    "bestTime": "February to May brings the clearest water, with warm temperatures of 28–29°C, perfect for exploring the underwater landscapes."
   },
   "inhaca-island": {
     "children": [],

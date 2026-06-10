@@ -9,7 +9,7 @@
       25,
       45
     ],
-    "bestTime": "March–June and September–November for best conditions.",
+    "bestTime": "March–June and September–November.",
     "floraFauna": [
       "fire coral",
       "table coral",
@@ -53,7 +53,7 @@
       26.8206,
       30.8025
     ],
-    "bestTime": "March–June and September–November for best conditions.",
+    "bestTime": "In the Red Sea, June and September offer the calmest seas and clearest water, with temperatures ranging from brisk 17°C to warmer 28°C. Along the Mediterranean coast, similar conditions prevail during June and September, with water warming to 27–28°C.",
     "floraFauna": [
       "fire coral",
       "table coral",
@@ -75,7 +75,160 @@
       "big animals",
       "iconic"
     ],
-    "image": "https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?w=800&h=600&fit=crop"
+    "image": "https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?w=800&h=600&fit=crop",
+    "conditions": {
+      "source": "monthly_climatology",
+      "basis": "10yr",
+      "siteCount": 526,
+      "span": "varies",
+      "byMonth": [
+        {
+          "m": 1,
+          "tempC": 18,
+          "waveM": 1.3,
+          "vizM": 24,
+          "rainMm": 53,
+          "windMs": 4,
+          "sunnyDays": 11
+        },
+        {
+          "m": 2,
+          "tempC": 17,
+          "waveM": 1.3,
+          "vizM": 23,
+          "rainMm": 28,
+          "windMs": 3.3,
+          "sunnyDays": 12
+        },
+        {
+          "m": 3,
+          "tempC": 17.5,
+          "waveM": 1.2,
+          "vizM": 23,
+          "rainMm": 23,
+          "windMs": 3.3,
+          "sunnyDays": 16
+        },
+        {
+          "m": 4,
+          "tempC": 18.5,
+          "waveM": 1,
+          "vizM": 25,
+          "rainMm": 9,
+          "windMs": 2.7,
+          "sunnyDays": 18
+        },
+        {
+          "m": 5,
+          "tempC": 21,
+          "waveM": 0.8,
+          "vizM": 29,
+          "rainMm": 6,
+          "windMs": 3.2,
+          "sunnyDays": 21
+        },
+        {
+          "m": 6,
+          "tempC": 24,
+          "waveM": 0.9,
+          "vizM": 32,
+          "rainMm": 2,
+          "windMs": 4.4,
+          "sunnyDays": 27
+        },
+        {
+          "m": 7,
+          "tempC": 26.5,
+          "waveM": 1,
+          "vizM": 34,
+          "rainMm": 1,
+          "windMs": 5.2,
+          "sunnyDays": 30
+        },
+        {
+          "m": 8,
+          "tempC": 27.5,
+          "waveM": 1,
+          "vizM": 34,
+          "rainMm": 1,
+          "windMs": 5,
+          "sunnyDays": 29
+        },
+        {
+          "m": 9,
+          "tempC": 26.5,
+          "waveM": 0.9,
+          "vizM": 32,
+          "rainMm": 5,
+          "windMs": 5,
+          "sunnyDays": 26
+        },
+        {
+          "m": 10,
+          "tempC": 24.5,
+          "waveM": 0.9,
+          "vizM": 30,
+          "rainMm": 15,
+          "windMs": 4,
+          "sunnyDays": 22
+        },
+        {
+          "m": 11,
+          "tempC": 22.5,
+          "waveM": 1,
+          "vizM": 27,
+          "rainMm": 29,
+          "windMs": 2.8,
+          "sunnyDays": 14
+        },
+        {
+          "m": 12,
+          "tempC": 20,
+          "waveM": 1.3,
+          "vizM": 25,
+          "rainMm": 54,
+          "windMs": 3.6,
+          "sunnyDays": 11
+        }
+      ],
+      "windows": {
+        "warmest": [
+          7,
+          8,
+          9
+        ],
+        "calmest": [
+          5,
+          6,
+          9,
+          10
+        ],
+        "clearest": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "driest": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "lightestWind": [
+          2,
+          3,
+          4,
+          5,
+          11
+        ],
+        "best": [
+          6,
+          9
+        ]
+      },
+      "generatedAt": "2026-06-10T20:55:50.761Z"
+    }
   },
   "red-sea": {
     "children": [],
@@ -88,7 +241,7 @@
       22,
       38
     ],
-    "bestTime": "March–June and September–November for best conditions.",
+    "bestTime": "March–June and September–November.",
     "floraFauna": [
       "fire coral",
       "table coral",
@@ -158,7 +311,165 @@
     "coordinates": [
       15.7668,
       40.2028
-    ]
+    ],
+    "conditions": {
+      "source": "monthly_climatology",
+      "basis": "10yr",
+      "siteCount": 45,
+      "span": "single",
+      "byMonth": [
+        {
+          "m": 1,
+          "tempC": 27.5,
+          "waveM": 0.4,
+          "vizM": 7,
+          "rainMm": 25,
+          "windMs": 2.5,
+          "sunnyDays": 16
+        },
+        {
+          "m": 2,
+          "tempC": 27,
+          "waveM": 0.4,
+          "vizM": 7,
+          "rainMm": 13,
+          "windMs": 2.2,
+          "sunnyDays": 15
+        },
+        {
+          "m": 3,
+          "tempC": 27.5,
+          "waveM": 0.4,
+          "vizM": 8,
+          "rainMm": 4,
+          "windMs": 2.2,
+          "sunnyDays": 21
+        },
+        {
+          "m": 4,
+          "tempC": 29.5,
+          "waveM": 0.3,
+          "vizM": 8,
+          "rainMm": 3,
+          "windMs": 1.9,
+          "sunnyDays": 21
+        },
+        {
+          "m": 5,
+          "tempC": 31.5,
+          "waveM": 0.2,
+          "vizM": 7,
+          "rainMm": 1,
+          "windMs": 2,
+          "sunnyDays": 21
+        },
+        {
+          "m": 6,
+          "tempC": 31.5,
+          "waveM": 0.3,
+          "vizM": 6,
+          "rainMm": 0,
+          "windMs": 2.7,
+          "sunnyDays": 18
+        },
+        {
+          "m": 7,
+          "tempC": 32.5,
+          "waveM": 0.2,
+          "vizM": 6,
+          "rainMm": 2,
+          "windMs": 1.3,
+          "sunnyDays": 12
+        },
+        {
+          "m": 8,
+          "tempC": 33,
+          "waveM": 0.2,
+          "vizM": 6,
+          "rainMm": 13,
+          "windMs": 0.6,
+          "sunnyDays": 13
+        },
+        {
+          "m": 9,
+          "tempC": 33.5,
+          "waveM": 0.2,
+          "vizM": 6,
+          "rainMm": 0,
+          "windMs": 1.9,
+          "sunnyDays": 20
+        },
+        {
+          "m": 10,
+          "tempC": 32.5,
+          "waveM": 0.2,
+          "vizM": 6,
+          "rainMm": 6,
+          "windMs": 1.9,
+          "sunnyDays": 23
+        },
+        {
+          "m": 11,
+          "tempC": 29.5,
+          "waveM": 0.4,
+          "vizM": 7,
+          "rainMm": 6,
+          "windMs": 3.5,
+          "sunnyDays": 23
+        },
+        {
+          "m": 12,
+          "tempC": 28,
+          "waveM": 0.4,
+          "vizM": 7,
+          "rainMm": 13,
+          "windMs": 3,
+          "sunnyDays": 23
+        }
+      ],
+      "windows": {
+        "warmest": [
+          7,
+          8,
+          9,
+          10
+        ],
+        "calmest": [
+          5,
+          7,
+          8,
+          9,
+          10
+        ],
+        "clearest": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          11,
+          12
+        ],
+        "driest": [
+          5,
+          6,
+          7,
+          9
+        ],
+        "lightestWind": [
+          4,
+          7,
+          8,
+          9,
+          10
+        ],
+        "best": [
+          5
+        ]
+      },
+      "generatedAt": "2026-06-10T20:55:50.761Z"
+    },
+    "bestTime": "May presents the calmest seas and clearest water, with water temperatures around a warm 27°C. A solitary month to dive when conditions align perfectly."
   },
   "northern-red-sea-region": {
     "children": [],
@@ -231,7 +542,7 @@
       29.5328,
       35.0061
     ],
-    "bestTime": "March–June and September–November for best conditions.",
+    "bestTime": "June sees Jordan's seas at their calmest, with the clearest water and driest conditions, and water temperatures ranging from 27–28°C. March–June and September–November also offer favorable diving periods.",
     "floraFauna": [
       "fire coral",
       "table coral",
@@ -250,7 +561,158 @@
       "wrecks",
       "easy"
     ],
-    "image": "https://images.unsplash.com/photo-1465101046530-73398c7f28ca?w=800&h=600&fit=crop"
+    "image": "https://images.unsplash.com/photo-1465101046530-73398c7f28ca?w=800&h=600&fit=crop",
+    "conditions": {
+      "source": "monthly_climatology",
+      "basis": "10yr",
+      "siteCount": 62,
+      "span": "single",
+      "byMonth": [
+        {
+          "m": 1,
+          "tempC": 17,
+          "waveM": 1.4,
+          "vizM": 25,
+          "rainMm": 70,
+          "windMs": 3.2,
+          "sunnyDays": 10
+        },
+        {
+          "m": 2,
+          "tempC": 16.5,
+          "waveM": 1.3,
+          "vizM": 23,
+          "rainMm": 32,
+          "windMs": 2.2,
+          "sunnyDays": 12
+        },
+        {
+          "m": 3,
+          "tempC": 16.5,
+          "waveM": 1.2,
+          "vizM": 24,
+          "rainMm": 28,
+          "windMs": 3.1,
+          "sunnyDays": 15
+        },
+        {
+          "m": 4,
+          "tempC": 18,
+          "waveM": 1,
+          "vizM": 27,
+          "rainMm": 8,
+          "windMs": 3.1,
+          "sunnyDays": 19
+        },
+        {
+          "m": 5,
+          "tempC": 20.5,
+          "waveM": 0.8,
+          "vizM": 31,
+          "rainMm": 4,
+          "windMs": 4.1,
+          "sunnyDays": 21
+        },
+        {
+          "m": 6,
+          "tempC": 24,
+          "waveM": 0.9,
+          "vizM": 34,
+          "rainMm": 1,
+          "windMs": 4.9,
+          "sunnyDays": 27
+        },
+        {
+          "m": 7,
+          "tempC": 27,
+          "waveM": 1,
+          "vizM": 35,
+          "rainMm": 0,
+          "windMs": 5.1,
+          "sunnyDays": 30
+        },
+        {
+          "m": 8,
+          "tempC": 27.5,
+          "waveM": 1,
+          "vizM": 35,
+          "rainMm": 0,
+          "windMs": 5.6,
+          "sunnyDays": 29
+        },
+        {
+          "m": 9,
+          "tempC": 26,
+          "waveM": 1,
+          "vizM": 33,
+          "rainMm": 1,
+          "windMs": 5.4,
+          "sunnyDays": 28
+        },
+        {
+          "m": 10,
+          "tempC": 24,
+          "waveM": 0.8,
+          "vizM": 31,
+          "rainMm": 15,
+          "windMs": 3.7,
+          "sunnyDays": 22
+        },
+        {
+          "m": 11,
+          "tempC": 21.5,
+          "waveM": 0.9,
+          "vizM": 29,
+          "rainMm": 35,
+          "windMs": 1.9,
+          "sunnyDays": 14
+        },
+        {
+          "m": 12,
+          "tempC": 19,
+          "waveM": 1.2,
+          "vizM": 26,
+          "rainMm": 63,
+          "windMs": 2.9,
+          "sunnyDays": 11
+        }
+      ],
+      "windows": {
+        "warmest": [
+          7,
+          8
+        ],
+        "calmest": [
+          5,
+          6,
+          10,
+          11
+        ],
+        "clearest": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "driest": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "lightestWind": [
+          2,
+          3,
+          4,
+          11,
+          12
+        ],
+        "best": [
+          6
+        ]
+      },
+      "generatedAt": "2026-06-10T20:55:50.761Z"
+    }
   },
   "aqaba": {
     "children": [],
@@ -286,7 +748,156 @@
     "coordinates": [
       28.8461,
       48.6741
-    ]
+    ],
+    "conditions": {
+      "source": "monthly_climatology",
+      "basis": "10yr",
+      "siteCount": 11,
+      "span": "single",
+      "byMonth": [
+        {
+          "m": 1,
+          "tempC": 18,
+          "waveM": 0.5,
+          "vizM": 6,
+          "rainMm": 16,
+          "windMs": 2.3,
+          "sunnyDays": 17
+        },
+        {
+          "m": 2,
+          "tempC": 17,
+          "waveM": 0.5,
+          "vizM": 6,
+          "rainMm": 12,
+          "windMs": 1.7,
+          "sunnyDays": 16
+        },
+        {
+          "m": 3,
+          "tempC": 19,
+          "waveM": 0.5,
+          "vizM": 6,
+          "rainMm": 20,
+          "windMs": 0.9,
+          "sunnyDays": 17
+        },
+        {
+          "m": 4,
+          "tempC": 22.5,
+          "waveM": 0.4,
+          "vizM": 6,
+          "rainMm": 6,
+          "windMs": 1.1,
+          "sunnyDays": 16
+        },
+        {
+          "m": 5,
+          "tempC": 27,
+          "waveM": 0.4,
+          "vizM": 6,
+          "rainMm": 2,
+          "windMs": 1.4,
+          "sunnyDays": 24
+        },
+        {
+          "m": 6,
+          "tempC": 30.5,
+          "waveM": 0.5,
+          "vizM": 6,
+          "rainMm": 0,
+          "windMs": 4,
+          "sunnyDays": 29
+        },
+        {
+          "m": 7,
+          "tempC": 32.5,
+          "waveM": 0.5,
+          "vizM": 6,
+          "rainMm": 0,
+          "windMs": 3.1,
+          "sunnyDays": 29
+        },
+        {
+          "m": 8,
+          "tempC": 33.5,
+          "waveM": 0.4,
+          "vizM": 5,
+          "rainMm": 0,
+          "windMs": 2,
+          "sunnyDays": 30
+        },
+        {
+          "m": 9,
+          "tempC": 33,
+          "waveM": 0.4,
+          "vizM": 6,
+          "rainMm": 0,
+          "windMs": 2.4,
+          "sunnyDays": 30
+        },
+        {
+          "m": 10,
+          "tempC": 30.5,
+          "waveM": 0.3,
+          "vizM": 5,
+          "rainMm": 2,
+          "windMs": 1.6,
+          "sunnyDays": 26
+        },
+        {
+          "m": 11,
+          "tempC": 26,
+          "waveM": 0.5,
+          "vizM": 5,
+          "rainMm": 34,
+          "windMs": 2,
+          "sunnyDays": 16
+        },
+        {
+          "m": 12,
+          "tempC": 21,
+          "waveM": 0.5,
+          "vizM": 6,
+          "rainMm": 25,
+          "windMs": 2.4,
+          "sunnyDays": 15
+        }
+      ],
+      "windows": {
+        "warmest": [
+          7,
+          8,
+          9
+        ],
+        "calmest": [
+          4,
+          5,
+          8,
+          9,
+          10
+        ],
+        "clearest": [],
+        "driest": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "lightestWind": [
+          3,
+          4,
+          5,
+          10
+        ],
+        "best": [
+          8,
+          9
+        ]
+      },
+      "generatedAt": "2026-06-10T20:55:50.761Z"
+    },
+    "bestTime": "August to September offers the calmest seas and driest months in Kuwait, with water temperatures soaring to a warm 33–34°C."
   },
   "oman": {
     "children": [],
@@ -301,7 +912,165 @@
     "coordinates": [
       21.4735,
       55.9754
-    ]
+    ],
+    "conditions": {
+      "source": "monthly_climatology",
+      "basis": "10yr",
+      "siteCount": 88,
+      "span": "varies",
+      "byMonth": [
+        {
+          "m": 1,
+          "tempC": 22.5,
+          "waveM": 0.5,
+          "vizM": 8,
+          "rainMm": 22,
+          "windMs": 1.5,
+          "sunnyDays": 19
+        },
+        {
+          "m": 2,
+          "tempC": 22,
+          "waveM": 0.5,
+          "vizM": 6,
+          "rainMm": 12,
+          "windMs": 1.3,
+          "sunnyDays": 17
+        },
+        {
+          "m": 3,
+          "tempC": 23,
+          "waveM": 0.4,
+          "vizM": 6,
+          "rainMm": 13,
+          "windMs": 1.3,
+          "sunnyDays": 20
+        },
+        {
+          "m": 4,
+          "tempC": 25,
+          "waveM": 0.4,
+          "vizM": 9,
+          "rainMm": 8,
+          "windMs": 1.3,
+          "sunnyDays": 19
+        },
+        {
+          "m": 5,
+          "tempC": 27.5,
+          "waveM": 0.4,
+          "vizM": 13,
+          "rainMm": 20,
+          "windMs": 1.3,
+          "sunnyDays": 23
+        },
+        {
+          "m": 6,
+          "tempC": 29.5,
+          "waveM": 0.7,
+          "vizM": 13,
+          "rainMm": 9,
+          "windMs": 1.9,
+          "sunnyDays": 21
+        },
+        {
+          "m": 7,
+          "tempC": 29,
+          "waveM": 0.7,
+          "vizM": 11,
+          "rainMm": 20,
+          "windMs": 3,
+          "sunnyDays": 16
+        },
+        {
+          "m": 8,
+          "tempC": 28.5,
+          "waveM": 0.7,
+          "vizM": 9,
+          "rainMm": 11,
+          "windMs": 2.9,
+          "sunnyDays": 17
+        },
+        {
+          "m": 9,
+          "tempC": 28.5,
+          "waveM": 0.5,
+          "vizM": 10,
+          "rainMm": 9,
+          "windMs": 2.1,
+          "sunnyDays": 21
+        },
+        {
+          "m": 10,
+          "tempC": 28,
+          "waveM": 0.4,
+          "vizM": 12,
+          "rainMm": 20,
+          "windMs": 1.3,
+          "sunnyDays": 23
+        },
+        {
+          "m": 11,
+          "tempC": 26,
+          "waveM": 0.5,
+          "vizM": 11,
+          "rainMm": 14,
+          "windMs": 1.2,
+          "sunnyDays": 22
+        },
+        {
+          "m": 12,
+          "tempC": 24,
+          "waveM": 0.5,
+          "vizM": 10,
+          "rainMm": 20,
+          "windMs": 1.2,
+          "sunnyDays": 20
+        }
+      ],
+      "windows": {
+        "warmest": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "calmest": [
+          3,
+          4,
+          5,
+          10
+        ],
+        "clearest": [
+          5,
+          6,
+          7,
+          10,
+          11
+        ],
+        "driest": [
+          4,
+          6,
+          8,
+          9
+        ],
+        "lightestWind": [
+          2,
+          3,
+          4,
+          5,
+          10,
+          11,
+          12
+        ],
+        "best": [
+          5,
+          10
+        ]
+      },
+      "generatedAt": "2026-06-10T20:55:50.761Z"
+    },
+    "bestTime": "Dive the Arabian Sea in May or October to November for calmest seas and clearest water; in the Persian Gulf, similar conditions prevail in May and September to October."
   },
   "al-batinah-north-governorate": {
     "children": [],
@@ -361,7 +1130,171 @@
     "coordinates": [
       24.8431,
       51.5079
-    ]
+    ],
+    "conditions": {
+      "source": "monthly_climatology",
+      "basis": "10yr",
+      "siteCount": 4,
+      "span": "single",
+      "byMonth": [
+        {
+          "m": 1,
+          "tempC": 20.5,
+          "waveM": 0.3,
+          "vizM": 10,
+          "rainMm": 6,
+          "windMs": 2.4,
+          "sunnyDays": 21
+        },
+        {
+          "m": 2,
+          "tempC": 19.5,
+          "waveM": 0.3,
+          "vizM": 12,
+          "rainMm": 7,
+          "windMs": 2.5,
+          "sunnyDays": 18
+        },
+        {
+          "m": 3,
+          "tempC": 21.5,
+          "waveM": 0.3,
+          "vizM": 13,
+          "rainMm": 5,
+          "windMs": 2.1,
+          "sunnyDays": 20
+        },
+        {
+          "m": 4,
+          "tempC": 25,
+          "waveM": 0.3,
+          "vizM": 11,
+          "rainMm": 5,
+          "windMs": 1.8,
+          "sunnyDays": 18
+        },
+        {
+          "m": 5,
+          "tempC": 29,
+          "waveM": 0.3,
+          "vizM": 10,
+          "rainMm": 2,
+          "windMs": 2.1,
+          "sunnyDays": 25
+        },
+        {
+          "m": 6,
+          "tempC": 31.5,
+          "waveM": 0.3,
+          "vizM": 9,
+          "rainMm": 0,
+          "windMs": 3,
+          "sunnyDays": 28
+        },
+        {
+          "m": 7,
+          "tempC": 33.5,
+          "waveM": 0.3,
+          "vizM": 8,
+          "rainMm": 0,
+          "windMs": 2.2,
+          "sunnyDays": 23
+        },
+        {
+          "m": 8,
+          "tempC": 35,
+          "waveM": 0.2,
+          "vizM": 7,
+          "rainMm": 0,
+          "windMs": 2.2,
+          "sunnyDays": 24
+        },
+        {
+          "m": 9,
+          "tempC": 34.5,
+          "waveM": 0.2,
+          "vizM": 7,
+          "rainMm": 0,
+          "windMs": 1.8,
+          "sunnyDays": 28
+        },
+        {
+          "m": 10,
+          "tempC": 31.5,
+          "waveM": 0.2,
+          "vizM": 7,
+          "rainMm": 1,
+          "windMs": 1.9,
+          "sunnyDays": 28
+        },
+        {
+          "m": 11,
+          "tempC": 28,
+          "waveM": 0.3,
+          "vizM": 7,
+          "rainMm": 5,
+          "windMs": 1.9,
+          "sunnyDays": 22
+        },
+        {
+          "m": 12,
+          "tempC": 23.5,
+          "waveM": 0.3,
+          "vizM": 8,
+          "rainMm": 9,
+          "windMs": 2.5,
+          "sunnyDays": 19
+        }
+      ],
+      "windows": {
+        "warmest": [
+          8,
+          9
+        ],
+        "calmest": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ],
+        "clearest": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "driest": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "lightestWind": [
+          4,
+          9,
+          10,
+          11
+        ],
+        "best": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ]
+      },
+      "generatedAt": "2026-06-10T20:55:50.761Z"
+    },
+    "bestTime": "From January to May, enjoy the clearest waters and calmest seas, with water temperatures around a brisk 20°C early in the year."
   },
   "saudi-arabia": {
     "children": [],
@@ -376,7 +1309,163 @@
     "coordinates": [
       23.8859,
       45.0792
-    ]
+    ],
+    "conditions": {
+      "source": "monthly_climatology",
+      "basis": "10yr",
+      "siteCount": 198,
+      "span": "varies",
+      "byMonth": [
+        {
+          "m": 1,
+          "tempC": 24,
+          "waveM": 0.5,
+          "vizM": 12,
+          "rainMm": 82,
+          "windMs": 1.9,
+          "sunnyDays": 11
+        },
+        {
+          "m": 2,
+          "tempC": 23,
+          "waveM": 0.5,
+          "vizM": 12,
+          "rainMm": 55,
+          "windMs": 1.6,
+          "sunnyDays": 11
+        },
+        {
+          "m": 3,
+          "tempC": 23.5,
+          "waveM": 0.5,
+          "vizM": 12,
+          "rainMm": 57,
+          "windMs": 1.7,
+          "sunnyDays": 13
+        },
+        {
+          "m": 4,
+          "tempC": 25,
+          "waveM": 0.4,
+          "vizM": 12,
+          "rainMm": 38,
+          "windMs": 1.5,
+          "sunnyDays": 14
+        },
+        {
+          "m": 5,
+          "tempC": 27,
+          "waveM": 0.3,
+          "vizM": 13,
+          "rainMm": 40,
+          "windMs": 1.7,
+          "sunnyDays": 15
+        },
+        {
+          "m": 6,
+          "tempC": 28.5,
+          "waveM": 0.4,
+          "vizM": 13,
+          "rainMm": 30,
+          "windMs": 2.3,
+          "sunnyDays": 18
+        },
+        {
+          "m": 7,
+          "tempC": 30,
+          "waveM": 0.4,
+          "vizM": 14,
+          "rainMm": 16,
+          "windMs": 2.7,
+          "sunnyDays": 21
+        },
+        {
+          "m": 8,
+          "tempC": 30.5,
+          "waveM": 0.4,
+          "vizM": 14,
+          "rainMm": 22,
+          "windMs": 2.6,
+          "sunnyDays": 21
+        },
+        {
+          "m": 9,
+          "tempC": 30,
+          "waveM": 0.4,
+          "vizM": 14,
+          "rainMm": 48,
+          "windMs": 2.2,
+          "sunnyDays": 17
+        },
+        {
+          "m": 10,
+          "tempC": 29.5,
+          "waveM": 0.4,
+          "vizM": 13,
+          "rainMm": 41,
+          "windMs": 1.6,
+          "sunnyDays": 16
+        },
+        {
+          "m": 11,
+          "tempC": 27.5,
+          "waveM": 0.4,
+          "vizM": 12,
+          "rainMm": 78,
+          "windMs": 2,
+          "sunnyDays": 12
+        },
+        {
+          "m": 12,
+          "tempC": 25.5,
+          "waveM": 0.5,
+          "vizM": 12,
+          "rainMm": 77,
+          "windMs": 1.9,
+          "sunnyDays": 11
+        }
+      ],
+      "windows": {
+        "warmest": [
+          7,
+          8,
+          9,
+          10
+        ],
+        "calmest": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11
+        ],
+        "clearest": [],
+        "driest": [
+          4,
+          6,
+          7,
+          8
+        ],
+        "lightestWind": [
+          2,
+          3,
+          4,
+          5,
+          10
+        ],
+        "best": [
+          4,
+          6,
+          7,
+          8
+        ]
+      },
+      "generatedAt": "2026-06-10T20:55:50.761Z"
+    },
+    "bestTime": "In the north, April and June to August bring dry spells, while in the south, May offers the calmest seas and clearest water, with warm dives at 32–33°C."
   },
   "al-madinah-province": {
     "children": [],
@@ -451,7 +1540,160 @@
     "coordinates": [
       15.5527,
       48.5164
-    ]
+    ],
+    "conditions": {
+      "source": "monthly_climatology",
+      "basis": "10yr",
+      "siteCount": 39,
+      "span": "single",
+      "byMonth": [
+        {
+          "m": 1,
+          "tempC": 25.5,
+          "waveM": 1,
+          "vizM": 15,
+          "rainMm": 4,
+          "windMs": 5.6,
+          "sunnyDays": 15
+        },
+        {
+          "m": 2,
+          "tempC": 26,
+          "waveM": 0.8,
+          "vizM": 13,
+          "rainMm": 2,
+          "windMs": 4.6,
+          "sunnyDays": 17
+        },
+        {
+          "m": 3,
+          "tempC": 27.5,
+          "waveM": 0.6,
+          "vizM": 17,
+          "rainMm": 5,
+          "windMs": 3.4,
+          "sunnyDays": 22
+        },
+        {
+          "m": 4,
+          "tempC": 29.5,
+          "waveM": 0.6,
+          "vizM": 22,
+          "rainMm": 5,
+          "windMs": 2.6,
+          "sunnyDays": 21
+        },
+        {
+          "m": 5,
+          "tempC": 30,
+          "waveM": 1.2,
+          "vizM": 24,
+          "rainMm": 62,
+          "windMs": 4.1,
+          "sunnyDays": 13
+        },
+        {
+          "m": 6,
+          "tempC": 28,
+          "waveM": 2.4,
+          "vizM": 16,
+          "rainMm": 11,
+          "windMs": 9.4,
+          "sunnyDays": 10
+        },
+        {
+          "m": 7,
+          "tempC": 25.5,
+          "waveM": 2.9,
+          "vizM": 8,
+          "rainMm": 1,
+          "windMs": 11.5,
+          "sunnyDays": 11
+        },
+        {
+          "m": 8,
+          "tempC": 25,
+          "waveM": 2.5,
+          "vizM": 9,
+          "rainMm": 4,
+          "windMs": 10.1,
+          "sunnyDays": 15
+        },
+        {
+          "m": 9,
+          "tempC": 25.5,
+          "waveM": 1.7,
+          "vizM": 9,
+          "rainMm": 15,
+          "windMs": 7.2,
+          "sunnyDays": 14
+        },
+        {
+          "m": 10,
+          "tempC": 27.5,
+          "waveM": 0.9,
+          "vizM": 10,
+          "rainMm": 35,
+          "windMs": 1.6,
+          "sunnyDays": 14
+        },
+        {
+          "m": 11,
+          "tempC": 27.5,
+          "waveM": 0.9,
+          "vizM": 14,
+          "rainMm": 33,
+          "windMs": 4.5,
+          "sunnyDays": 15
+        },
+        {
+          "m": 12,
+          "tempC": 26.5,
+          "waveM": 1.2,
+          "vizM": 14,
+          "rainMm": 31,
+          "windMs": 5.9,
+          "sunnyDays": 14
+        }
+      ],
+      "windows": {
+        "warmest": [
+          4,
+          5
+        ],
+        "calmest": [
+          2,
+          3,
+          4,
+          10,
+          11
+        ],
+        "clearest": [
+          3,
+          4,
+          5,
+          6
+        ],
+        "driest": [
+          1,
+          2,
+          7,
+          8
+        ],
+        "lightestWind": [
+          3,
+          4,
+          5,
+          10
+        ],
+        "best": [
+          3,
+          4
+        ]
+      },
+      "generatedAt": "2026-06-10T20:55:50.761Z"
+    },
+    "bestTime": "March to April in Yemen features the calmest seas and clearest water, with water temperatures ranging from a pleasant 25°C to a warm 30°C."
   },
   "socotra": {
     "children": [],
@@ -475,7 +1717,168 @@
     "coordinates": [
       26.850416,
       56.292572
-    ]
+    ],
+    "conditions": {
+      "source": "monthly_climatology",
+      "basis": "10yr",
+      "siteCount": 7,
+      "span": "single",
+      "byMonth": [
+        {
+          "m": 1,
+          "tempC": 23.5,
+          "waveM": 0.4,
+          "vizM": 4,
+          "rainMm": 61,
+          "windMs": 1.9,
+          "sunnyDays": 1
+        },
+        {
+          "m": 2,
+          "tempC": 22.5,
+          "waveM": 0.5,
+          "vizM": 3,
+          "rainMm": 46,
+          "windMs": 2,
+          "sunnyDays": 2
+        },
+        {
+          "m": 3,
+          "tempC": 23.5,
+          "waveM": 0.5,
+          "vizM": 2,
+          "rainMm": 44,
+          "windMs": 1.5,
+          "sunnyDays": 5
+        },
+        {
+          "m": 4,
+          "tempC": 25.5,
+          "waveM": 0.4,
+          "vizM": 2,
+          "rainMm": 52,
+          "windMs": 1.4,
+          "sunnyDays": 7
+        },
+        {
+          "m": 5,
+          "tempC": 28.5,
+          "waveM": 0.4,
+          "vizM": 2,
+          "rainMm": 66,
+          "windMs": 1.2,
+          "sunnyDays": 8
+        },
+        {
+          "m": 6,
+          "tempC": 31,
+          "waveM": 0.4,
+          "vizM": 2,
+          "rainMm": 72,
+          "windMs": 1.2,
+          "sunnyDays": 6
+        },
+        {
+          "m": 7,
+          "tempC": 33,
+          "waveM": 0.4,
+          "vizM": 2,
+          "rainMm": 110,
+          "windMs": 1.3,
+          "sunnyDays": 5
+        },
+        {
+          "m": 8,
+          "tempC": 33.5,
+          "waveM": 0.3,
+          "vizM": 2,
+          "rainMm": 86,
+          "windMs": 1.1,
+          "sunnyDays": 6
+        },
+        {
+          "m": 9,
+          "tempC": 32.5,
+          "waveM": 0.3,
+          "vizM": 3,
+          "rainMm": 53,
+          "windMs": 1.3,
+          "sunnyDays": 6
+        },
+        {
+          "m": 10,
+          "tempC": 31.5,
+          "waveM": 0.3,
+          "vizM": 3,
+          "rainMm": 73,
+          "windMs": 1.9,
+          "sunnyDays": 3
+        },
+        {
+          "m": 11,
+          "tempC": 28.5,
+          "waveM": 0.4,
+          "vizM": 3,
+          "rainMm": 57,
+          "windMs": 2,
+          "sunnyDays": 1
+        },
+        {
+          "m": 12,
+          "tempC": 25.5,
+          "waveM": 0.4,
+          "vizM": 8,
+          "rainMm": 62,
+          "windMs": 2.1,
+          "sunnyDays": 1
+        }
+      ],
+      "windows": {
+        "warmest": [
+          7,
+          8,
+          9
+        ],
+        "calmest": [
+          1,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ],
+        "clearest": [
+          1,
+          2,
+          9,
+          10,
+          11,
+          12
+        ],
+        "driest": [
+          2,
+          3,
+          4,
+          9
+        ],
+        "lightestWind": [
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        "best": [
+          9
+        ]
+      },
+      "generatedAt": "2026-06-10T20:55:50.761Z"
+    },
+    "bestTime": "In September, Iran's seas calm, visibility clears, and conditions dry, with water temperatures ranging from a warm 33–34°C."
   },
   "united-arab-emirates": {
     "children": [],
@@ -487,7 +1890,172 @@
     "coordinates": [
       25.958045,
       55.224152
-    ]
+    ],
+    "conditions": {
+      "source": "monthly_climatology",
+      "basis": "10yr",
+      "siteCount": 55,
+      "span": "single",
+      "byMonth": [
+        {
+          "m": 1,
+          "tempC": 23,
+          "waveM": 0.5,
+          "vizM": 4,
+          "rainMm": 63,
+          "windMs": 1.9,
+          "sunnyDays": 2
+        },
+        {
+          "m": 2,
+          "tempC": 22.5,
+          "waveM": 0.5,
+          "vizM": 3,
+          "rainMm": 49,
+          "windMs": 1.9,
+          "sunnyDays": 3
+        },
+        {
+          "m": 3,
+          "tempC": 24,
+          "waveM": 0.5,
+          "vizM": 2,
+          "rainMm": 42,
+          "windMs": 1.5,
+          "sunnyDays": 6
+        },
+        {
+          "m": 4,
+          "tempC": 26.5,
+          "waveM": 0.4,
+          "vizM": 2,
+          "rainMm": 50,
+          "windMs": 1.3,
+          "sunnyDays": 7
+        },
+        {
+          "m": 5,
+          "tempC": 29.5,
+          "waveM": 0.4,
+          "vizM": 2,
+          "rainMm": 61,
+          "windMs": 1.1,
+          "sunnyDays": 9
+        },
+        {
+          "m": 6,
+          "tempC": 32.5,
+          "waveM": 0.4,
+          "vizM": 3,
+          "rainMm": 67,
+          "windMs": 1.1,
+          "sunnyDays": 7
+        },
+        {
+          "m": 7,
+          "tempC": 33.5,
+          "waveM": 0.4,
+          "vizM": 3,
+          "rainMm": 107,
+          "windMs": 1.3,
+          "sunnyDays": 5
+        },
+        {
+          "m": 8,
+          "tempC": 33.5,
+          "waveM": 0.3,
+          "vizM": 3,
+          "rainMm": 86,
+          "windMs": 1.1,
+          "sunnyDays": 7
+        },
+        {
+          "m": 9,
+          "tempC": 33,
+          "waveM": 0.3,
+          "vizM": 3,
+          "rainMm": 49,
+          "windMs": 1.3,
+          "sunnyDays": 7
+        },
+        {
+          "m": 10,
+          "tempC": 31.5,
+          "waveM": 0.3,
+          "vizM": 3,
+          "rainMm": 72,
+          "windMs": 1.8,
+          "sunnyDays": 4
+        },
+        {
+          "m": 11,
+          "tempC": 28.5,
+          "waveM": 0.4,
+          "vizM": 3,
+          "rainMm": 56,
+          "windMs": 1.9,
+          "sunnyDays": 2
+        },
+        {
+          "m": 12,
+          "tempC": 25.5,
+          "waveM": 0.4,
+          "vizM": 7,
+          "rainMm": 60,
+          "windMs": 2,
+          "sunnyDays": 1
+        }
+      ],
+      "windows": {
+        "warmest": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "calmest": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ],
+        "clearest": [
+          1,
+          2,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ],
+        "driest": [
+          2,
+          3,
+          4,
+          9
+        ],
+        "lightestWind": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        "best": [
+          9
+        ]
+      },
+      "generatedAt": "2026-06-10T20:55:50.761Z"
+    },
+    "bestTime": "September presents calmest seas and clearest water, with warm temperatures peaking at 33–34°C."
   },
   "pakistan": {
     "children": [],
@@ -499,7 +2067,163 @@
     "coordinates": [
       24.894689,
       66.620686
-    ]
+    ],
+    "conditions": {
+      "source": "monthly_climatology",
+      "basis": "10yr",
+      "siteCount": 6,
+      "span": "single",
+      "byMonth": [
+        {
+          "m": 1,
+          "tempC": 23,
+          "waveM": 0.5,
+          "vizM": 5,
+          "rainMm": 47,
+          "windMs": 1.1,
+          "sunnyDays": 2
+        },
+        {
+          "m": 2,
+          "tempC": 23,
+          "waveM": 0.6,
+          "vizM": 5,
+          "rainMm": 43,
+          "windMs": 1.1,
+          "sunnyDays": 2
+        },
+        {
+          "m": 3,
+          "tempC": 25,
+          "waveM": 0.7,
+          "vizM": 6,
+          "rainMm": 37,
+          "windMs": 1.1,
+          "sunnyDays": 5
+        },
+        {
+          "m": 4,
+          "tempC": 27,
+          "waveM": 1,
+          "vizM": 8,
+          "rainMm": 41,
+          "windMs": 0.8,
+          "sunnyDays": 6
+        },
+        {
+          "m": 5,
+          "tempC": 29,
+          "waveM": 1.4,
+          "vizM": 17,
+          "rainMm": 43,
+          "windMs": 0.9,
+          "sunnyDays": 6
+        },
+        {
+          "m": 6,
+          "tempC": 29.5,
+          "waveM": 2.1,
+          "vizM": 11,
+          "rainMm": 76,
+          "windMs": 0.8,
+          "sunnyDays": 5
+        },
+        {
+          "m": 7,
+          "tempC": 29.5,
+          "waveM": 2.4,
+          "vizM": 8,
+          "rainMm": 85,
+          "windMs": 0.8,
+          "sunnyDays": 5
+        },
+        {
+          "m": 8,
+          "tempC": 28,
+          "waveM": 2,
+          "vizM": 10,
+          "rainMm": 99,
+          "windMs": 1.1,
+          "sunnyDays": 3
+        },
+        {
+          "m": 9,
+          "tempC": 28,
+          "waveM": 1.3,
+          "vizM": 10,
+          "rainMm": 74,
+          "windMs": 1.2,
+          "sunnyDays": 3
+        },
+        {
+          "m": 10,
+          "tempC": 28.5,
+          "waveM": 0.7,
+          "vizM": 6,
+          "rainMm": 77,
+          "windMs": 1.2,
+          "sunnyDays": 3
+        },
+        {
+          "m": 11,
+          "tempC": 27,
+          "waveM": 0.5,
+          "vizM": 5,
+          "rainMm": 54,
+          "windMs": 1.1,
+          "sunnyDays": 2
+        },
+        {
+          "m": 12,
+          "tempC": 24.5,
+          "waveM": 0.5,
+          "vizM": 5,
+          "rainMm": 58,
+          "windMs": 1.1,
+          "sunnyDays": 2
+        }
+      ],
+      "windows": {
+        "warmest": [
+          5,
+          6,
+          7,
+          10
+        ],
+        "calmest": [
+          1,
+          2,
+          11,
+          12
+        ],
+        "clearest": [
+          5,
+          6,
+          8,
+          9
+        ],
+        "driest": [
+          2,
+          3,
+          4,
+          5
+        ],
+        "lightestWind": [
+          4,
+          5,
+          6,
+          7
+        ],
+        "best": [
+          1,
+          2,
+          11,
+          12
+        ]
+      },
+      "generatedAt": "2026-06-10T20:55:50.761Z"
+    },
+    "bestTime": "November to February calms the seas around Pakistan, with water temperatures dropping to a brisk 23°C."
   },
   "iraq": {
     "children": [],

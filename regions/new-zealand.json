@@ -9,7 +9,7 @@
       -40.9006,
       174.886
     ],
-    "bestTime": "December–May for best conditions.",
+    "bestTime": "January to July offers the clearest water for diving, with temperatures ranging between a brisk 14°C and a mild 20°C. The December to May period also sees excellent conditions.",
     "floraFauna": [
       "kelp forests",
       "stingrays",
@@ -25,7 +25,158 @@
       "cold",
       "adventure"
     ],
-    "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&h=600&fit=crop"
+    "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&h=600&fit=crop",
+    "conditions": {
+      "source": "monthly_climatology",
+      "basis": "10yr",
+      "siteCount": 219,
+      "span": "single",
+      "byMonth": [
+        {
+          "m": 1,
+          "tempC": 19,
+          "waveM": 1.2,
+          "vizM": 15,
+          "rainMm": 84,
+          "windMs": 2.4,
+          "sunnyDays": 8
+        },
+        {
+          "m": 2,
+          "tempC": 20,
+          "waveM": 1.3,
+          "vizM": 16,
+          "rainMm": 94,
+          "windMs": 1.8,
+          "sunnyDays": 6
+        },
+        {
+          "m": 3,
+          "tempC": 19.5,
+          "waveM": 1.3,
+          "vizM": 16,
+          "rainMm": 73,
+          "windMs": 1.8,
+          "sunnyDays": 7
+        },
+        {
+          "m": 4,
+          "tempC": 18.5,
+          "waveM": 1.3,
+          "vizM": 14,
+          "rainMm": 112,
+          "windMs": 1.9,
+          "sunnyDays": 6
+        },
+        {
+          "m": 5,
+          "tempC": 17,
+          "waveM": 1.4,
+          "vizM": 14,
+          "rainMm": 101,
+          "windMs": 2.4,
+          "sunnyDays": 7
+        },
+        {
+          "m": 6,
+          "tempC": 15.5,
+          "waveM": 1.4,
+          "vizM": 14,
+          "rainMm": 115,
+          "windMs": 1.6,
+          "sunnyDays": 5
+        },
+        {
+          "m": 7,
+          "tempC": 14.5,
+          "waveM": 1.5,
+          "vizM": 14,
+          "rainMm": 127,
+          "windMs": 2.4,
+          "sunnyDays": 6
+        },
+        {
+          "m": 8,
+          "tempC": 14,
+          "waveM": 1.4,
+          "vizM": 13,
+          "rainMm": 99,
+          "windMs": 2.4,
+          "sunnyDays": 6
+        },
+        {
+          "m": 9,
+          "tempC": 14,
+          "waveM": 1.3,
+          "vizM": 12,
+          "rainMm": 98,
+          "windMs": 2.8,
+          "sunnyDays": 6
+        },
+        {
+          "m": 10,
+          "tempC": 15,
+          "waveM": 1.2,
+          "vizM": 11,
+          "rainMm": 89,
+          "windMs": 2.5,
+          "sunnyDays": 6
+        },
+        {
+          "m": 11,
+          "tempC": 16.5,
+          "waveM": 1.2,
+          "vizM": 12,
+          "rainMm": 89,
+          "windMs": 2,
+          "sunnyDays": 6
+        },
+        {
+          "m": 12,
+          "tempC": 18,
+          "waveM": 1.2,
+          "vizM": 13,
+          "rainMm": 77,
+          "windMs": 1.9,
+          "sunnyDays": 7
+        }
+      ],
+      "windows": {
+        "warmest": [
+          1,
+          2,
+          3
+        ],
+        "calmest": [],
+        "clearest": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "driest": [],
+        "lightestWind": [
+          2,
+          3,
+          4,
+          6,
+          12
+        ],
+        "best": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ]
+      },
+      "generatedAt": "2026-06-10T20:55:50.761Z"
+    }
   },
   "auckland": {
     "children": [],
@@ -110,7 +261,7 @@
       -41.2865,
       174.7762
     ],
-    "bestTime": "December–May for best conditions.",
+    "bestTime": "December–May.",
     "floraFauna": [
       "kelp forests",
       "nudibranchs",
@@ -136,7 +287,7 @@
       -35.4833,
       174.7333
     ],
-    "bestTime": "December–May for best conditions.",
+    "bestTime": "December–May.",
     "floraFauna": [
       "kelp forests",
       "stingrays",
@@ -162,7 +313,7 @@
       -35.2167,
       174.1167
     ],
-    "bestTime": "December–May for best conditions.",
+    "bestTime": "December–May.",
     "floraFauna": [
       "kelp forests",
       "stingrays",
@@ -189,7 +340,7 @@
       -45.417,
       167.716
     ],
-    "bestTime": "December–May for best conditions.",
+    "bestTime": "December–May.",
     "floraFauna": [
       "black corals",
       "kelp forests",
@@ -214,7 +365,7 @@
       -37.52,
       177.18
     ],
-    "bestTime": "December–May for best conditions.",
+    "bestTime": "December–May.",
     "floraFauna": [
       "kelp forests",
       "nudibranchs",
@@ -239,7 +390,7 @@
       -47,
       168.1
     ],
-    "bestTime": "December–May for best conditions.",
+    "bestTime": "December–May.",
     "floraFauna": [
       "kelp forests",
       "nudibranchs",
@@ -264,7 +415,7 @@
       -36.275,
       174.8
     ],
-    "bestTime": "December–May for best conditions.",
+    "bestTime": "December–May.",
     "floraFauna": [
       "kelp forests",
       "stingrays",
