@@ -20,109 +20,157 @@
           "m": 1,
           "tempC": 15.5,
           "waveM": 0.6,
-          "vizM": 15,
+          "vizM": 12,
           "rainMm": 163,
           "windMs": 1.3,
-          "sunnyDays": 6
+          "sunnyDays": 11,
+          "vizMinM": 12,
+          "vizMaxM": 15,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 2,
           "tempC": 15,
           "waveM": 0.6,
-          "vizM": 16,
+          "vizM": 12,
           "rainMm": 114,
           "windMs": 1.4,
-          "sunnyDays": 7
+          "sunnyDays": 9,
+          "vizMinM": 10,
+          "vizMaxM": 12,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 3,
           "tempC": 15,
           "waveM": 0.5,
-          "vizM": 16,
+          "vizM": 11,
           "rainMm": 116,
           "windMs": 1.2,
-          "sunnyDays": 8
+          "sunnyDays": 12,
+          "vizMinM": 9,
+          "vizMaxM": 12,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 4,
           "tempC": 16.5,
           "waveM": 0.5,
-          "vizM": 18,
+          "vizM": 11,
           "rainMm": 69,
           "windMs": 0.5,
-          "sunnyDays": 9
+          "sunnyDays": 13,
+          "vizMinM": 10,
+          "vizMaxM": 17,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 5,
           "tempC": 19.5,
           "waveM": 0.4,
-          "vizM": 20,
+          "vizM": 14,
           "rainMm": 72,
           "windMs": 0.6,
-          "sunnyDays": 9
+          "sunnyDays": 15,
+          "vizMinM": 11,
+          "vizMaxM": 17,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 6,
           "tempC": 23.5,
           "waveM": 0.3,
-          "vizM": 20,
+          "vizM": 13,
           "rainMm": 32,
           "windMs": 1,
-          "sunnyDays": 16
+          "sunnyDays": 21,
+          "vizMinM": 10,
+          "vizMaxM": 17,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 7,
           "tempC": 25,
           "waveM": 0.3,
-          "vizM": 20,
+          "vizM": 14,
           "rainMm": 16,
           "windMs": 1.8,
-          "sunnyDays": 25
+          "sunnyDays": 29,
+          "vizMinM": 10,
+          "vizMaxM": 17,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 8,
           "tempC": 26,
           "waveM": 0.3,
-          "vizM": 21,
+          "vizM": 16,
           "rainMm": 36,
           "windMs": 1.3,
-          "sunnyDays": 20
+          "sunnyDays": 27,
+          "vizMinM": 10,
+          "vizMaxM": 18,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 9,
           "tempC": 25,
           "waveM": 0.3,
-          "vizM": 20,
+          "vizM": 18,
           "rainMm": 76,
           "windMs": 0.7,
-          "sunnyDays": 12
+          "sunnyDays": 18,
+          "vizMinM": 13,
+          "vizMaxM": 20,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 10,
           "tempC": 22.5,
           "waveM": 0.4,
-          "vizM": 19,
+          "vizM": 13,
           "rainMm": 141,
           "windMs": 0.9,
-          "sunnyDays": 8
+          "sunnyDays": 16,
+          "vizMinM": 13,
+          "vizMaxM": 17,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 11,
           "tempC": 20.5,
           "waveM": 0.6,
-          "vizM": 17,
+          "vizM": 13,
           "rainMm": 272,
           "windMs": 1.7,
-          "sunnyDays": 4
+          "sunnyDays": 10,
+          "vizMinM": 11,
+          "vizMaxM": 14,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 12,
           "tempC": 17.5,
           "waveM": 0.6,
-          "vizM": 14,
+          "vizM": 12,
           "rainMm": 172,
           "windMs": 1.4,
-          "sunnyDays": 6
+          "sunnyDays": 13,
+          "vizMinM": 9,
+          "vizMaxM": 13,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         }
       ],
       "windows": {
@@ -162,9 +210,9 @@
           8
         ]
       },
-      "generatedAt": "2026-06-10T20:55:50.761Z"
+      "generatedAt": "2026-07-02T19:01:59.678Z"
     },
-    "bestTime": "From June to August, the seas remain calmest and waters clearest, with temperatures warming to 25–26°C."
+    "bestTime": "From June to August, the sea is calmest, the water is clearest, and there is the least rain. The water warms to 25–26°C in summer and drops to about 15°C in winter."
   },
   "vlor-county": {
     "children": [],
@@ -199,109 +247,157 @@
           "m": 1,
           "tempC": 16.5,
           "waveM": 1.1,
-          "vizM": 10,
+          "vizM": 8,
           "rainMm": 25,
           "windMs": 1.9,
-          "sunnyDays": 14
+          "sunnyDays": 11,
+          "vizMinM": 7,
+          "vizMaxM": 10,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 2,
           "tempC": 16,
           "waveM": 1.1,
-          "vizM": 10,
+          "vizM": 9,
           "rainMm": 19,
           "windMs": 2.1,
-          "sunnyDays": 11
+          "sunnyDays": 10,
+          "vizMinM": 8,
+          "vizMaxM": 11,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 3,
           "tempC": 16.5,
           "waveM": 0.9,
-          "vizM": 11,
+          "vizM": 9,
           "rainMm": 56,
           "windMs": 2.1,
-          "sunnyDays": 10
+          "sunnyDays": 12,
+          "vizMinM": 7,
+          "vizMaxM": 10,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 4,
           "tempC": 17.5,
           "waveM": 0.8,
-          "vizM": 13,
+          "vizM": 10,
           "rainMm": 134,
           "windMs": 2,
-          "sunnyDays": 4
+          "sunnyDays": 12,
+          "vizMinM": 9,
+          "vizMaxM": 11,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 5,
           "tempC": 19.5,
           "waveM": 0.7,
-          "vizM": 14,
+          "vizM": 11,
           "rainMm": 119,
           "windMs": 2.2,
-          "sunnyDays": 7
+          "sunnyDays": 16,
+          "vizMinM": 10,
+          "vizMaxM": 12,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 6,
           "tempC": 22.5,
           "waveM": 0.6,
-          "vizM": 15,
+          "vizM": 10,
           "rainMm": 85,
           "windMs": 2.3,
-          "sunnyDays": 7
+          "sunnyDays": 22,
+          "vizMinM": 8,
+          "vizMaxM": 11,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 7,
           "tempC": 25.5,
           "waveM": 0.6,
-          "vizM": 15,
+          "vizM": 9,
           "rainMm": 99,
           "windMs": 2.1,
-          "sunnyDays": 5
+          "sunnyDays": 27,
+          "vizMinM": 8,
+          "vizMaxM": 10,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 8,
           "tempC": 26,
           "waveM": 0.5,
-          "vizM": 16,
+          "vizM": 9,
           "rainMm": 103,
           "windMs": 2.3,
-          "sunnyDays": 7
+          "sunnyDays": 24,
+          "vizMinM": 8,
+          "vizMaxM": 10,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 9,
           "tempC": 25.5,
           "waveM": 0.7,
-          "vizM": 15,
+          "vizM": 12,
           "rainMm": 104,
           "windMs": 2.5,
-          "sunnyDays": 8
+          "sunnyDays": 15,
+          "vizMinM": 11,
+          "vizMaxM": 13,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 10,
           "tempC": 23.5,
           "waveM": 0.7,
-          "vizM": 14,
+          "vizM": 11,
           "rainMm": 96,
           "windMs": 2.3,
-          "sunnyDays": 7
+          "sunnyDays": 16,
+          "vizMinM": 9,
+          "vizMaxM": 12,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 11,
           "tempC": 20.5,
           "waveM": 1,
-          "vizM": 13,
+          "vizM": 11,
           "rainMm": 63,
           "windMs": 2.3,
-          "sunnyDays": 9
+          "sunnyDays": 9,
+          "vizMinM": 10,
+          "vizMaxM": 11,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 12,
           "tempC": 18,
           "waveM": 1.1,
-          "vizM": 10,
+          "vizM": 7,
           "rainMm": 26,
           "windMs": 2.1,
-          "sunnyDays": 15
+          "sunnyDays": 12,
+          "vizMinM": 7,
+          "vizMaxM": 9,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         }
       ],
       "windows": {
@@ -338,9 +434,9 @@
           9
         ]
       },
-      "generatedAt": "2026-06-10T20:55:50.761Z"
+      "generatedAt": "2026-07-02T19:01:59.678Z"
     },
-    "bestTime": "June to September, the seas calm and the water clears, with a warm 26°C welcome."
+    "bestTime": "From June to September, the sea is calmest and the water is clearest. The water warms to 26°C in summer and drops to about 16°C in winter."
   },
   "algiers-province": {
     "children": [],
@@ -739,37 +835,53 @@
           "m": 1,
           "tempC": 7.5,
           "waveM": 0.7,
-          "vizM": 5,
+          "vizM": 6,
           "rainMm": 10,
           "windMs": 0.8,
-          "sunnyDays": 18
+          "sunnyDays": 7,
+          "vizMinM": 6,
+          "vizMaxM": 6,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 2,
           "tempC": 6.5,
           "waveM": 0.7,
-          "vizM": 5,
+          "vizM": 7,
           "rainMm": 9,
           "windMs": 0.7,
-          "sunnyDays": 17
+          "sunnyDays": 6,
+          "vizMinM": 7,
+          "vizMaxM": 7,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 3,
           "tempC": 7.5,
           "waveM": 0.6,
-          "vizM": 5,
+          "vizM": 6,
           "rainMm": 13,
           "windMs": 0.6,
-          "sunnyDays": 19
+          "sunnyDays": 8,
+          "vizMinM": 6,
+          "vizMaxM": 7,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 4,
           "tempC": 10.5,
           "waveM": 0.5,
-          "vizM": 5,
+          "vizM": 6,
           "rainMm": 13,
           "windMs": 0.8,
-          "sunnyDays": 18
+          "sunnyDays": 11,
+          "vizMinM": 5,
+          "vizMaxM": 7,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 5,
@@ -778,25 +890,37 @@
           "vizM": 6,
           "rainMm": 2,
           "windMs": 1.1,
-          "sunnyDays": 23
+          "sunnyDays": 11,
+          "vizMinM": 5,
+          "vizMaxM": 6,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 6,
           "tempC": 22.5,
           "waveM": 0.4,
-          "vizM": 8,
+          "vizM": 6,
           "rainMm": 0,
           "windMs": 1.9,
-          "sunnyDays": 28
+          "sunnyDays": 16,
+          "vizMinM": 5,
+          "vizMaxM": 6,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 7,
           "tempC": 25.5,
           "waveM": 0.4,
-          "vizM": 8,
+          "vizM": 7,
           "rainMm": 0,
           "windMs": 2.7,
-          "sunnyDays": 28
+          "sunnyDays": 24,
+          "vizMinM": 6,
+          "vizMaxM": 7,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 8,
@@ -805,43 +929,63 @@
           "vizM": 8,
           "rainMm": 0,
           "windMs": 2.4,
-          "sunnyDays": 28
+          "sunnyDays": 24,
+          "vizMinM": 7,
+          "vizMaxM": 8,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 9,
           "tempC": 23.5,
           "waveM": 0.6,
-          "vizM": 7,
+          "vizM": 9,
           "rainMm": 0,
           "windMs": 1.2,
-          "sunnyDays": 27
+          "sunnyDays": 16,
+          "vizMinM": 7,
+          "vizMaxM": 10,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 10,
           "tempC": 19,
           "waveM": 0.7,
-          "vizM": 6,
+          "vizM": 8,
           "rainMm": 6,
           "windMs": 1.3,
-          "sunnyDays": 25
+          "sunnyDays": 9,
+          "vizMinM": 7,
+          "vizMaxM": 9,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 11,
           "tempC": 15,
           "waveM": 0.7,
-          "vizM": 6,
+          "vizM": 8,
           "rainMm": 24,
           "windMs": 1.3,
-          "sunnyDays": 16
+          "sunnyDays": 6,
+          "vizMinM": 8,
+          "vizMaxM": 8,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 12,
           "tempC": 10.5,
           "waveM": 0.7,
-          "vizM": 6,
+          "vizM": 7,
           "rainMm": 16,
           "windMs": 0.8,
-          "sunnyDays": 15
+          "sunnyDays": 8,
+          "vizMinM": 6,
+          "vizMaxM": 7,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         }
       ],
       "windows": {
@@ -881,9 +1025,9 @@
           8
         ]
       },
-      "generatedAt": "2026-06-10T20:55:50.761Z"
+      "generatedAt": "2026-07-02T19:01:59.678Z"
     },
-    "bestTime": "June to August offers the calmest seas and clearest water, with the warmest temperatures reaching 26°C."
+    "bestTime": "From June to August, the sea is calmest, the water is clearest, and there is the least rain. The water warms to 26°C in summer and drops to about 7°C in winter."
   },
   "croatia": {
     "children": [],
@@ -909,109 +1053,157 @@
           "m": 1,
           "tempC": 14,
           "waveM": 0.5,
-          "vizM": 14,
+          "vizM": 12,
           "rainMm": 110,
           "windMs": 2.1,
-          "sunnyDays": 7
+          "sunnyDays": 10,
+          "vizMinM": 10,
+          "vizMaxM": 15,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 2,
           "tempC": 13,
           "waveM": 0.5,
-          "vizM": 16,
+          "vizM": 11,
           "rainMm": 100,
           "windMs": 2.2,
-          "sunnyDays": 7
+          "sunnyDays": 9,
+          "vizMinM": 11,
+          "vizMaxM": 13,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 3,
           "tempC": 13,
           "waveM": 0.4,
-          "vizM": 17,
+          "vizM": 10,
           "rainMm": 98,
           "windMs": 2.1,
-          "sunnyDays": 9
+          "sunnyDays": 13,
+          "vizMinM": 9,
+          "vizMaxM": 14,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 4,
           "tempC": 15,
           "waveM": 0.4,
-          "vizM": 18,
+          "vizM": 12,
           "rainMm": 66,
           "windMs": 1.6,
-          "sunnyDays": 9
+          "sunnyDays": 12,
+          "vizMinM": 11,
+          "vizMaxM": 16,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 5,
           "tempC": 18.5,
           "waveM": 0.3,
-          "vizM": 20,
+          "vizM": 14,
           "rainMm": 83,
           "windMs": 1.3,
-          "sunnyDays": 8
+          "sunnyDays": 13,
+          "vizMinM": 11,
+          "vizMaxM": 21,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 6,
           "tempC": 23,
           "waveM": 0.2,
-          "vizM": 20,
+          "vizM": 14,
           "rainMm": 39,
           "windMs": 1,
-          "sunnyDays": 14
+          "sunnyDays": 17,
+          "vizMinM": 10,
+          "vizMaxM": 19,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 7,
           "tempC": 25,
           "waveM": 0.2,
-          "vizM": 21,
+          "vizM": 15,
           "rainMm": 31,
           "windMs": 1.4,
-          "sunnyDays": 18
+          "sunnyDays": 22,
+          "vizMinM": 10,
+          "vizMaxM": 19,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 8,
           "tempC": 25.5,
           "waveM": 0.2,
-          "vizM": 21,
+          "vizM": 16,
           "rainMm": 48,
           "windMs": 1.4,
-          "sunnyDays": 16
+          "sunnyDays": 23,
+          "vizMinM": 11,
+          "vizMaxM": 20,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 9,
           "tempC": 23.5,
           "waveM": 0.3,
-          "vizM": 21,
+          "vizM": 18,
           "rainMm": 118,
           "windMs": 1.4,
-          "sunnyDays": 9
+          "sunnyDays": 16,
+          "vizMinM": 13,
+          "vizMaxM": 22,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 10,
           "tempC": 20.5,
           "waveM": 0.4,
-          "vizM": 19,
+          "vizM": 14,
           "rainMm": 112,
           "windMs": 1.8,
-          "sunnyDays": 9
+          "sunnyDays": 13,
+          "vizMinM": 11,
+          "vizMaxM": 19,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 11,
           "tempC": 18.5,
           "waveM": 0.5,
-          "vizM": 17,
+          "vizM": 13,
           "rainMm": 200,
           "windMs": 2.6,
-          "sunnyDays": 4
+          "sunnyDays": 8,
+          "vizMinM": 12,
+          "vizMaxM": 15,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 12,
           "tempC": 15.5,
           "waveM": 0.5,
-          "vizM": 15,
+          "vizM": 12,
           "rainMm": 148,
           "windMs": 2.1,
-          "sunnyDays": 6
+          "sunnyDays": 12,
+          "vizMinM": 10,
+          "vizMaxM": 16,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         }
       ],
       "windows": {
@@ -1052,9 +1244,9 @@
           8
         ]
       },
-      "generatedAt": "2026-06-10T20:55:50.761Z"
+      "generatedAt": "2026-07-02T19:01:59.678Z"
     },
-    "bestTime": "June to August presents the calmest seas, clear water, and dry months; temperatures warm up nicely to 25–26°C during this period."
+    "bestTime": "From June to August, the sea is calmest, the water is clearest, and there is the least rain. The water warms to 25–26°C in summer and drops to about 13°C in winter."
   },
   "dubrovnik-neretva": {
     "children": [],
@@ -1228,109 +1420,157 @@
           "m": 1,
           "tempC": 19,
           "waveM": 1.1,
-          "vizM": 21,
+          "vizM": 19,
           "rainMm": 164,
           "windMs": 2.1,
-          "sunnyDays": 7
+          "sunnyDays": 12,
+          "vizMinM": 15,
+          "vizMaxM": 22,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 2,
           "tempC": 18,
           "waveM": 1.1,
-          "vizM": 20,
+          "vizM": 15,
           "rainMm": 97,
           "windMs": 1.5,
-          "sunnyDays": 9
+          "sunnyDays": 15,
+          "vizMinM": 12,
+          "vizMaxM": 17,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 3,
           "tempC": 18,
           "waveM": 1,
-          "vizM": 22,
+          "vizM": 18,
           "rainMm": 55,
           "windMs": 1.8,
-          "sunnyDays": 11
+          "sunnyDays": 18,
+          "vizMinM": 13,
+          "vizMaxM": 22,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 4,
           "tempC": 19.5,
           "waveM": 0.8,
-          "vizM": 24,
+          "vizM": 19,
           "rainMm": 29,
           "windMs": 1.6,
-          "sunnyDays": 15
+          "sunnyDays": 20,
+          "vizMinM": 11,
+          "vizMaxM": 23,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 5,
           "tempC": 22,
           "waveM": 0.6,
-          "vizM": 26,
+          "vizM": 21,
           "rainMm": 11,
           "windMs": 2.1,
-          "sunnyDays": 20
+          "sunnyDays": 23,
+          "vizMinM": 13,
+          "vizMaxM": 24,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 6,
           "tempC": 25.5,
           "waveM": 0.7,
-          "vizM": 28,
+          "vizM": 21,
           "rainMm": 4,
           "windMs": 2.6,
-          "sunnyDays": 24
+          "sunnyDays": 28,
+          "vizMinM": 15,
+          "vizMaxM": 23,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 7,
           "tempC": 28.5,
           "waveM": 0.7,
-          "vizM": 29,
+          "vizM": 20,
           "rainMm": 1,
           "windMs": 3.1,
-          "sunnyDays": 25
+          "sunnyDays": 30,
+          "vizMinM": 13,
+          "vizMaxM": 23,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 8,
           "tempC": 29.5,
           "waveM": 0.7,
-          "vizM": 30,
+          "vizM": 20,
           "rainMm": 2,
           "windMs": 3,
-          "sunnyDays": 23
+          "sunnyDays": 30,
+          "vizMinM": 11,
+          "vizMaxM": 23,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 9,
           "tempC": 29,
           "waveM": 0.7,
-          "vizM": 29,
+          "vizM": 24,
           "rainMm": 4,
           "windMs": 2.5,
-          "sunnyDays": 23
+          "sunnyDays": 29,
+          "vizMinM": 14,
+          "vizMaxM": 26,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 10,
           "tempC": 27,
           "waveM": 0.6,
-          "vizM": 28,
+          "vizM": 21,
           "rainMm": 19,
           "windMs": 1.8,
-          "sunnyDays": 19
+          "sunnyDays": 24,
+          "vizMinM": 16,
+          "vizMaxM": 24,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 11,
           "tempC": 24,
           "waveM": 0.7,
-          "vizM": 24,
+          "vizM": 19,
           "rainMm": 72,
           "windMs": 1,
-          "sunnyDays": 11
+          "sunnyDays": 17,
+          "vizMinM": 12,
+          "vizMaxM": 21,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 12,
           "tempC": 21.5,
           "waveM": 1,
-          "vizM": 22,
+          "vizM": 19,
           "rainMm": 172,
           "windMs": 1.7,
-          "sunnyDays": 7
+          "sunnyDays": 14,
+          "vizMinM": 14,
+          "vizMaxM": 22,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         }
       ],
       "windows": {
@@ -1374,9 +1614,9 @@
           9
         ]
       },
-      "generatedAt": "2026-06-10T20:55:50.761Z"
+      "generatedAt": "2026-07-02T19:01:59.678Z"
     },
-    "bestTime": "June to September brings Cyprus its calmest seas and clearest water, with temperatures warming to 29–30°C."
+    "bestTime": "From June to September, the sea is calmest, the water is clearest, and there is the least rain. The water warms to 29–30°C in summer and drops to about 18°C in winter."
   },
   "famagusta": {
     "children": [],
@@ -1486,55 +1726,79 @@
           "m": 1,
           "tempC": 4,
           "waveM": 0.7,
-          "vizM": 5,
+          "vizM": 7,
           "rainMm": 71,
           "windMs": 3.4,
-          "sunnyDays": 3
+          "sunnyDays": 3,
+          "vizMinM": 6,
+          "vizMaxM": 7,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 2,
           "tempC": 3,
           "waveM": 0.6,
-          "vizM": 4,
+          "vizM": 6,
           "rainMm": 63,
           "windMs": 3.3,
-          "sunnyDays": 3
+          "sunnyDays": 3,
+          "vizMinM": 5,
+          "vizMaxM": 6,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 3,
           "tempC": 4,
           "waveM": 0.6,
-          "vizM": 3,
+          "vizM": 4,
           "rainMm": 48,
           "windMs": 2.6,
-          "sunnyDays": 6
+          "sunnyDays": 5,
+          "vizMinM": 4,
+          "vizMaxM": 5,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 4,
           "tempC": 6.5,
           "waveM": 0.4,
-          "vizM": 3,
+          "vizM": 4,
           "rainMm": 49,
           "windMs": 2,
-          "sunnyDays": 8
+          "sunnyDays": 8,
+          "vizMinM": 3,
+          "vizMaxM": 4,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 5,
           "tempC": 11.5,
           "waveM": 0.4,
-          "vizM": 3,
+          "vizM": 4,
           "rainMm": 51,
           "windMs": 2.1,
-          "sunnyDays": 8
+          "sunnyDays": 7,
+          "vizMinM": 4,
+          "vizMaxM": 4,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 6,
           "tempC": 16,
           "waveM": 0.4,
-          "vizM": 3,
+          "vizM": 4,
           "rainMm": 65,
           "windMs": 1.9,
-          "sunnyDays": 7
+          "sunnyDays": 6,
+          "vizMinM": 4,
+          "vizMaxM": 4,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 7,
@@ -1543,52 +1807,76 @@
           "vizM": 4,
           "rainMm": 82,
           "windMs": 2.8,
-          "sunnyDays": 6
+          "sunnyDays": 7,
+          "vizMinM": 4,
+          "vizMaxM": 4,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 8,
           "tempC": 18.5,
           "waveM": 0.4,
-          "vizM": 3,
+          "vizM": 4,
           "rainMm": 72,
           "windMs": 2.4,
-          "sunnyDays": 6
+          "sunnyDays": 6,
+          "vizMinM": 4,
+          "vizMaxM": 4,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 9,
           "tempC": 17,
           "waveM": 0.5,
-          "vizM": 3,
+          "vizM": 5,
           "rainMm": 72,
           "windMs": 2.1,
-          "sunnyDays": 5
+          "sunnyDays": 5,
+          "vizMinM": 4,
+          "vizMaxM": 5,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 10,
           "tempC": 13,
           "waveM": 0.6,
-          "vizM": 3,
+          "vizM": 6,
           "rainMm": 90,
           "windMs": 3,
-          "sunnyDays": 3
+          "sunnyDays": 3,
+          "vizMinM": 5,
+          "vizMaxM": 6,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 11,
           "tempC": 9.5,
           "waveM": 0.6,
-          "vizM": 5,
+          "vizM": 7,
           "rainMm": 66,
           "windMs": 3.1,
-          "sunnyDays": 2
+          "sunnyDays": 3,
+          "vizMinM": 6,
+          "vizMaxM": 7,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 12,
           "tempC": 5.5,
           "waveM": 0.7,
-          "vizM": 12,
+          "vizM": 7,
           "rainMm": 67,
           "windMs": 3.2,
-          "sunnyDays": 2
+          "sunnyDays": 2,
+          "vizMinM": 6,
+          "vizMaxM": 9,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         }
       ],
       "windows": {
@@ -1621,9 +1909,9 @@
           7
         ]
       },
-      "generatedAt": "2026-06-10T20:55:50.761Z"
+      "generatedAt": "2026-07-02T19:01:59.678Z"
     },
-    "bestTime": "In July, Denmark's seas calm and water clears, with temperatures reaching a brisk 18–19°C."
+    "bestTime": "In July, the sea is calmest and the water is clearest. The water warms to 18–19°C in summer and drops to about 3°C in winter."
   },
   "capital-region": {
     "children": [],
@@ -1706,109 +1994,157 @@
           "m": 1,
           "tempC": 5.5,
           "waveM": 0.7,
-          "vizM": 8,
+          "vizM": 3,
           "rainMm": 56,
           "windMs": 2.3,
-          "sunnyDays": 5
+          "sunnyDays": 1,
+          "vizMinM": 3,
+          "vizMaxM": 3,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 2,
           "tempC": 4.5,
           "waveM": 0.7,
-          "vizM": 6,
+          "vizM": 2,
           "rainMm": 45,
           "windMs": 2.4,
-          "sunnyDays": 5
+          "sunnyDays": 3,
+          "vizMinM": 2,
+          "vizMaxM": 2,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 3,
           "tempC": 5,
           "waveM": 0.6,
-          "vizM": 4,
+          "vizM": 2,
           "rainMm": 34,
           "windMs": 2.3,
-          "sunnyDays": 9
+          "sunnyDays": 7,
+          "vizMinM": 2,
+          "vizMaxM": 2,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 4,
           "tempC": 7,
           "waveM": 0.5,
-          "vizM": 5,
+          "vizM": 1,
           "rainMm": 33,
           "windMs": 2,
-          "sunnyDays": 10
+          "sunnyDays": 8,
+          "vizMinM": 1,
+          "vizMaxM": 1,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 5,
           "tempC": 11,
           "waveM": 0.6,
-          "vizM": 7,
+          "vizM": 1,
           "rainMm": 29,
           "windMs": 2,
-          "sunnyDays": 13
+          "sunnyDays": 10,
+          "vizMinM": 1,
+          "vizMaxM": 1,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 6,
           "tempC": 15.5,
           "waveM": 0.7,
-          "vizM": 7,
+          "vizM": 1,
           "rainMm": 44,
           "windMs": 2.6,
-          "sunnyDays": 11
+          "sunnyDays": 8,
+          "vizMinM": 1,
+          "vizMaxM": 1,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 7,
           "tempC": 19,
           "waveM": 0.8,
-          "vizM": 7,
+          "vizM": 1,
           "rainMm": 61,
           "windMs": 2.8,
-          "sunnyDays": 8
+          "sunnyDays": 9,
+          "vizMinM": 1,
+          "vizMaxM": 1,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 8,
           "tempC": 19.5,
           "waveM": 0.8,
-          "vizM": 6,
+          "vizM": 1,
           "rainMm": 75,
           "windMs": 2.9,
-          "sunnyDays": 7
+          "sunnyDays": 7,
+          "vizMinM": 1,
+          "vizMaxM": 1,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 9,
           "tempC": 17.5,
           "waveM": 0.7,
-          "vizM": 6,
+          "vizM": 2,
           "rainMm": 62,
           "windMs": 2.7,
-          "sunnyDays": 7
+          "sunnyDays": 4,
+          "vizMinM": 2,
+          "vizMaxM": 2,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 10,
           "tempC": 14,
           "waveM": 0.7,
-          "vizM": 7,
+          "vizM": 2,
           "rainMm": 78,
           "windMs": 2.4,
-          "sunnyDays": 7
+          "sunnyDays": 4,
+          "vizMinM": 2,
+          "vizMaxM": 2,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 11,
           "tempC": 10.5,
           "waveM": 0.7,
-          "vizM": 8,
+          "vizM": 3,
           "rainMm": 66,
           "windMs": 2.7,
-          "sunnyDays": 6
+          "sunnyDays": 2,
+          "vizMinM": 3,
+          "vizMaxM": 3,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 12,
           "tempC": 7.5,
           "waveM": 0.7,
-          "vizM": 11,
+          "vizM": 8,
           "rainMm": 60,
           "windMs": 2.8,
-          "sunnyDays": 5
+          "sunnyDays": 2,
+          "vizMinM": 7,
+          "vizMaxM": 8,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         }
       ],
       "windows": {
@@ -1838,9 +2174,9 @@
           6
         ]
       },
-      "generatedAt": "2026-06-10T20:55:50.761Z"
+      "generatedAt": "2026-07-02T19:01:59.678Z"
     },
-    "bestTime": "June offers the calmest seas, clearest water, and driest months, with temperatures warming up to 20°C during the peak of summer."
+    "bestTime": "In June, the sea is calmest, the water is clearest, and there is the least rain. The water warms to 20°C in summer and drops to about 5°C in winter. Conditions vary by coast."
   },
   "etel-pohjanmaa": {
     "children": [],
@@ -1959,109 +2295,157 @@
           "m": 1,
           "tempC": 17.5,
           "waveM": 1.2,
-          "vizM": 18,
+          "vizM": 14,
           "rainMm": 95,
           "windMs": 3.4,
-          "sunnyDays": 9
+          "sunnyDays": 9,
+          "vizMinM": 8,
+          "vizMaxM": 22,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 2,
           "tempC": 17.5,
           "waveM": 1.1,
-          "vizM": 18,
+          "vizM": 12,
           "rainMm": 86,
           "windMs": 3.4,
-          "sunnyDays": 8
+          "sunnyDays": 10,
+          "vizMinM": 9,
+          "vizMaxM": 17,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 3,
           "tempC": 17.5,
           "waveM": 1.1,
-          "vizM": 17,
+          "vizM": 11,
           "rainMm": 79,
           "windMs": 3,
-          "sunnyDays": 9
+          "sunnyDays": 11,
+          "vizMinM": 8,
+          "vizMaxM": 19,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 4,
           "tempC": 18.5,
           "waveM": 1,
-          "vizM": 17,
+          "vizM": 11,
           "rainMm": 85,
           "windMs": 2.5,
-          "sunnyDays": 8
+          "sunnyDays": 11,
+          "vizMinM": 8,
+          "vizMaxM": 19,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 5,
           "tempC": 20,
           "waveM": 1,
-          "vizM": 18,
+          "vizM": 14,
           "rainMm": 60,
           "windMs": 3.1,
-          "sunnyDays": 9
+          "sunnyDays": 12,
+          "vizMinM": 7,
+          "vizMaxM": 20,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 6,
           "tempC": 22,
           "waveM": 0.9,
-          "vizM": 19,
+          "vizM": 15,
           "rainMm": 47,
           "windMs": 3.6,
-          "sunnyDays": 9
+          "sunnyDays": 14,
+          "vizMinM": 6,
+          "vizMaxM": 21,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 7,
           "tempC": 23.5,
           "waveM": 0.9,
-          "vizM": 19,
+          "vizM": 15,
           "rainMm": 41,
           "windMs": 4,
-          "sunnyDays": 12
+          "sunnyDays": 17,
+          "vizMinM": 7,
+          "vizMaxM": 20,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 8,
           "tempC": 24,
           "waveM": 0.9,
-          "vizM": 20,
+          "vizM": 18,
           "rainMm": 43,
           "windMs": 3.7,
-          "sunnyDays": 11
+          "sunnyDays": 16,
+          "vizMinM": 8,
+          "vizMaxM": 23,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 9,
           "tempC": 23,
           "waveM": 0.9,
-          "vizM": 20,
+          "vizM": 18,
           "rainMm": 58,
           "windMs": 3.4,
-          "sunnyDays": 10
+          "sunnyDays": 14,
+          "vizMinM": 9,
+          "vizMaxM": 22,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 10,
           "tempC": 21.5,
           "waveM": 1,
-          "vizM": 19,
+          "vizM": 15,
           "rainMm": 94,
           "windMs": 2.9,
-          "sunnyDays": 8
+          "sunnyDays": 11,
+          "vizMinM": 9,
+          "vizMaxM": 20,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 11,
           "tempC": 20,
           "waveM": 1.1,
-          "vizM": 19,
+          "vizM": 14,
           "rainMm": 108,
           "windMs": 3,
-          "sunnyDays": 7
+          "sunnyDays": 9,
+          "vizMinM": 9,
+          "vizMaxM": 20,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 12,
           "tempC": 18.5,
           "waveM": 1.2,
-          "vizM": 19,
+          "vizM": 14,
           "rainMm": 98,
           "windMs": 3.4,
-          "sunnyDays": 9
+          "sunnyDays": 10,
+          "vizMinM": 8,
+          "vizMaxM": 21,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         }
       ],
       "windows": {
@@ -2086,9 +2470,10 @@
           9
         ]
       },
-      "generatedAt": "2026-06-10T20:55:50.761Z"
+      "generatedAt": "2026-07-02T19:01:59.678Z"
     },
-    "bestTime": "Along the Mediterranean coast, June to August offers calm seas and clear water, with warm temperatures around 24–25°C. On the Atlantic coast, April to September brings the calmest seas, while French Polynesia invites year-round diving, particularly dry from July to October with 27–29°C waters."
+    "bestTime": "Along the Mediterranean coast, June to August offers calm seas and clear water, with warm temperatures around 24–25°C. On the Atlantic coast, April to September brings the calmest seas, while French Polynesia invites year-round diving, particularly dry from July to October with 27–29°C waters.",
+    "bestTimeAuto": "From June to August, the sea is calmest, the water is clearest, and there is the least rain. The water warms to 24–25°C in summer and drops to about 14°C in winter. Conditions vary by coast."
   },
   "austral-islands": {
     "children": [],
@@ -2306,109 +2691,157 @@
           "m": 1,
           "tempC": 14,
           "waveM": 1,
-          "vizM": 11,
+          "vizM": 7,
           "rainMm": 52,
           "windMs": 4.3,
-          "sunnyDays": 8
+          "sunnyDays": 3,
+          "vizMinM": 6,
+          "vizMaxM": 7,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 2,
           "tempC": 14,
           "waveM": 0.9,
-          "vizM": 10,
+          "vizM": 6,
           "rainMm": 40,
           "windMs": 3.8,
-          "sunnyDays": 9
+          "sunnyDays": 4,
+          "vizMinM": 5,
+          "vizMaxM": 7,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 3,
           "tempC": 15,
           "waveM": 0.7,
-          "vizM": 11,
+          "vizM": 5,
           "rainMm": 38,
           "windMs": 2.9,
-          "sunnyDays": 12
+          "sunnyDays": 6,
+          "vizMinM": 4,
+          "vizMaxM": 7,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 4,
           "tempC": 17,
           "waveM": 0.6,
-          "vizM": 13,
+          "vizM": 4,
           "rainMm": 42,
           "windMs": 2.4,
-          "sunnyDays": 12
+          "sunnyDays": 7,
+          "vizMinM": 3,
+          "vizMaxM": 5,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 5,
           "tempC": 20,
           "waveM": 0.9,
-          "vizM": 12,
+          "vizM": 4,
           "rainMm": 57,
           "windMs": 3,
-          "sunnyDays": 10
+          "sunnyDays": 6,
+          "vizMinM": 3,
+          "vizMaxM": 5,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 6,
           "tempC": 22,
           "waveM": 1.4,
-          "vizM": 10,
+          "vizM": 4,
           "rainMm": 50,
           "windMs": 4.1,
-          "sunnyDays": 9
+          "sunnyDays": 6,
+          "vizMinM": 3,
+          "vizMaxM": 5,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 7,
           "tempC": 23,
           "waveM": 1.6,
-          "vizM": 9,
+          "vizM": 4,
           "rainMm": 51,
           "windMs": 5.2,
-          "sunnyDays": 9
+          "sunnyDays": 7,
+          "vizMinM": 3,
+          "vizMaxM": 5,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 8,
           "tempC": 23,
           "waveM": 1.5,
-          "vizM": 7,
+          "vizM": 4,
           "rainMm": 49,
           "windMs": 4.7,
-          "sunnyDays": 11
+          "sunnyDays": 7,
+          "vizMinM": 3,
+          "vizMaxM": 5,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 9,
           "tempC": 22,
           "waveM": 1.2,
-          "vizM": 7,
+          "vizM": 4,
           "rainMm": 46,
           "windMs": 3.7,
-          "sunnyDays": 11
+          "sunnyDays": 6,
+          "vizMinM": 4,
+          "vizMaxM": 5,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 10,
           "tempC": 20,
           "waveM": 0.8,
-          "vizM": 8,
+          "vizM": 6,
           "rainMm": 61,
           "windMs": 2.5,
-          "sunnyDays": 10
+          "sunnyDays": 4,
+          "vizMinM": 5,
+          "vizMaxM": 7,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 11,
           "tempC": 17.5,
           "waveM": 0.9,
-          "vizM": 11,
+          "vizM": 7,
           "rainMm": 61,
           "windMs": 3.6,
-          "sunnyDays": 8
+          "sunnyDays": 3,
+          "vizMinM": 6,
+          "vizMaxM": 10,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 12,
           "tempC": 15.5,
           "waveM": 1.1,
-          "vizM": 12,
+          "vizM": 7,
           "rainMm": 57,
           "windMs": 4.4,
-          "sunnyDays": 8
+          "sunnyDays": 3,
+          "vizMinM": 5,
+          "vizMaxM": 8,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         }
       ],
       "windows": {
@@ -2448,9 +2881,9 @@
           11
         ]
       },
-      "generatedAt": "2026-06-10T20:55:50.761Z"
+      "generatedAt": "2026-07-02T19:01:59.678Z"
     },
-    "bestTime": "March to May and November are when Germany's waters calm and clarity peaks, offering a pleasant diving experience with temperatures ranging from brisk 14°C to mild 23°C."
+    "bestTime": "In March to May and November, the sea is calmest and the water is clearest. The water warms to 22–23°C in summer and drops to about 14°C in winter."
   },
   "baden-wrttemberg": {
     "children": [],
@@ -2692,109 +3125,157 @@
           "m": 1,
           "tempC": 20,
           "waveM": 0.8,
-          "vizM": 20,
+          "vizM": 18,
           "rainMm": 72,
           "windMs": 2.9,
-          "sunnyDays": 13
+          "sunnyDays": 10,
+          "vizMinM": 14,
+          "vizMaxM": 20,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 2,
           "tempC": 19,
           "waveM": 0.8,
-          "vizM": 20,
+          "vizM": 15,
           "rainMm": 40,
           "windMs": 2.9,
-          "sunnyDays": 13
+          "sunnyDays": 10,
+          "vizMinM": 13,
+          "vizMaxM": 16,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 3,
           "tempC": 19,
           "waveM": 0.8,
-          "vizM": 20,
+          "vizM": 15,
           "rainMm": 36,
           "windMs": 2.7,
-          "sunnyDays": 16
+          "sunnyDays": 14,
+          "vizMinM": 12,
+          "vizMaxM": 17,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 4,
           "tempC": 20,
           "waveM": 0.6,
-          "vizM": 21,
+          "vizM": 14,
           "rainMm": 17,
           "windMs": 2.2,
-          "sunnyDays": 18
+          "sunnyDays": 17,
+          "vizMinM": 12,
+          "vizMaxM": 16,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 5,
           "tempC": 22.5,
           "waveM": 0.6,
-          "vizM": 22,
+          "vizM": 18,
           "rainMm": 13,
           "windMs": 2.7,
-          "sunnyDays": 20
+          "sunnyDays": 19,
+          "vizMinM": 14,
+          "vizMaxM": 21,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 6,
           "tempC": 25,
           "waveM": 0.6,
-          "vizM": 23,
+          "vizM": 18,
           "rainMm": 7,
           "windMs": 3.8,
-          "sunnyDays": 24
+          "sunnyDays": 25,
+          "vizMinM": 14,
+          "vizMaxM": 21,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 7,
           "tempC": 27,
           "waveM": 0.6,
-          "vizM": 23,
+          "vizM": 18,
           "rainMm": 3,
           "windMs": 4,
-          "sunnyDays": 26
+          "sunnyDays": 30,
+          "vizMinM": 14,
+          "vizMaxM": 21,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 8,
           "tempC": 28,
           "waveM": 0.6,
-          "vizM": 24,
+          "vizM": 20,
           "rainMm": 5,
           "windMs": 3.9,
-          "sunnyDays": 25
+          "sunnyDays": 30,
+          "vizMinM": 14,
+          "vizMaxM": 23,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 9,
           "tempC": 27,
           "waveM": 0.7,
-          "vizM": 23,
+          "vizM": 19,
           "rainMm": 21,
           "windMs": 3.7,
-          "sunnyDays": 22
+          "sunnyDays": 24,
+          "vizMinM": 16,
+          "vizMaxM": 23,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 10,
           "tempC": 25.5,
           "waveM": 0.6,
-          "vizM": 23,
+          "vizM": 18,
           "rainMm": 38,
           "windMs": 2.8,
-          "sunnyDays": 21
+          "sunnyDays": 18,
+          "vizMinM": 15,
+          "vizMaxM": 21,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 11,
           "tempC": 23.5,
           "waveM": 0.7,
-          "vizM": 22,
+          "vizM": 16,
           "rainMm": 82,
           "windMs": 2.6,
-          "sunnyDays": 14
+          "sunnyDays": 11,
+          "vizMinM": 14,
+          "vizMaxM": 19,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 12,
           "tempC": 21.5,
           "waveM": 0.8,
-          "vizM": 20,
+          "vizM": 16,
           "rainMm": 73,
           "windMs": 2.7,
-          "sunnyDays": 13
+          "sunnyDays": 11,
+          "vizMinM": 13,
+          "vizMaxM": 18,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         }
       ],
       "windows": {
@@ -2832,9 +3313,9 @@
           8
         ]
       },
-      "generatedAt": "2026-06-10T20:55:50.761Z"
+      "generatedAt": "2026-07-02T19:01:59.678Z"
     },
-    "bestTime": "May to August's warm, calm seas and dry conditions invite divers, with water temperatures warming to 25–27°C."
+    "bestTime": "From May to August, the sea is calmest and there is the least rain. The water warms to 27–28°C in summer and drops to about 19°C in winter."
   },
   "attica": {
     "children": [],
@@ -2968,109 +3449,157 @@
           "m": 1,
           "tempC": 11.5,
           "waveM": 2,
-          "vizM": 44,
+          "vizM": 29,
           "rainMm": 124,
           "windMs": 2.9,
-          "sunnyDays": 4
+          "sunnyDays": 2,
+          "vizMinM": 17,
+          "vizMaxM": 40,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 2,
           "tempC": 11,
           "waveM": 2.1,
-          "vizM": 34,
+          "vizM": 14,
           "rainMm": 120,
           "windMs": 3.3,
-          "sunnyDays": 3
+          "sunnyDays": 2,
+          "vizMinM": 11,
+          "vizMaxM": 40,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 3,
           "tempC": 11.5,
           "waveM": 2,
-          "vizM": 32,
+          "vizM": 16,
           "rainMm": 126,
           "windMs": 3.1,
-          "sunnyDays": 4
+          "sunnyDays": 3,
+          "vizMinM": 9,
+          "vizMaxM": 40,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 4,
           "tempC": 11.5,
           "waveM": 1.8,
-          "vizM": 30,
+          "vizM": 17,
           "rainMm": 90,
           "windMs": 3.4,
-          "sunnyDays": 4
+          "sunnyDays": 3,
+          "vizMinM": 7,
+          "vizMaxM": 40,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 5,
           "tempC": 12.5,
           "waveM": 1.6,
-          "vizM": 27,
+          "vizM": 13,
           "rainMm": 83,
           "windMs": 3.5,
-          "sunnyDays": 5
+          "sunnyDays": 4,
+          "vizMinM": 5,
+          "vizMaxM": 37,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 6,
           "tempC": 13.5,
           "waveM": 1.5,
-          "vizM": 24,
+          "vizM": 13,
           "rainMm": 78,
           "windMs": 3.6,
-          "sunnyDays": 5
+          "sunnyDays": 2,
+          "vizMinM": 4,
+          "vizMaxM": 34,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 7,
           "tempC": 14.5,
           "waveM": 1.6,
-          "vizM": 22,
+          "vizM": 12,
           "rainMm": 68,
           "windMs": 3.8,
-          "sunnyDays": 5
+          "sunnyDays": 2,
+          "vizMinM": 4,
+          "vizMaxM": 32,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 8,
           "tempC": 15,
           "waveM": 1.6,
-          "vizM": 22,
+          "vizM": 14,
           "rainMm": 74,
           "windMs": 3.6,
-          "sunnyDays": 5
+          "sunnyDays": 3,
+          "vizMinM": 4,
+          "vizMaxM": 32,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 9,
           "tempC": 14,
           "waveM": 1.8,
-          "vizM": 23,
+          "vizM": 15,
           "rainMm": 101,
           "windMs": 3.3,
-          "sunnyDays": 5
+          "sunnyDays": 2,
+          "vizMinM": 4,
+          "vizMaxM": 33,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 10,
           "tempC": 13,
           "waveM": 1.9,
-          "vizM": 27,
+          "vizM": 14,
           "rainMm": 101,
           "windMs": 3.3,
-          "sunnyDays": 5
+          "sunnyDays": 3,
+          "vizMinM": 6,
+          "vizMaxM": 37,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 11,
           "tempC": 12,
           "waveM": 1.9,
-          "vizM": 42,
+          "vizM": 28,
           "rainMm": 90,
           "windMs": 3.2,
-          "sunnyDays": 5
+          "sunnyDays": 2,
+          "vizMinM": 17,
+          "vizMaxM": 40,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 12,
           "tempC": 11.5,
           "waveM": 2,
-          "vizM": 43,
+          "vizM": 28,
           "rainMm": 105,
           "windMs": 3.4,
-          "sunnyDays": 5
+          "sunnyDays": 2,
+          "vizMinM": 16,
+          "vizMaxM": 40,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         }
       ],
       "windows": {
@@ -3095,9 +3624,9 @@
           12
         ]
       },
-      "generatedAt": "2026-06-10T20:55:50.761Z"
+      "generatedAt": "2026-07-02T19:01:59.678Z"
     },
-    "bestTime": "November to February sees the clearest water, with brisk temperatures ranging from 11°C to 15°C, offering an invigorating dive experience."
+    "bestTime": "From November to February, the water is clearest. The water is warmest at 14–15°C and cools to about 11°C."
   },
   "austurland": {
     "children": [],
@@ -3195,7 +3724,11 @@
           "vizM": 7,
           "rainMm": 125,
           "windMs": 3.5,
-          "sunnyDays": 3
+          "sunnyDays": 2,
+          "vizMinM": 6,
+          "vizMaxM": 8,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 2,
@@ -3204,79 +3737,115 @@
           "vizM": 7,
           "rainMm": 131,
           "windMs": 4.5,
-          "sunnyDays": 2
+          "sunnyDays": 2,
+          "vizMinM": 6,
+          "vizMaxM": 8,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 3,
           "tempC": 9,
           "waveM": 1.8,
-          "vizM": 7,
+          "vizM": 6,
           "rainMm": 112,
           "windMs": 2.4,
-          "sunnyDays": 3
+          "sunnyDays": 3,
+          "vizMinM": 6,
+          "vizMaxM": 7,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 4,
           "tempC": 10,
           "waveM": 1.4,
-          "vizM": 6,
+          "vizM": 4,
           "rainMm": 78,
           "windMs": 1.7,
-          "sunnyDays": 4
+          "sunnyDays": 4,
+          "vizMinM": 4,
+          "vizMaxM": 5,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 5,
           "tempC": 12,
           "waveM": 1.2,
-          "vizM": 7,
+          "vizM": 4,
           "rainMm": 70,
           "windMs": 1.5,
-          "sunnyDays": 5
+          "sunnyDays": 4,
+          "vizMinM": 4,
+          "vizMaxM": 5,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 6,
           "tempC": 14,
           "waveM": 1.1,
-          "vizM": 8,
+          "vizM": 4,
           "rainMm": 85,
           "windMs": 2.4,
-          "sunnyDays": 3
+          "sunnyDays": 3,
+          "vizMinM": 4,
+          "vizMaxM": 5,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 7,
           "tempC": 15,
           "waveM": 1,
-          "vizM": 9,
+          "vizM": 5,
           "rainMm": 92,
           "windMs": 2.8,
-          "sunnyDays": 3
+          "sunnyDays": 2,
+          "vizMinM": 4,
+          "vizMaxM": 7,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 8,
           "tempC": 15.5,
           "waveM": 1.1,
-          "vizM": 8,
+          "vizM": 5,
           "rainMm": 117,
           "windMs": 3.1,
-          "sunnyDays": 3
+          "sunnyDays": 2,
+          "vizMinM": 4,
+          "vizMaxM": 6,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 9,
           "tempC": 15,
           "waveM": 1.4,
-          "vizM": 7,
+          "vizM": 5,
           "rainMm": 123,
           "windMs": 2.8,
-          "sunnyDays": 3
+          "sunnyDays": 2,
+          "vizMinM": 4,
+          "vizMaxM": 5,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 10,
           "tempC": 13.5,
           "waveM": 1.7,
-          "vizM": 8,
+          "vizM": 6,
           "rainMm": 154,
           "windMs": 3,
-          "sunnyDays": 2
+          "sunnyDays": 3,
+          "vizMinM": 6,
+          "vizMaxM": 7,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 11,
@@ -3285,16 +3854,24 @@
           "vizM": 8,
           "rainMm": 141,
           "windMs": 3.4,
-          "sunnyDays": 2
+          "sunnyDays": 3,
+          "vizMinM": 7,
+          "vizMaxM": 8,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 12,
           "tempC": 10.5,
           "waveM": 2.2,
-          "vizM": 8,
+          "vizM": 7,
           "rainMm": 151,
           "windMs": 3.7,
-          "sunnyDays": 2
+          "sunnyDays": 2,
+          "vizMinM": 6,
+          "vizMaxM": 7,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         }
       ],
       "windows": {
@@ -3334,9 +3911,9 @@
           7
         ]
       },
-      "generatedAt": "2026-06-10T20:55:50.761Z"
+      "generatedAt": "2026-07-02T19:01:59.678Z"
     },
-    "bestTime": "June to July offers the calmest seas and clearest waters, with mild temperatures between 15–16°C as the weather settles into drier months."
+    "bestTime": "From June to July, the sea is calmest, the water is clearest, and there is the least rain. The water warms to 15–16°C in summer and drops to about 9°C in winter."
   },
   "county-clare": {
     "children": [],
@@ -3513,109 +4090,157 @@
           "m": 1,
           "tempC": 16.5,
           "waveM": 0.8,
-          "vizM": 16,
+          "vizM": 15,
           "rainMm": 62,
           "windMs": 2.5,
-          "sunnyDays": 10
+          "sunnyDays": 11,
+          "vizMinM": 12,
+          "vizMaxM": 16,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 2,
           "tempC": 16,
           "waveM": 0.8,
-          "vizM": 16,
+          "vizM": 12,
           "rainMm": 49,
           "windMs": 2.2,
-          "sunnyDays": 10
+          "sunnyDays": 11,
+          "vizMinM": 11,
+          "vizMaxM": 13,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 3,
           "tempC": 16.5,
           "waveM": 0.7,
-          "vizM": 17,
+          "vizM": 12,
           "rainMm": 51,
           "windMs": 2.1,
-          "sunnyDays": 12
+          "sunnyDays": 13,
+          "vizMinM": 10,
+          "vizMaxM": 14,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 4,
           "tempC": 17.5,
           "waveM": 0.6,
-          "vizM": 19,
+          "vizM": 13,
           "rainMm": 38,
           "windMs": 1.4,
-          "sunnyDays": 12
+          "sunnyDays": 13,
+          "vizMinM": 10,
+          "vizMaxM": 16,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 5,
           "tempC": 20,
           "waveM": 0.5,
-          "vizM": 21,
+          "vizM": 18,
           "rainMm": 41,
           "windMs": 1.4,
-          "sunnyDays": 13
+          "sunnyDays": 15,
+          "vizMinM": 13,
+          "vizMaxM": 21,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 6,
           "tempC": 24,
           "waveM": 0.4,
-          "vizM": 23,
+          "vizM": 19,
           "rainMm": 14,
           "windMs": 1.6,
-          "sunnyDays": 17
+          "sunnyDays": 21,
+          "vizMinM": 15,
+          "vizMaxM": 23,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 7,
           "tempC": 26.5,
           "waveM": 0.4,
-          "vizM": 23,
+          "vizM": 19,
           "rainMm": 11,
           "windMs": 2,
-          "sunnyDays": 22
+          "sunnyDays": 26,
+          "vizMinM": 15,
+          "vizMaxM": 25,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 8,
           "tempC": 27.5,
           "waveM": 0.4,
-          "vizM": 24,
+          "vizM": 22,
           "rainMm": 22,
           "windMs": 1.8,
-          "sunnyDays": 19
+          "sunnyDays": 25,
+          "vizMinM": 18,
+          "vizMaxM": 26,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 9,
           "tempC": 26,
           "waveM": 0.5,
-          "vizM": 23,
+          "vizM": 21,
           "rainMm": 46,
           "windMs": 1.4,
-          "sunnyDays": 13
+          "sunnyDays": 17,
+          "vizMinM": 17,
+          "vizMaxM": 25,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 10,
           "tempC": 23.5,
           "waveM": 0.6,
-          "vizM": 21,
+          "vizM": 18,
           "rainMm": 65,
           "windMs": 1.6,
-          "sunnyDays": 12
+          "sunnyDays": 14,
+          "vizMinM": 14,
+          "vizMaxM": 20,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 11,
           "tempC": 21,
           "waveM": 0.8,
-          "vizM": 19,
+          "vizM": 15,
           "rainMm": 95,
           "windMs": 2.2,
-          "sunnyDays": 9
+          "sunnyDays": 9,
+          "vizMinM": 12,
+          "vizMaxM": 17,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 12,
           "tempC": 18,
           "waveM": 0.8,
-          "vizM": 17,
+          "vizM": 14,
           "rainMm": 67,
           "windMs": 2.5,
-          "sunnyDays": 11
+          "sunnyDays": 12,
+          "vizMinM": 12,
+          "vizMaxM": 16,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         }
       ],
       "windows": {
@@ -3655,8 +4280,9 @@
           8
         ]
       },
-      "generatedAt": "2026-06-10T20:55:50.761Z"
-    }
+      "generatedAt": "2026-07-02T19:01:59.678Z"
+    },
+    "bestTimeAuto": "From June to August, the sea is calmest, the water is clearest, and there is the least rain. The water warms to 27–28°C in summer and drops to about 16°C in winter. Conditions vary by coast."
   },
   "campania": {
     "children": [],
@@ -3811,109 +4437,157 @@
           "m": 1,
           "tempC": 16.5,
           "waveM": 1.3,
-          "vizM": 21,
+          "vizM": 17,
           "rainMm": 47,
           "windMs": 4.1,
-          "sunnyDays": 11
+          "sunnyDays": 13,
+          "vizMinM": 16,
+          "vizMaxM": 19,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 2,
           "tempC": 16,
           "waveM": 1.3,
-          "vizM": 21,
+          "vizM": 14,
           "rainMm": 42,
           "windMs": 2.9,
-          "sunnyDays": 12
+          "sunnyDays": 15,
+          "vizMinM": 12,
+          "vizMaxM": 15,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 3,
           "tempC": 16,
           "waveM": 1.1,
-          "vizM": 22,
+          "vizM": 16,
           "rainMm": 28,
           "windMs": 2.6,
-          "sunnyDays": 15
+          "sunnyDays": 18,
+          "vizMinM": 16,
+          "vizMaxM": 17,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 4,
           "tempC": 16.5,
           "waveM": 1,
-          "vizM": 25,
+          "vizM": 16,
           "rainMm": 9,
           "windMs": 1.4,
-          "sunnyDays": 14
+          "sunnyDays": 17,
+          "vizMinM": 15,
+          "vizMaxM": 18,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 5,
           "tempC": 19,
           "waveM": 0.8,
-          "vizM": 26,
+          "vizM": 19,
           "rainMm": 12,
           "windMs": 1.2,
-          "sunnyDays": 17
+          "sunnyDays": 23,
+          "vizMinM": 19,
+          "vizMaxM": 21,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 6,
           "tempC": 23.5,
           "waveM": 0.6,
-          "vizM": 26,
+          "vizM": 19,
           "rainMm": 4,
           "windMs": 1.5,
-          "sunnyDays": 23
+          "sunnyDays": 26,
+          "vizMinM": 18,
+          "vizMaxM": 20,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 7,
           "tempC": 26.5,
           "waveM": 0.5,
-          "vizM": 27,
+          "vizM": 20,
           "rainMm": 2,
           "windMs": 2.8,
-          "sunnyDays": 29
+          "sunnyDays": 31,
+          "vizMinM": 17,
+          "vizMaxM": 22,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 8,
           "tempC": 27.5,
           "waveM": 0.5,
-          "vizM": 27,
+          "vizM": 25,
           "rainMm": 6,
           "windMs": 2.3,
-          "sunnyDays": 27
+          "sunnyDays": 30,
+          "vizMinM": 21,
+          "vizMaxM": 28,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 9,
           "tempC": 27,
           "waveM": 0.7,
-          "vizM": 28,
+          "vizM": 22,
           "rainMm": 36,
           "windMs": 1.4,
-          "sunnyDays": 16
+          "sunnyDays": 23,
+          "vizMinM": 21,
+          "vizMaxM": 23,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 10,
           "tempC": 24.5,
           "waveM": 0.8,
-          "vizM": 27,
+          "vizM": 22,
           "rainMm": 67,
           "windMs": 1.6,
-          "sunnyDays": 14
+          "sunnyDays": 17,
+          "vizMinM": 21,
+          "vizMaxM": 23,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 11,
           "tempC": 22,
           "waveM": 1.1,
-          "vizM": 25,
+          "vizM": 17,
           "rainMm": 94,
           "windMs": 2.7,
-          "sunnyDays": 9
+          "sunnyDays": 13,
+          "vizMinM": 16,
+          "vizMaxM": 19,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 12,
           "tempC": 18.5,
           "waveM": 1.3,
-          "vizM": 22,
+          "vizM": 17,
           "rainMm": 62,
           "windMs": 3.6,
-          "sunnyDays": 10
+          "sunnyDays": 14,
+          "vizMinM": 16,
+          "vizMaxM": 17,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         }
       ],
       "windows": {
@@ -3947,9 +4621,9 @@
           8
         ]
       },
-      "generatedAt": "2026-06-10T20:55:50.761Z"
+      "generatedAt": "2026-07-02T19:01:59.678Z"
     },
-    "bestTime": "June to August brings the calmest seas and driest months, with water warming to a pleasant 27–28°C."
+    "bestTime": "From June to August, the sea is calmest and there is the least rain. The water warms to 27–28°C in summer and drops to about 16°C in winter."
   },
   "comino": {
     "children": [],
@@ -4036,109 +4710,157 @@
           "m": 1,
           "tempC": 14,
           "waveM": 0.5,
-          "vizM": 14,
+          "vizM": 12,
           "rainMm": 199,
           "windMs": 1.5,
-          "sunnyDays": 5
+          "sunnyDays": 9,
+          "vizMinM": 11,
+          "vizMaxM": 13,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 2,
           "tempC": 13.5,
           "waveM": 0.5,
-          "vizM": 15,
+          "vizM": 12,
           "rainMm": 182,
           "windMs": 1.4,
-          "sunnyDays": 5
+          "sunnyDays": 8,
+          "vizMinM": 10,
+          "vizMaxM": 12,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 3,
           "tempC": 14,
           "waveM": 0.5,
-          "vizM": 15,
+          "vizM": 10,
           "rainMm": 204,
           "windMs": 1.3,
-          "sunnyDays": 5
+          "sunnyDays": 11,
+          "vizMinM": 9,
+          "vizMaxM": 11,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 4,
           "tempC": 16,
           "waveM": 0.4,
-          "vizM": 16,
+          "vizM": 11,
           "rainMm": 116,
           "windMs": 0.8,
-          "sunnyDays": 8
+          "sunnyDays": 12,
+          "vizMinM": 10,
+          "vizMaxM": 13,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 5,
           "tempC": 19.5,
           "waveM": 0.3,
-          "vizM": 17,
+          "vizM": 13,
           "rainMm": 148,
           "windMs": 0.8,
-          "sunnyDays": 6
+          "sunnyDays": 12,
+          "vizMinM": 12,
+          "vizMaxM": 14,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 6,
           "tempC": 23.5,
           "waveM": 0.3,
-          "vizM": 20,
+          "vizM": 14,
           "rainMm": 59,
           "windMs": 0.4,
-          "sunnyDays": 14
+          "sunnyDays": 19,
+          "vizMinM": 12,
+          "vizMaxM": 18,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 7,
           "tempC": 25.5,
           "waveM": 0.2,
-          "vizM": 22,
+          "vizM": 13,
           "rainMm": 40,
           "windMs": 0.7,
-          "sunnyDays": 20
+          "sunnyDays": 25,
+          "vizMinM": 12,
+          "vizMaxM": 18,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 8,
           "tempC": 26,
           "waveM": 0.2,
-          "vizM": 22,
+          "vizM": 17,
           "rainMm": 56,
           "windMs": 0.7,
-          "sunnyDays": 17
+          "sunnyDays": 25,
+          "vizMinM": 12,
+          "vizMaxM": 18,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 9,
           "tempC": 24.5,
           "waveM": 0.3,
-          "vizM": 21,
+          "vizM": 18,
           "rainMm": 164,
           "windMs": 0.8,
-          "sunnyDays": 8
+          "sunnyDays": 16,
+          "vizMinM": 16,
+          "vizMaxM": 22,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 10,
           "tempC": 21.5,
           "waveM": 0.3,
-          "vizM": 18,
+          "vizM": 14,
           "rainMm": 185,
           "windMs": 1.1,
-          "sunnyDays": 7
+          "sunnyDays": 14,
+          "vizMinM": 13,
+          "vizMaxM": 15,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 11,
           "tempC": 19,
           "waveM": 0.5,
-          "vizM": 16,
+          "vizM": 13,
           "rainMm": 338,
           "windMs": 1.5,
-          "sunnyDays": 3
+          "sunnyDays": 9,
+          "vizMinM": 12,
+          "vizMaxM": 13,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 12,
           "tempC": 16,
           "waveM": 0.5,
-          "vizM": 13,
+          "vizM": 11,
           "rainMm": 226,
           "windMs": 1.7,
-          "sunnyDays": 6
+          "sunnyDays": 14,
+          "vizMinM": 11,
+          "vizMaxM": 12,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         }
       ],
       "windows": {
@@ -4180,9 +4902,9 @@
           8
         ]
       },
-      "generatedAt": "2026-06-10T20:55:50.761Z"
+      "generatedAt": "2026-07-02T19:01:59.678Z"
     },
-    "bestTime": "June to August delivers the calmest seas, clearest water, and driest months, with water temperatures reaching a pleasant 26°C."
+    "bestTime": "From June to August, the sea is calmest, the water is clearest, and there is the least rain. The water warms to 26°C in summer and drops to about 14°C in winter."
   },
   "netherlands": {
     "children": [],
@@ -4201,7 +4923,7 @@
     "conditions": {
       "source": "monthly_climatology",
       "basis": "10yr",
-      "siteCount": 132,
+      "siteCount": 131,
       "span": "varies",
       "byMonth": [
         {
@@ -4211,16 +4933,24 @@
           "vizM": 16,
           "rainMm": 53,
           "windMs": 6,
-          "sunnyDays": 10
+          "sunnyDays": 12,
+          "vizMinM": 7,
+          "vizMaxM": 32,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 2,
           "tempC": 19,
           "waveM": 1.2,
-          "vizM": 17,
+          "vizM": 15,
           "rainMm": 43,
           "windMs": 6.1,
-          "sunnyDays": 10
+          "sunnyDays": 14,
+          "vizMinM": 6,
+          "vizMaxM": 24,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 3,
@@ -4228,53 +4958,77 @@
           "waveM": 1.1,
           "vizM": 19,
           "rainMm": 41,
-          "windMs": 5.1,
-          "sunnyDays": 11
+          "windMs": 5,
+          "sunnyDays": 12,
+          "vizMinM": 5,
+          "vizMaxM": 32,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 4,
-          "tempC": 21.5,
+          "tempC": 21,
           "waveM": 1,
-          "vizM": 19,
+          "vizM": 18,
           "rainMm": 45,
           "windMs": 4.5,
-          "sunnyDays": 9
+          "sunnyDays": 9,
+          "vizMinM": 4,
+          "vizMaxM": 31,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 5,
-          "tempC": 23,
+          "tempC": 22.5,
           "waveM": 1.1,
-          "vizM": 19,
+          "vizM": 20,
           "rainMm": 58,
-          "windMs": 5.5,
-          "sunnyDays": 6
+          "windMs": 5.4,
+          "sunnyDays": 8,
+          "vizMinM": 4,
+          "vizMaxM": 31,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 6,
           "tempC": 24,
           "waveM": 1.3,
-          "vizM": 16,
+          "vizM": 20,
           "rainMm": 51,
           "windMs": 6.2,
-          "sunnyDays": 7
+          "sunnyDays": 8,
+          "vizMinM": 4,
+          "vizMaxM": 24,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 7,
           "tempC": 24.5,
           "waveM": 1.3,
-          "vizM": 15,
+          "vizM": 17,
           "rainMm": 61,
           "windMs": 6.4,
-          "sunnyDays": 7
+          "sunnyDays": 10,
+          "vizMinM": 4,
+          "vizMaxM": 22,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 8,
-          "tempC": 25.5,
+          "tempC": 25,
           "waveM": 1.2,
-          "vizM": 14,
+          "vizM": 13,
           "rainMm": 64,
           "windMs": 5.7,
-          "sunnyDays": 8
+          "sunnyDays": 9,
+          "vizMinM": 4,
+          "vizMaxM": 24,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 9,
@@ -4282,42 +5036,60 @@
           "waveM": 1.1,
           "vizM": 15,
           "rainMm": 77,
-          "windMs": 4.9,
-          "sunnyDays": 7
+          "windMs": 4.8,
+          "sunnyDays": 8,
+          "vizMinM": 5,
+          "vizMaxM": 29,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 10,
           "tempC": 24,
           "waveM": 1,
-          "vizM": 17,
+          "vizM": 18,
           "rainMm": 97,
-          "windMs": 4.4,
-          "sunnyDays": 6
+          "windMs": 4.3,
+          "sunnyDays": 6,
+          "vizMinM": 6,
+          "vizMaxM": 27,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 11,
-          "tempC": 22.5,
+          "tempC": 22,
           "waveM": 1.1,
-          "vizM": 18,
-          "rainMm": 109,
+          "vizM": 21,
+          "rainMm": 108,
           "windMs": 4.6,
-          "sunnyDays": 6
+          "sunnyDays": 8,
+          "vizMinM": 7,
+          "vizMaxM": 28,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 12,
           "tempC": 20.5,
           "waveM": 1.3,
-          "vizM": 17,
+          "vizM": 18,
           "rainMm": 71,
           "windMs": 5.9,
-          "sunnyDays": 9
+          "sunnyDays": 11,
+          "vizMinM": 6,
+          "vizMaxM": 28,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         }
       ],
       "windows": {
         "warmest": [
+          6,
           7,
           8,
-          9
+          9,
+          10
         ],
         "calmest": [],
         "clearest": [],
@@ -4340,9 +5112,10 @@
           6
         ]
       },
-      "generatedAt": "2026-06-10T20:55:50.761Z"
+      "generatedAt": "2026-07-02T19:01:59.678Z"
     },
-    "bestTime": "April sees the Atlantic coast calm with clear water and dry conditions, with temperatures around 12–22°C. On the Caribbean coast, January to April offers dry months, with 27°C waters."
+    "bestTime": "April sees the Atlantic coast calm with clear water and dry conditions, with temperatures around 12–22°C. On the Caribbean coast, January to April offers dry months, with 27°C waters.",
+    "bestTimeAuto": "In April and June to August, the sea is calmest. The water warms to 19–20°C in summer and drops to about 6°C in winter. Conditions vary by coast."
   },
   "drenthe": {
     "children": [],
@@ -4488,109 +5261,157 @@
           "m": 1,
           "tempC": 5.5,
           "waveM": 1.1,
-          "vizM": 16,
+          "vizM": 11,
           "rainMm": 152,
           "windMs": 2.3,
-          "sunnyDays": 3
+          "sunnyDays": 5,
+          "vizMinM": 8,
+          "vizMaxM": 12,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 2,
           "tempC": 4,
           "waveM": 1,
-          "vizM": 16,
+          "vizM": 10,
           "rainMm": 124,
           "windMs": 2.3,
-          "sunnyDays": 3
+          "sunnyDays": 4,
+          "vizMinM": 7,
+          "vizMaxM": 11,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 3,
           "tempC": 4,
           "waveM": 0.9,
-          "vizM": 16,
+          "vizM": 10,
           "rainMm": 116,
           "windMs": 1.8,
-          "sunnyDays": 4
+          "sunnyDays": 5,
+          "vizMinM": 6,
+          "vizMaxM": 12,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 4,
           "tempC": 5.5,
           "waveM": 0.7,
-          "vizM": 15,
+          "vizM": 9,
           "rainMm": 78,
           "windMs": 1.4,
-          "sunnyDays": 6
+          "sunnyDays": 7,
+          "vizMinM": 4,
+          "vizMaxM": 12,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 5,
           "tempC": 8.5,
           "waveM": 0.6,
-          "vizM": 14,
+          "vizM": 9,
           "rainMm": 82,
           "windMs": 1.5,
-          "sunnyDays": 5
+          "sunnyDays": 7,
+          "vizMinM": 4,
+          "vizMaxM": 12,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 6,
           "tempC": 11.5,
           "waveM": 0.7,
-          "vizM": 13,
+          "vizM": 4,
           "rainMm": 100,
           "windMs": 1.6,
-          "sunnyDays": 4
+          "sunnyDays": 6,
+          "vizMinM": 4,
+          "vizMaxM": 12,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 7,
           "tempC": 14.5,
           "waveM": 0.7,
-          "vizM": 11,
+          "vizM": 5,
           "rainMm": 108,
           "windMs": 1.6,
-          "sunnyDays": 4
+          "sunnyDays": 6,
+          "vizMinM": 4,
+          "vizMaxM": 8,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 8,
           "tempC": 15,
           "waveM": 0.7,
-          "vizM": 10,
+          "vizM": 5,
           "rainMm": 146,
           "windMs": 1.7,
-          "sunnyDays": 3
+          "sunnyDays": 5,
+          "vizMinM": 4,
+          "vizMaxM": 9,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 9,
           "tempC": 13.5,
           "waveM": 0.8,
-          "vizM": 11,
+          "vizM": 5,
           "rainMm": 156,
           "windMs": 1.9,
-          "sunnyDays": 3
+          "sunnyDays": 5,
+          "vizMinM": 5,
+          "vizMaxM": 10,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 10,
           "tempC": 11,
           "waveM": 0.9,
-          "vizM": 13,
+          "vizM": 7,
           "rainMm": 171,
           "windMs": 1.9,
-          "sunnyDays": 3
+          "sunnyDays": 5,
+          "vizMinM": 6,
+          "vizMaxM": 11,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 11,
           "tempC": 9,
           "waveM": 0.9,
-          "vizM": 18,
+          "vizM": 11,
           "rainMm": 149,
           "windMs": 2.3,
-          "sunnyDays": 3
+          "sunnyDays": 3,
+          "vizMinM": 8,
+          "vizMaxM": 12,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 12,
           "tempC": 6.5,
           "waveM": 1,
-          "vizM": 22,
+          "vizM": 11,
           "rainMm": 163,
           "windMs": 2.1,
-          "sunnyDays": 2
+          "sunnyDays": 3,
+          "vizMinM": 10,
+          "vizMaxM": 11,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         }
       ],
       "windows": {
@@ -4632,9 +5453,10 @@
           8
         ]
       },
-      "generatedAt": "2026-06-10T20:55:50.761Z"
+      "generatedAt": "2026-07-02T19:01:59.678Z"
     },
-    "bestTime": "On the Atlantic coast, dive from April to August when the seas calm; in the Arctic, the same months offer similar tranquility. Expect brisk waters, warming to 16–17°C in July and August."
+    "bestTime": "On the Atlantic coast, dive from April to August when the seas calm; in the Arctic, the same months offer similar tranquility. Expect brisk waters, warming to 16–17°C in July and August.",
+    "bestTimeAuto": "In February to March and November to December, the water is clearest. The water warms to 12–13°C in summer and drops to about 3°C in winter. Conditions vary by coast."
   },
   "agder": {
     "children": [],
@@ -4804,64 +5626,92 @@
           "m": 1,
           "tempC": 11.5,
           "waveM": 0.7,
-          "vizM": 10,
+          "vizM": 7,
           "rainMm": 0,
           "windMs": 1.8,
-          "sunnyDays": 25
+          "sunnyDays": 2,
+          "vizMinM": 6,
+          "vizMaxM": 7,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 2,
           "tempC": 11,
           "waveM": 0.6,
-          "vizM": 9,
+          "vizM": 7,
           "rainMm": 0,
           "windMs": 1.8,
-          "sunnyDays": 23
+          "sunnyDays": 4,
+          "vizMinM": 5,
+          "vizMaxM": 7,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 3,
           "tempC": 12,
           "waveM": 0.6,
-          "vizM": 9,
+          "vizM": 5,
           "rainMm": 2,
           "windMs": 2.2,
-          "sunnyDays": 25
+          "sunnyDays": 6,
+          "vizMinM": 4,
+          "vizMaxM": 5,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 4,
           "tempC": 14,
           "waveM": 0.5,
-          "vizM": 10,
+          "vizM": 3,
           "rainMm": 1,
           "windMs": 2.3,
-          "sunnyDays": 21
+          "sunnyDays": 8,
+          "vizMinM": 3,
+          "vizMaxM": 3,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 5,
           "tempC": 17.5,
           "waveM": 0.6,
-          "vizM": 10,
+          "vizM": 3,
           "rainMm": 20,
           "windMs": 2.2,
-          "sunnyDays": 21
+          "sunnyDays": 7,
+          "vizMinM": 3,
+          "vizMaxM": 3,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 6,
           "tempC": 21.5,
           "waveM": 1,
-          "vizM": 9,
+          "vizM": 3,
           "rainMm": 2,
           "windMs": 2.3,
-          "sunnyDays": 17
+          "sunnyDays": 7,
+          "vizMinM": 3,
+          "vizMaxM": 4,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 7,
           "tempC": 22.5,
           "waveM": 1.2,
-          "vizM": 5,
+          "vizM": 3,
           "rainMm": 9,
           "windMs": 4.4,
-          "sunnyDays": 11
+          "sunnyDays": 7,
+          "vizMinM": 3,
+          "vizMaxM": 4,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 8,
@@ -4870,43 +5720,63 @@
           "vizM": 4,
           "rainMm": 4,
           "windMs": 3.9,
-          "sunnyDays": 15
+          "sunnyDays": 8,
+          "vizMinM": 3,
+          "vizMaxM": 4,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 9,
           "tempC": 22,
           "waveM": 0.9,
-          "vizM": 5,
+          "vizM": 4,
           "rainMm": 0,
           "windMs": 2.3,
-          "sunnyDays": 20
+          "sunnyDays": 6,
+          "vizMinM": 3,
+          "vizMaxM": 5,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 10,
           "tempC": 19,
           "waveM": 0.6,
-          "vizM": 7,
+          "vizM": 6,
           "rainMm": 11,
           "windMs": 2,
-          "sunnyDays": 23
+          "sunnyDays": 5,
+          "vizMinM": 5,
+          "vizMaxM": 7,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 11,
           "tempC": 16,
           "waveM": 0.7,
-          "vizM": 10,
+          "vizM": 7,
           "rainMm": 1,
           "windMs": 2.2,
-          "sunnyDays": 25
+          "sunnyDays": 2,
+          "vizMinM": 6,
+          "vizMaxM": 8,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 12,
           "tempC": 13.5,
           "waveM": 0.7,
-          "vizM": 12,
+          "vizM": 7,
           "rainMm": 1,
           "windMs": 2.1,
-          "sunnyDays": 25
+          "sunnyDays": 3,
+          "vizMinM": 6,
+          "vizMaxM": 9,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         }
       ],
       "windows": {
@@ -4947,9 +5817,9 @@
           4
         ]
       },
-      "generatedAt": "2026-06-10T20:55:50.761Z"
+      "generatedAt": "2026-07-02T19:01:59.678Z"
     },
-    "bestTime": "April to August provides the calmest seas, with waters reaching a mild 19–20°C in summer."
+    "bestTime": "From April to August, the sea is calmest. The water warms to 19–20°C in summer and drops to about 3°C in winter. Conditions vary by coast."
   },
   "wojewodztwo-dolnoslaskie": {
     "children": [],
@@ -4996,109 +5866,157 @@
           "m": 1,
           "tempC": 17,
           "waveM": 1.9,
-          "vizM": 15,
+          "vizM": 10,
           "rainMm": 75,
           "windMs": 2.3,
-          "sunnyDays": 8
+          "sunnyDays": 10,
+          "vizMinM": 8,
+          "vizMaxM": 16,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 2,
           "tempC": 16.5,
           "waveM": 1.9,
-          "vizM": 13,
+          "vizM": 8,
           "rainMm": 64,
           "windMs": 2.3,
-          "sunnyDays": 7
+          "sunnyDays": 9,
+          "vizMinM": 7,
+          "vizMaxM": 13,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 3,
           "tempC": 16.5,
           "waveM": 1.7,
-          "vizM": 13,
+          "vizM": 7,
           "rainMm": 80,
           "windMs": 2.8,
-          "sunnyDays": 7
+          "sunnyDays": 11,
+          "vizMinM": 7,
+          "vizMaxM": 15,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 4,
           "tempC": 17,
           "waveM": 1.5,
-          "vizM": 14,
+          "vizM": 7,
           "rainMm": 62,
           "windMs": 2.4,
-          "sunnyDays": 8
+          "sunnyDays": 8,
+          "vizMinM": 7,
+          "vizMaxM": 15,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 5,
           "tempC": 18,
           "waveM": 1.3,
-          "vizM": 16,
+          "vizM": 8,
           "rainMm": 30,
           "windMs": 3,
-          "sunnyDays": 12
+          "sunnyDays": 13,
+          "vizMinM": 7,
+          "vizMaxM": 19,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 6,
           "tempC": 19,
           "waveM": 1.1,
-          "vizM": 17,
+          "vizM": 9,
           "rainMm": 17,
           "windMs": 3.6,
-          "sunnyDays": 14
+          "sunnyDays": 15,
+          "vizMinM": 7,
+          "vizMaxM": 20,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 7,
           "tempC": 20,
           "waveM": 1.1,
-          "vizM": 17,
+          "vizM": 8,
           "rainMm": 5,
           "windMs": 4.3,
-          "sunnyDays": 18
+          "sunnyDays": 19,
+          "vizMinM": 7,
+          "vizMaxM": 21,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 8,
           "tempC": 21,
           "waveM": 1.1,
-          "vizM": 17,
+          "vizM": 8,
           "rainMm": 5,
           "windMs": 4.2,
-          "sunnyDays": 18
+          "sunnyDays": 20,
+          "vizMinM": 7,
+          "vizMaxM": 22,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 9,
           "tempC": 21,
           "waveM": 1.2,
-          "vizM": 17,
+          "vizM": 10,
           "rainMm": 19,
           "windMs": 3,
-          "sunnyDays": 14
+          "sunnyDays": 15,
+          "vizMinM": 8,
+          "vizMaxM": 21,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 10,
           "tempC": 20.5,
           "waveM": 1.5,
-          "vizM": 17,
+          "vizM": 9,
           "rainMm": 56,
           "windMs": 1.9,
-          "sunnyDays": 9
+          "sunnyDays": 11,
+          "vizMinM": 8,
+          "vizMaxM": 19,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 11,
           "tempC": 19,
           "waveM": 1.7,
-          "vizM": 16,
+          "vizM": 9,
           "rainMm": 66,
           "windMs": 2.4,
-          "sunnyDays": 8
+          "sunnyDays": 9,
+          "vizMinM": 8,
+          "vizMaxM": 17,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 12,
           "tempC": 18,
           "waveM": 1.9,
-          "vizM": 15,
+          "vizM": 10,
           "rainMm": 80,
           "windMs": 2.2,
-          "sunnyDays": 7
+          "sunnyDays": 9,
+          "vizMinM": 7,
+          "vizMaxM": 16,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         }
       ],
       "windows": {
@@ -5134,9 +6052,9 @@
           9
         ]
       },
-      "generatedAt": "2026-06-10T20:55:50.761Z"
+      "generatedAt": "2026-07-02T19:01:59.678Z"
     },
-    "bestTime": "June to September delivers the calmest seas and driest weather, with water temperatures warming to 20–21°C."
+    "bestTime": "From June to September, the sea is calmest and there is the least rain. The water is warmest at 20–21°C and cools to about 17°C."
   },
   "acores": {
     "children": [],
@@ -5171,109 +6089,157 @@
           "m": 1,
           "tempC": 26.5,
           "waveM": 2.2,
-          "vizM": 31,
+          "vizM": 23,
           "rainMm": 84,
           "windMs": 4.9,
-          "sunnyDays": 8
+          "sunnyDays": 4,
+          "vizMinM": 23,
+          "vizMaxM": 24,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 2,
           "tempC": 27,
           "waveM": 2.3,
-          "vizM": 31,
+          "vizM": 17,
           "rainMm": 74,
           "windMs": 4.8,
-          "sunnyDays": 7
+          "sunnyDays": 3,
+          "vizMinM": 16,
+          "vizMaxM": 18,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 3,
           "tempC": 26.5,
           "waveM": 2.3,
-          "vizM": 31,
+          "vizM": 20,
           "rainMm": 48,
           "windMs": 4.9,
-          "sunnyDays": 10
+          "sunnyDays": 5,
+          "vizMinM": 19,
+          "vizMaxM": 20,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 4,
           "tempC": 25.5,
           "waveM": 2.4,
-          "vizM": 29,
+          "vizM": 18,
           "rainMm": 59,
           "windMs": 3.2,
-          "sunnyDays": 9
+          "sunnyDays": 5,
+          "vizMinM": 17,
+          "vizMaxM": 19,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 5,
           "tempC": 24.5,
           "waveM": 2.4,
-          "vizM": 27,
+          "vizM": 18,
           "rainMm": 45,
           "windMs": 2.5,
-          "sunnyDays": 12
+          "sunnyDays": 5,
+          "vizMinM": 17,
+          "vizMaxM": 19,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 6,
           "tempC": 23,
           "waveM": 2.5,
-          "vizM": 24,
+          "vizM": 15,
           "rainMm": 37,
           "windMs": 2.7,
-          "sunnyDays": 13
+          "sunnyDays": 7,
+          "vizMinM": 15,
+          "vizMaxM": 17,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 7,
           "tempC": 22,
           "waveM": 2.6,
-          "vizM": 23,
+          "vizM": 14,
           "rainMm": 29,
           "windMs": 2.6,
-          "sunnyDays": 15
+          "sunnyDays": 11,
+          "vizMinM": 13,
+          "vizMaxM": 15,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 8,
           "tempC": 21.5,
           "waveM": 2.6,
-          "vizM": 22,
+          "vizM": 15,
           "rainMm": 25,
           "windMs": 2.1,
-          "sunnyDays": 14
+          "sunnyDays": 12,
+          "vizMinM": 15,
+          "vizMaxM": 16,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 9,
           "tempC": 22,
           "waveM": 2.5,
-          "vizM": 24,
+          "vizM": 15,
           "rainMm": 26,
           "windMs": 3.1,
-          "sunnyDays": 12
+          "sunnyDays": 8,
+          "vizMinM": 15,
+          "vizMaxM": 16,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 10,
           "tempC": 23,
           "waveM": 2.4,
-          "vizM": 27,
+          "vizM": 19,
           "rainMm": 46,
           "windMs": 3.3,
-          "sunnyDays": 9
+          "sunnyDays": 5,
+          "vizMinM": 18,
+          "vizMaxM": 20,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 11,
           "tempC": 24,
           "waveM": 2.2,
-          "vizM": 30,
+          "vizM": 20,
           "rainMm": 51,
           "windMs": 2.9,
-          "sunnyDays": 8
+          "sunnyDays": 4,
+          "vizMinM": 19,
+          "vizMaxM": 20,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 12,
           "tempC": 25,
           "waveM": 2.1,
-          "vizM": 31,
+          "vizM": 21,
           "rainMm": 46,
           "windMs": 3.7,
-          "sunnyDays": 8
+          "sunnyDays": 3,
+          "vizMinM": 20,
+          "vizMaxM": 21,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         }
       ],
       "windows": {
@@ -5308,9 +6274,9 @@
           12
         ]
       },
-      "generatedAt": "2026-06-10T20:55:50.761Z"
+      "generatedAt": "2026-07-02T19:01:59.678Z"
     },
-    "bestTime": "December to March offers the clearest water, with temperatures peaking at a mild 27°C."
+    "bestTime": "From December to March, the water is clearest. The water is warmest at 27°C and cools to about 22°C."
   },
   "faro": {
     "children": [],
@@ -5477,109 +6443,157 @@
           "m": 1,
           "tempC": 15,
           "waveM": 1.1,
-          "vizM": 14,
+          "vizM": 12,
           "rainMm": 69,
           "windMs": 2.4,
-          "sunnyDays": 10
+          "sunnyDays": 12,
+          "vizMinM": 10,
+          "vizMaxM": 14,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 2,
           "tempC": 14.5,
           "waveM": 1.1,
-          "vizM": 14,
+          "vizM": 11,
           "rainMm": 47,
           "windMs": 2,
-          "sunnyDays": 9
+          "sunnyDays": 12,
+          "vizMinM": 10,
+          "vizMaxM": 12,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 3,
           "tempC": 14.5,
           "waveM": 1,
-          "vizM": 14,
+          "vizM": 10,
           "rainMm": 68,
           "windMs": 2.1,
-          "sunnyDays": 9
+          "sunnyDays": 14,
+          "vizMinM": 9,
+          "vizMaxM": 12,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 4,
           "tempC": 16,
           "waveM": 0.9,
-          "vizM": 17,
+          "vizM": 11,
           "rainMm": 69,
           "windMs": 1.4,
-          "sunnyDays": 8
+          "sunnyDays": 12,
+          "vizMinM": 10,
+          "vizMaxM": 14,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 5,
           "tempC": 18,
           "waveM": 0.8,
-          "vizM": 19,
+          "vizM": 12,
           "rainMm": 43,
           "windMs": 1.6,
-          "sunnyDays": 10
+          "sunnyDays": 14,
+          "vizMinM": 10,
+          "vizMaxM": 16,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 6,
           "tempC": 21.5,
           "waveM": 0.7,
-          "vizM": 20,
+          "vizM": 15,
           "rainMm": 23,
           "windMs": 1.7,
-          "sunnyDays": 12
+          "sunnyDays": 18,
+          "vizMinM": 11,
+          "vizMaxM": 18,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 7,
           "tempC": 24,
           "waveM": 0.7,
-          "vizM": 21,
+          "vizM": 15,
           "rainMm": 12,
           "windMs": 2.1,
-          "sunnyDays": 16
+          "sunnyDays": 22,
+          "vizMinM": 11,
+          "vizMaxM": 20,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 8,
           "tempC": 24.5,
           "waveM": 0.7,
-          "vizM": 21,
+          "vizM": 16,
           "rainMm": 19,
           "windMs": 2,
-          "sunnyDays": 15
+          "sunnyDays": 20,
+          "vizMinM": 9,
+          "vizMaxM": 20,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 9,
           "tempC": 23.5,
           "waveM": 0.8,
-          "vizM": 21,
+          "vizM": 18,
           "rainMm": 45,
           "windMs": 1.8,
-          "sunnyDays": 10
+          "sunnyDays": 14,
+          "vizMinM": 13,
+          "vizMaxM": 20,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 10,
           "tempC": 21,
           "waveM": 0.9,
-          "vizM": 19,
+          "vizM": 15,
           "rainMm": 70,
           "windMs": 1.8,
-          "sunnyDays": 9
+          "sunnyDays": 13,
+          "vizMinM": 11,
+          "vizMaxM": 17,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 11,
           "tempC": 18,
           "waveM": 1.1,
-          "vizM": 16,
+          "vizM": 13,
           "rainMm": 85,
           "windMs": 2.3,
-          "sunnyDays": 8
+          "sunnyDays": 12,
+          "vizMinM": 10,
+          "vizMaxM": 15,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 12,
           "tempC": 16,
           "waveM": 1.1,
-          "vizM": 15,
+          "vizM": 12,
           "rainMm": 73,
           "windMs": 2.2,
-          "sunnyDays": 9
+          "sunnyDays": 13,
+          "vizMinM": 10,
+          "vizMaxM": 14,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         }
       ],
       "windows": {
@@ -5620,9 +6634,10 @@
           8
         ]
       },
-      "generatedAt": "2026-06-10T20:55:50.761Z"
+      "generatedAt": "2026-07-02T19:01:59.678Z"
     },
-    "bestTime": "In the Mediterranean coast, June to August offers the calmest seas and clearest water, with warm temperatures reaching 25–26°C. On the Atlantic coast, dive in June for similar calm and clear conditions, with sea temperatures around 17–18°C. Meanwhile, the Canary Islands see their driest months and clearest water from June to September, with comfortable waters at 19–23°C."
+    "bestTime": "In the Mediterranean coast, June to August offers the calmest seas and clearest water, with warm temperatures reaching 25–26°C. On the Atlantic coast, dive in June for similar calm and clear conditions, with sea temperatures around 17–18°C. Meanwhile, the Canary Islands see their driest months and clearest water from June to September, with comfortable waters at 19–23°C.",
+    "bestTimeAuto": "From June to July, the sea is calmest, the water is clearest, and there is the least rain. The water is warmest at 17–18°C and cools to about 13°C. Conditions vary by coast."
   },
   "andalucia": {
     "children": [],
@@ -5657,109 +6672,157 @@
           "m": 1,
           "tempC": 20,
           "waveM": 1.5,
-          "vizM": 17,
+          "vizM": 18,
           "rainMm": 77,
           "windMs": 3.8,
-          "sunnyDays": 12
+          "sunnyDays": 17,
+          "vizMinM": 15,
+          "vizMaxM": 22,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 2,
           "tempC": 19,
           "waveM": 1.5,
-          "vizM": 16,
+          "vizM": 15,
           "rainMm": 56,
           "windMs": 4,
-          "sunnyDays": 12
+          "sunnyDays": 16,
+          "vizMinM": 12,
+          "vizMaxM": 16,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 3,
           "tempC": 19,
           "waveM": 1.5,
-          "vizM": 18,
+          "vizM": 17,
           "rainMm": 39,
           "windMs": 4.3,
-          "sunnyDays": 13
+          "sunnyDays": 18,
+          "vizMinM": 13,
+          "vizMaxM": 19,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 4,
           "tempC": 19.5,
           "waveM": 1.3,
-          "vizM": 20,
+          "vizM": 17,
           "rainMm": 24,
           "windMs": 4,
-          "sunnyDays": 14
+          "sunnyDays": 16,
+          "vizMinM": 16,
+          "vizMaxM": 20,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 5,
           "tempC": 20.5,
           "waveM": 1.2,
-          "vizM": 21,
+          "vizM": 20,
           "rainMm": 9,
           "windMs": 4.6,
-          "sunnyDays": 17
+          "sunnyDays": 16,
+          "vizMinM": 17,
+          "vizMaxM": 23,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 6,
           "tempC": 21.5,
           "waveM": 1.2,
-          "vizM": 22,
+          "vizM": 21,
           "rainMm": 6,
           "windMs": 4.8,
-          "sunnyDays": 17
+          "sunnyDays": 20,
+          "vizMinM": 18,
+          "vizMaxM": 24,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 7,
           "tempC": 22,
           "waveM": 1.4,
-          "vizM": 21,
+          "vizM": 17,
           "rainMm": 4,
           "windMs": 6.2,
-          "sunnyDays": 21
+          "sunnyDays": 24,
+          "vizMinM": 14,
+          "vizMaxM": 19,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 8,
           "tempC": 23,
           "waveM": 1.2,
-          "vizM": 20,
+          "vizM": 17,
           "rainMm": 3,
           "windMs": 5.9,
-          "sunnyDays": 22
+          "sunnyDays": 25,
+          "vizMinM": 14,
+          "vizMaxM": 19,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 9,
           "tempC": 23.5,
           "waveM": 1.1,
-          "vizM": 21,
+          "vizM": 17,
           "rainMm": 9,
           "windMs": 5,
-          "sunnyDays": 18
+          "sunnyDays": 21,
+          "vizMinM": 15,
+          "vizMaxM": 18,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 10,
           "tempC": 23,
           "waveM": 1.2,
-          "vizM": 21,
+          "vizM": 16,
           "rainMm": 14,
           "windMs": 3.7,
-          "sunnyDays": 15
+          "sunnyDays": 16,
+          "vizMinM": 14,
+          "vizMaxM": 17,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 11,
           "tempC": 22,
           "waveM": 1.3,
-          "vizM": 19,
+          "vizM": 17,
           "rainMm": 32,
           "windMs": 3.6,
-          "sunnyDays": 12
+          "sunnyDays": 13,
+          "vizMinM": 15,
+          "vizMaxM": 18,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 12,
           "tempC": 21,
           "waveM": 1.4,
-          "vizM": 18,
+          "vizM": 17,
           "rainMm": 53,
           "windMs": 3.5,
-          "sunnyDays": 13
+          "sunnyDays": 17,
+          "vizMinM": 14,
+          "vizMaxM": 19,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         }
       ],
       "windows": {
@@ -5791,9 +6854,9 @@
           9
         ]
       },
-      "generatedAt": "2026-06-10T20:55:50.761Z"
+      "generatedAt": "2026-07-02T19:01:59.678Z"
     },
-    "bestTime": "May to September is dry, with mild water around 21–23°C, though warmest August to October at 23–24°C."
+    "bestTime": "From May to September, there is the least rain. The water is warmest at 23–24°C and cools to about 19°C."
   },
   "catalonia": {
     "children": [],
@@ -5879,64 +6942,92 @@
           "m": 1,
           "tempC": 5.5,
           "waveM": 0.8,
-          "vizM": 8,
+          "vizM": 5,
           "rainMm": 63,
           "windMs": 3,
-          "sunnyDays": 4
+          "sunnyDays": 3,
+          "vizMinM": 3,
+          "vizMaxM": 7,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 2,
           "tempC": 4.5,
           "waveM": 0.7,
-          "vizM": 6,
+          "vizM": 5,
           "rainMm": 51,
           "windMs": 2.8,
-          "sunnyDays": 5
+          "sunnyDays": 4,
+          "vizMinM": 3,
+          "vizMaxM": 6,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 3,
           "tempC": 5,
           "waveM": 0.6,
-          "vizM": 5,
+          "vizM": 4,
           "rainMm": 43,
           "windMs": 2.3,
-          "sunnyDays": 8
+          "sunnyDays": 7,
+          "vizMinM": 2,
+          "vizMaxM": 5,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 4,
           "tempC": 7.5,
           "waveM": 0.5,
-          "vizM": 6,
+          "vizM": 3,
           "rainMm": 33,
           "windMs": 1.5,
-          "sunnyDays": 10
+          "sunnyDays": 9,
+          "vizMinM": 2,
+          "vizMaxM": 4,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 5,
           "tempC": 11.5,
           "waveM": 0.5,
-          "vizM": 6,
+          "vizM": 3,
           "rainMm": 41,
           "windMs": 1.8,
-          "sunnyDays": 10
+          "sunnyDays": 9,
+          "vizMinM": 2,
+          "vizMaxM": 4,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 6,
           "tempC": 16,
           "waveM": 0.7,
-          "vizM": 6,
+          "vizM": 3,
           "rainMm": 52,
           "windMs": 2.9,
-          "sunnyDays": 8
+          "sunnyDays": 8,
+          "vizMinM": 1,
+          "vizMaxM": 4,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 7,
           "tempC": 18.5,
           "waveM": 0.8,
-          "vizM": 4,
+          "vizM": 3,
           "rainMm": 69,
           "windMs": 3.4,
-          "sunnyDays": 8
+          "sunnyDays": 10,
+          "vizMinM": 1,
+          "vizMaxM": 4,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 8,
@@ -5945,43 +7036,63 @@
           "vizM": 4,
           "rainMm": 76,
           "windMs": 3.4,
-          "sunnyDays": 7
+          "sunnyDays": 7,
+          "vizMinM": 1,
+          "vizMaxM": 4,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 9,
           "tempC": 16.5,
           "waveM": 0.7,
-          "vizM": 5,
+          "vizM": 4,
           "rainMm": 66,
           "windMs": 2.8,
-          "sunnyDays": 6
+          "sunnyDays": 6,
+          "vizMinM": 2,
+          "vizMaxM": 5,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 10,
           "tempC": 13,
           "waveM": 0.7,
-          "vizM": 6,
+          "vizM": 5,
           "rainMm": 86,
           "windMs": 2.5,
-          "sunnyDays": 5
+          "sunnyDays": 5,
+          "vizMinM": 2,
+          "vizMaxM": 6,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 11,
           "tempC": 10,
           "waveM": 0.7,
-          "vizM": 9,
+          "vizM": 6,
           "rainMm": 70,
           "windMs": 3,
-          "sunnyDays": 4
+          "sunnyDays": 4,
+          "vizMinM": 3,
+          "vizMaxM": 8,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 12,
           "tempC": 7,
           "waveM": 0.8,
-          "vizM": 17,
+          "vizM": 11,
           "rainMm": 65,
           "windMs": 3.1,
-          "sunnyDays": 3
+          "sunnyDays": 4,
+          "vizMinM": 10,
+          "vizMaxM": 12,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         }
       ],
       "windows": {
@@ -6028,9 +7139,9 @@
           5
         ]
       },
-      "generatedAt": "2026-06-10T20:55:50.761Z"
+      "generatedAt": "2026-07-02T19:01:59.678Z"
     },
-    "bestTime": "February and April to May bring Sweden's calmest seas and clearest water, with temperatures at a brisk 5°C in cooler months and climbing to 19°C midsummer."
+    "bestTime": "In February and April to May, the sea is calmest, the water is clearest, and there is the least rain. The water warms to 19°C in summer and drops to about 5°C in winter."
   },
   "gotland": {
     "children": [],
@@ -6126,7 +7237,7 @@
       46.8182,
       8.2275
     ],
-    "bestTime": "From May to June and again August to September, Swiss lakes experience their calmest seas. Dive June–September if you seek the warmest water, reaching 20°C.",
+    "bestTime": "In May to June and August to September, the sea is calmest. The water warms to 20°C in summer and drops to about 5°C in winter.",
     "floraFauna": [],
     "tags": [
       "lake diving",
@@ -6144,109 +7255,157 @@
           "m": 1,
           "tempC": 5.5,
           "waveM": 0.6,
-          "vizM": 10,
+          "vizM": 5,
           "rainMm": 131,
           "windMs": 0.9,
-          "sunnyDays": 4
+          "sunnyDays": 4,
+          "vizMinM": 4,
+          "vizMaxM": 7,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 2,
           "tempC": 5,
           "waveM": 0.5,
-          "vizM": 6,
+          "vizM": 3,
           "rainMm": 89,
           "windMs": 0.9,
-          "sunnyDays": 4
+          "sunnyDays": 5,
+          "vizMinM": 2,
+          "vizMaxM": 3,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 3,
           "tempC": 5,
           "waveM": 0.5,
-          "vizM": 5,
+          "vizM": 2,
           "rainMm": 106,
           "windMs": 0.6,
-          "sunnyDays": 5
+          "sunnyDays": 8,
+          "vizMinM": 2,
+          "vizMaxM": 3,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 4,
           "tempC": 8.5,
           "waveM": 0.4,
-          "vizM": 4,
+          "vizM": 2,
           "rainMm": 117,
           "windMs": 0.4,
-          "sunnyDays": 5
+          "sunnyDays": 8,
+          "vizMinM": 2,
+          "vizMaxM": 2,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 5,
           "tempC": 12.5,
           "waveM": 0.3,
-          "vizM": 4,
+          "vizM": 2,
           "rainMm": 165,
           "windMs": 0.5,
-          "sunnyDays": 3
+          "sunnyDays": 5,
+          "vizMinM": 2,
+          "vizMaxM": 2,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 6,
           "tempC": 16,
           "waveM": 0.3,
-          "vizM": 4,
+          "vizM": 2,
           "rainMm": 163,
           "windMs": 0.5,
-          "sunnyDays": 4
+          "sunnyDays": 6,
+          "vizMinM": 2,
+          "vizMaxM": 2,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 7,
           "tempC": 20,
           "waveM": 0.4,
-          "vizM": 4,
+          "vizM": 2,
           "rainMm": 166,
           "windMs": 0.6,
-          "sunnyDays": 5
+          "sunnyDays": 9,
+          "vizMinM": 2,
+          "vizMaxM": 2,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 8,
           "tempC": 20,
           "waveM": 0.3,
-          "vizM": 4,
+          "vizM": 2,
           "rainMm": 166,
           "windMs": 0.5,
-          "sunnyDays": 5
+          "sunnyDays": 7,
+          "vizMinM": 2,
+          "vizMaxM": 2,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 9,
           "tempC": 18,
           "waveM": 0.3,
-          "vizM": 4,
+          "vizM": 2,
           "rainMm": 133,
           "windMs": 0.4,
-          "sunnyDays": 4
+          "sunnyDays": 7,
+          "vizMinM": 2,
+          "vizMaxM": 2,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 10,
           "tempC": 14,
           "waveM": 0.4,
-          "vizM": 4,
+          "vizM": 2,
           "rainMm": 122,
           "windMs": 0.6,
-          "sunnyDays": 4
+          "sunnyDays": 6,
+          "vizMinM": 2,
+          "vizMaxM": 2,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 11,
           "tempC": 10.5,
           "waveM": 0.6,
-          "vizM": 6,
+          "vizM": 3,
           "rainMm": 117,
           "windMs": 0.7,
-          "sunnyDays": 3
+          "sunnyDays": 4,
+          "vizMinM": 3,
+          "vizMaxM": 3,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 12,
           "tempC": 7.5,
           "waveM": 0.6,
-          "vizM": 10,
+          "vizM": 5,
           "rainMm": 126,
           "windMs": 1,
-          "sunnyDays": 4
+          "sunnyDays": 7,
+          "vizMinM": 4,
+          "vizMaxM": 6,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         }
       ],
       "windows": {
@@ -6281,7 +7440,7 @@
           9
         ]
       },
-      "generatedAt": "2026-06-10T20:55:50.761Z"
+      "generatedAt": "2026-07-02T19:01:59.678Z"
     }
   },
   "aargau": {
@@ -6581,109 +7740,157 @@
           "m": 1,
           "tempC": 16,
           "waveM": 0.8,
-          "vizM": 14,
+          "vizM": 11,
           "rainMm": 41,
           "windMs": 3,
-          "sunnyDays": 13
+          "sunnyDays": 15,
+          "vizMinM": 10,
+          "vizMaxM": 12,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 2,
           "tempC": 15.5,
           "waveM": 0.8,
-          "vizM": 15,
+          "vizM": 11,
           "rainMm": 34,
           "windMs": 1.9,
-          "sunnyDays": 11
+          "sunnyDays": 14,
+          "vizMinM": 10,
+          "vizMaxM": 11,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 3,
           "tempC": 16,
           "waveM": 0.8,
-          "vizM": 16,
+          "vizM": 10,
           "rainMm": 35,
           "windMs": 2,
-          "sunnyDays": 14
+          "sunnyDays": 16,
+          "vizMinM": 9,
+          "vizMaxM": 11,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 4,
           "tempC": 17,
           "waveM": 0.8,
-          "vizM": 17,
+          "vizM": 9,
           "rainMm": 26,
           "windMs": 1.9,
-          "sunnyDays": 13
+          "sunnyDays": 15,
+          "vizMinM": 8,
+          "vizMaxM": 11,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 5,
           "tempC": 19.5,
           "waveM": 0.7,
-          "vizM": 18,
+          "vizM": 12,
           "rainMm": 23,
           "windMs": 2,
-          "sunnyDays": 15
+          "sunnyDays": 20,
+          "vizMinM": 10,
+          "vizMaxM": 14,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 6,
           "tempC": 23.5,
           "waveM": 0.5,
-          "vizM": 18,
+          "vizM": 11,
           "rainMm": 6,
           "windMs": 2.1,
-          "sunnyDays": 21
+          "sunnyDays": 24,
+          "vizMinM": 9,
+          "vizMaxM": 13,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 7,
           "tempC": 27,
           "waveM": 0.5,
-          "vizM": 17,
+          "vizM": 10,
           "rainMm": 1,
           "windMs": 2,
-          "sunnyDays": 28
+          "sunnyDays": 30,
+          "vizMinM": 9,
+          "vizMaxM": 12,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 8,
           "tempC": 28,
           "waveM": 0.5,
-          "vizM": 17,
+          "vizM": 10,
           "rainMm": 8,
           "windMs": 2,
-          "sunnyDays": 25
+          "sunnyDays": 28,
+          "vizMinM": 8,
+          "vizMaxM": 13,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 9,
           "tempC": 27,
           "waveM": 0.6,
-          "vizM": 16,
+          "vizM": 12,
           "rainMm": 30,
           "windMs": 1.8,
-          "sunnyDays": 15
+          "sunnyDays": 19,
+          "vizMinM": 10,
+          "vizMaxM": 15,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 10,
           "tempC": 24.5,
           "waveM": 0.6,
-          "vizM": 15,
+          "vizM": 11,
           "rainMm": 44,
           "windMs": 1.5,
-          "sunnyDays": 14
+          "sunnyDays": 17,
+          "vizMinM": 9,
+          "vizMaxM": 15,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 11,
           "tempC": 21.5,
           "waveM": 0.8,
-          "vizM": 13,
+          "vizM": 9,
           "rainMm": 57,
           "windMs": 2,
-          "sunnyDays": 12
+          "sunnyDays": 14,
+          "vizMinM": 8,
+          "vizMaxM": 12,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 12,
           "tempC": 18.5,
           "waveM": 0.8,
-          "vizM": 13,
+          "vizM": 10,
           "rainMm": 54,
           "windMs": 2.8,
-          "sunnyDays": 12
+          "sunnyDays": 15,
+          "vizMinM": 8,
+          "vizMaxM": 11,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         }
       ],
       "windows": {
@@ -6724,9 +7931,9 @@
           8
         ]
       },
-      "generatedAt": "2026-06-10T20:55:50.761Z"
+      "generatedAt": "2026-07-02T19:01:59.678Z"
     },
-    "bestTime": "From June to August, expect calmest seas, clearest water, and driest months, with water warming up to 27–28°C."
+    "bestTime": "From June to August, the sea is calmest, the water is clearest, and there is the least rain. The water warms to 27–28°C in summer and drops to about 16°C in winter."
   },
   "bizerte-governorate": {
     "children": [],
@@ -6829,116 +8036,164 @@
     "conditions": {
       "source": "monthly_climatology",
       "basis": "10yr",
-      "siteCount": 189,
+      "siteCount": 190,
       "span": "single",
       "byMonth": [
         {
           "m": 1,
           "tempC": 18,
           "waveM": 0.6,
-          "vizM": 18,
+          "vizM": 15,
           "rainMm": 208,
           "windMs": 1.4,
-          "sunnyDays": 5
+          "sunnyDays": 10,
+          "vizMinM": 13,
+          "vizMaxM": 18,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 2,
           "tempC": 17,
           "waveM": 0.6,
-          "vizM": 18,
+          "vizM": 13,
           "rainMm": 85,
           "windMs": 1.2,
-          "sunnyDays": 9
+          "sunnyDays": 12,
+          "vizMinM": 11,
+          "vizMaxM": 14,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 3,
           "tempC": 17,
           "waveM": 0.5,
-          "vizM": 19,
+          "vizM": 13,
           "rainMm": 84,
           "windMs": 1.1,
-          "sunnyDays": 10
+          "sunnyDays": 14,
+          "vizMinM": 11,
+          "vizMaxM": 16,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 4,
           "tempC": 18,
           "waveM": 0.4,
-          "vizM": 20,
+          "vizM": 15,
           "rainMm": 46,
           "windMs": 1,
-          "sunnyDays": 13
+          "sunnyDays": 17,
+          "vizMinM": 12,
+          "vizMaxM": 18,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 5,
           "tempC": 20.5,
           "waveM": 0.3,
-          "vizM": 22,
+          "vizM": 19,
           "rainMm": 27,
           "windMs": 1.5,
-          "sunnyDays": 16
+          "sunnyDays": 19,
+          "vizMinM": 14,
+          "vizMaxM": 22,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 6,
           "tempC": 24,
           "waveM": 0.4,
-          "vizM": 23,
+          "vizM": 20,
           "rainMm": 14,
           "windMs": 2.3,
-          "sunnyDays": 22
+          "sunnyDays": 26,
+          "vizMinM": 14,
+          "vizMaxM": 24,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 7,
           "tempC": 26.5,
           "waveM": 0.4,
-          "vizM": 23,
+          "vizM": 19,
           "rainMm": 4,
           "windMs": 2.8,
-          "sunnyDays": 29
+          "sunnyDays": 30,
+          "vizMinM": 14,
+          "vizMaxM": 23,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 8,
           "tempC": 27.5,
           "waveM": 0.4,
-          "vizM": 24,
+          "vizM": 19,
           "rainMm": 5,
           "windMs": 2.7,
-          "sunnyDays": 28
+          "sunnyDays": 30,
+          "vizMinM": 13,
+          "vizMaxM": 24,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 9,
           "tempC": 26.5,
           "waveM": 0.4,
-          "vizM": 22,
+          "vizM": 18,
           "rainMm": 13,
           "windMs": 2.3,
-          "sunnyDays": 24
+          "sunnyDays": 27,
+          "vizMinM": 15,
+          "vizMaxM": 24,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 10,
           "tempC": 24,
           "waveM": 0.3,
-          "vizM": 21,
+          "vizM": 17,
           "rainMm": 46,
           "windMs": 1.6,
-          "sunnyDays": 18
+          "sunnyDays": 22,
+          "vizMinM": 13,
+          "vizMaxM": 19,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 11,
           "tempC": 22,
           "waveM": 0.4,
-          "vizM": 20,
+          "vizM": 14,
           "rainMm": 114,
           "windMs": 1.2,
-          "sunnyDays": 9
+          "sunnyDays": 16,
+          "vizMinM": 13,
+          "vizMaxM": 16,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 12,
           "tempC": 19.5,
           "waveM": 0.5,
-          "vizM": 19,
+          "vizM": 15,
           "rainMm": 185,
           "windMs": 1.4,
-          "sunnyDays": 6
+          "sunnyDays": 13,
+          "vizMinM": 13,
+          "vizMaxM": 17,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         }
       ],
       "windows": {
@@ -6977,9 +8232,9 @@
           9
         ]
       },
-      "generatedAt": "2026-06-10T20:55:50.761Z"
+      "generatedAt": "2026-07-02T19:01:59.678Z"
     },
-    "bestTime": "Calmest seas and driest months span June to September, with warm waters between 27–28°C."
+    "bestTime": "From June to September, the sea is calmest and there is the least rain. The water warms to 27–28°C in summer and drops to about 17°C in winter."
   },
   "antalya-province": {
     "children": [],
@@ -7074,109 +8329,157 @@
           "m": 1,
           "tempC": 9.5,
           "waveM": 1.5,
-          "vizM": 8,
+          "vizM": 6,
           "rainMm": 116,
           "windMs": 3.7,
-          "sunnyDays": 3
+          "sunnyDays": 3,
+          "vizMinM": 6,
+          "vizMaxM": 8,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 2,
           "tempC": 8.5,
           "waveM": 1.4,
-          "vizM": 7,
+          "vizM": 6,
           "rainMm": 105,
           "windMs": 4.3,
-          "sunnyDays": 3
+          "sunnyDays": 3,
+          "vizMinM": 6,
+          "vizMaxM": 7,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 3,
           "tempC": 8.5,
           "waveM": 1.2,
-          "vizM": 7,
+          "vizM": 6,
           "rainMm": 93,
           "windMs": 2.8,
-          "sunnyDays": 4
+          "sunnyDays": 4,
+          "vizMinM": 5,
+          "vizMaxM": 7,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 4,
           "tempC": 9.5,
           "waveM": 0.9,
-          "vizM": 7,
+          "vizM": 4,
           "rainMm": 63,
           "windMs": 1.9,
-          "sunnyDays": 6
+          "sunnyDays": 6,
+          "vizMinM": 4,
+          "vizMaxM": 5,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 5,
           "tempC": 11.5,
           "waveM": 0.8,
-          "vizM": 7,
+          "vizM": 4,
           "rainMm": 64,
           "windMs": 1.5,
-          "sunnyDays": 6
+          "sunnyDays": 5,
+          "vizMinM": 4,
+          "vizMaxM": 5,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 6,
           "tempC": 13.5,
           "waveM": 0.8,
-          "vizM": 7,
+          "vizM": 4,
           "rainMm": 78,
           "windMs": 2.1,
-          "sunnyDays": 4
+          "sunnyDays": 4,
+          "vizMinM": 4,
+          "vizMaxM": 4,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 7,
           "tempC": 15.5,
           "waveM": 0.7,
-          "vizM": 7,
+          "vizM": 4,
           "rainMm": 82,
           "windMs": 2.6,
-          "sunnyDays": 4
+          "sunnyDays": 5,
+          "vizMinM": 4,
+          "vizMaxM": 5,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 8,
           "tempC": 16,
           "waveM": 0.8,
-          "vizM": 7,
+          "vizM": 5,
           "rainMm": 93,
           "windMs": 2.8,
-          "sunnyDays": 4
+          "sunnyDays": 4,
+          "vizMinM": 4,
+          "vizMaxM": 5,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 9,
           "tempC": 15.5,
           "waveM": 0.9,
-          "vizM": 7,
+          "vizM": 5,
           "rainMm": 113,
           "windMs": 2.7,
-          "sunnyDays": 3
+          "sunnyDays": 4,
+          "vizMinM": 5,
+          "vizMaxM": 5,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 10,
           "tempC": 14.5,
           "waveM": 1.2,
-          "vizM": 7,
+          "vizM": 6,
           "rainMm": 139,
           "windMs": 3.1,
-          "sunnyDays": 3
+          "sunnyDays": 3,
+          "vizMinM": 5,
+          "vizMaxM": 6,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 11,
           "tempC": 12.5,
           "waveM": 1.3,
-          "vizM": 8,
+          "vizM": 7,
           "rainMm": 135,
           "windMs": 3.5,
-          "sunnyDays": 3
+          "sunnyDays": 3,
+          "vizMinM": 7,
+          "vizMaxM": 8,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 12,
           "tempC": 10.5,
           "waveM": 1.4,
-          "vizM": 12,
+          "vizM": 6,
           "rainMm": 140,
           "windMs": 3.7,
-          "sunnyDays": 2
+          "sunnyDays": 2,
+          "vizMinM": 6,
+          "vizMaxM": 8,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         }
       ],
       "windows": {
@@ -7223,9 +8526,9 @@
           7
         ]
       },
-      "generatedAt": "2026-06-10T20:55:50.761Z"
+      "generatedAt": "2026-07-02T19:01:59.678Z"
     },
-    "bestTime": "May to July offers calmest seas, clearest water, and driest months, with temperatures at a mild 16°C."
+    "bestTime": "From May to July, the sea is calmest, the water is clearest, and there is the least rain. The water warms to 16°C in summer and drops to about 9°C in winter."
   },
   "alba-scotland": {
     "children": [],
@@ -7308,109 +8611,157 @@
           "m": 1,
           "tempC": 8,
           "waveM": 2.2,
-          "vizM": 13,
+          "vizM": 9,
           "rainMm": 124,
           "windMs": 4.8,
-          "sunnyDays": 2
+          "sunnyDays": 1,
+          "vizMinM": 5,
+          "vizMaxM": 11,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 2,
           "tempC": 7.5,
           "waveM": 2.1,
-          "vizM": 11,
+          "vizM": 7,
           "rainMm": 98,
           "windMs": 5.4,
-          "sunnyDays": 3
+          "sunnyDays": 2,
+          "vizMinM": 4,
+          "vizMaxM": 10,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 3,
           "tempC": 7.5,
           "waveM": 1.8,
-          "vizM": 12,
+          "vizM": 7,
           "rainMm": 88,
           "windMs": 4,
-          "sunnyDays": 3
+          "sunnyDays": 3,
+          "vizMinM": 5,
+          "vizMaxM": 10,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 4,
           "tempC": 8,
           "waveM": 1.4,
-          "vizM": 10,
+          "vizM": 5,
           "rainMm": 53,
           "windMs": 2.8,
-          "sunnyDays": 4
+          "sunnyDays": 4,
+          "vizMinM": 3,
+          "vizMaxM": 10,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 5,
           "tempC": 9,
           "waveM": 1.1,
-          "vizM": 9,
+          "vizM": 4,
           "rainMm": 53,
           "windMs": 2.5,
-          "sunnyDays": 4
+          "sunnyDays": 3,
+          "vizMinM": 3,
+          "vizMaxM": 8,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 6,
           "tempC": 11,
           "waveM": 1,
-          "vizM": 8,
+          "vizM": 5,
           "rainMm": 60,
           "windMs": 2.4,
-          "sunnyDays": 3
+          "sunnyDays": 2,
+          "vizMinM": 3,
+          "vizMaxM": 5,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 7,
           "tempC": 12.5,
           "waveM": 0.9,
-          "vizM": 9,
+          "vizM": 5,
           "rainMm": 73,
           "windMs": 2.1,
-          "sunnyDays": 3
+          "sunnyDays": 3,
+          "vizMinM": 4,
+          "vizMaxM": 5,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 8,
           "tempC": 13,
           "waveM": 1,
-          "vizM": 10,
+          "vizM": 6,
           "rainMm": 80,
           "windMs": 2.1,
-          "sunnyDays": 3
+          "sunnyDays": 3,
+          "vizMinM": 4,
+          "vizMaxM": 8,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 9,
           "tempC": 13,
           "waveM": 1.4,
-          "vizM": 10,
+          "vizM": 7,
           "rainMm": 107,
           "windMs": 3.3,
-          "sunnyDays": 3
+          "sunnyDays": 2,
+          "vizMinM": 4,
+          "vizMaxM": 10,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 10,
           "tempC": 12,
           "waveM": 1.7,
-          "vizM": 13,
+          "vizM": 8,
           "rainMm": 133,
           "windMs": 3.4,
-          "sunnyDays": 2
+          "sunnyDays": 2,
+          "vizMinM": 6,
+          "vizMaxM": 10,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 11,
           "tempC": 10.5,
           "waveM": 1.9,
-          "vizM": 13,
+          "vizM": 9,
           "rainMm": 130,
           "windMs": 4.9,
-          "sunnyDays": 2
+          "sunnyDays": 1,
+          "vizMinM": 7,
+          "vizMaxM": 11,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 12,
           "tempC": 9,
           "waveM": 2,
-          "vizM": 28,
+          "vizM": 13,
           "rainMm": 134,
           "windMs": 4.1,
-          "sunnyDays": 2
+          "sunnyDays": 1,
+          "vizMinM": 12,
+          "vizMaxM": 26,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         }
       ],
       "windows": {
@@ -7451,9 +8802,10 @@
           8
         ]
       },
-      "generatedAt": "2026-06-10T20:55:50.761Z"
+      "generatedAt": "2026-07-02T19:01:59.678Z"
     },
-    "bestTime": "May to August brings the calmest seas to Scotland, with water temperatures rising to a brisk 12–13°C. Dive during these months for steadier conditions in the chilly waters."
+    "bestTime": "May to August brings the calmest seas to Scotland, with water temperatures rising to a brisk 12–13°C. Dive during these months for steadier conditions in the chilly waters.",
+    "bestTimeAuto": "From May to August, the sea is calmest. The water is warmest at 12–13°C and cools to about 8°C."
   },
   "wales": {
     "children": [],
@@ -7599,55 +8951,79 @@
           "m": 1,
           "tempC": 16,
           "waveM": 0.6,
-          "vizM": 14,
+          "vizM": 15,
           "rainMm": 170,
           "windMs": 1.3,
-          "sunnyDays": 3
+          "sunnyDays": 14,
+          "vizMinM": 14,
+          "vizMaxM": 15,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 2,
           "tempC": 15.5,
           "waveM": 0.7,
-          "vizM": 12,
+          "vizM": 11,
           "rainMm": 93,
           "windMs": 1.9,
-          "sunnyDays": 4
+          "sunnyDays": 13,
+          "vizMinM": 11,
+          "vizMaxM": 11,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 3,
           "tempC": 15.5,
           "waveM": 0.8,
-          "vizM": 10,
+          "vizM": 9,
           "rainMm": 141,
           "windMs": 1.8,
-          "sunnyDays": 4
+          "sunnyDays": 14,
+          "vizMinM": 9,
+          "vizMaxM": 9,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 4,
           "tempC": 16,
           "waveM": 0.6,
-          "vizM": 10,
+          "vizM": 9,
           "rainMm": 105,
           "windMs": 2.7,
-          "sunnyDays": 3
+          "sunnyDays": 12,
+          "vizMinM": 9,
+          "vizMaxM": 9,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 5,
           "tempC": 17,
           "waveM": 0.6,
-          "vizM": 9,
+          "vizM": 7,
           "rainMm": 28,
           "windMs": 2.9,
-          "sunnyDays": 7
+          "sunnyDays": 18,
+          "vizMinM": 7,
+          "vizMaxM": 7,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 6,
           "tempC": 18,
           "waveM": 0.6,
-          "vizM": 9,
+          "vizM": 8,
           "rainMm": 2,
           "windMs": 2.9,
-          "sunnyDays": 11
+          "sunnyDays": 25,
+          "vizMinM": 8,
+          "vizMaxM": 8,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 7,
@@ -7656,16 +9032,24 @@
           "vizM": 10,
           "rainMm": 1,
           "windMs": 3.1,
-          "sunnyDays": 11
+          "sunnyDays": 28,
+          "vizMinM": 10,
+          "vizMaxM": 10,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 8,
           "tempC": 21,
           "waveM": 0.5,
-          "vizM": 11,
+          "vizM": 9,
           "rainMm": 1,
           "windMs": 3.5,
-          "sunnyDays": 12
+          "sunnyDays": 23,
+          "vizMinM": 9,
+          "vizMaxM": 9,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 9,
@@ -7674,7 +9058,11 @@
           "vizM": 11,
           "rainMm": 1,
           "windMs": 3.7,
-          "sunnyDays": 13
+          "sunnyDays": 17,
+          "vizMinM": 11,
+          "vizMaxM": 12,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 10,
@@ -7683,7 +9071,11 @@
           "vizM": 12,
           "rainMm": 11,
           "windMs": 3.8,
-          "sunnyDays": 11
+          "sunnyDays": 14,
+          "vizMinM": 11,
+          "vizMaxM": 12,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 11,
@@ -7692,16 +9084,24 @@
           "vizM": 12,
           "rainMm": 50,
           "windMs": 3.6,
-          "sunnyDays": 7
+          "sunnyDays": 14,
+          "vizMinM": 11,
+          "vizMaxM": 12,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 12,
           "tempC": 16.5,
           "waveM": 0.7,
-          "vizM": 14,
+          "vizM": 12,
           "rainMm": 96,
           "windMs": 2.6,
-          "sunnyDays": 5
+          "sunnyDays": 12,
+          "vizMinM": 11,
+          "vizMaxM": 12,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         }
       ],
       "windows": {
@@ -7738,9 +9138,9 @@
           10
         ]
       },
-      "generatedAt": "2026-06-10T20:55:50.761Z"
+      "generatedAt": "2026-07-02T19:01:59.678Z"
     },
-    "bestTime": "October provides the calmest seas and clearest water in Gibraltar, with temperatures reaching a comfortable 21°C."
+    "bestTime": "In October, the sea is calmest and the water is clearest. The water is warmest at 21°C and cools to about 16°C."
   },
   "czechia": {
     "children": [],
@@ -7792,7 +9192,7 @@
       49.2144,
       -2.1313
     ],
-    "bestTime": "From May to August, Jersey settles into its calmest and driest stretch, as the water temperature climbs to a mild 18–19°C.",
+    "bestTime": "From May to August, the sea is calmest and there is the least rain. The water warms to 18–19°C in summer and drops to about 9°C in winter.",
     "floraFauna": [
       "kelp",
       "spider crab",
@@ -7816,19 +9216,27 @@
           "m": 1,
           "tempC": 9.5,
           "waveM": 1.4,
-          "vizM": 8,
+          "vizM": 7,
           "rainMm": 135,
           "windMs": 3.3,
-          "sunnyDays": 2
+          "sunnyDays": 3,
+          "vizMinM": 7,
+          "vizMaxM": 7,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 2,
           "tempC": 9,
           "waveM": 1.3,
-          "vizM": 8,
+          "vizM": 7,
           "rainMm": 88,
           "windMs": 4,
-          "sunnyDays": 4
+          "sunnyDays": 4,
+          "vizMinM": 7,
+          "vizMaxM": 7,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 3,
@@ -7837,70 +9245,102 @@
           "vizM": 6,
           "rainMm": 79,
           "windMs": 2.9,
-          "sunnyDays": 5
+          "sunnyDays": 6,
+          "vizMinM": 6,
+          "vizMaxM": 6,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 4,
           "tempC": 10.5,
           "waveM": 0.8,
-          "vizM": 6,
+          "vizM": 5,
           "rainMm": 47,
           "windMs": 2.4,
-          "sunnyDays": 8
+          "sunnyDays": 11,
+          "vizMinM": 5,
+          "vizMaxM": 5,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 5,
           "tempC": 13,
           "waveM": 0.7,
-          "vizM": 6,
+          "vizM": 5,
           "rainMm": 49,
           "windMs": 2.1,
-          "sunnyDays": 8
+          "sunnyDays": 9,
+          "vizMinM": 5,
+          "vizMaxM": 5,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 6,
           "tempC": 15.5,
           "waveM": 0.7,
-          "vizM": 7,
+          "vizM": 5,
           "rainMm": 61,
           "windMs": 2.2,
-          "sunnyDays": 7
+          "sunnyDays": 7,
+          "vizMinM": 4,
+          "vizMaxM": 5,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 7,
           "tempC": 17.5,
           "waveM": 0.6,
-          "vizM": 7,
+          "vizM": 5,
           "rainMm": 47,
           "windMs": 3.1,
-          "sunnyDays": 9
+          "sunnyDays": 11,
+          "vizMinM": 5,
+          "vizMaxM": 6,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 8,
           "tempC": 18.5,
           "waveM": 0.6,
-          "vizM": 6,
+          "vizM": 5,
           "rainMm": 61,
           "windMs": 2.9,
-          "sunnyDays": 7
+          "sunnyDays": 9,
+          "vizMinM": 5,
+          "vizMaxM": 5,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 9,
           "tempC": 18.5,
           "waveM": 0.8,
-          "vizM": 6,
+          "vizM": 5,
           "rainMm": 97,
           "windMs": 2.2,
-          "sunnyDays": 5
+          "sunnyDays": 8,
+          "vizMinM": 5,
+          "vizMaxM": 5,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 10,
           "tempC": 16.5,
           "waveM": 1,
-          "vizM": 7,
+          "vizM": 6,
           "rainMm": 134,
           "windMs": 3.4,
-          "sunnyDays": 4
+          "sunnyDays": 4,
+          "vizMinM": 6,
+          "vizMaxM": 7,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 11,
@@ -7909,16 +9349,24 @@
           "vizM": 8,
           "rainMm": 149,
           "windMs": 3.8,
-          "sunnyDays": 3
+          "sunnyDays": 3,
+          "vizMinM": 7,
+          "vizMaxM": 8,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 12,
           "tempC": 11,
           "waveM": 1.3,
-          "vizM": 8,
+          "vizM": 7,
           "rainMm": 147,
           "windMs": 4.2,
-          "sunnyDays": 2
+          "sunnyDays": 3,
+          "vizMinM": 7,
+          "vizMaxM": 7,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         }
       ],
       "windows": {
@@ -7959,7 +9407,7 @@
           8
         ]
       },
-      "generatedAt": "2026-06-10T20:55:50.761Z"
+      "generatedAt": "2026-07-02T19:01:59.678Z"
     }
   },
   "russia": {
@@ -7976,107 +9424,151 @@
     "conditions": {
       "source": "monthly_climatology",
       "basis": "10yr",
-      "siteCount": 13,
+      "siteCount": 15,
       "span": "varies",
       "byMonth": [
         {
           "m": 1,
           "tempC": 8.5,
           "waveM": 0.7,
-          "vizM": 8,
+          "vizM": 9,
           "rainMm": 76,
           "windMs": 1.9,
-          "sunnyDays": 3
+          "sunnyDays": 3,
+          "vizMinM": 8,
+          "vizMaxM": 9,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 2,
           "tempC": 8,
           "waveM": 0.7,
-          "vizM": 8,
+          "vizM": 9,
           "rainMm": 56,
           "windMs": 1.8,
-          "sunnyDays": 4
+          "sunnyDays": 4,
+          "vizMinM": 8,
+          "vizMaxM": 9,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 3,
           "tempC": 8,
           "waveM": 0.6,
-          "vizM": 9,
+          "vizM": 7,
           "rainMm": 53,
           "windMs": 1.5,
-          "sunnyDays": 6
+          "sunnyDays": 7,
+          "vizMinM": 7,
+          "vizMaxM": 8,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 4,
           "tempC": 9.5,
           "waveM": 0.5,
-          "vizM": 8,
+          "vizM": 6,
           "rainMm": 50,
           "windMs": 1.2,
-          "sunnyDays": 7
+          "sunnyDays": 8,
+          "vizMinM": 6,
+          "vizMaxM": 7,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 5,
           "tempC": 13,
           "waveM": 0.4,
-          "vizM": 10,
+          "vizM": 8,
           "rainMm": 54,
           "windMs": 1,
-          "sunnyDays": 8
+          "sunnyDays": 9,
+          "vizMinM": 6,
+          "vizMaxM": 8,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 6,
           "tempC": 17.5,
           "waveM": 0.4,
-          "vizM": 10,
+          "vizM": 6,
           "rainMm": 58,
           "windMs": 1.3,
-          "sunnyDays": 10
+          "sunnyDays": 10,
+          "vizMinM": 4,
+          "vizMaxM": 6,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 7,
           "tempC": 21,
           "waveM": 0.3,
-          "vizM": 10,
+          "vizM": 6,
           "rainMm": 62,
           "windMs": 1.4,
-          "sunnyDays": 12
+          "sunnyDays": 12,
+          "vizMinM": 4,
+          "vizMaxM": 6,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 8,
           "tempC": 22,
           "waveM": 0.4,
-          "vizM": 9,
+          "vizM": 6,
           "rainMm": 52,
           "windMs": 1.5,
-          "sunnyDays": 13
+          "sunnyDays": 12,
+          "vizMinM": 4,
+          "vizMaxM": 7,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 9,
           "tempC": 20.5,
           "waveM": 0.5,
-          "vizM": 9,
+          "vizM": 7,
           "rainMm": 65,
           "windMs": 1.4,
-          "sunnyDays": 9
+          "sunnyDays": 9,
+          "vizMinM": 6,
+          "vizMaxM": 8,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 10,
           "tempC": 16.5,
           "waveM": 0.6,
-          "vizM": 8,
+          "vizM": 6,
           "rainMm": 68,
           "windMs": 1.5,
-          "sunnyDays": 7
+          "sunnyDays": 8,
+          "vizMinM": 6,
+          "vizMaxM": 7,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 11,
           "tempC": 13.5,
           "waveM": 0.7,
-          "vizM": 8,
+          "vizM": 9,
           "rainMm": 68,
           "windMs": 1.9,
-          "sunnyDays": 5
+          "sunnyDays": 5,
+          "vizMinM": 9,
+          "vizMaxM": 10,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 12,
@@ -8085,7 +9577,11 @@
           "vizM": 8,
           "rainMm": 77,
           "windMs": 1.9,
-          "sunnyDays": 4
+          "sunnyDays": 3,
+          "vizMinM": 8,
+          "vizMaxM": 8,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         }
       ],
       "windows": {
@@ -8115,9 +9611,10 @@
           8
         ]
       },
-      "generatedAt": "2026-06-10T20:55:50.761Z"
+      "generatedAt": "2026-07-02T19:01:59.678Z"
     },
-    "bestTime": "For the south, dive from June to August when seas are calmest, water is clearest, and rains ease. Expect warm dives at 26–27°C. In the north, conditions are diveable year-round but very cold."
+    "bestTime": "For the south, dive from June to August when seas are calmest, water is clearest, and rains ease. Expect warm dives at 26–27°C. In the north, conditions are diveable year-round but very cold.",
+    "bestTimeAuto": "Conditions vary from coast to coast, but the water stays a mild 8–22°C and somewhere is diveable year-round."
   },
   "ukraine": {
     "children": [],
@@ -8152,109 +9649,157 @@
           "m": 1,
           "tempC": 2.5,
           "waveM": 0.8,
-          "vizM": 10,
+          "vizM": 9,
           "rainMm": 46,
           "windMs": 1.8,
-          "sunnyDays": 8
+          "sunnyDays": 1,
+          "vizMinM": 6,
+          "vizMaxM": 10,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 2,
           "tempC": 1,
           "waveM": 0.8,
-          "vizM": 7,
+          "vizM": 6,
           "rainMm": 38,
           "windMs": 1.9,
-          "sunnyDays": 7
+          "sunnyDays": 3,
+          "vizMinM": 3,
+          "vizMaxM": 7,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 3,
           "tempC": 1.5,
           "waveM": 0.6,
-          "vizM": 5,
+          "vizM": 4,
           "rainMm": 32,
           "windMs": 1.8,
-          "sunnyDays": 10
+          "sunnyDays": 6,
+          "vizMinM": 3,
+          "vizMaxM": 5,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 4,
           "tempC": 3,
           "waveM": 0.5,
-          "vizM": 6,
+          "vizM": 4,
           "rainMm": 36,
           "windMs": 1.4,
-          "sunnyDays": 11
+          "sunnyDays": 9,
+          "vizMinM": 3,
+          "vizMaxM": 6,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 5,
           "tempC": 7.5,
           "waveM": 0.4,
-          "vizM": 8,
+          "vizM": 4,
           "rainMm": 29,
           "windMs": 1.5,
-          "sunnyDays": 14
+          "sunnyDays": 11,
+          "vizMinM": 2,
+          "vizMaxM": 10,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 6,
           "tempC": 13.5,
           "waveM": 0.5,
-          "vizM": 8,
+          "vizM": 4,
           "rainMm": 47,
           "windMs": 2,
-          "sunnyDays": 12
+          "sunnyDays": 9,
+          "vizMinM": 3,
+          "vizMaxM": 9,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 7,
           "tempC": 17.5,
           "waveM": 0.5,
-          "vizM": 8,
+          "vizM": 4,
           "rainMm": 61,
           "windMs": 2.2,
-          "sunnyDays": 8
+          "sunnyDays": 9,
+          "vizMinM": 3,
+          "vizMaxM": 8,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 8,
           "tempC": 18.5,
           "waveM": 0.5,
-          "vizM": 7,
+          "vizM": 4,
           "rainMm": 73,
           "windMs": 2.2,
-          "sunnyDays": 7
+          "sunnyDays": 7,
+          "vizMinM": 3,
+          "vizMaxM": 7,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 9,
           "tempC": 15.5,
           "waveM": 0.6,
-          "vizM": 7,
+          "vizM": 5,
           "rainMm": 55,
           "windMs": 2,
-          "sunnyDays": 9
+          "sunnyDays": 4,
+          "vizMinM": 3,
+          "vizMaxM": 8,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 10,
           "tempC": 11.5,
           "waveM": 0.7,
-          "vizM": 9,
+          "vizM": 6,
           "rainMm": 65,
           "windMs": 1.9,
-          "sunnyDays": 9
+          "sunnyDays": 3,
+          "vizMinM": 4,
+          "vizMaxM": 10,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 11,
           "tempC": 8,
           "waveM": 0.7,
-          "vizM": 9,
+          "vizM": 8,
           "rainMm": 49,
           "windMs": 2.2,
-          "sunnyDays": 8
+          "sunnyDays": 2,
+          "vizMinM": 5,
+          "vizMaxM": 9,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 12,
           "tempC": 4.5,
           "waveM": 0.8,
-          "vizM": 12,
+          "vizM": 8,
           "rainMm": 45,
           "windMs": 2.3,
-          "sunnyDays": 7
+          "sunnyDays": 2,
+          "vizMinM": 7,
+          "vizMaxM": 10,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         }
       ],
       "windows": {
@@ -8295,9 +9840,10 @@
           8
         ]
       },
-      "generatedAt": "2026-06-10T20:55:50.761Z"
+      "generatedAt": "2026-07-02T19:01:59.678Z"
     },
-    "bestTime": "From April to August, the seas calm for diving, while water temperatures range from a brisk 1°C to a milder 19°C at their peak during July and August."
+    "bestTime": "From April to August, the seas calm for diving, while water temperatures range from a brisk 1°C to a milder 19°C at their peak during July and August.",
+    "bestTimeAuto": "From April to August, the sea is calmest. The water warms to 18–19°C in summer and drops to about 1°C in winter."
   },
   "latvia": {
     "children": [],
@@ -8323,52 +9869,76 @@
           "vizM": 5,
           "rainMm": 14,
           "windMs": 1.2,
-          "sunnyDays": 20
+          "sunnyDays": 1,
+          "vizMinM": 3,
+          "vizMaxM": 6,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 2,
           "tempC": 2,
           "waveM": 0.9,
-          "vizM": 4,
+          "vizM": 5,
           "rainMm": 12,
           "windMs": 1.1,
-          "sunnyDays": 17
+          "sunnyDays": 3,
+          "vizMinM": 2,
+          "vizMaxM": 6,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 3,
           "tempC": 2.5,
           "waveM": 0.7,
-          "vizM": 3,
+          "vizM": 4,
           "rainMm": 15,
           "windMs": 1.3,
-          "sunnyDays": 20
+          "sunnyDays": 7,
+          "vizMinM": 2,
+          "vizMaxM": 5,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 4,
           "tempC": 5,
           "waveM": 0.6,
-          "vizM": 3,
+          "vizM": 4,
           "rainMm": 14,
           "windMs": 1.7,
-          "sunnyDays": 18
+          "sunnyDays": 9,
+          "vizMinM": 2,
+          "vizMaxM": 4,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 5,
           "tempC": 9.5,
           "waveM": 0.5,
-          "vizM": 4,
+          "vizM": 3,
           "rainMm": 10,
           "windMs": 1.9,
-          "sunnyDays": 22
+          "sunnyDays": 12,
+          "vizMinM": 1,
+          "vizMaxM": 3,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 6,
           "tempC": 15.5,
           "waveM": 0.5,
-          "vizM": 4,
+          "vizM": 3,
           "rainMm": 13,
           "windMs": 1.7,
-          "sunnyDays": 19
+          "sunnyDays": 11,
+          "vizMinM": 1,
+          "vizMaxM": 4,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 7,
@@ -8377,7 +9947,11 @@
           "vizM": 4,
           "rainMm": 28,
           "windMs": 2.3,
-          "sunnyDays": 12
+          "sunnyDays": 10,
+          "vizMinM": 2,
+          "vizMaxM": 4,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 8,
@@ -8386,43 +9960,63 @@
           "vizM": 4,
           "rainMm": 19,
           "windMs": 2.3,
-          "sunnyDays": 14
+          "sunnyDays": 8,
+          "vizMinM": 2,
+          "vizMaxM": 4,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 9,
           "tempC": 17,
           "waveM": 0.7,
-          "vizM": 4,
+          "vizM": 3,
           "rainMm": 13,
           "windMs": 2.3,
-          "sunnyDays": 18
+          "sunnyDays": 6,
+          "vizMinM": 2,
+          "vizMaxM": 5,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 10,
           "tempC": 12.5,
           "waveM": 0.9,
-          "vizM": 5,
+          "vizM": 4,
           "rainMm": 19,
           "windMs": 1.7,
-          "sunnyDays": 21
+          "sunnyDays": 4,
+          "vizMinM": 2,
+          "vizMaxM": 6,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 11,
           "tempC": 9,
           "waveM": 0.9,
-          "vizM": 6,
+          "vizM": 5,
           "rainMm": 14,
           "windMs": 1.3,
-          "sunnyDays": 21
+          "sunnyDays": 2,
+          "vizMinM": 2,
+          "vizMaxM": 6,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 12,
           "tempC": 5.5,
           "waveM": 1,
-          "vizM": 11,
+          "vizM": 7,
           "rainMm": 14,
           "windMs": 1,
-          "sunnyDays": 20
+          "sunnyDays": 2,
+          "vizMinM": 7,
+          "vizMaxM": 8,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         }
       ],
       "windows": {
@@ -8464,9 +10058,9 @@
           8
         ]
       },
-      "generatedAt": "2026-06-10T20:55:50.761Z"
+      "generatedAt": "2026-07-02T19:01:59.678Z"
     },
-    "bestTime": "April to August sees the calmest seas in Latvia, with water temperatures rising to a mild 19–20°C during July and August."
+    "bestTime": "From April to August, the sea is calmest. The water warms to 19–20°C in summer and drops to about 2°C in winter."
   },
   "lithuania": {
     "children": [],
@@ -8489,109 +10083,157 @@
           "m": 1,
           "tempC": 4,
           "waveM": 1.1,
-          "vizM": 6,
+          "vizM": 3,
           "rainMm": 1,
           "windMs": 1.5,
-          "sunnyDays": 25
+          "sunnyDays": 2,
+          "vizMinM": 3,
+          "vizMaxM": 6,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 2,
           "tempC": 3,
           "waveM": 1,
-          "vizM": 5,
+          "vizM": 2,
           "rainMm": 1,
           "windMs": 0.9,
-          "sunnyDays": 21
+          "sunnyDays": 3,
+          "vizMinM": 2,
+          "vizMaxM": 6,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 3,
           "tempC": 3.5,
           "waveM": 0.8,
-          "vizM": 3,
+          "vizM": 2,
           "rainMm": 3,
           "windMs": 1,
-          "sunnyDays": 24
+          "sunnyDays": 6,
+          "vizMinM": 1,
+          "vizMaxM": 5,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 4,
           "tempC": 5.5,
           "waveM": 0.6,
-          "vizM": 3,
+          "vizM": 2,
           "rainMm": 3,
           "windMs": 1.5,
-          "sunnyDays": 21
+          "sunnyDays": 10,
+          "vizMinM": 1,
+          "vizMaxM": 3,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 5,
           "tempC": 10,
           "waveM": 0.5,
-          "vizM": 3,
+          "vizM": 1,
           "rainMm": 1,
           "windMs": 1.9,
-          "sunnyDays": 25
+          "sunnyDays": 12,
+          "vizMinM": 1,
+          "vizMaxM": 3,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 6,
           "tempC": 16,
           "waveM": 0.6,
-          "vizM": 3,
+          "vizM": 1,
           "rainMm": 0,
           "windMs": 1.5,
-          "sunnyDays": 22
+          "sunnyDays": 9,
+          "vizMinM": 1,
+          "vizMaxM": 3,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 7,
           "tempC": 19,
           "waveM": 0.6,
-          "vizM": 3,
+          "vizM": 1,
           "rainMm": 10,
           "windMs": 2.4,
-          "sunnyDays": 14
+          "sunnyDays": 9,
+          "vizMinM": 1,
+          "vizMaxM": 4,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 8,
           "tempC": 20,
           "waveM": 0.6,
-          "vizM": 3,
+          "vizM": 2,
           "rainMm": 1,
           "windMs": 2.5,
-          "sunnyDays": 16
+          "sunnyDays": 8,
+          "vizMinM": 1,
+          "vizMaxM": 4,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 9,
           "tempC": 18,
           "waveM": 0.8,
-          "vizM": 4,
+          "vizM": 2,
           "rainMm": 0,
           "windMs": 2.6,
-          "sunnyDays": 22
+          "sunnyDays": 7,
+          "vizMinM": 2,
+          "vizMaxM": 4,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 10,
           "tempC": 13.5,
           "waveM": 1,
-          "vizM": 4,
+          "vizM": 2,
           "rainMm": 1,
           "windMs": 1.5,
-          "sunnyDays": 25
+          "sunnyDays": 4,
+          "vizMinM": 2,
+          "vizMaxM": 6,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 11,
           "tempC": 10,
           "waveM": 1,
-          "vizM": 6,
+          "vizM": 2,
           "rainMm": 1,
           "windMs": 0.9,
-          "sunnyDays": 26
+          "sunnyDays": 1,
+          "vizMinM": 2,
+          "vizMaxM": 7,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 12,
           "tempC": 6.5,
           "waveM": 1.1,
-          "vizM": 5,
+          "vizM": 4,
           "rainMm": 1,
           "windMs": 1.5,
-          "sunnyDays": 25
+          "sunnyDays": 2,
+          "vizMinM": 2,
+          "vizMaxM": 6,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         }
       ],
       "windows": {
@@ -8641,9 +10283,9 @@
           8
         ]
       },
-      "generatedAt": "2026-06-10T20:55:50.761Z"
+      "generatedAt": "2026-07-02T19:01:59.678Z"
     },
-    "bestTime": "April through August, Lithuania's seas calm down, and waters warm to a mild 19–20°C by July and August."
+    "bestTime": "From April to August, the sea is calmest. The water warms to 19–20°C in summer and drops to about 3°C in winter."
   },
   "sverdlovsk-oblast": {
     "children": [],

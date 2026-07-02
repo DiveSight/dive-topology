@@ -35,116 +35,164 @@
     "conditions": {
       "source": "monthly_climatology",
       "basis": "10yr",
-      "siteCount": 2493,
+      "siteCount": 2506,
       "span": "varies",
       "byMonth": [
         {
           "m": 1,
           "tempC": 24,
           "waveM": 1.2,
-          "vizM": 16,
+          "vizM": 12,
           "rainMm": 148,
           "windMs": 3.3,
-          "sunnyDays": 7
+          "sunnyDays": 11,
+          "vizMinM": 9,
+          "vizMaxM": 15,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 2,
           "tempC": 24.5,
           "waveM": 1.2,
-          "vizM": 15,
+          "vizM": 10,
           "rainMm": 127,
           "windMs": 3.2,
-          "sunnyDays": 7
+          "sunnyDays": 11,
+          "vizMinM": 9,
+          "vizMaxM": 13,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 3,
           "tempC": 24.5,
           "waveM": 1.2,
-          "vizM": 14,
+          "vizM": 10,
           "rainMm": 147,
           "windMs": 3.1,
-          "sunnyDays": 7
+          "sunnyDays": 10,
+          "vizMinM": 8,
+          "vizMaxM": 12,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 4,
           "tempC": 23.5,
           "waveM": 1.3,
-          "vizM": 14,
+          "vizM": 10,
           "rainMm": 98,
           "windMs": 3.7,
-          "sunnyDays": 8
+          "sunnyDays": 11,
+          "vizMinM": 7,
+          "vizMaxM": 12,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 5,
           "tempC": 22,
           "waveM": 1.4,
-          "vizM": 14,
+          "vizM": 10,
           "rainMm": 79,
           "windMs": 4.4,
-          "sunnyDays": 9
+          "sunnyDays": 11,
+          "vizMinM": 8,
+          "vizMaxM": 13,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 6,
           "tempC": 20.5,
           "waveM": 1.4,
-          "vizM": 14,
+          "vizM": 9,
           "rainMm": 70,
           "windMs": 4.4,
-          "sunnyDays": 8
+          "sunnyDays": 10,
+          "vizMinM": 7,
+          "vizMaxM": 12,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 7,
           "tempC": 19.5,
           "waveM": 1.4,
-          "vizM": 14,
+          "vizM": 9,
           "rainMm": 65,
           "windMs": 4.4,
-          "sunnyDays": 10
+          "sunnyDays": 12,
+          "vizMinM": 7,
+          "vizMaxM": 12,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 8,
           "tempC": 19,
           "waveM": 1.4,
-          "vizM": 14,
+          "vizM": 9,
           "rainMm": 55,
           "windMs": 4,
-          "sunnyDays": 11
+          "sunnyDays": 13,
+          "vizMinM": 7,
+          "vizMaxM": 13,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 9,
           "tempC": 19.5,
           "waveM": 1.3,
-          "vizM": 15,
+          "vizM": 10,
           "rainMm": 44,
           "windMs": 3.8,
-          "sunnyDays": 11
+          "sunnyDays": 14,
+          "vizMinM": 9,
+          "vizMaxM": 13,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 10,
           "tempC": 20.5,
           "waveM": 1.2,
-          "vizM": 15,
+          "vizM": 10,
           "rainMm": 53,
           "windMs": 3.3,
-          "sunnyDays": 11
+          "sunnyDays": 14,
+          "vizMinM": 8,
+          "vizMaxM": 13,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 11,
           "tempC": 22,
           "waveM": 1.2,
-          "vizM": 15,
+          "vizM": 11,
           "rainMm": 55,
           "windMs": 3.4,
-          "sunnyDays": 10
+          "sunnyDays": 13,
+          "vizMinM": 9,
+          "vizMaxM": 14,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         },
         {
           "m": 12,
           "tempC": 23,
           "waveM": 1.1,
-          "vizM": 16,
+          "vizM": 11,
           "rainMm": 103,
           "windMs": 3.3,
-          "sunnyDays": 9
+          "sunnyDays": 12,
+          "vizMinM": 8,
+          "vizMaxM": 15,
+          "vizSource": "aggregate",
+          "vizSourceUrl": null
         }
       ],
       "windows": {
@@ -176,9 +224,9 @@
           11
         ]
       },
-      "generatedAt": "2026-06-10T20:55:50.761Z"
+      "generatedAt": "2026-07-02T19:01:59.678Z"
     },
-    "bestTimeAuto": "On the Pacific coast, August to November brings the driest months, with temperatures from 19°C to 25°C. In the Indian Ocean, December to March sees the calmest seas, maintaining warm waters at 27–29°C, diveable year-round."
+    "bestTimeAuto": "Conditions vary from coast to coast, but the water stays a mild 19–25°C and somewhere is diveable year-round."
   },
   "new-south-wales": {
     "children": [],
