@@ -86,7 +86,7 @@
           "m": 3,
           "tempC": 30,
           "waveM": 0.8,
-          "vizM": 27,
+          "vizM": 28,
           "rainMm": 155,
           "windMs": 1.3,
           "sunnyDays": 6,
@@ -129,7 +129,7 @@
           "rainMm": 42,
           "windMs": 4.9,
           "sunnyDays": 18,
-          "vizMinM": 20,
+          "vizMinM": 19,
           "vizMaxM": 24,
           "vizSource": "aggregate",
           "vizSourceUrl": null
@@ -142,7 +142,7 @@
           "rainMm": 32,
           "windMs": 4.9,
           "sunnyDays": 19,
-          "vizMinM": 16,
+          "vizMinM": 15,
           "vizMaxM": 20,
           "vizSource": "aggregate",
           "vizSourceUrl": null
@@ -194,7 +194,7 @@
           "rainMm": 45,
           "windMs": 2,
           "sunnyDays": 16,
-          "vizMinM": 19,
+          "vizMinM": 18,
           "vizMaxM": 28,
           "vizSource": "aggregate",
           "vizSourceUrl": null
@@ -207,7 +207,7 @@
           "rainMm": 110,
           "windMs": 1.7,
           "sunnyDays": 10,
-          "vizMinM": 25,
+          "vizMinM": 24,
           "vizMaxM": 31,
           "vizSource": "aggregate",
           "vizSourceUrl": null
@@ -246,7 +246,7 @@
           10
         ]
       },
-      "generatedAt": "2026-07-02T19:01:59.678Z"
+      "generatedAt": "2026-07-02T19:50:50.390Z"
     },
     "bestTime": "In October, the sea is calmest and there is the least rain. The water is warmest at 29–30°C and cools to about 26°C."
   },
@@ -501,7 +501,7 @@
           12
         ]
       },
-      "generatedAt": "2026-07-02T19:01:59.678Z"
+      "generatedAt": "2026-07-02T19:50:50.390Z"
     },
     "bestTimeAuto": "In February to April and November to December, the sea is calmest. The water is warmest at 28–29°C and cools to about 26°C."
   },
@@ -762,7 +762,7 @@
           12
         ]
       },
-      "generatedAt": "2026-07-02T19:01:59.678Z"
+      "generatedAt": "2026-07-02T19:50:50.390Z"
     },
     "bestTime": "In February to March and November to December, the sea is calmest. The water is warmest at 29–30°C and cools to about 26°C."
   },
@@ -999,7 +999,7 @@
           9
         ]
       },
-      "generatedAt": "2026-07-02T19:01:59.678Z"
+      "generatedAt": "2026-07-02T19:50:50.390Z"
     }
   },
   "cabo-delgado-province": {
@@ -1274,7 +1274,7 @@
           9
         ]
       },
-      "generatedAt": "2026-07-02T19:01:59.678Z"
+      "generatedAt": "2026-07-02T19:50:50.390Z"
     },
     "bestTimeAuto": "From June to August, the sea is calmest, the water is clearest, and there is the least rain. The water warms to 25–26°C in summer and drops to about 20°C in winter. Conditions vary by coast."
   },
@@ -1575,7 +1575,7 @@
           2
         ]
       },
-      "generatedAt": "2026-07-02T19:01:59.678Z"
+      "generatedAt": "2026-07-02T19:50:50.390Z"
     },
     "bestTimeAuto": "In February, the sea is calmest and there is the least rain. The water is warmest at 29–30°C and cools to about 26°C."
   },
@@ -1781,12 +1781,12 @@
           "m": 1,
           "tempC": 16.5,
           "waveM": 0.9,
-          "vizM": 7,
+          "vizM": 9,
           "rainMm": 37,
           "windMs": 1.9,
           "sunnyDays": 17,
-          "vizMinM": 5,
-          "vizMaxM": 9,
+          "vizMinM": 7,
+          "vizMaxM": 11,
           "vizSource": "aggregate",
           "vizSourceUrl": null
         },
@@ -1794,12 +1794,12 @@
           "m": 2,
           "tempC": 16,
           "waveM": 1,
-          "vizM": 7,
+          "vizM": 9,
           "rainMm": 35,
           "windMs": 2.2,
           "sunnyDays": 16,
-          "vizMinM": 5,
-          "vizMaxM": 9,
+          "vizMinM": 8,
+          "vizMaxM": 10,
           "vizSource": "aggregate",
           "vizSourceUrl": null
         },
@@ -1807,12 +1807,12 @@
           "m": 3,
           "tempC": 16.5,
           "waveM": 1,
-          "vizM": 7,
+          "vizM": 9,
           "rainMm": 65,
           "windMs": 2.4,
           "sunnyDays": 15,
-          "vizMinM": 5,
-          "vizMaxM": 9,
+          "vizMinM": 8,
+          "vizMaxM": 10,
           "vizSource": "aggregate",
           "vizSourceUrl": null
         },
@@ -1820,11 +1820,11 @@
           "m": 4,
           "tempC": 17.5,
           "waveM": 0.9,
-          "vizM": 7,
+          "vizM": 9,
           "rainMm": 41,
           "windMs": 2,
           "sunnyDays": 14,
-          "vizMinM": 6,
+          "vizMinM": 8,
           "vizMaxM": 9,
           "vizSource": "aggregate",
           "vizSourceUrl": null
@@ -1837,8 +1837,8 @@
           "rainMm": 20,
           "windMs": 1.9,
           "sunnyDays": 18,
-          "vizMinM": 9,
-          "vizMaxM": 11,
+          "vizMinM": 8,
+          "vizMaxM": 10,
           "vizSource": "aggregate",
           "vizSourceUrl": null
         },
@@ -1846,12 +1846,12 @@
           "m": 6,
           "tempC": 20.5,
           "waveM": 0.7,
-          "vizM": 10,
+          "vizM": 9,
           "rainMm": 6,
           "windMs": 2.3,
           "sunnyDays": 23,
-          "vizMinM": 9,
-          "vizMaxM": 12,
+          "vizMinM": 8,
+          "vizMaxM": 10,
           "vizSource": "aggregate",
           "vizSourceUrl": null
         },
@@ -1859,12 +1859,12 @@
           "m": 7,
           "tempC": 22,
           "waveM": 0.7,
-          "vizM": 10,
+          "vizM": 9,
           "rainMm": 1,
           "windMs": 2.6,
           "sunnyDays": 27,
           "vizMinM": 8,
-          "vizMaxM": 13,
+          "vizMaxM": 10,
           "vizSource": "aggregate",
           "vizSourceUrl": null
         },
@@ -1872,12 +1872,12 @@
           "m": 8,
           "tempC": 22.5,
           "waveM": 0.7,
-          "vizM": 10,
+          "vizM": 8,
           "rainMm": 4,
           "windMs": 2.3,
           "sunnyDays": 24,
           "vizMinM": 8,
-          "vizMaxM": 14,
+          "vizMaxM": 9,
           "vizSource": "aggregate",
           "vizSourceUrl": null
         },
@@ -1885,11 +1885,11 @@
           "m": 9,
           "tempC": 22,
           "waveM": 0.7,
-          "vizM": 13,
+          "vizM": 11,
           "rainMm": 14,
           "windMs": 2.2,
           "sunnyDays": 18,
-          "vizMinM": 9,
+          "vizMinM": 8,
           "vizMaxM": 13,
           "vizSource": "aggregate",
           "vizSourceUrl": null
@@ -1898,11 +1898,11 @@
           "m": 10,
           "tempC": 20.5,
           "waveM": 0.7,
-          "vizM": 11,
+          "vizM": 10,
           "rainMm": 33,
           "windMs": 1.9,
           "sunnyDays": 16,
-          "vizMinM": 9,
+          "vizMinM": 8,
           "vizMaxM": 11,
           "vizSource": "aggregate",
           "vizSourceUrl": null
@@ -1911,11 +1911,11 @@
           "m": 11,
           "tempC": 19,
           "waveM": 0.9,
-          "vizM": 8,
+          "vizM": 10,
           "rainMm": 39,
           "windMs": 2.1,
           "sunnyDays": 15,
-          "vizMinM": 7,
+          "vizMinM": 8,
           "vizMaxM": 11,
           "vizSource": "aggregate",
           "vizSourceUrl": null
@@ -1924,11 +1924,11 @@
           "m": 12,
           "tempC": 17.5,
           "waveM": 0.9,
-          "vizM": 7,
+          "vizM": 9,
           "rainMm": 43,
           "windMs": 1.8,
           "sunnyDays": 16,
-          "vizMinM": 6,
+          "vizMinM": 7,
           "vizMaxM": 9,
           "vizSource": "aggregate",
           "vizSourceUrl": null
@@ -1969,7 +1969,7 @@
           9
         ]
       },
-      "generatedAt": "2026-07-02T19:01:59.678Z"
+      "generatedAt": "2026-07-02T19:50:50.390Z"
     }
   },
   "casablanca-settat": {
@@ -2272,7 +2272,7 @@
           8
         ]
       },
-      "generatedAt": "2026-07-02T19:01:59.678Z"
+      "generatedAt": "2026-07-02T19:50:50.390Z"
     },
     "bestTimeAuto": "In June and August to September, the sea is calmest and the water is clearest. The water is warmest at 31–32°C and cools to about 27°C. Conditions vary by coast."
   },
@@ -2528,7 +2528,7 @@
           8
         ]
       },
-      "generatedAt": "2026-07-02T19:01:59.678Z"
+      "generatedAt": "2026-07-02T19:50:50.390Z"
     },
     "bestTimeAuto": "From July to August, the sea is calmest and there is the least rain. The water warms to 31–32°C in summer and drops to about 26°C in winter."
   },
@@ -2843,7 +2843,7 @@
           10
         ]
       },
-      "generatedAt": "2026-07-02T19:01:59.678Z"
+      "generatedAt": "2026-07-02T19:50:50.390Z"
     },
     "bestTimeAuto": "From July to October, the water is clearest. The water warms to 28–29°C in summer and drops to about 18°C in winter."
   },
@@ -2902,7 +2902,7 @@
           "rainMm": 10,
           "windMs": 6.5,
           "sunnyDays": 14,
-          "vizMinM": 9,
+          "vizMinM": 10,
           "vizMaxM": 11,
           "vizSource": "aggregate",
           "vizSourceUrl": null
@@ -3019,7 +3019,7 @@
           "rainMm": 6,
           "windMs": 5.3,
           "sunnyDays": 10,
-          "vizMinM": 12,
+          "vizMinM": 13,
           "vizMaxM": 15,
           "vizSource": "aggregate",
           "vizSourceUrl": null
@@ -3071,7 +3071,7 @@
           7
         ]
       },
-      "generatedAt": "2026-07-02T19:01:59.678Z"
+      "generatedAt": "2026-07-02T19:50:50.390Z"
     }
   },
   "saint-helena-island": {
@@ -3277,7 +3277,7 @@
           5
         ]
       },
-      "generatedAt": "2026-07-02T19:01:59.678Z"
+      "generatedAt": "2026-07-02T19:50:50.390Z"
     },
     "bestTime": "February to May brings the clearest water, with warm temperatures of 28–29°C, perfect for exploring the underwater landscapes.",
     "bestTimeAuto": "From February to May, the water is clearest. The water is warmest at 28–29°C and cools to about 25°C."

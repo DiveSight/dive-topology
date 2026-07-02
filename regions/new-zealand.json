@@ -62,7 +62,7 @@
           "m": 3,
           "tempC": 19.5,
           "waveM": 1.3,
-          "vizM": 11,
+          "vizM": 12,
           "rainMm": 73,
           "windMs": 1.8,
           "sunnyDays": 10,
@@ -105,7 +105,7 @@
           "rainMm": 115,
           "windMs": 1.6,
           "sunnyDays": 9,
-          "vizMinM": 6,
+          "vizMinM": 7,
           "vizMaxM": 14,
           "vizSource": "aggregate",
           "vizSourceUrl": null
@@ -144,7 +144,7 @@
           "rainMm": 98,
           "windMs": 2.8,
           "sunnyDays": 8,
-          "vizMinM": 8,
+          "vizMinM": 9,
           "vizMaxM": 14,
           "vizSource": "aggregate",
           "vizSourceUrl": null
@@ -179,7 +179,7 @@
           "m": 12,
           "tempC": 18,
           "waveM": 1.2,
-          "vizM": 11,
+          "vizM": 12,
           "rainMm": 77,
           "windMs": 1.9,
           "sunnyDays": 9,
@@ -223,7 +223,7 @@
           7
         ]
       },
-      "generatedAt": "2026-07-02T19:01:59.678Z"
+      "generatedAt": "2026-07-02T19:50:50.390Z"
     },
     "bestTimeAuto": "From January to July, the water is clearest. The water warms to 19–20°C in summer and drops to about 14°C in winter."
   },

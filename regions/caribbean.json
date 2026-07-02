@@ -64,7 +64,7 @@
           "windMs": 6.4,
           "sunnyDays": 22,
           "vizMinM": 15,
-          "vizMaxM": 19,
+          "vizMaxM": 18,
           "vizSource": "aggregate",
           "vizSourceUrl": null
         },
@@ -102,7 +102,7 @@
           "rainMm": 47,
           "windMs": 6,
           "sunnyDays": 19,
-          "vizMinM": 18,
+          "vizMinM": 17,
           "vizMaxM": 20,
           "vizSource": "aggregate",
           "vizSourceUrl": null
@@ -155,7 +155,7 @@
           "windMs": 6.6,
           "sunnyDays": 15,
           "vizMinM": 15,
-          "vizMaxM": 19,
+          "vizMaxM": 17,
           "vizSource": "aggregate",
           "vizSourceUrl": null
         },
@@ -243,7 +243,7 @@
           12
         ]
       },
-      "generatedAt": "2026-07-02T19:01:59.678Z"
+      "generatedAt": "2026-07-02T19:50:50.390Z"
     },
     "bestTime": "From December to March, there is the least rain. The water is warmest at 29–30°C and cools to about 27°C."
   },
@@ -492,7 +492,7 @@
           6
         ]
       },
-      "generatedAt": "2026-07-02T19:01:59.678Z"
+      "generatedAt": "2026-07-02T19:50:50.390Z"
     },
     "bestTime": "From March to June, there is the least rain. The water is warmest at 29°C and cools to about 26°C."
   },
@@ -731,7 +731,7 @@
           9
         ]
       },
-      "generatedAt": "2026-07-02T19:01:59.678Z"
+      "generatedAt": "2026-07-02T19:50:50.390Z"
     },
     "bestTimeAuto": "From May to September, the sea is calmest. The water is warmest at 29–30°C and cools to about 25°C."
   },
@@ -1140,7 +1140,7 @@
           11
         ]
       },
-      "generatedAt": "2026-07-02T19:01:59.678Z"
+      "generatedAt": "2026-07-02T19:50:50.390Z"
     },
     "bestTime": "In September and November, the sea is calmest and the water is clearest. The water is warmest at 29–30°C and cools to about 27°C."
   },
@@ -1449,7 +1449,7 @@
           5
         ]
       },
-      "generatedAt": "2026-07-02T19:01:59.678Z"
+      "generatedAt": "2026-07-02T19:50:50.390Z"
     },
     "bestTime": "From February to May, there is the least rain. The water is warmest at 29–30°C and cools to about 27°C."
   },
@@ -1765,7 +1765,7 @@
           4
         ]
       },
-      "generatedAt": "2026-07-02T19:01:59.678Z"
+      "generatedAt": "2026-07-02T19:50:50.390Z"
     }
   },
   "cayman-brac": {
@@ -1864,7 +1864,7 @@
           "m": 4,
           "tempC": 27.5,
           "waveM": 0.7,
-          "vizM": 19,
+          "vizM": 20,
           "rainMm": 29,
           "windMs": 3.4,
           "sunnyDays": 20,
@@ -1908,7 +1908,7 @@
           "windMs": 3.5,
           "sunnyDays": 12,
           "vizMinM": 11,
-          "vizMaxM": 24,
+          "vizMaxM": 25,
           "vizSource": "aggregate",
           "vizSourceUrl": null
         },
@@ -1916,7 +1916,7 @@
           "m": 8,
           "tempC": 30.5,
           "waveM": 0.5,
-          "vizM": 18,
+          "vizM": 20,
           "rainMm": 103,
           "windMs": 3.2,
           "sunnyDays": 11,
@@ -1929,7 +1929,7 @@
           "m": 9,
           "tempC": 30.5,
           "waveM": 0.5,
-          "vizM": 18,
+          "vizM": 19,
           "rainMm": 122,
           "windMs": 2.6,
           "sunnyDays": 9,
@@ -1968,7 +1968,7 @@
           "m": 12,
           "tempC": 27.5,
           "waveM": 0.8,
-          "vizM": 15,
+          "vizM": 16,
           "rainMm": 44,
           "windMs": 4.4,
           "sunnyDays": 19,
@@ -2014,7 +2014,7 @@
           9
         ]
       },
-      "generatedAt": "2026-07-02T19:01:59.678Z"
+      "generatedAt": "2026-07-02T19:50:50.390Z"
     },
     "bestTime": "The Caribbean coast of Cuba dries out from January to April, perfect for dives in 27–31°C waters. The Gulf of Mexico calms from June to September. On the Pacific coast, May to September brings settled seas and warm waters around 26–30°C.",
     "bestTimeAuto": "In May, the sea is calmest and the water is clearest. The water is warmest at 31°C and cools to about 27°C. Conditions vary by coast."
@@ -2348,7 +2348,7 @@
           5
         ]
       },
-      "generatedAt": "2026-07-02T19:01:59.678Z"
+      "generatedAt": "2026-07-02T19:50:50.390Z"
     },
     "bestTime": "February to May offers Curaçao's driest months, with water temperatures at a mild 27°C, perfect for uninterrupted diving.",
     "bestTimeAuto": "From February to May, there is the least rain. The water is warmest at 29–30°C and cools to about 27°C."
@@ -2401,7 +2401,7 @@
           "m": 1,
           "tempC": 27,
           "waveM": 1.5,
-          "vizM": 28,
+          "vizM": 29,
           "rainMm": 48,
           "windMs": 7.7,
           "sunnyDays": 23,
@@ -2505,7 +2505,7 @@
           "m": 9,
           "tempC": 29.5,
           "waveM": 1,
-          "vizM": 24,
+          "vizM": 25,
           "rainMm": 143,
           "windMs": 5.2,
           "sunnyDays": 12,
@@ -2588,7 +2588,7 @@
           4
         ]
       },
-      "generatedAt": "2026-07-02T19:01:59.678Z"
+      "generatedAt": "2026-07-02T19:50:50.390Z"
     },
     "bestTimeAuto": "In April, the sea is calmest and there is the least rain. The water is warmest at 29–30°C and cools to about 27°C."
   },
@@ -2908,7 +2908,7 @@
           6
         ]
       },
-      "generatedAt": "2026-07-02T19:01:59.678Z"
+      "generatedAt": "2026-07-02T19:50:50.390Z"
     },
     "bestTime": "In January to March and June, there is the least rain. The water is warmest at 29–30°C and cools to about 27°C."
   },
@@ -3175,7 +3175,7 @@
           11
         ]
       },
-      "generatedAt": "2026-07-02T19:01:59.678Z"
+      "generatedAt": "2026-07-02T19:50:50.390Z"
     },
     "bestTime": "Grenada's calmest seas extend from July to November, with warm water temperatures between 27–30°C, creating a welcoming environment for divers.",
     "bestTimeAuto": "From July to November, the sea is calmest. The water is warmest at 29–30°C and cools to about 27°C."
@@ -3462,7 +3462,7 @@
           5
         ]
       },
-      "generatedAt": "2026-07-02T19:01:59.678Z"
+      "generatedAt": "2026-07-02T19:50:50.390Z"
     }
   },
   "bay-islands": {
@@ -3560,7 +3560,7 @@
           "windMs": 3.1,
           "sunnyDays": 18,
           "vizMinM": 20,
-          "vizMaxM": 31,
+          "vizMaxM": 32,
           "vizSource": "aggregate",
           "vizSourceUrl": null
         },
@@ -3568,7 +3568,7 @@
           "m": 2,
           "tempC": 27,
           "waveM": 0.9,
-          "vizM": 22,
+          "vizM": 21,
           "rainMm": 44,
           "windMs": 3.2,
           "sunnyDays": 19,
@@ -3581,7 +3581,7 @@
           "m": 3,
           "tempC": 27.5,
           "waveM": 0.9,
-          "vizM": 28,
+          "vizM": 26,
           "rainMm": 60,
           "windMs": 2.9,
           "sunnyDays": 19,
@@ -3620,7 +3620,7 @@
           "m": 6,
           "tempC": 29,
           "waveM": 0.8,
-          "vizM": 31,
+          "vizM": 30,
           "rainMm": 109,
           "windMs": 3,
           "sunnyDays": 7,
@@ -3633,7 +3633,7 @@
           "m": 7,
           "tempC": 29.5,
           "waveM": 0.8,
-          "vizM": 24,
+          "vizM": 22,
           "rainMm": 100,
           "windMs": 2.9,
           "sunnyDays": 12,
@@ -3646,7 +3646,7 @@
           "m": 8,
           "tempC": 30,
           "waveM": 0.7,
-          "vizM": 29,
+          "vizM": 28,
           "rainMm": 125,
           "windMs": 2.6,
           "sunnyDays": 9,
@@ -3659,7 +3659,7 @@
           "m": 9,
           "tempC": 30,
           "waveM": 0.5,
-          "vizM": 30,
+          "vizM": 29,
           "rainMm": 138,
           "windMs": 1.9,
           "sunnyDays": 8,
@@ -3685,7 +3685,7 @@
           "m": 11,
           "tempC": 29,
           "waveM": 0.8,
-          "vizM": 23,
+          "vizM": 21,
           "rainMm": 121,
           "windMs": 3,
           "sunnyDays": 12,
@@ -3698,7 +3698,7 @@
           "m": 12,
           "tempC": 28.5,
           "waveM": 0.9,
-          "vizM": 24,
+          "vizM": 22,
           "rainMm": 54,
           "windMs": 3.6,
           "sunnyDays": 18,
@@ -3746,7 +3746,7 @@
           10
         ]
       },
-      "generatedAt": "2026-07-02T19:01:59.678Z"
+      "generatedAt": "2026-07-02T19:50:50.390Z"
     }
   },
   "kingston": {
@@ -4008,7 +4008,7 @@
           6
         ]
       },
-      "generatedAt": "2026-07-02T19:01:59.678Z"
+      "generatedAt": "2026-07-02T19:50:50.390Z"
     },
     "bestTime": "January to March offers the driest months for diving, with water temperatures around 27°C. June also provides a dry window, with waters warming to 29–30°C.",
     "bestTimeAuto": "In January to March and June, there is the least rain. The water is warmest at 29–30°C and cools to about 27°C."
@@ -4234,7 +4234,7 @@
           4
         ]
       },
-      "generatedAt": "2026-07-02T19:01:59.678Z"
+      "generatedAt": "2026-07-02T19:50:50.390Z"
     }
   },
   "rivas": {
@@ -4488,7 +4488,7 @@
           12
         ]
       },
-      "generatedAt": "2026-07-02T19:01:59.678Z"
+      "generatedAt": "2026-07-02T19:50:50.390Z"
     },
     "bestTime": "From December to March, there is the least rain. The water is warmest at 29–30°C and cools to about 27°C."
   },
@@ -4725,7 +4725,7 @@
           5
         ]
       },
-      "generatedAt": "2026-07-02T19:01:59.678Z"
+      "generatedAt": "2026-07-02T19:50:50.390Z"
     },
     "bestTime": "From April to May, the sea is calmest and there is the least rain. The water is warmest at 29–30°C and cools to about 27°C."
   },
@@ -4986,7 +4986,7 @@
           "m": 5,
           "tempC": 28,
           "waveM": 1.4,
-          "vizM": 14,
+          "vizM": 13,
           "rainMm": 50,
           "windMs": 7.6,
           "sunnyDays": 9,
@@ -5030,7 +5030,7 @@
           "windMs": 5.9,
           "sunnyDays": 13,
           "vizMinM": 12,
-          "vizMaxM": 15,
+          "vizMaxM": 14,
           "vizSource": "aggregate",
           "vizSourceUrl": null
         },
@@ -5064,7 +5064,7 @@
           "m": 11,
           "tempC": 29,
           "waveM": 1.2,
-          "vizM": 15,
+          "vizM": 14,
           "rainMm": 151,
           "windMs": 6.6,
           "sunnyDays": 13,
@@ -5126,7 +5126,7 @@
           11
         ]
       },
-      "generatedAt": "2026-07-02T19:01:59.678Z"
+      "generatedAt": "2026-07-02T19:50:50.390Z"
     },
     "bestTime": "In November, the sea is calmest and the water is clearest. The water is warmest at 29–30°C and cools to about 27°C."
   },
@@ -5244,7 +5244,7 @@
           "m": 1,
           "tempC": 26.5,
           "waveM": 1.3,
-          "vizM": 19,
+          "vizM": 18,
           "rainMm": 49,
           "windMs": 5.5,
           "sunnyDays": 21,
@@ -5322,7 +5322,7 @@
           "m": 7,
           "tempC": 29,
           "waveM": 1.1,
-          "vizM": 17,
+          "vizM": 16,
           "rainMm": 50,
           "windMs": 7.7,
           "sunnyDays": 16,
@@ -5374,7 +5374,7 @@
           "m": 11,
           "tempC": 28,
           "waveM": 1.3,
-          "vizM": 18,
+          "vizM": 17,
           "rainMm": 117,
           "windMs": 5.7,
           "sunnyDays": 15,
@@ -5426,7 +5426,7 @@
           6
         ]
       },
-      "generatedAt": "2026-07-02T19:01:59.678Z"
+      "generatedAt": "2026-07-02T19:50:50.390Z"
     },
     "bestTimeAuto": "In February to April and June, there is the least rain. The water is warmest at 29–30°C and cools to about 26°C."
   },
@@ -5719,7 +5719,7 @@
           4
         ]
       },
-      "generatedAt": "2026-07-02T19:01:59.678Z"
+      "generatedAt": "2026-07-02T19:50:50.390Z"
     },
     "bestTime": "From January to April, there is the least rain. The water is warmest at 29–30°C and cools to about 27°C."
   },
@@ -5927,7 +5927,7 @@
           4
         ]
       },
-      "generatedAt": "2026-07-02T19:01:59.678Z"
+      "generatedAt": "2026-07-02T19:50:50.390Z"
     },
     "bestTime": "From January to April, there is the least rain. The water is warmest at 29–30°C and cools to about 27°C."
   },
@@ -6014,7 +6014,7 @@
           "windMs": 2.2,
           "sunnyDays": 7,
           "vizMinM": 12,
-          "vizMaxM": 15,
+          "vizMaxM": 14,
           "vizSource": "aggregate",
           "vizSourceUrl": null
         },
@@ -6150,7 +6150,7 @@
           8
         ]
       },
-      "generatedAt": "2026-07-02T19:01:59.678Z"
+      "generatedAt": "2026-07-02T19:50:50.390Z"
     },
     "bestTimeAuto": "From May to August, the sea is calmest. The water warms to 28–29°C in summer and drops to about 20°C in winter."
   },
@@ -6369,7 +6369,7 @@
           5
         ]
       },
-      "generatedAt": "2026-07-02T19:01:59.678Z"
+      "generatedAt": "2026-07-02T19:50:50.390Z"
     },
     "bestTime": "From April to May, the sea is calmest and the water is clearest. The water is warmest at 29–30°C and cools to about 27°C."
   },
@@ -6425,7 +6425,7 @@
           "m": 2,
           "tempC": 27.5,
           "waveM": 1.4,
-          "vizM": 10,
+          "vizM": 11,
           "rainMm": 58,
           "windMs": 5.4,
           "sunnyDays": 17,
@@ -6520,7 +6520,7 @@
           "rainMm": 241,
           "windMs": 2.9,
           "sunnyDays": 2,
-          "vizMinM": 9,
+          "vizMinM": 10,
           "vizMaxM": 19,
           "vizSource": "aggregate",
           "vizSourceUrl": null
@@ -6605,7 +6605,7 @@
           11
         ]
       },
-      "generatedAt": "2026-07-02T19:01:59.678Z"
+      "generatedAt": "2026-07-02T19:50:50.390Z"
     },
     "bestTimeAuto": "In April, the sea is calmest and there is the least rain. The water stays a warm 28–30°C all year. Conditions vary by coast."
   },
@@ -6732,7 +6732,7 @@
           "rainMm": 4,
           "windMs": 0.9,
           "sunnyDays": 25,
-          "vizMinM": 7,
+          "vizMinM": 8,
           "vizMaxM": 8,
           "vizSource": "aggregate",
           "vizSourceUrl": null
@@ -6913,7 +6913,7 @@
           3
         ]
       },
-      "generatedAt": "2026-07-02T19:01:59.678Z"
+      "generatedAt": "2026-07-02T19:50:50.390Z"
     },
     "bestTimeAuto": "From February to March, the sea is calmest, the water is clearest, and there is the least rain. The water stays a warm 29–31°C all year."
   },
@@ -7122,7 +7122,7 @@
           12
         ]
       },
-      "generatedAt": "2026-07-02T19:01:59.678Z"
+      "generatedAt": "2026-07-02T19:50:50.390Z"
     },
     "bestTime": "From December to March, there is the least rain. The water is warmest at 29–30°C and cools to about 27°C."
   },
@@ -7332,7 +7332,7 @@
           12
         ]
       },
-      "generatedAt": "2026-07-02T19:01:59.678Z"
+      "generatedAt": "2026-07-02T19:50:50.390Z"
     },
     "bestTime": "From December to March, there is the least rain. The water is warmest at 29–30°C and cools to about 27°C."
   },
@@ -7543,7 +7543,7 @@
           4
         ]
       },
-      "generatedAt": "2026-07-02T19:01:59.678Z"
+      "generatedAt": "2026-07-02T19:50:50.390Z"
     },
     "bestTime": "In April, the sea is calmest and there is the least rain. The water is warmest at 29–30°C and cools to about 27°C."
   },
@@ -7750,7 +7750,7 @@
           3
         ]
       },
-      "generatedAt": "2026-07-02T19:01:59.678Z"
+      "generatedAt": "2026-07-02T19:50:50.390Z"
     },
     "bestTime": "From January to March, the water is clearest and there is the least rain. The water is warmest at 29–30°C and cools to about 27°C."
   },
@@ -7970,7 +7970,7 @@
           11
         ]
       },
-      "generatedAt": "2026-07-02T19:01:59.678Z"
+      "generatedAt": "2026-07-02T19:50:50.390Z"
     },
     "bestTime": "From July to November, the sea is calmest. The water is warmest at 29–30°C and cools to about 27°C."
   },
@@ -8173,7 +8173,7 @@
           12
         ]
       },
-      "generatedAt": "2026-07-02T19:01:59.678Z"
+      "generatedAt": "2026-07-02T19:50:50.390Z"
     },
     "bestTime": "From December to March, there is the least rain. The water is warmest at 29–30°C and cools to about 27°C."
   },
@@ -8381,7 +8381,7 @@
           12
         ]
       },
-      "generatedAt": "2026-07-02T19:01:59.678Z"
+      "generatedAt": "2026-07-02T19:50:50.390Z"
     },
     "bestTime": "From December to March, there is the least rain. The water is warmest at 29–30°C and cools to about 27°C."
   },
@@ -8584,7 +8584,7 @@
           12
         ]
       },
-      "generatedAt": "2026-07-02T19:01:59.678Z"
+      "generatedAt": "2026-07-02T19:50:50.390Z"
     },
     "bestTime": "December to March is the driest period in Sint Maarten, with water temperatures settling at a mild 27–28°C. Plan your dives for these months to enjoy drier weather.",
     "bestTimeAuto": "From December to March, there is the least rain. The water is warmest at 29–30°C and cools to about 27°C."
@@ -8803,7 +8803,7 @@
           10
         ]
       },
-      "generatedAt": "2026-07-02T19:01:59.678Z"
+      "generatedAt": "2026-07-02T19:50:50.390Z"
     },
     "bestTime": "From July to October, the sea is calmest. The water is warmest at 29–30°C and cools to about 27°C."
   },

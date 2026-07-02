@@ -196,7 +196,7 @@
           "windMs": 6,
           "sunnyDays": 8,
           "vizMinM": 27,
-          "vizMaxM": 30,
+          "vizMaxM": 29,
           "vizSource": "aggregate",
           "vizSourceUrl": null
         },
@@ -221,7 +221,7 @@
           "rainMm": 225,
           "windMs": 4.2,
           "sunnyDays": 6,
-          "vizMinM": 33,
+          "vizMinM": 32,
           "vizMaxM": 38,
           "vizSource": "aggregate",
           "vizSourceUrl": null
@@ -257,7 +257,7 @@
           9
         ]
       },
-      "generatedAt": "2026-07-02T19:01:59.678Z"
+      "generatedAt": "2026-07-02T19:50:50.390Z"
     },
     "bestTimeAuto": "From June to September, there is the least rain. The water is warmest at 28–29°C and cools to about 26°C."
   },
@@ -659,7 +659,7 @@
           9
         ]
       },
-      "generatedAt": "2026-07-02T19:01:59.678Z"
+      "generatedAt": "2026-07-02T19:50:50.390Z"
     },
     "bestTimeAuto": "From November to April, the sea is calmest. The water is warmest at 28–29°C and cools to about 26°C. Conditions vary by coast."
   },
@@ -998,7 +998,7 @@
           9
         ]
       },
-      "generatedAt": "2026-07-02T19:01:59.678Z"
+      "generatedAt": "2026-07-02T19:50:50.390Z"
     },
     "bestTimeAuto": "In May and July to September, there is the least rain. The water is warmest at 29–30°C and cools to about 27°C."
   },
@@ -1295,7 +1295,7 @@
           10
         ]
       },
-      "generatedAt": "2026-07-02T19:01:59.678Z"
+      "generatedAt": "2026-07-02T19:50:50.390Z"
     },
     "bestTime": "From July to October, the sea is calmest. The water stays a warm 28–30°C all year."
   },
@@ -1648,7 +1648,7 @@
           9
         ]
       },
-      "generatedAt": "2026-07-02T19:01:59.678Z"
+      "generatedAt": "2026-07-02T19:50:50.390Z"
     }
   },
   "chuuk": {
@@ -1830,7 +1830,7 @@
           "m": 6,
           "tempC": 24.5,
           "waveM": 1.4,
-          "vizM": 14,
+          "vizM": 13,
           "rainMm": 57,
           "windMs": 3.7,
           "sunnyDays": 8,
@@ -1848,7 +1848,7 @@
           "windMs": 3.8,
           "sunnyDays": 9,
           "vizMinM": 11,
-          "vizMaxM": 28,
+          "vizMaxM": 29,
           "vizSource": "aggregate",
           "vizSourceUrl": null
         },
@@ -1942,7 +1942,7 @@
           9
         ]
       },
-      "generatedAt": "2026-07-02T19:01:59.678Z"
+      "generatedAt": "2026-07-02T19:50:50.390Z"
     }
   },
   "loyalty-islands": {
@@ -2222,7 +2222,7 @@
           10
         ]
       },
-      "generatedAt": "2026-07-02T19:01:59.678Z"
+      "generatedAt": "2026-07-02T19:50:50.390Z"
     }
   },
   "airai": {
@@ -2543,7 +2543,7 @@
           9
         ]
       },
-      "generatedAt": "2026-07-02T19:01:59.678Z"
+      "generatedAt": "2026-07-02T19:50:50.390Z"
     },
     "bestTime": "From December to February, the sea is calmest and there is the least rain. The water is warmest at 29–30°C and cools to about 27°C. Conditions vary by coast."
   },
@@ -2885,7 +2885,7 @@
           9
         ]
       },
-      "generatedAt": "2026-07-02T19:01:59.678Z"
+      "generatedAt": "2026-07-02T19:50:50.390Z"
     },
     "bestTime": "From June to September, there is the least rain. The water stays a warm 28–30°C all year."
   },
@@ -3152,7 +3152,7 @@
           12
         ]
       },
-      "generatedAt": "2026-07-02T19:01:59.678Z"
+      "generatedAt": "2026-07-02T19:50:50.390Z"
     },
     "bestTimeAuto": "From October to April, the sea is calmest. The water stays a warm 29–30°C all year."
   },
@@ -3299,7 +3299,7 @@
           "windMs": 4.8,
           "sunnyDays": 8,
           "vizMinM": 18,
-          "vizMaxM": 28,
+          "vizMaxM": 27,
           "vizSource": "aggregate",
           "vizSourceUrl": null
         },
@@ -3320,11 +3320,11 @@
           "m": 6,
           "tempC": 26.5,
           "waveM": 1.8,
-          "vizM": 24,
+          "vizM": 23,
           "rainMm": 130,
           "windMs": 5.6,
           "sunnyDays": 7,
-          "vizMinM": 21,
+          "vizMinM": 20,
           "vizMaxM": 31,
           "vizSource": "aggregate",
           "vizSourceUrl": null
@@ -3351,7 +3351,7 @@
           "windMs": 5.1,
           "sunnyDays": 8,
           "vizMinM": 20,
-          "vizMaxM": 30,
+          "vizMaxM": 31,
           "vizSource": "aggregate",
           "vizSourceUrl": null
         },
@@ -3390,7 +3390,7 @@
           "windMs": 5.2,
           "sunnyDays": 8,
           "vizMinM": 20,
-          "vizMaxM": 29,
+          "vizMaxM": 30,
           "vizSource": "aggregate",
           "vizSourceUrl": null
         },
@@ -3403,7 +3403,7 @@
           "windMs": 4,
           "sunnyDays": 6,
           "vizMinM": 20,
-          "vizMaxM": 30,
+          "vizMaxM": 31,
           "vizSource": "aggregate",
           "vizSourceUrl": null
         }
@@ -3437,7 +3437,7 @@
           9
         ]
       },
-      "generatedAt": "2026-07-02T19:01:59.678Z"
+      "generatedAt": "2026-07-02T19:50:50.390Z"
     }
   },
   "haapai": {
@@ -3547,7 +3547,7 @@
           "rainMm": 262,
           "windMs": 2.3,
           "sunnyDays": 7,
-          "vizMinM": 22,
+          "vizMinM": 21,
           "vizMaxM": 27,
           "vizSource": "aggregate",
           "vizSourceUrl": null
@@ -3713,7 +3713,7 @@
           9
         ]
       },
-      "generatedAt": "2026-07-02T19:01:59.678Z"
+      "generatedAt": "2026-07-02T19:50:50.390Z"
     },
     "bestTimeAuto": "From June to September, there is the least rain. The water stays a warm 27–29°C all year."
   },
@@ -4032,7 +4032,7 @@
           9
         ]
       },
-      "generatedAt": "2026-07-02T19:01:59.678Z"
+      "generatedAt": "2026-07-02T19:50:50.390Z"
     },
     "bestTime": "From June to September, there is the least rain. The water is warmest at 28–29°C and cools to about 26°C."
   },
@@ -4218,7 +4218,7 @@
         "lightestWind": [],
         "best": []
       },
-      "generatedAt": "2026-07-02T19:01:59.678Z"
+      "generatedAt": "2026-07-02T19:50:50.390Z"
     },
     "bestTime": ""
   },
@@ -4433,7 +4433,7 @@
           10
         ]
       },
-      "generatedAt": "2026-07-02T19:01:59.678Z"
+      "generatedAt": "2026-07-02T19:50:50.390Z"
     },
     "bestTime": "On the east coast, July to October brings the calmest seas, with water temperatures a consistently warm 29–30°C. Meanwhile, from May to September, the west coast enjoys similarly placid conditions.",
     "bestTimeAuto": "Conditions vary from coast to coast, but the water stays a warm 29–30°C and somewhere is diveable year-round."

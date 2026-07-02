@@ -85,7 +85,7 @@
           "rainMm": 98,
           "windMs": 3.7,
           "sunnyDays": 11,
-          "vizMinM": 7,
+          "vizMinM": 8,
           "vizMaxM": 12,
           "vizSource": "aggregate",
           "vizSourceUrl": null
@@ -112,7 +112,7 @@
           "windMs": 4.4,
           "sunnyDays": 10,
           "vizMinM": 7,
-          "vizMaxM": 12,
+          "vizMaxM": 13,
           "vizSource": "aggregate",
           "vizSourceUrl": null
         },
@@ -224,7 +224,7 @@
           11
         ]
       },
-      "generatedAt": "2026-07-02T19:01:59.678Z"
+      "generatedAt": "2026-07-02T19:50:50.390Z"
     },
     "bestTimeAuto": "Conditions vary from coast to coast, but the water stays a mild 19–25°C and somewhere is diveable year-round."
   },

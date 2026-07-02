@@ -210,7 +210,7 @@
           8
         ]
       },
-      "generatedAt": "2026-07-02T19:01:59.678Z"
+      "generatedAt": "2026-07-02T19:50:50.390Z"
     },
     "bestTime": "From June to August, the sea is calmest, the water is clearest, and there is the least rain. The water warms to 25–26°C in summer and drops to about 15°C in winter."
   },
@@ -434,7 +434,7 @@
           9
         ]
       },
-      "generatedAt": "2026-07-02T19:01:59.678Z"
+      "generatedAt": "2026-07-02T19:50:50.390Z"
     },
     "bestTime": "From June to September, the sea is calmest and the water is clearest. The water warms to 26°C in summer and drops to about 16°C in winter."
   },
@@ -1025,7 +1025,7 @@
           8
         ]
       },
-      "generatedAt": "2026-07-02T19:01:59.678Z"
+      "generatedAt": "2026-07-02T19:50:50.390Z"
     },
     "bestTime": "From June to August, the sea is calmest, the water is clearest, and there is the least rain. The water warms to 26°C in summer and drops to about 7°C in winter."
   },
@@ -1244,7 +1244,7 @@
           8
         ]
       },
-      "generatedAt": "2026-07-02T19:01:59.678Z"
+      "generatedAt": "2026-07-02T19:50:50.390Z"
     },
     "bestTime": "From June to August, the sea is calmest, the water is clearest, and there is the least rain. The water warms to 25–26°C in summer and drops to about 13°C in winter."
   },
@@ -1614,7 +1614,7 @@
           9
         ]
       },
-      "generatedAt": "2026-07-02T19:01:59.678Z"
+      "generatedAt": "2026-07-02T19:50:50.390Z"
     },
     "bestTime": "From June to September, the sea is calmest, the water is clearest, and there is the least rain. The water warms to 29–30°C in summer and drops to about 18°C in winter."
   },
@@ -1873,7 +1873,7 @@
           "rainMm": 67,
           "windMs": 3.2,
           "sunnyDays": 2,
-          "vizMinM": 6,
+          "vizMinM": 7,
           "vizMaxM": 9,
           "vizSource": "aggregate",
           "vizSourceUrl": null
@@ -1909,7 +1909,7 @@
           7
         ]
       },
-      "generatedAt": "2026-07-02T19:01:59.678Z"
+      "generatedAt": "2026-07-02T19:50:50.390Z"
     },
     "bestTime": "In July, the sea is calmest and the water is clearest. The water warms to 18–19°C in summer and drops to about 3°C in winter."
   },
@@ -1999,7 +1999,7 @@
           "windMs": 2.3,
           "sunnyDays": 1,
           "vizMinM": 3,
-          "vizMaxM": 3,
+          "vizMaxM": 6,
           "vizSource": "aggregate",
           "vizSourceUrl": null
         },
@@ -2012,7 +2012,7 @@
           "windMs": 2.4,
           "sunnyDays": 3,
           "vizMinM": 2,
-          "vizMaxM": 2,
+          "vizMaxM": 3,
           "vizSource": "aggregate",
           "vizSourceUrl": null
         },
@@ -2038,7 +2038,7 @@
           "windMs": 2,
           "sunnyDays": 8,
           "vizMinM": 1,
-          "vizMaxM": 1,
+          "vizMaxM": 4,
           "vizSource": "aggregate",
           "vizSourceUrl": null
         },
@@ -2051,7 +2051,7 @@
           "windMs": 2,
           "sunnyDays": 10,
           "vizMinM": 1,
-          "vizMaxM": 1,
+          "vizMaxM": 15,
           "vizSource": "aggregate",
           "vizSourceUrl": null
         },
@@ -2064,7 +2064,7 @@
           "windMs": 2.6,
           "sunnyDays": 8,
           "vizMinM": 1,
-          "vizMaxM": 1,
+          "vizMaxM": 9,
           "vizSource": "aggregate",
           "vizSourceUrl": null
         },
@@ -2077,7 +2077,7 @@
           "windMs": 2.8,
           "sunnyDays": 9,
           "vizMinM": 1,
-          "vizMaxM": 1,
+          "vizMaxM": 10,
           "vizSource": "aggregate",
           "vizSourceUrl": null
         },
@@ -2090,7 +2090,7 @@
           "windMs": 2.9,
           "sunnyDays": 7,
           "vizMinM": 1,
-          "vizMaxM": 1,
+          "vizMaxM": 8,
           "vizSource": "aggregate",
           "vizSourceUrl": null
         },
@@ -2103,7 +2103,7 @@
           "windMs": 2.7,
           "sunnyDays": 4,
           "vizMinM": 2,
-          "vizMaxM": 2,
+          "vizMaxM": 5,
           "vizSource": "aggregate",
           "vizSourceUrl": null
         },
@@ -2116,7 +2116,7 @@
           "windMs": 2.4,
           "sunnyDays": 4,
           "vizMinM": 2,
-          "vizMaxM": 2,
+          "vizMaxM": 5,
           "vizSource": "aggregate",
           "vizSourceUrl": null
         },
@@ -2129,7 +2129,7 @@
           "windMs": 2.7,
           "sunnyDays": 2,
           "vizMinM": 3,
-          "vizMaxM": 3,
+          "vizMaxM": 6,
           "vizSource": "aggregate",
           "vizSourceUrl": null
         },
@@ -2137,7 +2137,7 @@
           "m": 12,
           "tempC": 7.5,
           "waveM": 0.7,
-          "vizM": 8,
+          "vizM": 7,
           "rainMm": 60,
           "windMs": 2.8,
           "sunnyDays": 2,
@@ -2174,7 +2174,7 @@
           6
         ]
       },
-      "generatedAt": "2026-07-02T19:01:59.678Z"
+      "generatedAt": "2026-07-02T19:50:50.390Z"
     },
     "bestTime": "In June, the sea is calmest, the water is clearest, and there is the least rain. The water warms to 20°C in summer and drops to about 5°C in winter. Conditions vary by coast."
   },
@@ -2321,7 +2321,7 @@
           "m": 3,
           "tempC": 17.5,
           "waveM": 1.1,
-          "vizM": 11,
+          "vizM": 12,
           "rainMm": 79,
           "windMs": 3,
           "sunnyDays": 11,
@@ -2403,7 +2403,7 @@
           "rainMm": 58,
           "windMs": 3.4,
           "sunnyDays": 14,
-          "vizMinM": 9,
+          "vizMinM": 10,
           "vizMaxM": 22,
           "vizSource": "aggregate",
           "vizSourceUrl": null
@@ -2429,7 +2429,7 @@
           "rainMm": 108,
           "windMs": 3,
           "sunnyDays": 9,
-          "vizMinM": 9,
+          "vizMinM": 10,
           "vizMaxM": 20,
           "vizSource": "aggregate",
           "vizSourceUrl": null
@@ -2470,7 +2470,7 @@
           9
         ]
       },
-      "generatedAt": "2026-07-02T19:01:59.678Z"
+      "generatedAt": "2026-07-02T19:50:50.390Z"
     },
     "bestTime": "Along the Mediterranean coast, June to August offers calm seas and clear water, with warm temperatures around 24–25°C. On the Atlantic coast, April to September brings the calmest seas, while French Polynesia invites year-round diving, particularly dry from July to October with 27–29°C waters.",
     "bestTimeAuto": "From June to August, the sea is calmest, the water is clearest, and there is the least rain. The water warms to 24–25°C in summer and drops to about 14°C in winter. Conditions vary by coast."
@@ -2709,7 +2709,7 @@
           "windMs": 3.8,
           "sunnyDays": 4,
           "vizMinM": 5,
-          "vizMaxM": 7,
+          "vizMaxM": 6,
           "vizSource": "aggregate",
           "vizSourceUrl": null
         },
@@ -2722,7 +2722,7 @@
           "windMs": 2.9,
           "sunnyDays": 6,
           "vizMinM": 4,
-          "vizMaxM": 7,
+          "vizMaxM": 6,
           "vizSource": "aggregate",
           "vizSourceUrl": null
         },
@@ -2735,7 +2735,7 @@
           "windMs": 2.4,
           "sunnyDays": 7,
           "vizMinM": 3,
-          "vizMaxM": 5,
+          "vizMaxM": 4,
           "vizSource": "aggregate",
           "vizSourceUrl": null
         },
@@ -2761,7 +2761,7 @@
           "windMs": 4.1,
           "sunnyDays": 6,
           "vizMinM": 3,
-          "vizMaxM": 5,
+          "vizMaxM": 4,
           "vizSource": "aggregate",
           "vizSourceUrl": null
         },
@@ -2773,8 +2773,8 @@
           "rainMm": 51,
           "windMs": 5.2,
           "sunnyDays": 7,
-          "vizMinM": 3,
-          "vizMaxM": 5,
+          "vizMinM": 4,
+          "vizMaxM": 4,
           "vizSource": "aggregate",
           "vizSourceUrl": null
         },
@@ -2786,7 +2786,7 @@
           "rainMm": 49,
           "windMs": 4.7,
           "sunnyDays": 7,
-          "vizMinM": 3,
+          "vizMinM": 4,
           "vizMaxM": 5,
           "vizSource": "aggregate",
           "vizSourceUrl": null
@@ -2813,7 +2813,7 @@
           "windMs": 2.5,
           "sunnyDays": 4,
           "vizMinM": 5,
-          "vizMaxM": 7,
+          "vizMaxM": 6,
           "vizSource": "aggregate",
           "vizSourceUrl": null
         },
@@ -2825,8 +2825,8 @@
           "rainMm": 61,
           "windMs": 3.6,
           "sunnyDays": 3,
-          "vizMinM": 6,
-          "vizMaxM": 10,
+          "vizMinM": 7,
+          "vizMaxM": 8,
           "vizSource": "aggregate",
           "vizSourceUrl": null
         },
@@ -2834,12 +2834,12 @@
           "m": 12,
           "tempC": 15.5,
           "waveM": 1.1,
-          "vizM": 7,
+          "vizM": 6,
           "rainMm": 57,
           "windMs": 4.4,
           "sunnyDays": 3,
-          "vizMinM": 5,
-          "vizMaxM": 8,
+          "vizMinM": 6,
+          "vizMaxM": 7,
           "vizSource": "aggregate",
           "vizSourceUrl": null
         }
@@ -2881,7 +2881,7 @@
           11
         ]
       },
-      "generatedAt": "2026-07-02T19:01:59.678Z"
+      "generatedAt": "2026-07-02T19:50:50.390Z"
     },
     "bestTime": "In March to May and November, the sea is calmest and the water is clearest. The water warms to 22–23°C in summer and drops to about 14°C in winter."
   },
@@ -3195,7 +3195,7 @@
           "windMs": 3.8,
           "sunnyDays": 25,
           "vizMinM": 14,
-          "vizMaxM": 21,
+          "vizMaxM": 22,
           "vizSource": "aggregate",
           "vizSourceUrl": null
         },
@@ -3313,7 +3313,7 @@
           8
         ]
       },
-      "generatedAt": "2026-07-02T19:01:59.678Z"
+      "generatedAt": "2026-07-02T19:50:50.390Z"
     },
     "bestTime": "From May to August, the sea is calmest and there is the least rain. The water warms to 27–28°C in summer and drops to about 19°C in winter."
   },
@@ -3449,12 +3449,12 @@
           "m": 1,
           "tempC": 11.5,
           "waveM": 2,
-          "vizM": 29,
+          "vizM": 17,
           "rainMm": 124,
           "windMs": 2.9,
           "sunnyDays": 2,
-          "vizMinM": 17,
-          "vizMaxM": 40,
+          "vizMinM": 15,
+          "vizMaxM": 17,
           "vizSource": "aggregate",
           "vizSourceUrl": null
         },
@@ -3462,12 +3462,12 @@
           "m": 2,
           "tempC": 11,
           "waveM": 2.1,
-          "vizM": 14,
+          "vizM": 12,
           "rainMm": 120,
           "windMs": 3.3,
           "sunnyDays": 2,
-          "vizMinM": 11,
-          "vizMaxM": 40,
+          "vizMinM": 9,
+          "vizMaxM": 13,
           "vizSource": "aggregate",
           "vizSourceUrl": null
         },
@@ -3475,12 +3475,12 @@
           "m": 3,
           "tempC": 11.5,
           "waveM": 2,
-          "vizM": 16,
+          "vizM": 12,
           "rainMm": 126,
           "windMs": 3.1,
           "sunnyDays": 3,
-          "vizMinM": 9,
-          "vizMaxM": 40,
+          "vizMinM": 8,
+          "vizMaxM": 13,
           "vizSource": "aggregate",
           "vizSourceUrl": null
         },
@@ -3488,12 +3488,12 @@
           "m": 4,
           "tempC": 11.5,
           "waveM": 1.8,
-          "vizM": 17,
+          "vizM": 10,
           "rainMm": 90,
           "windMs": 3.4,
           "sunnyDays": 3,
-          "vizMinM": 7,
-          "vizMaxM": 40,
+          "vizMinM": 6,
+          "vizMaxM": 14,
           "vizSource": "aggregate",
           "vizSourceUrl": null
         },
@@ -3501,12 +3501,12 @@
           "m": 5,
           "tempC": 12.5,
           "waveM": 1.6,
-          "vizM": 13,
+          "vizM": 6,
           "rainMm": 83,
           "windMs": 3.5,
           "sunnyDays": 4,
-          "vizMinM": 5,
-          "vizMaxM": 37,
+          "vizMinM": 4,
+          "vizMaxM": 10,
           "vizSource": "aggregate",
           "vizSourceUrl": null
         },
@@ -3514,12 +3514,12 @@
           "m": 6,
           "tempC": 13.5,
           "waveM": 1.5,
-          "vizM": 13,
+          "vizM": 4,
           "rainMm": 78,
           "windMs": 3.6,
           "sunnyDays": 2,
           "vizMinM": 4,
-          "vizMaxM": 34,
+          "vizMaxM": 8,
           "vizSource": "aggregate",
           "vizSourceUrl": null
         },
@@ -3527,12 +3527,12 @@
           "m": 7,
           "tempC": 14.5,
           "waveM": 1.6,
-          "vizM": 12,
+          "vizM": 4,
           "rainMm": 68,
           "windMs": 3.8,
           "sunnyDays": 2,
           "vizMinM": 4,
-          "vizMaxM": 32,
+          "vizMaxM": 8,
           "vizSource": "aggregate",
           "vizSourceUrl": null
         },
@@ -3540,12 +3540,12 @@
           "m": 8,
           "tempC": 15,
           "waveM": 1.6,
-          "vizM": 14,
+          "vizM": 4,
           "rainMm": 74,
           "windMs": 3.6,
           "sunnyDays": 3,
           "vizMinM": 4,
-          "vizMaxM": 32,
+          "vizMaxM": 9,
           "vizSource": "aggregate",
           "vizSourceUrl": null
         },
@@ -3553,12 +3553,12 @@
           "m": 9,
           "tempC": 14,
           "waveM": 1.8,
-          "vizM": 15,
+          "vizM": 5,
           "rainMm": 101,
           "windMs": 3.3,
           "sunnyDays": 2,
           "vizMinM": 4,
-          "vizMaxM": 33,
+          "vizMaxM": 10,
           "vizSource": "aggregate",
           "vizSourceUrl": null
         },
@@ -3566,12 +3566,12 @@
           "m": 10,
           "tempC": 13,
           "waveM": 1.9,
-          "vizM": 14,
+          "vizM": 6,
           "rainMm": 101,
           "windMs": 3.3,
           "sunnyDays": 3,
           "vizMinM": 6,
-          "vizMaxM": 37,
+          "vizMaxM": 10,
           "vizSource": "aggregate",
           "vizSourceUrl": null
         },
@@ -3579,12 +3579,12 @@
           "m": 11,
           "tempC": 12,
           "waveM": 1.9,
-          "vizM": 28,
+          "vizM": 16,
           "rainMm": 90,
           "windMs": 3.2,
           "sunnyDays": 2,
-          "vizMinM": 17,
-          "vizMaxM": 40,
+          "vizMinM": 16,
+          "vizMaxM": 17,
           "vizSource": "aggregate",
           "vizSourceUrl": null
         },
@@ -3592,12 +3592,12 @@
           "m": 12,
           "tempC": 11.5,
           "waveM": 2,
-          "vizM": 28,
+          "vizM": 15,
           "rainMm": 105,
           "windMs": 3.4,
           "sunnyDays": 2,
-          "vizMinM": 16,
-          "vizMaxM": 40,
+          "vizMinM": 14,
+          "vizMaxM": 16,
           "vizSource": "aggregate",
           "vizSourceUrl": null
         }
@@ -3624,7 +3624,7 @@
           12
         ]
       },
-      "generatedAt": "2026-07-02T19:01:59.678Z"
+      "generatedAt": "2026-07-02T19:50:50.390Z"
     },
     "bestTime": "From November to February, the water is clearest. The water is warmest at 14–15°C and cools to about 11°C."
   },
@@ -3911,7 +3911,7 @@
           7
         ]
       },
-      "generatedAt": "2026-07-02T19:01:59.678Z"
+      "generatedAt": "2026-07-02T19:50:50.390Z"
     },
     "bestTime": "From June to July, the sea is calmest, the water is clearest, and there is the least rain. The water warms to 15–16°C in summer and drops to about 9°C in winter."
   },
@@ -4094,7 +4094,7 @@
           "rainMm": 62,
           "windMs": 2.5,
           "sunnyDays": 11,
-          "vizMinM": 12,
+          "vizMinM": 13,
           "vizMaxM": 16,
           "vizSource": "aggregate",
           "vizSourceUrl": null
@@ -4133,7 +4133,7 @@
           "rainMm": 38,
           "windMs": 1.4,
           "sunnyDays": 13,
-          "vizMinM": 10,
+          "vizMinM": 11,
           "vizMaxM": 16,
           "vizSource": "aggregate",
           "vizSourceUrl": null
@@ -4211,7 +4211,7 @@
           "rainMm": 65,
           "windMs": 1.6,
           "sunnyDays": 14,
-          "vizMinM": 14,
+          "vizMinM": 15,
           "vizMaxM": 20,
           "vizSource": "aggregate",
           "vizSourceUrl": null
@@ -4224,7 +4224,7 @@
           "rainMm": 95,
           "windMs": 2.2,
           "sunnyDays": 9,
-          "vizMinM": 12,
+          "vizMinM": 13,
           "vizMaxM": 17,
           "vizSource": "aggregate",
           "vizSourceUrl": null
@@ -4280,7 +4280,7 @@
           8
         ]
       },
-      "generatedAt": "2026-07-02T19:01:59.678Z"
+      "generatedAt": "2026-07-02T19:50:50.390Z"
     },
     "bestTimeAuto": "From June to August, the sea is calmest, the water is clearest, and there is the least rain. The water warms to 27–28°C in summer and drops to about 16°C in winter. Conditions vary by coast."
   },
@@ -4481,7 +4481,7 @@
           "windMs": 1.4,
           "sunnyDays": 17,
           "vizMinM": 15,
-          "vizMaxM": 18,
+          "vizMaxM": 16,
           "vizSource": "aggregate",
           "vizSourceUrl": null
         },
@@ -4528,7 +4528,7 @@
           "m": 8,
           "tempC": 27.5,
           "waveM": 0.5,
-          "vizM": 25,
+          "vizM": 24,
           "rainMm": 6,
           "windMs": 2.3,
           "sunnyDays": 30,
@@ -4621,7 +4621,7 @@
           8
         ]
       },
-      "generatedAt": "2026-07-02T19:01:59.678Z"
+      "generatedAt": "2026-07-02T19:50:50.390Z"
     },
     "bestTime": "From June to August, the sea is calmest and there is the least rain. The water warms to 27–28°C in summer and drops to about 16°C in winter."
   },
@@ -4902,7 +4902,7 @@
           8
         ]
       },
-      "generatedAt": "2026-07-02T19:01:59.678Z"
+      "generatedAt": "2026-07-02T19:50:50.390Z"
     },
     "bestTime": "From June to August, the sea is calmest, the water is clearest, and there is the least rain. The water warms to 26°C in summer and drops to about 14°C in winter."
   },
@@ -4935,7 +4935,7 @@
           "windMs": 6,
           "sunnyDays": 12,
           "vizMinM": 7,
-          "vizMaxM": 32,
+          "vizMaxM": 33,
           "vizSource": "aggregate",
           "vizSourceUrl": null
         },
@@ -4956,7 +4956,7 @@
           "m": 3,
           "tempC": 20,
           "waveM": 1.1,
-          "vizM": 19,
+          "vizM": 18,
           "rainMm": 41,
           "windMs": 5,
           "sunnyDays": 12,
@@ -4995,7 +4995,7 @@
           "m": 6,
           "tempC": 24,
           "waveM": 1.3,
-          "vizM": 20,
+          "vizM": 21,
           "rainMm": 51,
           "windMs": 6.2,
           "sunnyDays": 8,
@@ -5008,7 +5008,7 @@
           "m": 7,
           "tempC": 24.5,
           "waveM": 1.3,
-          "vizM": 17,
+          "vizM": 18,
           "rainMm": 61,
           "windMs": 6.4,
           "sunnyDays": 10,
@@ -5021,12 +5021,12 @@
           "m": 8,
           "tempC": 25,
           "waveM": 1.2,
-          "vizM": 13,
+          "vizM": 12,
           "rainMm": 64,
           "windMs": 5.7,
           "sunnyDays": 9,
           "vizMinM": 4,
-          "vizMaxM": 24,
+          "vizMaxM": 26,
           "vizSource": "aggregate",
           "vizSourceUrl": null
         },
@@ -5039,7 +5039,7 @@
           "windMs": 4.8,
           "sunnyDays": 8,
           "vizMinM": 5,
-          "vizMaxM": 29,
+          "vizMaxM": 30,
           "vizSource": "aggregate",
           "vizSourceUrl": null
         },
@@ -5047,12 +5047,12 @@
           "m": 10,
           "tempC": 24,
           "waveM": 1,
-          "vizM": 18,
+          "vizM": 20,
           "rainMm": 97,
           "windMs": 4.3,
           "sunnyDays": 6,
           "vizMinM": 6,
-          "vizMaxM": 27,
+          "vizMaxM": 28,
           "vizSource": "aggregate",
           "vizSourceUrl": null
         },
@@ -5065,7 +5065,7 @@
           "windMs": 4.6,
           "sunnyDays": 8,
           "vizMinM": 7,
-          "vizMaxM": 28,
+          "vizMaxM": 29,
           "vizSource": "aggregate",
           "vizSourceUrl": null
         },
@@ -5073,7 +5073,7 @@
           "m": 12,
           "tempC": 20.5,
           "waveM": 1.3,
-          "vizM": 18,
+          "vizM": 17,
           "rainMm": 71,
           "windMs": 5.9,
           "sunnyDays": 11,
@@ -5112,7 +5112,7 @@
           6
         ]
       },
-      "generatedAt": "2026-07-02T19:01:59.678Z"
+      "generatedAt": "2026-07-02T19:50:50.390Z"
     },
     "bestTime": "April sees the Atlantic coast calm with clear water and dry conditions, with temperatures around 12–22°C. On the Caribbean coast, January to April offers dry months, with 27°C waters.",
     "bestTimeAuto": "In April and June to August, the sea is calmest. The water warms to 19–20°C in summer and drops to about 6°C in winter. Conditions vary by coast."
@@ -5453,7 +5453,7 @@
           8
         ]
       },
-      "generatedAt": "2026-07-02T19:01:59.678Z"
+      "generatedAt": "2026-07-02T19:50:50.390Z"
     },
     "bestTime": "On the Atlantic coast, dive from April to August when the seas calm; in the Arctic, the same months offer similar tranquility. Expect brisk waters, warming to 16–17°C in July and August.",
     "bestTimeAuto": "In February to March and November to December, the water is clearest. The water warms to 12–13°C in summer and drops to about 3°C in winter. Conditions vary by coast."
@@ -5630,7 +5630,7 @@
           "rainMm": 0,
           "windMs": 1.8,
           "sunnyDays": 2,
-          "vizMinM": 6,
+          "vizMinM": 7,
           "vizMaxM": 7,
           "vizSource": "aggregate",
           "vizSourceUrl": null
@@ -5643,7 +5643,7 @@
           "rainMm": 0,
           "windMs": 1.8,
           "sunnyDays": 4,
-          "vizMinM": 5,
+          "vizMinM": 6,
           "vizMaxM": 7,
           "vizSource": "aggregate",
           "vizSourceUrl": null
@@ -5656,7 +5656,7 @@
           "rainMm": 2,
           "windMs": 2.2,
           "sunnyDays": 6,
-          "vizMinM": 4,
+          "vizMinM": 5,
           "vizMaxM": 5,
           "vizSource": "aggregate",
           "vizSourceUrl": null
@@ -5696,7 +5696,7 @@
           "windMs": 2.3,
           "sunnyDays": 7,
           "vizMinM": 3,
-          "vizMaxM": 4,
+          "vizMaxM": 3,
           "vizSource": "aggregate",
           "vizSourceUrl": null
         },
@@ -5721,7 +5721,7 @@
           "rainMm": 4,
           "windMs": 3.9,
           "sunnyDays": 8,
-          "vizMinM": 3,
+          "vizMinM": 4,
           "vizMaxM": 4,
           "vizSource": "aggregate",
           "vizSourceUrl": null
@@ -5734,7 +5734,7 @@
           "rainMm": 0,
           "windMs": 2.3,
           "sunnyDays": 6,
-          "vizMinM": 3,
+          "vizMinM": 4,
           "vizMaxM": 5,
           "vizSource": "aggregate",
           "vizSourceUrl": null
@@ -5747,8 +5747,8 @@
           "rainMm": 11,
           "windMs": 2,
           "sunnyDays": 5,
-          "vizMinM": 5,
-          "vizMaxM": 7,
+          "vizMinM": 6,
+          "vizMaxM": 6,
           "vizSource": "aggregate",
           "vizSourceUrl": null
         },
@@ -5756,11 +5756,11 @@
           "m": 11,
           "tempC": 16,
           "waveM": 0.7,
-          "vizM": 7,
+          "vizM": 8,
           "rainMm": 1,
           "windMs": 2.2,
           "sunnyDays": 2,
-          "vizMinM": 6,
+          "vizMinM": 7,
           "vizMaxM": 8,
           "vizSource": "aggregate",
           "vizSourceUrl": null
@@ -5769,7 +5769,7 @@
           "m": 12,
           "tempC": 13.5,
           "waveM": 0.7,
-          "vizM": 7,
+          "vizM": 8,
           "rainMm": 1,
           "windMs": 2.1,
           "sunnyDays": 3,
@@ -5817,7 +5817,7 @@
           4
         ]
       },
-      "generatedAt": "2026-07-02T19:01:59.678Z"
+      "generatedAt": "2026-07-02T19:50:50.390Z"
     },
     "bestTime": "From April to August, the sea is calmest. The water warms to 19–20°C in summer and drops to about 3°C in winter. Conditions vary by coast."
   },
@@ -5866,7 +5866,7 @@
           "m": 1,
           "tempC": 17,
           "waveM": 1.9,
-          "vizM": 10,
+          "vizM": 11,
           "rainMm": 75,
           "windMs": 2.3,
           "sunnyDays": 10,
@@ -6009,7 +6009,7 @@
           "m": 12,
           "tempC": 18,
           "waveM": 1.9,
-          "vizM": 10,
+          "vizM": 9,
           "rainMm": 80,
           "windMs": 2.2,
           "sunnyDays": 9,
@@ -6052,7 +6052,7 @@
           9
         ]
       },
-      "generatedAt": "2026-07-02T19:01:59.678Z"
+      "generatedAt": "2026-07-02T19:50:50.390Z"
     },
     "bestTime": "From June to September, the sea is calmest and there is the least rain. The water is warmest at 20–21°C and cools to about 17°C."
   },
@@ -6274,7 +6274,7 @@
           12
         ]
       },
-      "generatedAt": "2026-07-02T19:01:59.678Z"
+      "generatedAt": "2026-07-02T19:50:50.390Z"
     },
     "bestTime": "From December to March, the water is clearest. The water is warmest at 27°C and cools to about 22°C."
   },
@@ -6634,7 +6634,7 @@
           8
         ]
       },
-      "generatedAt": "2026-07-02T19:01:59.678Z"
+      "generatedAt": "2026-07-02T19:50:50.390Z"
     },
     "bestTime": "In the Mediterranean coast, June to August offers the calmest seas and clearest water, with warm temperatures reaching 25–26°C. On the Atlantic coast, dive in June for similar calm and clear conditions, with sea temperatures around 17–18°C. Meanwhile, the Canary Islands see their driest months and clearest water from June to September, with comfortable waters at 19–23°C.",
     "bestTimeAuto": "From June to July, the sea is calmest, the water is clearest, and there is the least rain. The water is warmest at 17–18°C and cools to about 13°C. Conditions vary by coast."
@@ -6854,7 +6854,7 @@
           9
         ]
       },
-      "generatedAt": "2026-07-02T19:01:59.678Z"
+      "generatedAt": "2026-07-02T19:50:50.390Z"
     },
     "bestTime": "From May to September, there is the least rain. The water is warmest at 23–24°C and cools to about 19°C."
   },
@@ -6942,11 +6942,11 @@
           "m": 1,
           "tempC": 5.5,
           "waveM": 0.8,
-          "vizM": 5,
+          "vizM": 7,
           "rainMm": 63,
           "windMs": 3,
           "sunnyDays": 3,
-          "vizMinM": 3,
+          "vizMinM": 6,
           "vizMaxM": 7,
           "vizSource": "aggregate",
           "vizSourceUrl": null
@@ -6955,11 +6955,11 @@
           "m": 2,
           "tempC": 4.5,
           "waveM": 0.7,
-          "vizM": 5,
+          "vizM": 6,
           "rainMm": 51,
           "windMs": 2.8,
           "sunnyDays": 4,
-          "vizMinM": 3,
+          "vizMinM": 5,
           "vizMaxM": 6,
           "vizSource": "aggregate",
           "vizSourceUrl": null
@@ -6972,8 +6972,8 @@
           "rainMm": 43,
           "windMs": 2.3,
           "sunnyDays": 7,
-          "vizMinM": 2,
-          "vizMaxM": 5,
+          "vizMinM": 4,
+          "vizMaxM": 6,
           "vizSource": "aggregate",
           "vizSourceUrl": null
         },
@@ -6981,11 +6981,11 @@
           "m": 4,
           "tempC": 7.5,
           "waveM": 0.5,
-          "vizM": 3,
+          "vizM": 4,
           "rainMm": 33,
           "windMs": 1.5,
           "sunnyDays": 9,
-          "vizMinM": 2,
+          "vizMinM": 3,
           "vizMaxM": 4,
           "vizSource": "aggregate",
           "vizSourceUrl": null
@@ -6994,11 +6994,11 @@
           "m": 5,
           "tempC": 11.5,
           "waveM": 0.5,
-          "vizM": 3,
+          "vizM": 4,
           "rainMm": 41,
           "windMs": 1.8,
           "sunnyDays": 9,
-          "vizMinM": 2,
+          "vizMinM": 4,
           "vizMaxM": 4,
           "vizSource": "aggregate",
           "vizSourceUrl": null
@@ -7007,11 +7007,11 @@
           "m": 6,
           "tempC": 16,
           "waveM": 0.7,
-          "vizM": 3,
+          "vizM": 4,
           "rainMm": 52,
           "windMs": 2.9,
           "sunnyDays": 8,
-          "vizMinM": 1,
+          "vizMinM": 3,
           "vizMaxM": 4,
           "vizSource": "aggregate",
           "vizSourceUrl": null
@@ -7020,11 +7020,11 @@
           "m": 7,
           "tempC": 18.5,
           "waveM": 0.8,
-          "vizM": 3,
+          "vizM": 4,
           "rainMm": 69,
           "windMs": 3.4,
           "sunnyDays": 10,
-          "vizMinM": 1,
+          "vizMinM": 4,
           "vizMaxM": 4,
           "vizSource": "aggregate",
           "vizSourceUrl": null
@@ -7037,7 +7037,7 @@
           "rainMm": 76,
           "windMs": 3.4,
           "sunnyDays": 7,
-          "vizMinM": 1,
+          "vizMinM": 4,
           "vizMaxM": 4,
           "vizSource": "aggregate",
           "vizSourceUrl": null
@@ -7046,11 +7046,11 @@
           "m": 9,
           "tempC": 16.5,
           "waveM": 0.7,
-          "vizM": 4,
+          "vizM": 5,
           "rainMm": 66,
           "windMs": 2.8,
           "sunnyDays": 6,
-          "vizMinM": 2,
+          "vizMinM": 4,
           "vizMaxM": 5,
           "vizSource": "aggregate",
           "vizSourceUrl": null
@@ -7059,11 +7059,11 @@
           "m": 10,
           "tempC": 13,
           "waveM": 0.7,
-          "vizM": 5,
+          "vizM": 6,
           "rainMm": 86,
           "windMs": 2.5,
           "sunnyDays": 5,
-          "vizMinM": 2,
+          "vizMinM": 5,
           "vizMaxM": 6,
           "vizSource": "aggregate",
           "vizSourceUrl": null
@@ -7072,11 +7072,11 @@
           "m": 11,
           "tempC": 10,
           "waveM": 0.7,
-          "vizM": 6,
+          "vizM": 8,
           "rainMm": 70,
           "windMs": 3,
           "sunnyDays": 4,
-          "vizMinM": 3,
+          "vizMinM": 7,
           "vizMaxM": 8,
           "vizSource": "aggregate",
           "vizSourceUrl": null
@@ -7085,12 +7085,12 @@
           "m": 12,
           "tempC": 7,
           "waveM": 0.8,
-          "vizM": 11,
+          "vizM": 10,
           "rainMm": 65,
           "windMs": 3.1,
           "sunnyDays": 4,
-          "vizMinM": 10,
-          "vizMaxM": 12,
+          "vizMinM": 8,
+          "vizMaxM": 11,
           "vizSource": "aggregate",
           "vizSourceUrl": null
         }
@@ -7139,7 +7139,7 @@
           5
         ]
       },
-      "generatedAt": "2026-07-02T19:01:59.678Z"
+      "generatedAt": "2026-07-02T19:50:50.390Z"
     },
     "bestTime": "In February and April to May, the sea is calmest, the water is clearest, and there is the least rain. The water warms to 19°C in summer and drops to about 5°C in winter."
   },
@@ -7260,7 +7260,7 @@
           "windMs": 0.9,
           "sunnyDays": 4,
           "vizMinM": 4,
-          "vizMaxM": 7,
+          "vizMaxM": 9,
           "vizSource": "aggregate",
           "vizSourceUrl": null
         },
@@ -7440,7 +7440,7 @@
           9
         ]
       },
-      "generatedAt": "2026-07-02T19:01:59.678Z"
+      "generatedAt": "2026-07-02T19:50:50.390Z"
     }
   },
   "aargau": {
@@ -7931,7 +7931,7 @@
           8
         ]
       },
-      "generatedAt": "2026-07-02T19:01:59.678Z"
+      "generatedAt": "2026-07-02T19:50:50.390Z"
     },
     "bestTime": "From June to August, the sea is calmest, the water is clearest, and there is the least rain. The water warms to 27–28°C in summer and drops to about 16°C in winter."
   },
@@ -8056,7 +8056,7 @@
           "m": 2,
           "tempC": 17,
           "waveM": 0.6,
-          "vizM": 13,
+          "vizM": 12,
           "rainMm": 85,
           "windMs": 1.2,
           "sunnyDays": 12,
@@ -8232,7 +8232,7 @@
           9
         ]
       },
-      "generatedAt": "2026-07-02T19:01:59.678Z"
+      "generatedAt": "2026-07-02T19:50:50.390Z"
     },
     "bestTime": "From June to September, the sea is calmest and there is the least rain. The water warms to 27–28°C in summer and drops to about 17°C in winter."
   },
@@ -8526,7 +8526,7 @@
           7
         ]
       },
-      "generatedAt": "2026-07-02T19:01:59.678Z"
+      "generatedAt": "2026-07-02T19:50:50.390Z"
     },
     "bestTime": "From May to July, the sea is calmest, the water is clearest, and there is the least rain. The water warms to 16°C in summer and drops to about 9°C in winter."
   },
@@ -8611,11 +8611,11 @@
           "m": 1,
           "tempC": 8,
           "waveM": 2.2,
-          "vizM": 9,
+          "vizM": 10,
           "rainMm": 124,
           "windMs": 4.8,
           "sunnyDays": 1,
-          "vizMinM": 5,
+          "vizMinM": 9,
           "vizMaxM": 11,
           "vizSource": "aggregate",
           "vizSourceUrl": null
@@ -8624,12 +8624,12 @@
           "m": 2,
           "tempC": 7.5,
           "waveM": 2.1,
-          "vizM": 7,
+          "vizM": 9,
           "rainMm": 98,
           "windMs": 5.4,
           "sunnyDays": 2,
-          "vizMinM": 4,
-          "vizMaxM": 10,
+          "vizMinM": 7,
+          "vizMaxM": 11,
           "vizSource": "aggregate",
           "vizSourceUrl": null
         },
@@ -8637,12 +8637,12 @@
           "m": 3,
           "tempC": 7.5,
           "waveM": 1.8,
-          "vizM": 7,
+          "vizM": 10,
           "rainMm": 88,
           "windMs": 4,
           "sunnyDays": 3,
-          "vizMinM": 5,
-          "vizMaxM": 10,
+          "vizMinM": 8,
+          "vizMaxM": 11,
           "vizSource": "aggregate",
           "vizSourceUrl": null
         },
@@ -8650,12 +8650,12 @@
           "m": 4,
           "tempC": 8,
           "waveM": 1.4,
-          "vizM": 5,
+          "vizM": 9,
           "rainMm": 53,
           "windMs": 2.8,
           "sunnyDays": 4,
-          "vizMinM": 3,
-          "vizMaxM": 10,
+          "vizMinM": 5,
+          "vizMaxM": 11,
           "vizSource": "aggregate",
           "vizSourceUrl": null
         },
@@ -8663,12 +8663,12 @@
           "m": 5,
           "tempC": 9,
           "waveM": 1.1,
-          "vizM": 4,
+          "vizM": 8,
           "rainMm": 53,
           "windMs": 2.5,
           "sunnyDays": 3,
-          "vizMinM": 3,
-          "vizMaxM": 8,
+          "vizMinM": 4,
+          "vizMaxM": 9,
           "vizSource": "aggregate",
           "vizSourceUrl": null
         },
@@ -8680,7 +8680,7 @@
           "rainMm": 60,
           "windMs": 2.4,
           "sunnyDays": 2,
-          "vizMinM": 3,
+          "vizMinM": 5,
           "vizMaxM": 5,
           "vizSource": "aggregate",
           "vizSourceUrl": null
@@ -8693,7 +8693,7 @@
           "rainMm": 73,
           "windMs": 2.1,
           "sunnyDays": 3,
-          "vizMinM": 4,
+          "vizMinM": 5,
           "vizMaxM": 5,
           "vizSource": "aggregate",
           "vizSourceUrl": null
@@ -8702,11 +8702,11 @@
           "m": 8,
           "tempC": 13,
           "waveM": 1,
-          "vizM": 6,
+          "vizM": 7,
           "rainMm": 80,
           "windMs": 2.1,
           "sunnyDays": 3,
-          "vizMinM": 4,
+          "vizMinM": 6,
           "vizMaxM": 8,
           "vizSource": "aggregate",
           "vizSourceUrl": null
@@ -8715,11 +8715,11 @@
           "m": 9,
           "tempC": 13,
           "waveM": 1.4,
-          "vizM": 7,
+          "vizM": 9,
           "rainMm": 107,
           "windMs": 3.3,
           "sunnyDays": 2,
-          "vizMinM": 4,
+          "vizMinM": 7,
           "vizMaxM": 10,
           "vizSource": "aggregate",
           "vizSourceUrl": null
@@ -8728,11 +8728,11 @@
           "m": 10,
           "tempC": 12,
           "waveM": 1.7,
-          "vizM": 8,
+          "vizM": 10,
           "rainMm": 133,
           "windMs": 3.4,
           "sunnyDays": 2,
-          "vizMinM": 6,
+          "vizMinM": 8,
           "vizMaxM": 10,
           "vizSource": "aggregate",
           "vizSourceUrl": null
@@ -8741,11 +8741,11 @@
           "m": 11,
           "tempC": 10.5,
           "waveM": 1.9,
-          "vizM": 9,
+          "vizM": 10,
           "rainMm": 130,
           "windMs": 4.9,
           "sunnyDays": 1,
-          "vizMinM": 7,
+          "vizMinM": 10,
           "vizMaxM": 11,
           "vizSource": "aggregate",
           "vizSourceUrl": null
@@ -8759,7 +8759,7 @@
           "windMs": 4.1,
           "sunnyDays": 1,
           "vizMinM": 12,
-          "vizMaxM": 26,
+          "vizMaxM": 13,
           "vizSource": "aggregate",
           "vizSourceUrl": null
         }
@@ -8802,7 +8802,7 @@
           8
         ]
       },
-      "generatedAt": "2026-07-02T19:01:59.678Z"
+      "generatedAt": "2026-07-02T19:50:50.390Z"
     },
     "bestTime": "May to August brings the calmest seas to Scotland, with water temperatures rising to a brisk 12–13°C. Dive during these months for steadier conditions in the chilly waters.",
     "bestTimeAuto": "From May to August, the sea is calmest. The water is warmest at 12–13°C and cools to about 8°C."
@@ -9138,7 +9138,7 @@
           10
         ]
       },
-      "generatedAt": "2026-07-02T19:01:59.678Z"
+      "generatedAt": "2026-07-02T19:50:50.390Z"
     },
     "bestTime": "In October, the sea is calmest and the water is clearest. The water is warmest at 21°C and cools to about 16°C."
   },
@@ -9407,7 +9407,7 @@
           8
         ]
       },
-      "generatedAt": "2026-07-02T19:01:59.678Z"
+      "generatedAt": "2026-07-02T19:50:50.390Z"
     }
   },
   "russia": {
@@ -9611,7 +9611,7 @@
           8
         ]
       },
-      "generatedAt": "2026-07-02T19:01:59.678Z"
+      "generatedAt": "2026-07-02T19:50:50.390Z"
     },
     "bestTime": "For the south, dive from June to August when seas are calmest, water is clearest, and rains ease. Expect warm dives at 26–27°C. In the north, conditions are diveable year-round but very cold.",
     "bestTimeAuto": "Conditions vary from coast to coast, but the water stays a mild 8–22°C and somewhere is diveable year-round."
@@ -9649,12 +9649,12 @@
           "m": 1,
           "tempC": 2.5,
           "waveM": 0.8,
-          "vizM": 9,
+          "vizM": 10,
           "rainMm": 46,
           "windMs": 1.8,
           "sunnyDays": 1,
-          "vizMinM": 6,
-          "vizMaxM": 10,
+          "vizMinM": 7,
+          "vizMaxM": 11,
           "vizSource": "aggregate",
           "vizSourceUrl": null
         },
@@ -9662,11 +9662,11 @@
           "m": 2,
           "tempC": 1,
           "waveM": 0.8,
-          "vizM": 6,
+          "vizM": 7,
           "rainMm": 38,
           "windMs": 1.9,
           "sunnyDays": 3,
-          "vizMinM": 3,
+          "vizMinM": 6,
           "vizMaxM": 7,
           "vizSource": "aggregate",
           "vizSourceUrl": null
@@ -9675,12 +9675,12 @@
           "m": 3,
           "tempC": 1.5,
           "waveM": 0.6,
-          "vizM": 4,
+          "vizM": 5,
           "rainMm": 32,
           "windMs": 1.8,
           "sunnyDays": 6,
-          "vizMinM": 3,
-          "vizMaxM": 5,
+          "vizMinM": 5,
+          "vizMaxM": 6,
           "vizSource": "aggregate",
           "vizSourceUrl": null
         },
@@ -9692,7 +9692,7 @@
           "rainMm": 36,
           "windMs": 1.4,
           "sunnyDays": 9,
-          "vizMinM": 3,
+          "vizMinM": 4,
           "vizMaxM": 6,
           "vizSource": "aggregate",
           "vizSourceUrl": null
@@ -9705,8 +9705,8 @@
           "rainMm": 29,
           "windMs": 1.5,
           "sunnyDays": 11,
-          "vizMinM": 2,
-          "vizMaxM": 10,
+          "vizMinM": 4,
+          "vizMaxM": 8,
           "vizSource": "aggregate",
           "vizSourceUrl": null
         },
@@ -9718,8 +9718,8 @@
           "rainMm": 47,
           "windMs": 2,
           "sunnyDays": 9,
-          "vizMinM": 3,
-          "vizMaxM": 9,
+          "vizMinM": 4,
+          "vizMaxM": 8,
           "vizSource": "aggregate",
           "vizSourceUrl": null
         },
@@ -9731,7 +9731,7 @@
           "rainMm": 61,
           "windMs": 2.2,
           "sunnyDays": 9,
-          "vizMinM": 3,
+          "vizMinM": 4,
           "vizMaxM": 8,
           "vizSource": "aggregate",
           "vizSourceUrl": null
@@ -9740,11 +9740,11 @@
           "m": 8,
           "tempC": 18.5,
           "waveM": 0.5,
-          "vizM": 4,
+          "vizM": 5,
           "rainMm": 73,
           "windMs": 2.2,
           "sunnyDays": 7,
-          "vizMinM": 3,
+          "vizMinM": 4,
           "vizMaxM": 7,
           "vizSource": "aggregate",
           "vizSourceUrl": null
@@ -9757,8 +9757,8 @@
           "rainMm": 55,
           "windMs": 2,
           "sunnyDays": 4,
-          "vizMinM": 3,
-          "vizMaxM": 8,
+          "vizMinM": 4,
+          "vizMaxM": 9,
           "vizSource": "aggregate",
           "vizSourceUrl": null
         },
@@ -9770,7 +9770,7 @@
           "rainMm": 65,
           "windMs": 1.9,
           "sunnyDays": 3,
-          "vizMinM": 4,
+          "vizMinM": 6,
           "vizMaxM": 10,
           "vizSource": "aggregate",
           "vizSourceUrl": null
@@ -9783,7 +9783,7 @@
           "rainMm": 49,
           "windMs": 2.2,
           "sunnyDays": 2,
-          "vizMinM": 5,
+          "vizMinM": 7,
           "vizMaxM": 9,
           "vizSource": "aggregate",
           "vizSourceUrl": null
@@ -9792,11 +9792,11 @@
           "m": 12,
           "tempC": 4.5,
           "waveM": 0.8,
-          "vizM": 8,
+          "vizM": 9,
           "rainMm": 45,
           "windMs": 2.3,
           "sunnyDays": 2,
-          "vizMinM": 7,
+          "vizMinM": 9,
           "vizMaxM": 10,
           "vizSource": "aggregate",
           "vizSourceUrl": null
@@ -9840,7 +9840,7 @@
           8
         ]
       },
-      "generatedAt": "2026-07-02T19:01:59.678Z"
+      "generatedAt": "2026-07-02T19:50:50.390Z"
     },
     "bestTime": "From April to August, the seas calm for diving, while water temperatures range from a brisk 1°C to a milder 19°C at their peak during July and August.",
     "bestTimeAuto": "From April to August, the sea is calmest. The water warms to 18–19°C in summer and drops to about 1°C in winter."
@@ -9866,11 +9866,11 @@
           "m": 1,
           "tempC": 3,
           "waveM": 1,
-          "vizM": 5,
+          "vizM": 6,
           "rainMm": 14,
           "windMs": 1.2,
           "sunnyDays": 1,
-          "vizMinM": 3,
+          "vizMinM": 5,
           "vizMaxM": 6,
           "vizSource": "aggregate",
           "vizSourceUrl": null
@@ -9879,11 +9879,11 @@
           "m": 2,
           "tempC": 2,
           "waveM": 0.9,
-          "vizM": 5,
+          "vizM": 6,
           "rainMm": 12,
           "windMs": 1.1,
           "sunnyDays": 3,
-          "vizMinM": 2,
+          "vizMinM": 5,
           "vizMaxM": 6,
           "vizSource": "aggregate",
           "vizSourceUrl": null
@@ -9892,12 +9892,12 @@
           "m": 3,
           "tempC": 2.5,
           "waveM": 0.7,
-          "vizM": 4,
+          "vizM": 5,
           "rainMm": 15,
           "windMs": 1.3,
           "sunnyDays": 7,
-          "vizMinM": 2,
-          "vizMaxM": 5,
+          "vizMinM": 4,
+          "vizMaxM": 6,
           "vizSource": "aggregate",
           "vizSourceUrl": null
         },
@@ -9909,8 +9909,8 @@
           "rainMm": 14,
           "windMs": 1.7,
           "sunnyDays": 9,
-          "vizMinM": 2,
-          "vizMaxM": 4,
+          "vizMinM": 4,
+          "vizMaxM": 5,
           "vizSource": "aggregate",
           "vizSourceUrl": null
         },
@@ -9922,8 +9922,8 @@
           "rainMm": 10,
           "windMs": 1.9,
           "sunnyDays": 12,
-          "vizMinM": 1,
-          "vizMaxM": 3,
+          "vizMinM": 3,
+          "vizMaxM": 4,
           "vizSource": "aggregate",
           "vizSourceUrl": null
         },
@@ -9931,11 +9931,11 @@
           "m": 6,
           "tempC": 15.5,
           "waveM": 0.5,
-          "vizM": 3,
+          "vizM": 4,
           "rainMm": 13,
           "windMs": 1.7,
           "sunnyDays": 11,
-          "vizMinM": 1,
+          "vizMinM": 4,
           "vizMaxM": 4,
           "vizSource": "aggregate",
           "vizSourceUrl": null
@@ -9948,7 +9948,7 @@
           "rainMm": 28,
           "windMs": 2.3,
           "sunnyDays": 10,
-          "vizMinM": 2,
+          "vizMinM": 4,
           "vizMaxM": 4,
           "vizSource": "aggregate",
           "vizSourceUrl": null
@@ -9961,8 +9961,8 @@
           "rainMm": 19,
           "windMs": 2.3,
           "sunnyDays": 8,
-          "vizMinM": 2,
-          "vizMaxM": 4,
+          "vizMinM": 4,
+          "vizMaxM": 5,
           "vizSource": "aggregate",
           "vizSourceUrl": null
         },
@@ -9970,11 +9970,11 @@
           "m": 9,
           "tempC": 17,
           "waveM": 0.7,
-          "vizM": 3,
+          "vizM": 5,
           "rainMm": 13,
           "windMs": 2.3,
           "sunnyDays": 6,
-          "vizMinM": 2,
+          "vizMinM": 4,
           "vizMaxM": 5,
           "vizSource": "aggregate",
           "vizSourceUrl": null
@@ -9983,11 +9983,11 @@
           "m": 10,
           "tempC": 12.5,
           "waveM": 0.9,
-          "vizM": 4,
+          "vizM": 6,
           "rainMm": 19,
           "windMs": 1.7,
           "sunnyDays": 4,
-          "vizMinM": 2,
+          "vizMinM": 5,
           "vizMaxM": 6,
           "vizSource": "aggregate",
           "vizSourceUrl": null
@@ -9996,11 +9996,11 @@
           "m": 11,
           "tempC": 9,
           "waveM": 0.9,
-          "vizM": 5,
+          "vizM": 6,
           "rainMm": 14,
           "windMs": 1.3,
           "sunnyDays": 2,
-          "vizMinM": 2,
+          "vizMinM": 6,
           "vizMaxM": 6,
           "vizSource": "aggregate",
           "vizSourceUrl": null
@@ -10009,7 +10009,7 @@
           "m": 12,
           "tempC": 5.5,
           "waveM": 1,
-          "vizM": 7,
+          "vizM": 8,
           "rainMm": 14,
           "windMs": 1,
           "sunnyDays": 2,
@@ -10058,7 +10058,7 @@
           8
         ]
       },
-      "generatedAt": "2026-07-02T19:01:59.678Z"
+      "generatedAt": "2026-07-02T19:50:50.390Z"
     },
     "bestTime": "From April to August, the sea is calmest. The water warms to 19–20°C in summer and drops to about 2°C in winter."
   },
@@ -10088,7 +10088,7 @@
           "windMs": 1.5,
           "sunnyDays": 2,
           "vizMinM": 3,
-          "vizMaxM": 6,
+          "vizMaxM": 5,
           "vizSource": "aggregate",
           "vizSourceUrl": null
         },
@@ -10101,7 +10101,7 @@
           "windMs": 0.9,
           "sunnyDays": 3,
           "vizMinM": 2,
-          "vizMaxM": 6,
+          "vizMaxM": 5,
           "vizSource": "aggregate",
           "vizSourceUrl": null
         },
@@ -10113,8 +10113,8 @@
           "rainMm": 3,
           "windMs": 1,
           "sunnyDays": 6,
-          "vizMinM": 1,
-          "vizMaxM": 5,
+          "vizMinM": 2,
+          "vizMaxM": 4,
           "vizSource": "aggregate",
           "vizSourceUrl": null
         },
@@ -10166,7 +10166,7 @@
           "windMs": 2.4,
           "sunnyDays": 9,
           "vizMinM": 1,
-          "vizMaxM": 4,
+          "vizMaxM": 3,
           "vizSource": "aggregate",
           "vizSourceUrl": null
         },
@@ -10179,7 +10179,7 @@
           "windMs": 2.5,
           "sunnyDays": 8,
           "vizMinM": 1,
-          "vizMaxM": 4,
+          "vizMaxM": 3,
           "vizSource": "aggregate",
           "vizSourceUrl": null
         },
@@ -10192,7 +10192,7 @@
           "windMs": 2.6,
           "sunnyDays": 7,
           "vizMinM": 2,
-          "vizMaxM": 4,
+          "vizMaxM": 3,
           "vizSource": "aggregate",
           "vizSourceUrl": null
         },
@@ -10205,7 +10205,7 @@
           "windMs": 1.5,
           "sunnyDays": 4,
           "vizMinM": 2,
-          "vizMaxM": 6,
+          "vizMaxM": 4,
           "vizSource": "aggregate",
           "vizSourceUrl": null
         },
@@ -10213,12 +10213,12 @@
           "m": 11,
           "tempC": 10,
           "waveM": 1,
-          "vizM": 2,
+          "vizM": 3,
           "rainMm": 1,
           "windMs": 0.9,
           "sunnyDays": 1,
           "vizMinM": 2,
-          "vizMaxM": 7,
+          "vizMaxM": 5,
           "vizSource": "aggregate",
           "vizSourceUrl": null
         },
@@ -10226,12 +10226,12 @@
           "m": 12,
           "tempC": 6.5,
           "waveM": 1.1,
-          "vizM": 4,
+          "vizM": 3,
           "rainMm": 1,
           "windMs": 1.5,
           "sunnyDays": 2,
           "vizMinM": 2,
-          "vizMaxM": 6,
+          "vizMaxM": 5,
           "vizSource": "aggregate",
           "vizSourceUrl": null
         }
@@ -10283,7 +10283,7 @@
           8
         ]
       },
-      "generatedAt": "2026-07-02T19:01:59.678Z"
+      "generatedAt": "2026-07-02T19:50:50.390Z"
     },
     "bestTime": "From April to August, the sea is calmest. The water warms to 19–20°C in summer and drops to about 3°C in winter."
   },

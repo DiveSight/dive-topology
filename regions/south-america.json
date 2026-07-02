@@ -210,7 +210,7 @@
           12
         ]
       },
-      "generatedAt": "2026-07-02T19:01:59.678Z"
+      "generatedAt": "2026-07-02T19:50:50.390Z"
     },
     "bestTime": "From August to December, the sea is calmest. The water is warmest at 29–30°C and cools to about 27°C."
   },
@@ -458,7 +458,7 @@
           12
         ]
       },
-      "generatedAt": "2026-07-02T19:01:59.678Z"
+      "generatedAt": "2026-07-02T19:50:50.390Z"
     },
     "bestTime": "On the Caribbean coast, March to April brings clear waters and dry days, with warm water at 29–30°C. The Pacific coast offers dry months in January to March and November, with temperatures at a warm 28–30°C.",
     "bestTimeAuto": "From December to March, there is the least rain. The water stays a warm 28–30°C all year. Conditions vary by coast."
@@ -724,7 +724,7 @@
         ],
         "best": []
       },
-      "generatedAt": "2026-07-02T19:01:59.678Z"
+      "generatedAt": "2026-07-02T19:50:50.390Z"
     },
     "bestTime": "The water warms to 17–18°C in summer and drops to about 10°C in winter."
   },
@@ -892,7 +892,7 @@
           "m": 9,
           "tempC": 24.5,
           "waveM": 1.6,
-          "vizM": 13,
+          "vizM": 12,
           "rainMm": 49,
           "windMs": 5.2,
           "sunnyDays": 16,
@@ -905,7 +905,7 @@
           "m": 10,
           "tempC": 25,
           "waveM": 1.5,
-          "vizM": 13,
+          "vizM": 12,
           "rainMm": 68,
           "windMs": 5,
           "sunnyDays": 12,
@@ -971,7 +971,7 @@
           10
         ]
       },
-      "generatedAt": "2026-07-02T19:01:59.678Z"
+      "generatedAt": "2026-07-02T19:50:50.390Z"
     },
     "bestTime": "In the south, November to March offers the clearest waters, with temperatures ranging from 22°C to 27°C. The north sees its driest months from September to December, maintaining warm waters between 27°C and 29°C.",
     "bestTimeAuto": "From September to December, there is the least rain. The water stays a warm 27–29°C all year. Conditions vary by coast."
@@ -1275,7 +1275,7 @@
           12
         ]
       },
-      "generatedAt": "2026-07-02T19:01:59.678Z"
+      "generatedAt": "2026-07-02T19:50:50.390Z"
     },
     "bestTime": "In Chile, the Pacific coast offers its clearest waters from May to August, with brisk temperatures of 14–18°C. On Easter Island, December brings calm seas and clear water, with a milder 21–26°C.",
     "bestTimeAuto": "In December, the sea is calmest, the water is clearest, and there is the least rain. The water is warmest at 25–26°C and cools to about 21°C. Conditions vary by coast."
@@ -1526,7 +1526,7 @@
           11
         ]
       },
-      "generatedAt": "2026-07-02T19:01:59.678Z"
+      "generatedAt": "2026-07-02T19:50:50.390Z"
     },
     "bestTime": "In August to September and November, the water is clearest and there is the least rain. The water is warmest at 26–27°C and cools to about 24°C."
   },
@@ -1731,7 +1731,7 @@
           11
         ]
       },
-      "generatedAt": "2026-07-02T19:01:59.678Z"
+      "generatedAt": "2026-07-02T19:50:50.390Z"
     },
     "bestTime": "August to November marks the driest spell in the Galápagos Islands, with waters cooling to 22°C, perfect for exploring its unique marine life.",
     "bestTimeAuto": "From August to November, there is the least rain. The water is warmest at 26–27°C and cools to about 22°C."
@@ -1956,7 +1956,7 @@
           9
         ]
       },
-      "generatedAt": "2026-07-02T19:01:59.678Z"
+      "generatedAt": "2026-07-02T19:50:50.390Z"
     },
     "bestTime": "In May and July to September, the water is clearest. The water warms to 10–11°C in summer and drops to about 5°C in winter."
   },
@@ -2008,7 +2008,7 @@
           "m": 1,
           "tempC": 28.5,
           "waveM": 0.9,
-          "vizM": 13,
+          "vizM": 14,
           "rainMm": 88,
           "windMs": 2.5,
           "sunnyDays": 15,
@@ -2125,7 +2125,7 @@
           "m": 10,
           "tempC": 29,
           "waveM": 0.9,
-          "vizM": 10,
+          "vizM": 11,
           "rainMm": 442,
           "windMs": 2.7,
           "sunnyDays": 1,
@@ -2198,7 +2198,7 @@
           4
         ]
       },
-      "generatedAt": "2026-07-02T19:01:59.678Z"
+      "generatedAt": "2026-07-02T19:50:50.390Z"
     },
     "bestTime": "On the Caribbean coast, May and September to October offer calm seas and clear water, while the Pacific coast enjoys similar conditions from January to March with warm waters at 28–30°C.",
     "bestTimeAuto": "From December to March, the sea is calmest, the water is clearest, and there is the least rain. The water stays a warm 28–30°C all year. Conditions vary by coast."
@@ -2513,7 +2513,7 @@
           11
         ]
       },
-      "generatedAt": "2026-07-02T19:01:59.678Z"
+      "generatedAt": "2026-07-02T19:50:50.390Z"
     },
     "bestTime": "From July to November, the water is clearest and there is the least rain. The water is warmest at 23–24°C and cools to about 20°C."
   },
@@ -2590,7 +2590,7 @@
           "rainMm": 174,
           "windMs": 5.5,
           "sunnyDays": 6,
-          "vizMinM": 2,
+          "vizMinM": 5,
           "vizMaxM": 5,
           "vizSource": "aggregate",
           "vizSourceUrl": null
@@ -2603,7 +2603,7 @@
           "rainMm": 148,
           "windMs": 6,
           "sunnyDays": 3,
-          "vizMinM": 2,
+          "vizMinM": 5,
           "vizMaxM": 5,
           "vizSource": "aggregate",
           "vizSourceUrl": null
@@ -2616,8 +2616,8 @@
           "rainMm": 128,
           "windMs": 5.9,
           "sunnyDays": 4,
-          "vizMinM": 2,
-          "vizMaxM": 5,
+          "vizMinM": 5,
+          "vizMaxM": 6,
           "vizSource": "aggregate",
           "vizSourceUrl": null
         },
@@ -2629,7 +2629,7 @@
           "rainMm": 242,
           "windMs": 5.4,
           "sunnyDays": 3,
-          "vizMinM": 2,
+          "vizMinM": 5,
           "vizMaxM": 5,
           "vizSource": "aggregate",
           "vizSourceUrl": null
@@ -2638,11 +2638,11 @@
           "m": 5,
           "tempC": 27.5,
           "waveM": 1,
-          "vizM": 5,
+          "vizM": 6,
           "rainMm": 399,
           "windMs": 4.9,
           "sunnyDays": 2,
-          "vizMinM": 2,
+          "vizMinM": 5,
           "vizMaxM": 6,
           "vizSource": "aggregate",
           "vizSourceUrl": null
@@ -2655,8 +2655,8 @@
           "rainMm": 375,
           "windMs": 3.7,
           "sunnyDays": 3,
-          "vizMinM": 2,
-          "vizMaxM": 5,
+          "vizMinM": 5,
+          "vizMaxM": 6,
           "vizSource": "aggregate",
           "vizSourceUrl": null
         },
@@ -2668,8 +2668,8 @@
           "rainMm": 230,
           "windMs": 3.2,
           "sunnyDays": 7,
-          "vizMinM": 2,
-          "vizMaxM": 5,
+          "vizMinM": 5,
+          "vizMaxM": 6,
           "vizSource": "aggregate",
           "vizSourceUrl": null
         },
@@ -2681,7 +2681,7 @@
           "rainMm": 118,
           "windMs": 3.2,
           "sunnyDays": 14,
-          "vizMinM": 2,
+          "vizMinM": 6,
           "vizMaxM": 6,
           "vizSource": "aggregate",
           "vizSourceUrl": null
@@ -2694,8 +2694,8 @@
           "rainMm": 53,
           "windMs": 4.1,
           "sunnyDays": 16,
-          "vizMinM": 2,
-          "vizMaxM": 6,
+          "vizMinM": 6,
+          "vizMaxM": 7,
           "vizSource": "aggregate",
           "vizSourceUrl": null
         },
@@ -2703,11 +2703,11 @@
           "m": 10,
           "tempC": 29,
           "waveM": 0.8,
-          "vizM": 5,
+          "vizM": 6,
           "rainMm": 71,
           "windMs": 4.6,
           "sunnyDays": 13,
-          "vizMinM": 2,
+          "vizMinM": 5,
           "vizMaxM": 6,
           "vizSource": "aggregate",
           "vizSourceUrl": null
@@ -2716,11 +2716,11 @@
           "m": 11,
           "tempC": 28.5,
           "waveM": 1,
-          "vizM": 5,
+          "vizM": 6,
           "rainMm": 146,
           "windMs": 4.8,
           "sunnyDays": 5,
-          "vizMinM": 2,
+          "vizMinM": 6,
           "vizMaxM": 6,
           "vizSource": "aggregate",
           "vizSourceUrl": null
@@ -2733,7 +2733,7 @@
           "rainMm": 219,
           "windMs": 5.2,
           "sunnyDays": 4,
-          "vizMinM": 2,
+          "vizMinM": 5,
           "vizMaxM": 5,
           "vizSource": "aggregate",
           "vizSourceUrl": null
@@ -2778,7 +2778,7 @@
           10
         ]
       },
-      "generatedAt": "2026-07-02T19:01:59.678Z"
+      "generatedAt": "2026-07-02T19:50:50.390Z"
     },
     "bestTime": "In October, the sea is calmest, the water is clearest, and there is the least rain. The water stays a warm 27–29°C all year."
   },
@@ -3077,7 +3077,7 @@
           12
         ]
       },
-      "generatedAt": "2026-07-02T19:01:59.678Z"
+      "generatedAt": "2026-07-02T19:50:50.390Z"
     },
     "bestTime": "From September to May, the water is clearest. The water warms to 22–23°C in summer and drops to about 12°C in winter."
   },
@@ -3323,7 +3323,7 @@
           11
         ]
       },
-      "generatedAt": "2026-07-02T19:01:59.678Z"
+      "generatedAt": "2026-07-02T19:50:50.390Z"
     },
     "bestTime": "From July to November, the sea is calmest. The water is warmest at 28–29°C and cools to about 26°C."
   },

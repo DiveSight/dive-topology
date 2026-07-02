@@ -221,7 +221,7 @@
           9
         ]
       },
-      "generatedAt": "2026-07-02T19:01:59.678Z"
+      "generatedAt": "2026-07-02T19:50:50.390Z"
     },
     "bestTime": "The north of Madagascar has calmest, clearest conditions July to September, with water at a warm 27°C. In the south, dive during the same months for similar conditions but water temperatures around a brisk 20–21°C.",
     "bestTimeAuto": "From July to September, the sea is calmest, the water is clearest, and there is the least rain. The water is warmest at 29–30°C and cools to about 27°C. Conditions vary by coast."
@@ -328,11 +328,11 @@
           "m": 1,
           "tempC": 28,
           "waveM": 1.6,
-          "vizM": 24,
+          "vizM": 23,
           "rainMm": 174,
           "windMs": 3.9,
           "sunnyDays": 8,
-          "vizMinM": 17,
+          "vizMinM": 16,
           "vizMaxM": 31,
           "vizSource": "aggregate",
           "vizSourceUrl": null
@@ -341,12 +341,12 @@
           "m": 2,
           "tempC": 28.5,
           "waveM": 1.8,
-          "vizM": 18,
+          "vizM": 17,
           "rainMm": 159,
           "windMs": 4.4,
           "sunnyDays": 8,
-          "vizMinM": 13,
-          "vizMaxM": 24,
+          "vizMinM": 12,
+          "vizMaxM": 22,
           "vizSource": "aggregate",
           "vizSourceUrl": null
         },
@@ -354,12 +354,12 @@
           "m": 3,
           "tempC": 28.5,
           "waveM": 1.8,
-          "vizM": 20,
+          "vizM": 19,
           "rainMm": 146,
           "windMs": 4.1,
           "sunnyDays": 10,
-          "vizMinM": 15,
-          "vizMaxM": 27,
+          "vizMinM": 14,
+          "vizMaxM": 24,
           "vizSource": "aggregate",
           "vizSourceUrl": null
         },
@@ -372,7 +372,7 @@
           "windMs": 5.1,
           "sunnyDays": 12,
           "vizMinM": 14,
-          "vizMaxM": 26,
+          "vizMaxM": 23,
           "vizSource": "aggregate",
           "vizSourceUrl": null
         },
@@ -380,12 +380,12 @@
           "m": 5,
           "tempC": 27,
           "waveM": 1.9,
-          "vizM": 19,
+          "vizM": 17,
           "rainMm": 58,
           "windMs": 5.7,
           "sunnyDays": 17,
           "vizMinM": 14,
-          "vizMaxM": 25,
+          "vizMaxM": 23,
           "vizSource": "aggregate",
           "vizSourceUrl": null
         },
@@ -398,7 +398,7 @@
           "windMs": 6.7,
           "sunnyDays": 15,
           "vizMinM": 14,
-          "vizMaxM": 24,
+          "vizMaxM": 22,
           "vizSource": "aggregate",
           "vizSourceUrl": null
         },
@@ -406,12 +406,12 @@
           "m": 7,
           "tempC": 24.5,
           "waveM": 2.3,
-          "vizM": 18,
+          "vizM": 17,
           "rainMm": 41,
           "windMs": 6.9,
           "sunnyDays": 15,
           "vizMinM": 14,
-          "vizMaxM": 21,
+          "vizMaxM": 19,
           "vizSource": "aggregate",
           "vizSourceUrl": null
         },
@@ -423,8 +423,8 @@
           "rainMm": 32,
           "windMs": 6.4,
           "sunnyDays": 14,
-          "vizMinM": 13,
-          "vizMaxM": 21,
+          "vizMinM": 11,
+          "vizMaxM": 19,
           "vizSource": "aggregate",
           "vizSourceUrl": null
         },
@@ -432,12 +432,12 @@
           "m": 9,
           "tempC": 24,
           "waveM": 2,
-          "vizM": 18,
+          "vizM": 15,
           "rainMm": 25,
           "windMs": 6.2,
           "sunnyDays": 14,
-          "vizMinM": 13,
-          "vizMaxM": 23,
+          "vizMinM": 12,
+          "vizMaxM": 20,
           "vizSource": "aggregate",
           "vizSourceUrl": null
         },
@@ -445,12 +445,12 @@
           "m": 10,
           "tempC": 24.5,
           "waveM": 1.8,
-          "vizM": 18,
+          "vizM": 17,
           "rainMm": 31,
           "windMs": 4.9,
           "sunnyDays": 14,
-          "vizMinM": 13,
-          "vizMaxM": 25,
+          "vizMinM": 12,
+          "vizMaxM": 22,
           "vizSource": "aggregate",
           "vizSourceUrl": null
         },
@@ -458,12 +458,12 @@
           "m": 11,
           "tempC": 25.5,
           "waveM": 1.6,
-          "vizM": 20,
+          "vizM": 18,
           "rainMm": 53,
           "windMs": 4.2,
           "sunnyDays": 12,
           "vizMinM": 14,
-          "vizMaxM": 27,
+          "vizMaxM": 24,
           "vizSource": "aggregate",
           "vizSourceUrl": null
         },
@@ -471,12 +471,12 @@
           "m": 12,
           "tempC": 27,
           "waveM": 1.5,
-          "vizM": 24,
+          "vizM": 22,
           "rainMm": 95,
           "windMs": 4.4,
           "sunnyDays": 12,
-          "vizMinM": 16,
-          "vizMaxM": 30,
+          "vizMinM": 15,
+          "vizMaxM": 29,
           "vizSource": "aggregate",
           "vizSourceUrl": null
         }
@@ -514,7 +514,7 @@
           10
         ]
       },
-      "generatedAt": "2026-07-02T19:01:59.678Z"
+      "generatedAt": "2026-07-02T19:50:50.390Z"
     }
   },
   "black-river": {
@@ -904,7 +904,7 @@
           9
         ]
       },
-      "generatedAt": "2026-07-02T19:01:59.678Z"
+      "generatedAt": "2026-07-02T19:50:50.390Z"
     },
     "bestTime": "From May to September, there is the least rain. The water is warmest at 25–26°C and cools to about 23°C."
   },
@@ -1068,7 +1068,7 @@
           "windMs": 3.3,
           "sunnyDays": 6,
           "vizMinM": 17,
-          "vizMaxM": 23,
+          "vizMaxM": 22,
           "vizSource": "aggregate",
           "vizSourceUrl": null
         },
@@ -1089,7 +1089,7 @@
           "m": 4,
           "tempC": 30,
           "waveM": 1,
-          "vizM": 22,
+          "vizM": 20,
           "rainMm": 156,
           "windMs": 1.8,
           "sunnyDays": 11,
@@ -1159,7 +1159,7 @@
           "windMs": 7.2,
           "sunnyDays": 8,
           "vizMinM": 11,
-          "vizMaxM": 13,
+          "vizMaxM": 12,
           "vizSource": "aggregate",
           "vizSourceUrl": null
         },
@@ -1172,7 +1172,7 @@
           "windMs": 4.6,
           "sunnyDays": 13,
           "vizMinM": 12,
-          "vizMaxM": 18,
+          "vizMaxM": 17,
           "vizSource": "aggregate",
           "vizSourceUrl": null
         },
@@ -1184,7 +1184,7 @@
           "rainMm": 170,
           "windMs": 2.6,
           "sunnyDays": 11,
-          "vizMinM": 17,
+          "vizMinM": 16,
           "vizMaxM": 22,
           "vizSource": "aggregate",
           "vizSourceUrl": null
@@ -1244,7 +1244,7 @@
           4
         ]
       },
-      "generatedAt": "2026-07-02T19:01:59.678Z"
+      "generatedAt": "2026-07-02T19:50:50.390Z"
     }
   },
   "aldabra-group": {
@@ -1602,7 +1602,7 @@
           4
         ]
       },
-      "generatedAt": "2026-07-02T19:01:59.678Z"
+      "generatedAt": "2026-07-02T19:50:50.390Z"
     },
     "bestTime": "From January to February, the sea is calmest, the water is clearest, and there is the least rain. The water stays a warm 29–31°C all year. Conditions vary by coast."
   },
@@ -1920,7 +1920,7 @@
           4
         ]
       },
-      "generatedAt": "2026-07-02T19:01:59.678Z"
+      "generatedAt": "2026-07-02T19:50:50.390Z"
     }
   },
   "addu-atoll": {
@@ -2400,7 +2400,7 @@
           4
         ]
       },
-      "generatedAt": "2026-07-02T19:01:59.678Z"
+      "generatedAt": "2026-07-02T19:50:50.390Z"
     },
     "bestTime": "From February to April, the sea is calmest, the water is clearest, and there is the least rain. The water stays a warm 28–30°C all year."
   },
