@@ -243,7 +243,7 @@
           12
         ]
       },
-      "generatedAt": "2026-07-02T19:50:50.390Z"
+      "generatedAt": "2026-07-02T21:52:52.891Z"
     },
     "bestTime": "From December to March, there is the least rain. The water is warmest at 29–30°C and cools to about 27°C."
   },
@@ -492,7 +492,7 @@
           6
         ]
       },
-      "generatedAt": "2026-07-02T19:50:50.390Z"
+      "generatedAt": "2026-07-02T21:52:52.891Z"
     },
     "bestTime": "From March to June, there is the least rain. The water is warmest at 29°C and cools to about 26°C."
   },
@@ -542,11 +542,11 @@
           "m": 1,
           "tempC": 25,
           "waveM": 0.9,
-          "vizM": 27,
+          "vizM": 25,
           "rainMm": 62,
           "windMs": 2.4,
           "sunnyDays": 11,
-          "vizMinM": 24,
+          "vizMinM": 20,
           "vizMaxM": 30,
           "vizSource": "curated",
           "vizSourceUrl": "https://www.onlyblue-diving.com/best-time-to-dive-in-the-bahamas/"
@@ -555,11 +555,11 @@
           "m": 2,
           "tempC": 24.5,
           "waveM": 0.9,
-          "vizM": 27,
+          "vizM": 25,
           "rainMm": 39,
           "windMs": 3.6,
           "sunnyDays": 16,
-          "vizMinM": 24,
+          "vizMinM": 20,
           "vizMaxM": 30,
           "vizSource": "curated",
           "vizSourceUrl": "https://www.onlyblue-diving.com/best-time-to-dive-in-the-bahamas/"
@@ -568,11 +568,11 @@
           "m": 3,
           "tempC": 25,
           "waveM": 0.9,
-          "vizM": 27,
+          "vizM": 25,
           "rainMm": 43,
           "windMs": 3.4,
           "sunnyDays": 16,
-          "vizMinM": 24,
+          "vizMinM": 20,
           "vizMaxM": 30,
           "vizSource": "curated",
           "vizSourceUrl": "https://www.onlyblue-diving.com/best-time-to-dive-in-the-bahamas/"
@@ -581,12 +581,12 @@
           "m": 4,
           "tempC": 26,
           "waveM": 0.8,
-          "vizM": 27,
+          "vizM": 30,
           "rainMm": 52,
           "windMs": 3.8,
           "sunnyDays": 15,
-          "vizMinM": 24,
-          "vizMaxM": 30,
+          "vizMinM": 25,
+          "vizMaxM": 35,
           "vizSource": "curated",
           "vizSourceUrl": "https://www.onlyblue-diving.com/best-time-to-dive-in-the-bahamas/"
         },
@@ -594,12 +594,12 @@
           "m": 5,
           "tempC": 27,
           "waveM": 0.7,
-          "vizM": 27,
+          "vizM": 30,
           "rainMm": 110,
           "windMs": 3.8,
           "sunnyDays": 12,
-          "vizMinM": 24,
-          "vizMaxM": 30,
+          "vizMinM": 25,
+          "vizMaxM": 35,
           "vizSource": "curated",
           "vizSourceUrl": "https://www.onlyblue-diving.com/best-time-to-dive-in-the-bahamas/"
         },
@@ -607,12 +607,12 @@
           "m": 6,
           "tempC": 28.5,
           "waveM": 0.6,
-          "vizM": 20,
+          "vizM": 25,
           "rainMm": 112,
           "windMs": 3.9,
           "sunnyDays": 7,
-          "vizMinM": 15,
-          "vizMaxM": 25,
+          "vizMinM": 20,
+          "vizMaxM": 30,
           "vizSource": "curated",
           "vizSourceUrl": "https://www.onlyblue-diving.com/best-time-to-dive-in-the-bahamas/"
         },
@@ -620,12 +620,12 @@
           "m": 7,
           "tempC": 30,
           "waveM": 0.6,
-          "vizM": 20,
+          "vizM": 25,
           "rainMm": 87,
           "windMs": 4.5,
           "sunnyDays": 11,
-          "vizMinM": 15,
-          "vizMaxM": 25,
+          "vizMinM": 20,
+          "vizMaxM": 30,
           "vizSource": "curated",
           "vizSourceUrl": "https://www.onlyblue-diving.com/best-time-to-dive-in-the-bahamas/"
         },
@@ -633,12 +633,12 @@
           "m": 8,
           "tempC": 30,
           "waveM": 0.6,
-          "vizM": 20,
+          "vizM": 23,
           "rainMm": 115,
           "windMs": 4.2,
           "sunnyDays": 11,
-          "vizMinM": 15,
-          "vizMaxM": 25,
+          "vizMinM": 18,
+          "vizMaxM": 28,
           "vizSource": "curated",
           "vizSourceUrl": "https://www.onlyblue-diving.com/best-time-to-dive-in-the-bahamas/"
         },
@@ -646,12 +646,12 @@
           "m": 9,
           "tempC": 30,
           "waveM": 0.7,
-          "vizM": 20,
+          "vizM": 23,
           "rainMm": 153,
           "windMs": 2.9,
           "sunnyDays": 9,
-          "vizMinM": 15,
-          "vizMaxM": 25,
+          "vizMinM": 18,
+          "vizMaxM": 28,
           "vizSource": "curated",
           "vizSourceUrl": "https://www.onlyblue-diving.com/best-time-to-dive-in-the-bahamas/"
         },
@@ -659,12 +659,12 @@
           "m": 10,
           "tempC": 29,
           "waveM": 0.8,
-          "vizM": 20,
+          "vizM": 23,
           "rainMm": 156,
           "windMs": 3.9,
           "sunnyDays": 12,
-          "vizMinM": 15,
-          "vizMaxM": 25,
+          "vizMinM": 18,
+          "vizMaxM": 28,
           "vizSource": "curated",
           "vizSourceUrl": "https://www.onlyblue-diving.com/best-time-to-dive-in-the-bahamas/"
         },
@@ -672,11 +672,11 @@
           "m": 11,
           "tempC": 27,
           "waveM": 1,
-          "vizM": 27,
+          "vizM": 25,
           "rainMm": 77,
           "windMs": 4.3,
           "sunnyDays": 12,
-          "vizMinM": 24,
+          "vizMinM": 20,
           "vizMaxM": 30,
           "vizSource": "curated",
           "vizSourceUrl": "https://www.onlyblue-diving.com/best-time-to-dive-in-the-bahamas/"
@@ -685,11 +685,11 @@
           "m": 12,
           "tempC": 26,
           "waveM": 0.9,
-          "vizM": 27,
+          "vizM": 25,
           "rainMm": 64,
           "windMs": 3.6,
           "sunnyDays": 16,
-          "vizMinM": 24,
+          "vizMinM": 20,
           "vizMaxM": 30,
           "vizSource": "curated",
           "vizSourceUrl": "https://www.onlyblue-diving.com/best-time-to-dive-in-the-bahamas/"
@@ -731,7 +731,7 @@
           9
         ]
       },
-      "generatedAt": "2026-07-02T19:50:50.390Z"
+      "generatedAt": "2026-07-02T21:52:52.891Z"
     },
     "bestTimeAuto": "From May to September, the sea is calmest. The water is warmest at 29–30°C and cools to about 25°C."
   },
@@ -1140,7 +1140,7 @@
           11
         ]
       },
-      "generatedAt": "2026-07-02T19:50:50.390Z"
+      "generatedAt": "2026-07-02T21:52:52.891Z"
     },
     "bestTime": "In September and November, the sea is calmest and the water is clearest. The water is warmest at 29–30°C and cools to about 27°C."
   },
@@ -1449,7 +1449,7 @@
           5
         ]
       },
-      "generatedAt": "2026-07-02T19:50:50.390Z"
+      "generatedAt": "2026-07-02T21:52:52.891Z"
     },
     "bestTime": "From February to May, there is the least rain. The water is warmest at 29–30°C and cools to about 27°C."
   },
@@ -1765,7 +1765,7 @@
           4
         ]
       },
-      "generatedAt": "2026-07-02T19:50:50.390Z"
+      "generatedAt": "2026-07-02T21:52:52.891Z"
     }
   },
   "cayman-brac": {
@@ -2014,7 +2014,7 @@
           9
         ]
       },
-      "generatedAt": "2026-07-02T19:50:50.390Z"
+      "generatedAt": "2026-07-02T21:52:52.891Z"
     },
     "bestTime": "The Caribbean coast of Cuba dries out from January to April, perfect for dives in 27–31°C waters. The Gulf of Mexico calms from June to September. On the Pacific coast, May to September brings settled seas and warm waters around 26–30°C.",
     "bestTimeAuto": "In May, the sea is calmest and the water is clearest. The water is warmest at 31°C and cools to about 27°C. Conditions vary by coast."
@@ -2172,66 +2172,66 @@
           "m": 1,
           "tempC": 27,
           "waveM": 1.3,
-          "vizM": 21,
+          "vizM": 28,
           "rainMm": 47,
           "windMs": 8.3,
           "sunnyDays": 20,
-          "vizMinM": 20,
-          "vizMaxM": 23,
-          "vizSource": "aggregate",
-          "vizSourceUrl": null
+          "vizMinM": 25,
+          "vizMaxM": 30,
+          "vizSource": "curated",
+          "vizSourceUrl": "https://www.divecuracao.info/dive-travel/best-time-to-visit-curacao/"
         },
         {
           "m": 2,
           "tempC": 26.5,
           "waveM": 1.3,
-          "vizM": 16,
+          "vizM": 28,
           "rainMm": 30,
           "windMs": 8.5,
           "sunnyDays": 21,
-          "vizMinM": 15,
-          "vizMaxM": 16,
-          "vizSource": "aggregate",
-          "vizSourceUrl": null
+          "vizMinM": 25,
+          "vizMaxM": 30,
+          "vizSource": "curated",
+          "vizSourceUrl": "https://www.divecuracao.info/dive-travel/best-time-to-visit-curacao/"
         },
         {
           "m": 3,
           "tempC": 26.5,
           "waveM": 1.3,
-          "vizM": 19,
+          "vizM": 28,
           "rainMm": 26,
           "windMs": 8.3,
           "sunnyDays": 15,
-          "vizMinM": 17,
-          "vizMaxM": 20,
-          "vizSource": "aggregate",
-          "vizSourceUrl": null
+          "vizMinM": 25,
+          "vizMaxM": 30,
+          "vizSource": "curated",
+          "vizSourceUrl": "https://www.divecuracao.info/dive-travel/best-time-to-visit-curacao/"
         },
         {
           "m": 4,
           "tempC": 27,
           "waveM": 1.2,
-          "vizM": 22,
+          "vizM": 28,
           "rainMm": 26,
           "windMs": 8.3,
           "sunnyDays": 6,
-          "vizMinM": 19,
-          "vizMaxM": 24,
-          "vizSource": "aggregate",
-          "vizSourceUrl": null
+          "vizMinM": 25,
+          "vizMaxM": 30,
+          "vizSource": "curated",
+          "vizSourceUrl": "https://www.divecuracao.info/dive-travel/best-time-to-visit-curacao/"
         },
         {
           "m": 5,
           "tempC": 27.5,
           "waveM": 1.2,
-          "vizM": 25,
+          "vizM": 28,
           "rainMm": 29,
           "windMs": 8.9,
           "sunnyDays": 6,
-          "vizMinM": 24,
-          "vizMaxM": 26,
-          "vizSource": "aggregate",
-          "vizSourceUrl": null
+          "vizMinM": 25,
+          "vizMaxM": 30,
+          "vizSource": "curated",
+          "vizSourceUrl": "https://www.divecuracao.info/dive-travel/best-time-to-visit-curacao/"
         },
         {
           "m": 6,
@@ -2241,88 +2241,88 @@
           "rainMm": 45,
           "windMs": 9,
           "sunnyDays": 9,
-          "vizMinM": 26,
-          "vizMaxM": 29,
-          "vizSource": "aggregate",
-          "vizSourceUrl": null
+          "vizMinM": 25,
+          "vizMaxM": 30,
+          "vizSource": "curated",
+          "vizSourceUrl": "https://www.divecuracao.info/dive-travel/best-time-to-visit-curacao/"
         },
         {
           "m": 7,
           "tempC": 28,
           "waveM": 1.2,
-          "vizM": 19,
+          "vizM": 28,
           "rainMm": 41,
           "windMs": 8.6,
           "sunnyDays": 12,
-          "vizMinM": 18,
-          "vizMaxM": 20,
-          "vizSource": "aggregate",
-          "vizSourceUrl": null
+          "vizMinM": 25,
+          "vizMaxM": 30,
+          "vizSource": "curated",
+          "vizSourceUrl": "https://www.divecuracao.info/dive-travel/best-time-to-visit-curacao/"
         },
         {
           "m": 8,
           "tempC": 28.5,
           "waveM": 1.1,
-          "vizM": 19,
+          "vizM": 28,
           "rainMm": 48,
           "windMs": 8.1,
           "sunnyDays": 12,
-          "vizMinM": 19,
-          "vizMaxM": 20,
-          "vizSource": "aggregate",
-          "vizSourceUrl": null
+          "vizMinM": 25,
+          "vizMaxM": 30,
+          "vizSource": "curated",
+          "vizSourceUrl": "https://www.divecuracao.info/dive-travel/best-time-to-visit-curacao/"
         },
         {
           "m": 9,
           "tempC": 29,
           "waveM": 1,
-          "vizM": 21,
+          "vizM": 28,
           "rainMm": 59,
           "windMs": 7,
           "sunnyDays": 9,
-          "vizMinM": 20,
-          "vizMaxM": 22,
-          "vizSource": "aggregate",
-          "vizSourceUrl": null
+          "vizMinM": 25,
+          "vizMaxM": 30,
+          "vizSource": "curated",
+          "vizSourceUrl": "https://www.divecuracao.info/dive-travel/best-time-to-visit-curacao/"
         },
         {
           "m": 10,
           "tempC": 29.5,
           "waveM": 0.9,
-          "vizM": 27,
+          "vizM": 23,
           "rainMm": 112,
           "windMs": 6.5,
           "sunnyDays": 8,
-          "vizMinM": 27,
-          "vizMaxM": 27,
-          "vizSource": "aggregate",
-          "vizSourceUrl": null
+          "vizMinM": 20,
+          "vizMaxM": 25,
+          "vizSource": "curated",
+          "vizSourceUrl": "https://www.divecuracao.info/dive-travel/best-time-to-visit-curacao/"
         },
         {
           "m": 11,
           "tempC": 29,
           "waveM": 1,
-          "vizM": 30,
+          "vizM": 23,
           "rainMm": 158,
           "windMs": 6.3,
           "sunnyDays": 10,
-          "vizMinM": 28,
-          "vizMaxM": 31,
-          "vizSource": "aggregate",
-          "vizSourceUrl": null
+          "vizMinM": 20,
+          "vizMaxM": 25,
+          "vizSource": "curated",
+          "vizSourceUrl": "https://www.divecuracao.info/dive-travel/best-time-to-visit-curacao/"
         },
         {
           "m": 12,
           "tempC": 28,
           "waveM": 1.2,
-          "vizM": 20,
+          "vizM": 23,
           "rainMm": 78,
           "windMs": 8,
           "sunnyDays": 16,
           "vizMinM": 20,
-          "vizMaxM": 21,
-          "vizSource": "aggregate",
-          "vizSourceUrl": null
+          "vizMaxM": 25,
+          "vizSource": "curated",
+          "vizSourceUrl": "https://www.divecuracao.info/dive-travel/best-time-to-visit-curacao/"
         }
       ],
       "windows": {
@@ -2348,7 +2348,7 @@
           5
         ]
       },
-      "generatedAt": "2026-07-02T19:50:50.390Z"
+      "generatedAt": "2026-07-02T21:52:52.891Z"
     },
     "bestTime": "February to May offers Curaçao's driest months, with water temperatures at a mild 27°C, perfect for uninterrupted diving.",
     "bestTimeAuto": "From February to May, there is the least rain. The water is warmest at 29–30°C and cools to about 27°C."
@@ -2401,27 +2401,27 @@
           "m": 1,
           "tempC": 27,
           "waveM": 1.5,
-          "vizM": 29,
+          "vizM": 25,
           "rainMm": 48,
           "windMs": 7.7,
           "sunnyDays": 23,
-          "vizMinM": 27,
+          "vizMinM": 20,
           "vizMaxM": 30,
-          "vizSource": "aggregate",
-          "vizSourceUrl": null
+          "vizSource": "curated",
+          "vizSourceUrl": "https://ewdr.com/en/dive-inspiration/diving-in-dominica-a-complete-guide/"
         },
         {
           "m": 2,
           "tempC": 26.5,
           "waveM": 1.5,
-          "vizM": 22,
+          "vizM": 25,
           "rainMm": 44,
           "windMs": 8,
           "sunnyDays": 24,
-          "vizMinM": 21,
-          "vizMaxM": 23,
-          "vizSource": "aggregate",
-          "vizSourceUrl": null
+          "vizMinM": 20,
+          "vizMaxM": 30,
+          "vizSource": "curated",
+          "vizSourceUrl": "https://ewdr.com/en/dive-inspiration/diving-in-dominica-a-complete-guide/"
         },
         {
           "m": 3,
@@ -2431,62 +2431,62 @@
           "rainMm": 43,
           "windMs": 7.3,
           "sunnyDays": 21,
-          "vizMinM": 24,
-          "vizMaxM": 26,
-          "vizSource": "aggregate",
-          "vizSourceUrl": null
+          "vizMinM": 20,
+          "vizMaxM": 30,
+          "vizSource": "curated",
+          "vizSourceUrl": "https://ewdr.com/en/dive-inspiration/diving-in-dominica-a-complete-guide/"
         },
         {
           "m": 4,
           "tempC": 27.5,
           "waveM": 1.2,
-          "vizM": 20,
+          "vizM": 25,
           "rainMm": 47,
           "windMs": 7,
           "sunnyDays": 14,
-          "vizMinM": 19,
-          "vizMaxM": 23,
-          "vizSource": "aggregate",
-          "vizSourceUrl": null
+          "vizMinM": 20,
+          "vizMaxM": 30,
+          "vizSource": "curated",
+          "vizSourceUrl": "https://ewdr.com/en/dive-inspiration/diving-in-dominica-a-complete-guide/"
         },
         {
           "m": 5,
           "tempC": 28,
           "waveM": 1.2,
-          "vizM": 22,
+          "vizM": 25,
           "rainMm": 56,
           "windMs": 7.6,
           "sunnyDays": 12,
           "vizMinM": 20,
-          "vizMaxM": 22,
-          "vizSource": "aggregate",
-          "vizSourceUrl": null
+          "vizMaxM": 30,
+          "vizSource": "curated",
+          "vizSourceUrl": "https://ewdr.com/en/dive-inspiration/diving-in-dominica-a-complete-guide/"
         },
         {
           "m": 6,
           "tempC": 28.5,
           "waveM": 1.3,
-          "vizM": 20,
+          "vizM": 25,
           "rainMm": 70,
           "windMs": 8.2,
           "sunnyDays": 11,
-          "vizMinM": 19,
-          "vizMaxM": 21,
-          "vizSource": "aggregate",
-          "vizSourceUrl": null
+          "vizMinM": 20,
+          "vizMaxM": 30,
+          "vizSource": "curated",
+          "vizSourceUrl": "https://ewdr.com/en/dive-inspiration/diving-in-dominica-a-complete-guide/"
         },
         {
           "m": 7,
           "tempC": 28.5,
           "waveM": 1.3,
-          "vizM": 19,
+          "vizM": 20,
           "rainMm": 109,
           "windMs": 8.1,
           "sunnyDays": 17,
-          "vizMinM": 17,
-          "vizMaxM": 19,
-          "vizSource": "aggregate",
-          "vizSourceUrl": null
+          "vizMinM": 15,
+          "vizMaxM": 25,
+          "vizSource": "curated",
+          "vizSourceUrl": "https://ewdr.com/en/dive-inspiration/diving-in-dominica-a-complete-guide/"
         },
         {
           "m": 8,
@@ -2496,62 +2496,62 @@
           "rainMm": 121,
           "windMs": 6.8,
           "sunnyDays": 15,
-          "vizMinM": 20,
-          "vizMaxM": 20,
-          "vizSource": "aggregate",
-          "vizSourceUrl": null
+          "vizMinM": 15,
+          "vizMaxM": 25,
+          "vizSource": "curated",
+          "vizSourceUrl": "https://ewdr.com/en/dive-inspiration/diving-in-dominica-a-complete-guide/"
         },
         {
           "m": 9,
           "tempC": 29.5,
           "waveM": 1,
-          "vizM": 25,
+          "vizM": 20,
           "rainMm": 143,
           "windMs": 5.2,
           "sunnyDays": 12,
-          "vizMinM": 23,
+          "vizMinM": 15,
           "vizMaxM": 25,
-          "vizSource": "aggregate",
-          "vizSourceUrl": null
+          "vizSource": "curated",
+          "vizSourceUrl": "https://ewdr.com/en/dive-inspiration/diving-in-dominica-a-complete-guide/"
         },
         {
           "m": 10,
           "tempC": 29.5,
           "waveM": 1,
-          "vizM": 24,
+          "vizM": 20,
           "rainMm": 141,
           "windMs": 5.9,
           "sunnyDays": 11,
-          "vizMinM": 22,
-          "vizMaxM": 26,
-          "vizSource": "aggregate",
-          "vizSourceUrl": null
+          "vizMinM": 15,
+          "vizMaxM": 25,
+          "vizSource": "curated",
+          "vizSourceUrl": "https://ewdr.com/en/dive-inspiration/diving-in-dominica-a-complete-guide/"
         },
         {
           "m": 11,
           "tempC": 28.5,
           "waveM": 1.2,
-          "vizM": 24,
+          "vizM": 20,
           "rainMm": 127,
           "windMs": 6.6,
           "sunnyDays": 16,
-          "vizMinM": 22,
+          "vizMinM": 15,
           "vizMaxM": 25,
-          "vizSource": "aggregate",
-          "vizSourceUrl": null
+          "vizSource": "curated",
+          "vizSourceUrl": "https://ewdr.com/en/dive-inspiration/diving-in-dominica-a-complete-guide/"
         },
         {
           "m": 12,
           "tempC": 28,
           "waveM": 1.4,
-          "vizM": 28,
+          "vizM": 25,
           "rainMm": 66,
           "windMs": 7.5,
           "sunnyDays": 22,
-          "vizMinM": 27,
-          "vizMaxM": 29,
-          "vizSource": "aggregate",
-          "vizSourceUrl": null
+          "vizMinM": 20,
+          "vizMaxM": 30,
+          "vizSource": "curated",
+          "vizSourceUrl": "https://ewdr.com/en/dive-inspiration/diving-in-dominica-a-complete-guide/"
         }
       ],
       "windows": {
@@ -2588,7 +2588,7 @@
           4
         ]
       },
-      "generatedAt": "2026-07-02T19:50:50.390Z"
+      "generatedAt": "2026-07-02T21:52:52.891Z"
     },
     "bestTimeAuto": "In April, the sea is calmest and there is the least rain. The water is warmest at 29–30°C and cools to about 27°C."
   },
@@ -2724,105 +2724,105 @@
           "m": 1,
           "tempC": 27,
           "waveM": 1.2,
-          "vizM": 21,
+          "vizM": 25,
           "rainMm": 48,
           "windMs": 3.9,
           "sunnyDays": 19,
-          "vizMinM": 19,
-          "vizMaxM": 22,
-          "vizSource": "aggregate",
-          "vizSourceUrl": null
+          "vizMinM": 20,
+          "vizMaxM": 30,
+          "vizSource": "curated",
+          "vizSourceUrl": "https://www.zubludiving.com/destination/dominican-republic/la-altagracia/bayahibe"
         },
         {
           "m": 2,
           "tempC": 26.5,
           "waveM": 1.1,
-          "vizM": 17,
+          "vizM": 25,
           "rainMm": 45,
           "windMs": 4.3,
           "sunnyDays": 21,
-          "vizMinM": 15,
-          "vizMaxM": 19,
-          "vizSource": "aggregate",
-          "vizSourceUrl": null
+          "vizMinM": 20,
+          "vizMaxM": 30,
+          "vizSource": "curated",
+          "vizSourceUrl": "https://www.zubludiving.com/destination/dominican-republic/la-altagracia/bayahibe"
         },
         {
           "m": 3,
           "tempC": 26.5,
           "waveM": 1.1,
-          "vizM": 27,
+          "vizM": 25,
           "rainMm": 56,
           "windMs": 3.8,
           "sunnyDays": 19,
           "vizMinM": 20,
           "vizMaxM": 30,
-          "vizSource": "aggregate",
-          "vizSourceUrl": null
+          "vizSource": "curated",
+          "vizSourceUrl": "https://www.zubludiving.com/destination/dominican-republic/la-altagracia/bayahibe"
         },
         {
           "m": 4,
           "tempC": 27,
           "waveM": 1,
-          "vizM": 28,
+          "vizM": 25,
           "rainMm": 77,
           "windMs": 3.8,
           "sunnyDays": 16,
-          "vizMinM": 25,
+          "vizMinM": 20,
           "vizMaxM": 30,
-          "vizSource": "aggregate",
-          "vizSourceUrl": null
+          "vizSource": "curated",
+          "vizSourceUrl": "https://www.zubludiving.com/destination/dominican-republic/la-altagracia/bayahibe"
         },
         {
           "m": 5,
           "tempC": 27.5,
           "waveM": 0.9,
-          "vizM": 26,
+          "vizM": 25,
           "rainMm": 92,
           "windMs": 3.9,
           "sunnyDays": 9,
           "vizMinM": 20,
           "vizMaxM": 30,
-          "vizSource": "aggregate",
-          "vizSourceUrl": null
+          "vizSource": "curated",
+          "vizSourceUrl": "https://www.zubludiving.com/destination/dominican-republic/la-altagracia/bayahibe"
         },
         {
           "m": 6,
           "tempC": 28.5,
           "waveM": 0.9,
-          "vizM": 27,
+          "vizM": 23,
           "rainMm": 62,
           "windMs": 4.2,
           "sunnyDays": 10,
-          "vizMinM": 24,
-          "vizMaxM": 30,
-          "vizSource": "aggregate",
-          "vizSourceUrl": null
+          "vizMinM": 18,
+          "vizMaxM": 28,
+          "vizSource": "curated",
+          "vizSourceUrl": "https://www.zubludiving.com/destination/dominican-republic/la-altagracia/bayahibe"
         },
         {
           "m": 7,
           "tempC": 28.5,
           "waveM": 1,
-          "vizM": 22,
+          "vizM": 24,
           "rainMm": 85,
           "windMs": 4.6,
           "sunnyDays": 14,
-          "vizMinM": 21,
-          "vizMaxM": 26,
-          "vizSource": "aggregate",
-          "vizSourceUrl": null
+          "vizMinM": 18,
+          "vizMaxM": 30,
+          "vizSource": "curated",
+          "vizSourceUrl": "https://www.zubludiving.com/destination/dominican-republic/la-altagracia/bayahibe"
         },
         {
           "m": 8,
           "tempC": 29,
           "waveM": 0.9,
-          "vizM": 22,
+          "vizM": 24,
           "rainMm": 100,
           "windMs": 4,
           "sunnyDays": 13,
-          "vizMinM": 20,
-          "vizMaxM": 28,
-          "vizSource": "aggregate",
-          "vizSourceUrl": null
+          "vizMinM": 18,
+          "vizMaxM": 30,
+          "vizSource": "curated",
+          "vizSourceUrl": "https://www.zubludiving.com/destination/dominican-republic/la-altagracia/bayahibe"
         },
         {
           "m": 9,
@@ -2832,49 +2832,49 @@
           "rainMm": 121,
           "windMs": 2.9,
           "sunnyDays": 11,
-          "vizMinM": 17,
-          "vizMaxM": 24,
-          "vizSource": "aggregate",
-          "vizSourceUrl": null
+          "vizMinM": 15,
+          "vizMaxM": 27,
+          "vizSource": "curated",
+          "vizSourceUrl": "https://www.zubludiving.com/destination/dominican-republic/la-altagracia/bayahibe"
         },
         {
           "m": 10,
           "tempC": 29.5,
           "waveM": 0.9,
-          "vizM": 19,
+          "vizM": 21,
           "rainMm": 125,
           "windMs": 2.8,
           "sunnyDays": 10,
-          "vizMinM": 16,
-          "vizMaxM": 24,
-          "vizSource": "aggregate",
-          "vizSourceUrl": null
+          "vizMinM": 15,
+          "vizMaxM": 27,
+          "vizSource": "curated",
+          "vizSourceUrl": "https://www.zubludiving.com/destination/dominican-republic/la-altagracia/bayahibe"
         },
         {
           "m": 11,
           "tempC": 28.5,
           "waveM": 1.1,
-          "vizM": 17,
+          "vizM": 20,
           "rainMm": 141,
           "windMs": 3.2,
           "sunnyDays": 13,
           "vizMinM": 15,
-          "vizMaxM": 19,
-          "vizSource": "aggregate",
-          "vizSourceUrl": null
+          "vizMaxM": 25,
+          "vizSource": "curated",
+          "vizSourceUrl": "https://www.zubludiving.com/destination/dominican-republic/la-altagracia/bayahibe"
         },
         {
           "m": 12,
           "tempC": 27.5,
           "waveM": 1.2,
-          "vizM": 20,
+          "vizM": 23,
           "rainMm": 63,
           "windMs": 4,
           "sunnyDays": 20,
-          "vizMinM": 17,
-          "vizMaxM": 21,
-          "vizSource": "aggregate",
-          "vizSourceUrl": null
+          "vizMinM": 18,
+          "vizMaxM": 28,
+          "vizSource": "curated",
+          "vizSourceUrl": "https://www.zubludiving.com/destination/dominican-republic/la-altagracia/bayahibe"
         }
       ],
       "windows": {
@@ -2908,7 +2908,7 @@
           6
         ]
       },
-      "generatedAt": "2026-07-02T19:50:50.390Z"
+      "generatedAt": "2026-07-02T21:52:52.891Z"
     },
     "bestTime": "In January to March and June, there is the least rain. The water is warmest at 29–30°C and cools to about 27°C."
   },
@@ -2981,53 +2981,53 @@
           "m": 1,
           "tempC": 27.5,
           "waveM": 1.5,
-          "vizM": 13,
+          "vizM": 21,
           "rainMm": 50,
           "windMs": 7.4,
           "sunnyDays": 19,
-          "vizMinM": 12,
-          "vizMaxM": 16,
-          "vizSource": "aggregate",
-          "vizSourceUrl": null
+          "vizMinM": 18,
+          "vizMaxM": 24,
+          "vizSource": "curated",
+          "vizSourceUrl": "https://divejourney.io/dive-spots/grenada-bianca-c-wreck"
         },
         {
           "m": 2,
           "tempC": 27,
           "waveM": 1.5,
-          "vizM": 10,
+          "vizM": 21,
           "rainMm": 34,
           "windMs": 8,
           "sunnyDays": 20,
-          "vizMinM": 9,
-          "vizMaxM": 12,
-          "vizSource": "aggregate",
-          "vizSourceUrl": null
+          "vizMinM": 18,
+          "vizMaxM": 24,
+          "vizSource": "curated",
+          "vizSourceUrl": "https://divejourney.io/dive-spots/grenada-bianca-c-wreck"
         },
         {
           "m": 3,
           "tempC": 27,
           "waveM": 1.4,
-          "vizM": 11,
+          "vizM": 21,
           "rainMm": 35,
           "windMs": 7.4,
           "sunnyDays": 15,
-          "vizMinM": 10,
-          "vizMaxM": 14,
-          "vizSource": "aggregate",
-          "vizSourceUrl": null
+          "vizMinM": 18,
+          "vizMaxM": 24,
+          "vizSource": "curated",
+          "vizSourceUrl": "https://divejourney.io/dive-spots/grenada-bianca-c-wreck"
         },
         {
           "m": 4,
           "tempC": 27.5,
           "waveM": 1.3,
-          "vizM": 11,
+          "vizM": 21,
           "rainMm": 34,
           "windMs": 7.2,
           "sunnyDays": 8,
-          "vizMinM": 10,
-          "vizMaxM": 13,
-          "vizSource": "aggregate",
-          "vizSourceUrl": null
+          "vizMinM": 18,
+          "vizMaxM": 24,
+          "vizSource": "curated",
+          "vizSourceUrl": "https://divejourney.io/dive-spots/grenada-bianca-c-wreck"
         },
         {
           "m": 5,
@@ -3046,92 +3046,92 @@
           "m": 6,
           "tempC": 28,
           "waveM": 1.4,
-          "vizM": 9,
+          "vizM": 17,
           "rainMm": 132,
           "windMs": 7.6,
           "sunnyDays": 9,
-          "vizMinM": 8,
-          "vizMaxM": 10,
-          "vizSource": "aggregate",
-          "vizSourceUrl": null
+          "vizMinM": 14,
+          "vizMaxM": 20,
+          "vizSource": "curated",
+          "vizSourceUrl": "https://divejourney.io/dive-spots/grenada-bianca-c-wreck"
         },
         {
           "m": 7,
           "tempC": 28.5,
           "waveM": 1.2,
-          "vizM": 8,
+          "vizM": 17,
           "rainMm": 174,
           "windMs": 6.8,
           "sunnyDays": 13,
-          "vizMinM": 8,
-          "vizMaxM": 9,
-          "vizSource": "aggregate",
-          "vizSourceUrl": null
+          "vizMinM": 14,
+          "vizMaxM": 20,
+          "vizSource": "curated",
+          "vizSourceUrl": "https://divejourney.io/dive-spots/grenada-bianca-c-wreck"
         },
         {
           "m": 8,
           "tempC": 29.5,
           "waveM": 1,
-          "vizM": 8,
+          "vizM": 17,
           "rainMm": 163,
           "windMs": 5.7,
           "sunnyDays": 12,
-          "vizMinM": 7,
-          "vizMaxM": 11,
-          "vizSource": "aggregate",
-          "vizSourceUrl": null
+          "vizMinM": 14,
+          "vizMaxM": 20,
+          "vizSource": "curated",
+          "vizSourceUrl": "https://divejourney.io/dive-spots/grenada-bianca-c-wreck"
         },
         {
           "m": 9,
           "tempC": 30,
           "waveM": 0.9,
-          "vizM": 8,
+          "vizM": 17,
           "rainMm": 137,
           "windMs": 4.9,
           "sunnyDays": 10,
-          "vizMinM": 8,
-          "vizMaxM": 10,
-          "vizSource": "aggregate",
-          "vizSourceUrl": null
+          "vizMinM": 14,
+          "vizMaxM": 20,
+          "vizSource": "curated",
+          "vizSourceUrl": "https://divejourney.io/dive-spots/grenada-bianca-c-wreck"
         },
         {
           "m": 10,
           "tempC": 29.5,
           "waveM": 1,
-          "vizM": 9,
+          "vizM": 17,
           "rainMm": 173,
           "windMs": 5.8,
           "sunnyDays": 9,
-          "vizMinM": 7,
-          "vizMaxM": 9,
-          "vizSource": "aggregate",
-          "vizSourceUrl": null
+          "vizMinM": 14,
+          "vizMaxM": 20,
+          "vizSource": "curated",
+          "vizSourceUrl": "https://divejourney.io/dive-spots/grenada-bianca-c-wreck"
         },
         {
           "m": 11,
           "tempC": 29,
           "waveM": 1.2,
-          "vizM": 12,
+          "vizM": 17,
           "rainMm": 167,
           "windMs": 6.6,
           "sunnyDays": 10,
-          "vizMinM": 11,
-          "vizMaxM": 12,
-          "vizSource": "aggregate",
-          "vizSourceUrl": null
+          "vizMinM": 14,
+          "vizMaxM": 20,
+          "vizSource": "curated",
+          "vizSourceUrl": "https://divejourney.io/dive-spots/grenada-bianca-c-wreck"
         },
         {
           "m": 12,
           "tempC": 28,
           "waveM": 1.4,
-          "vizM": 12,
+          "vizM": 21,
           "rainMm": 89,
           "windMs": 7.3,
           "sunnyDays": 16,
-          "vizMinM": 11,
-          "vizMaxM": 13,
-          "vizSource": "aggregate",
-          "vizSourceUrl": null
+          "vizMinM": 18,
+          "vizMaxM": 24,
+          "vizSource": "curated",
+          "vizSourceUrl": "https://divejourney.io/dive-spots/grenada-bianca-c-wreck"
         }
       ],
       "windows": {
@@ -3175,7 +3175,7 @@
           11
         ]
       },
-      "generatedAt": "2026-07-02T19:50:50.390Z"
+      "generatedAt": "2026-07-02T21:52:52.891Z"
     },
     "bestTime": "Grenada's calmest seas extend from July to November, with warm water temperatures between 27–30°C, creating a welcoming environment for divers.",
     "bestTimeAuto": "From July to November, the sea is calmest. The water is warmest at 29–30°C and cools to about 27°C."
@@ -3462,7 +3462,7 @@
           5
         ]
       },
-      "generatedAt": "2026-07-02T19:50:50.390Z"
+      "generatedAt": "2026-07-02T21:52:52.891Z"
     }
   },
   "bay-islands": {
@@ -3746,7 +3746,7 @@
           10
         ]
       },
-      "generatedAt": "2026-07-02T19:50:50.390Z"
+      "generatedAt": "2026-07-02T21:52:52.891Z"
     }
   },
   "kingston": {
@@ -4008,7 +4008,7 @@
           6
         ]
       },
-      "generatedAt": "2026-07-02T19:50:50.390Z"
+      "generatedAt": "2026-07-02T21:52:52.891Z"
     },
     "bestTime": "January to March offers the driest months for diving, with water temperatures around 27°C. June also provides a dry window, with waters warming to 29–30°C.",
     "bestTimeAuto": "In January to March and June, there is the least rain. The water is warmest at 29–30°C and cools to about 27°C."
@@ -4234,7 +4234,7 @@
           4
         ]
       },
-      "generatedAt": "2026-07-02T19:50:50.390Z"
+      "generatedAt": "2026-07-02T21:52:52.891Z"
     }
   },
   "rivas": {
@@ -4488,7 +4488,7 @@
           12
         ]
       },
-      "generatedAt": "2026-07-02T19:50:50.390Z"
+      "generatedAt": "2026-07-02T21:52:52.891Z"
     },
     "bestTime": "From December to March, there is the least rain. The water is warmest at 29–30°C and cools to about 27°C."
   },
@@ -4725,7 +4725,7 @@
           5
         ]
       },
-      "generatedAt": "2026-07-02T19:50:50.390Z"
+      "generatedAt": "2026-07-02T21:52:52.891Z"
     },
     "bestTime": "From April to May, the sea is calmest and there is the least rain. The water is warmest at 29–30°C and cools to about 27°C."
   },
@@ -5126,7 +5126,7 @@
           11
         ]
       },
-      "generatedAt": "2026-07-02T19:50:50.390Z"
+      "generatedAt": "2026-07-02T21:52:52.891Z"
     },
     "bestTime": "In November, the sea is calmest and the water is clearest. The water is warmest at 29–30°C and cools to about 27°C."
   },
@@ -5244,157 +5244,157 @@
           "m": 1,
           "tempC": 26.5,
           "waveM": 1.3,
-          "vizM": 18,
+          "vizM": 30,
           "rainMm": 49,
           "windMs": 5.5,
           "sunnyDays": 21,
-          "vizMinM": 17,
-          "vizMaxM": 29,
-          "vizSource": "aggregate",
-          "vizSourceUrl": null
+          "vizMinM": 20,
+          "vizMaxM": 40,
+          "vizSource": "curated",
+          "vizSourceUrl": "https://www.dive-the-world.com/diving-sites-turks-and-caicos-islands.php"
         },
         {
           "m": 2,
           "tempC": 26,
           "waveM": 1.3,
-          "vizM": 15,
+          "vizM": 30,
           "rainMm": 31,
           "windMs": 6.6,
           "sunnyDays": 22,
-          "vizMinM": 13,
-          "vizMaxM": 21,
-          "vizSource": "aggregate",
-          "vizSourceUrl": null
+          "vizMinM": 20,
+          "vizMaxM": 40,
+          "vizSource": "curated",
+          "vizSourceUrl": "https://www.dive-the-world.com/diving-sites-turks-and-caicos-islands.php"
         },
         {
           "m": 3,
           "tempC": 26,
           "waveM": 1.2,
-          "vizM": 18,
+          "vizM": 30,
           "rainMm": 35,
           "windMs": 5.8,
           "sunnyDays": 21,
-          "vizMinM": 16,
-          "vizMaxM": 25,
-          "vizSource": "aggregate",
-          "vizSourceUrl": null
+          "vizMinM": 20,
+          "vizMaxM": 40,
+          "vizSource": "curated",
+          "vizSourceUrl": "https://www.dive-the-world.com/diving-sites-turks-and-caicos-islands.php"
         },
         {
           "m": 4,
           "tempC": 26.5,
           "waveM": 1.1,
-          "vizM": 17,
+          "vizM": 30,
           "rainMm": 42,
           "windMs": 6,
           "sunnyDays": 20,
-          "vizMinM": 15,
-          "vizMaxM": 25,
-          "vizSource": "aggregate",
-          "vizSourceUrl": null
+          "vizMinM": 20,
+          "vizMaxM": 40,
+          "vizSource": "curated",
+          "vizSourceUrl": "https://www.dive-the-world.com/diving-sites-turks-and-caicos-islands.php"
         },
         {
           "m": 5,
           "tempC": 27.5,
           "waveM": 1,
-          "vizM": 20,
+          "vizM": 30,
           "rainMm": 83,
           "windMs": 6.3,
           "sunnyDays": 14,
-          "vizMinM": 18,
-          "vizMaxM": 25,
-          "vizSource": "aggregate",
-          "vizSourceUrl": null
+          "vizMinM": 20,
+          "vizMaxM": 40,
+          "vizSource": "curated",
+          "vizSourceUrl": "https://www.dive-the-world.com/diving-sites-turks-and-caicos-islands.php"
         },
         {
           "m": 6,
           "tempC": 28.5,
           "waveM": 1,
-          "vizM": 19,
+          "vizM": 30,
           "rainMm": 43,
           "windMs": 6.8,
           "sunnyDays": 11,
-          "vizMinM": 16,
-          "vizMaxM": 23,
-          "vizSource": "aggregate",
-          "vizSourceUrl": null
+          "vizMinM": 20,
+          "vizMaxM": 40,
+          "vizSource": "curated",
+          "vizSourceUrl": "https://www.dive-the-world.com/diving-sites-turks-and-caicos-islands.php"
         },
         {
           "m": 7,
           "tempC": 29,
           "waveM": 1.1,
-          "vizM": 16,
+          "vizM": 30,
           "rainMm": 50,
           "windMs": 7.7,
           "sunnyDays": 16,
-          "vizMinM": 15,
-          "vizMaxM": 20,
-          "vizSource": "aggregate",
-          "vizSourceUrl": null
+          "vizMinM": 20,
+          "vizMaxM": 40,
+          "vizSource": "curated",
+          "vizSourceUrl": "https://www.dive-the-world.com/diving-sites-turks-and-caicos-islands.php"
         },
         {
           "m": 8,
           "tempC": 29.5,
           "waveM": 1.1,
-          "vizM": 19,
+          "vizM": 30,
           "rainMm": 67,
           "windMs": 6.8,
           "sunnyDays": 16,
-          "vizMinM": 17,
-          "vizMaxM": 24,
-          "vizSource": "aggregate",
-          "vizSourceUrl": null
+          "vizMinM": 20,
+          "vizMaxM": 40,
+          "vizSource": "curated",
+          "vizSourceUrl": "https://www.dive-the-world.com/diving-sites-turks-and-caicos-islands.php"
         },
         {
           "m": 9,
           "tempC": 29.5,
           "waveM": 1,
-          "vizM": 17,
+          "vizM": 30,
           "rainMm": 114,
           "windMs": 4.9,
           "sunnyDays": 13,
-          "vizMinM": 16,
-          "vizMaxM": 24,
-          "vizSource": "aggregate",
-          "vizSourceUrl": null
+          "vizMinM": 20,
+          "vizMaxM": 40,
+          "vizSource": "curated",
+          "vizSourceUrl": "https://www.dive-the-world.com/diving-sites-turks-and-caicos-islands.php"
         },
         {
           "m": 10,
           "tempC": 29.5,
           "waveM": 1.1,
-          "vizM": 16,
+          "vizM": 30,
           "rainMm": 110,
           "windMs": 4.6,
           "sunnyDays": 13,
-          "vizMinM": 15,
-          "vizMaxM": 22,
-          "vizSource": "aggregate",
-          "vizSourceUrl": null
+          "vizMinM": 20,
+          "vizMaxM": 40,
+          "vizSource": "curated",
+          "vizSourceUrl": "https://www.dive-the-world.com/diving-sites-turks-and-caicos-islands.php"
         },
         {
           "m": 11,
           "tempC": 28,
           "waveM": 1.3,
-          "vizM": 17,
+          "vizM": 30,
           "rainMm": 117,
           "windMs": 5.7,
           "sunnyDays": 15,
-          "vizMinM": 16,
-          "vizMaxM": 25,
-          "vizSource": "aggregate",
-          "vizSourceUrl": null
+          "vizMinM": 20,
+          "vizMaxM": 40,
+          "vizSource": "curated",
+          "vizSourceUrl": "https://www.dive-the-world.com/diving-sites-turks-and-caicos-islands.php"
         },
         {
           "m": 12,
           "tempC": 27,
           "waveM": 1.3,
-          "vizM": 18,
+          "vizM": 30,
           "rainMm": 51,
           "windMs": 6.3,
           "sunnyDays": 22,
-          "vizMinM": 16,
-          "vizMaxM": 23,
-          "vizSource": "aggregate",
-          "vizSourceUrl": null
+          "vizMinM": 20,
+          "vizMaxM": 40,
+          "vizSource": "curated",
+          "vizSourceUrl": "https://www.dive-the-world.com/diving-sites-turks-and-caicos-islands.php"
         }
       ],
       "windows": {
@@ -5426,7 +5426,7 @@
           6
         ]
       },
-      "generatedAt": "2026-07-02T19:50:50.390Z"
+      "generatedAt": "2026-07-02T21:52:52.891Z"
     },
     "bestTimeAuto": "In February to April and June, there is the least rain. The water is warmest at 29–30°C and cools to about 26°C."
   },
@@ -5719,7 +5719,7 @@
           4
         ]
       },
-      "generatedAt": "2026-07-02T19:50:50.390Z"
+      "generatedAt": "2026-07-02T21:52:52.891Z"
     },
     "bestTime": "From January to April, there is the least rain. The water is warmest at 29–30°C and cools to about 27°C."
   },
@@ -5927,7 +5927,7 @@
           4
         ]
       },
-      "generatedAt": "2026-07-02T19:50:50.390Z"
+      "generatedAt": "2026-07-02T21:52:52.891Z"
     },
     "bestTime": "From January to April, there is the least rain. The water is warmest at 29–30°C and cools to about 27°C."
   },
@@ -6150,7 +6150,7 @@
           8
         ]
       },
-      "generatedAt": "2026-07-02T19:50:50.390Z"
+      "generatedAt": "2026-07-02T21:52:52.891Z"
     },
     "bestTimeAuto": "From May to August, the sea is calmest. The water warms to 28–29°C in summer and drops to about 20°C in winter."
   },
@@ -6369,7 +6369,7 @@
           5
         ]
       },
-      "generatedAt": "2026-07-02T19:50:50.390Z"
+      "generatedAt": "2026-07-02T21:52:52.891Z"
     },
     "bestTime": "From April to May, the sea is calmest and the water is clearest. The water is warmest at 29–30°C and cools to about 27°C."
   },
@@ -6605,7 +6605,7 @@
           11
         ]
       },
-      "generatedAt": "2026-07-02T19:50:50.390Z"
+      "generatedAt": "2026-07-02T21:52:52.891Z"
     },
     "bestTimeAuto": "In April, the sea is calmest and there is the least rain. The water stays a warm 28–30°C all year. Conditions vary by coast."
   },
@@ -6913,7 +6913,7 @@
           3
         ]
       },
-      "generatedAt": "2026-07-02T19:50:50.390Z"
+      "generatedAt": "2026-07-02T21:52:52.891Z"
     },
     "bestTimeAuto": "From February to March, the sea is calmest, the water is clearest, and there is the least rain. The water stays a warm 29–31°C all year."
   },
@@ -7122,7 +7122,7 @@
           12
         ]
       },
-      "generatedAt": "2026-07-02T19:50:50.390Z"
+      "generatedAt": "2026-07-02T21:52:52.891Z"
     },
     "bestTime": "From December to March, there is the least rain. The water is warmest at 29–30°C and cools to about 27°C."
   },
@@ -7332,7 +7332,7 @@
           12
         ]
       },
-      "generatedAt": "2026-07-02T19:50:50.390Z"
+      "generatedAt": "2026-07-02T21:52:52.891Z"
     },
     "bestTime": "From December to March, there is the least rain. The water is warmest at 29–30°C and cools to about 27°C."
   },
@@ -7357,53 +7357,53 @@
           "m": 1,
           "tempC": 27.5,
           "waveM": 1.7,
-          "vizM": 20,
+          "vizM": 25,
           "rainMm": 45,
           "windMs": 5.9,
           "sunnyDays": 18,
-          "vizMinM": 18,
-          "vizMaxM": 21,
-          "vizSource": "aggregate",
-          "vizSourceUrl": null
+          "vizMinM": 20,
+          "vizMaxM": 30,
+          "vizSource": "curated",
+          "vizSourceUrl": "https://blog.padi.com/best-time-to-dive-st-lucia/"
         },
         {
           "m": 2,
           "tempC": 27,
           "waveM": 1.7,
-          "vizM": 15,
+          "vizM": 25,
           "rainMm": 36,
           "windMs": 6.2,
           "sunnyDays": 18,
-          "vizMinM": 13,
-          "vizMaxM": 16,
-          "vizSource": "aggregate",
-          "vizSourceUrl": null
+          "vizMinM": 20,
+          "vizMaxM": 30,
+          "vizSource": "curated",
+          "vizSourceUrl": "https://blog.padi.com/best-time-to-dive-st-lucia/"
         },
         {
           "m": 3,
           "tempC": 27,
           "waveM": 1.6,
-          "vizM": 17,
+          "vizM": 25,
           "rainMm": 37,
           "windMs": 5.8,
           "sunnyDays": 13,
-          "vizMinM": 16,
-          "vizMaxM": 18,
-          "vizSource": "aggregate",
-          "vizSourceUrl": null
+          "vizMinM": 20,
+          "vizMaxM": 30,
+          "vizSource": "curated",
+          "vizSourceUrl": "https://blog.padi.com/best-time-to-dive-st-lucia/"
         },
         {
           "m": 4,
           "tempC": 27.5,
           "waveM": 1.4,
-          "vizM": 17,
+          "vizM": 25,
           "rainMm": 41,
           "windMs": 5.6,
           "sunnyDays": 8,
-          "vizMinM": 14,
-          "vizMaxM": 18,
-          "vizSource": "aggregate",
-          "vizSourceUrl": null
+          "vizMinM": 20,
+          "vizMaxM": 30,
+          "vizSource": "curated",
+          "vizSourceUrl": "https://blog.padi.com/best-time-to-dive-st-lucia/"
         },
         {
           "m": 5,
@@ -7422,53 +7422,53 @@
           "m": 6,
           "tempC": 28,
           "waveM": 1.5,
-          "vizM": 12,
+          "vizM": 15,
           "rainMm": 86,
           "windMs": 6.3,
           "sunnyDays": 7,
-          "vizMinM": 12,
-          "vizMaxM": 13,
-          "vizSource": "aggregate",
-          "vizSourceUrl": null
+          "vizMinM": 10,
+          "vizMaxM": 20,
+          "vizSource": "curated",
+          "vizSourceUrl": "https://blog.padi.com/best-time-to-dive-st-lucia/"
         },
         {
           "m": 7,
           "tempC": 28.5,
           "waveM": 1.5,
-          "vizM": 13,
+          "vizM": 15,
           "rainMm": 109,
           "windMs": 5.9,
           "sunnyDays": 11,
-          "vizMinM": 13,
-          "vizMaxM": 13,
-          "vizSource": "aggregate",
-          "vizSourceUrl": null
+          "vizMinM": 10,
+          "vizMaxM": 20,
+          "vizSource": "curated",
+          "vizSourceUrl": "https://blog.padi.com/best-time-to-dive-st-lucia/"
         },
         {
           "m": 8,
           "tempC": 29,
           "waveM": 1.2,
-          "vizM": 17,
+          "vizM": 15,
           "rainMm": 118,
           "windMs": 4.9,
           "sunnyDays": 11,
-          "vizMinM": 17,
-          "vizMaxM": 19,
-          "vizSource": "aggregate",
-          "vizSourceUrl": null
+          "vizMinM": 10,
+          "vizMaxM": 20,
+          "vizSource": "curated",
+          "vizSourceUrl": "https://blog.padi.com/best-time-to-dive-st-lucia/"
         },
         {
           "m": 9,
           "tempC": 29.5,
           "waveM": 1.2,
-          "vizM": 20,
+          "vizM": 15,
           "rainMm": 130,
           "windMs": 3.7,
           "sunnyDays": 10,
-          "vizMinM": 20,
-          "vizMaxM": 21,
-          "vizSource": "aggregate",
-          "vizSourceUrl": null
+          "vizMinM": 10,
+          "vizMaxM": 20,
+          "vizSource": "curated",
+          "vizSourceUrl": "https://blog.padi.com/best-time-to-dive-st-lucia/"
         },
         {
           "m": 10,
@@ -7478,36 +7478,36 @@
           "rainMm": 131,
           "windMs": 4.4,
           "sunnyDays": 7,
-          "vizMinM": 14,
-          "vizMaxM": 16,
-          "vizSource": "aggregate",
-          "vizSourceUrl": null
+          "vizMinM": 10,
+          "vizMaxM": 20,
+          "vizSource": "curated",
+          "vizSourceUrl": "https://blog.padi.com/best-time-to-dive-st-lucia/"
         },
         {
           "m": 11,
           "tempC": 29,
           "waveM": 1.4,
-          "vizM": 19,
+          "vizM": 15,
           "rainMm": 127,
           "windMs": 5.1,
           "sunnyDays": 12,
-          "vizMinM": 18,
-          "vizMaxM": 19,
-          "vizSource": "aggregate",
-          "vizSourceUrl": null
+          "vizMinM": 10,
+          "vizMaxM": 20,
+          "vizSource": "curated",
+          "vizSourceUrl": "https://blog.padi.com/best-time-to-dive-st-lucia/"
         },
         {
           "m": 12,
           "tempC": 28,
           "waveM": 1.6,
-          "vizM": 18,
+          "vizM": 25,
           "rainMm": 53,
           "windMs": 5.8,
           "sunnyDays": 18,
-          "vizMinM": 18,
-          "vizMaxM": 19,
-          "vizSource": "aggregate",
-          "vizSourceUrl": null
+          "vizMinM": 20,
+          "vizMaxM": 30,
+          "vizSource": "curated",
+          "vizSourceUrl": "https://blog.padi.com/best-time-to-dive-st-lucia/"
         }
       ],
       "windows": {
@@ -7543,7 +7543,7 @@
           4
         ]
       },
-      "generatedAt": "2026-07-02T19:50:50.390Z"
+      "generatedAt": "2026-07-02T21:52:52.891Z"
     },
     "bestTime": "In April, the sea is calmest and there is the least rain. The water is warmest at 29–30°C and cools to about 27°C."
   },
@@ -7750,7 +7750,7 @@
           3
         ]
       },
-      "generatedAt": "2026-07-02T19:50:50.390Z"
+      "generatedAt": "2026-07-02T21:52:52.891Z"
     },
     "bestTime": "From January to March, the water is clearest and there is the least rain. The water is warmest at 29–30°C and cools to about 27°C."
   },
@@ -7970,7 +7970,7 @@
           11
         ]
       },
-      "generatedAt": "2026-07-02T19:50:50.390Z"
+      "generatedAt": "2026-07-02T21:52:52.891Z"
     },
     "bestTime": "From July to November, the sea is calmest. The water is warmest at 29–30°C and cools to about 27°C."
   },
@@ -8173,7 +8173,7 @@
           12
         ]
       },
-      "generatedAt": "2026-07-02T19:50:50.390Z"
+      "generatedAt": "2026-07-02T21:52:52.891Z"
     },
     "bestTime": "From December to March, there is the least rain. The water is warmest at 29–30°C and cools to about 27°C."
   },
@@ -8381,7 +8381,7 @@
           12
         ]
       },
-      "generatedAt": "2026-07-02T19:50:50.390Z"
+      "generatedAt": "2026-07-02T21:52:52.891Z"
     },
     "bestTime": "From December to March, there is the least rain. The water is warmest at 29–30°C and cools to about 27°C."
   },
@@ -8584,7 +8584,7 @@
           12
         ]
       },
-      "generatedAt": "2026-07-02T19:50:50.390Z"
+      "generatedAt": "2026-07-02T21:52:52.891Z"
     },
     "bestTime": "December to March is the driest period in Sint Maarten, with water temperatures settling at a mild 27–28°C. Plan your dives for these months to enjoy drier weather.",
     "bestTimeAuto": "From December to March, there is the least rain. The water is warmest at 29–30°C and cools to about 27°C."
@@ -8803,7 +8803,7 @@
           10
         ]
       },
-      "generatedAt": "2026-07-02T19:50:50.390Z"
+      "generatedAt": "2026-07-02T21:52:52.891Z"
     },
     "bestTime": "From July to October, the sea is calmest. The water is warmest at 29–30°C and cools to about 27°C."
   },

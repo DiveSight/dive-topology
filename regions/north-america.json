@@ -249,7 +249,7 @@
           9
         ]
       },
-      "generatedAt": "2026-07-02T19:50:50.390Z"
+      "generatedAt": "2026-07-02T21:52:52.891Z"
     },
     "bestTime": "On the Pacific coast, dive from May to August for calm seas and dry weather, with temperatures reaching a mild 17–18°C. Along the Atlantic coast, June to August offers calm seas and clear water, warming to 16–17°C.",
     "bestTimeAuto": "From May to September, the sea is calmest. The water warms to 16°C in summer and drops to about 7°C in winter. Conditions vary by coast."
@@ -374,12 +374,12 @@
           "m": 1,
           "tempC": 25,
           "waveM": 1,
-          "vizM": 27,
+          "vizM": 30,
           "rainMm": 44,
           "windMs": 2.9,
           "sunnyDays": 15,
-          "vizMinM": 24,
-          "vizMaxM": 30,
+          "vizMinM": 25,
+          "vizMaxM": 35,
           "vizSource": "curated",
           "vizSourceUrl": "https://www.bluewaterdivetravel.com/destination/cozumel-diving"
         },
@@ -387,12 +387,12 @@
           "m": 2,
           "tempC": 24.5,
           "waveM": 1,
-          "vizM": 33,
+          "vizM": 30,
           "rainMm": 26,
           "windMs": 3.1,
           "sunnyDays": 17,
           "vizMinM": 25,
-          "vizMaxM": 40,
+          "vizMaxM": 35,
           "vizSource": "curated",
           "vizSourceUrl": "https://www.bluewaterdivetravel.com/destination/cozumel-diving"
         },
@@ -400,12 +400,12 @@
           "m": 3,
           "tempC": 24.5,
           "waveM": 1,
-          "vizM": 33,
+          "vizM": 27,
           "rainMm": 21,
           "windMs": 3.3,
           "sunnyDays": 19,
-          "vizMinM": 25,
-          "vizMaxM": 40,
+          "vizMinM": 24,
+          "vizMaxM": 30,
           "vizSource": "curated",
           "vizSourceUrl": "https://www.bluewaterdivetravel.com/destination/cozumel-diving"
         },
@@ -413,12 +413,12 @@
           "m": 4,
           "tempC": 25.5,
           "waveM": 1,
-          "vizM": 33,
+          "vizM": 27,
           "rainMm": 19,
           "windMs": 3.4,
           "sunnyDays": 17,
-          "vizMinM": 25,
-          "vizMaxM": 40,
+          "vizMinM": 24,
+          "vizMaxM": 30,
           "vizSource": "curated",
           "vizSourceUrl": "https://www.bluewaterdivetravel.com/destination/cozumel-diving"
         },
@@ -426,12 +426,12 @@
           "m": 5,
           "tempC": 27,
           "waveM": 0.9,
-          "vizM": 33,
+          "vizM": 27,
           "rainMm": 48,
           "windMs": 3.5,
           "sunnyDays": 16,
-          "vizMinM": 25,
-          "vizMaxM": 40,
+          "vizMinM": 24,
+          "vizMaxM": 30,
           "vizSource": "curated",
           "vizSourceUrl": "https://www.bluewaterdivetravel.com/destination/cozumel-diving"
         },
@@ -439,12 +439,12 @@
           "m": 6,
           "tempC": 28,
           "waveM": 1,
-          "vizM": 18,
+          "vizM": 24,
           "rainMm": 177,
           "windMs": 3.3,
           "sunnyDays": 11,
-          "vizMinM": 15,
-          "vizMaxM": 20,
+          "vizMinM": 20,
+          "vizMaxM": 27,
           "vizSource": "curated",
           "vizSourceUrl": "https://www.bluewaterdivetravel.com/destination/cozumel-diving"
         },
@@ -452,12 +452,12 @@
           "m": 7,
           "tempC": 29,
           "waveM": 0.9,
-          "vizM": 18,
+          "vizM": 24,
           "rainMm": 90,
           "windMs": 2.9,
           "sunnyDays": 12,
-          "vizMinM": 15,
-          "vizMaxM": 20,
+          "vizMinM": 20,
+          "vizMaxM": 27,
           "vizSource": "curated",
           "vizSourceUrl": "https://www.bluewaterdivetravel.com/destination/cozumel-diving"
         },
@@ -465,12 +465,12 @@
           "m": 8,
           "tempC": 29.5,
           "waveM": 0.8,
-          "vizM": 18,
+          "vizM": 24,
           "rainMm": 135,
           "windMs": 2.5,
           "sunnyDays": 10,
-          "vizMinM": 15,
-          "vizMaxM": 20,
+          "vizMinM": 20,
+          "vizMaxM": 27,
           "vizSource": "curated",
           "vizSourceUrl": "https://www.bluewaterdivetravel.com/destination/cozumel-diving"
         },
@@ -478,12 +478,12 @@
           "m": 9,
           "tempC": 29.5,
           "waveM": 0.9,
-          "vizM": 18,
+          "vizM": 21,
           "rainMm": 184,
           "windMs": 2.1,
           "sunnyDays": 9,
-          "vizMinM": 15,
-          "vizMaxM": 20,
+          "vizMinM": 18,
+          "vizMaxM": 24,
           "vizSource": "curated",
           "vizSourceUrl": "https://www.bluewaterdivetravel.com/destination/cozumel-diving"
         },
@@ -491,38 +491,38 @@
           "m": 10,
           "tempC": 29,
           "waveM": 0.9,
-          "vizM": 13,
+          "vizM": 21,
           "rainMm": 167,
           "windMs": 2.4,
           "sunnyDays": 13,
-          "vizMinM": 11,
-          "vizMaxM": 19,
-          "vizSource": "aggregate",
-          "vizSourceUrl": null
+          "vizMinM": 18,
+          "vizMaxM": 24,
+          "vizSource": "curated",
+          "vizSourceUrl": "https://www.bluewaterdivetravel.com/destination/cozumel-diving"
         },
         {
           "m": 11,
           "tempC": 27.5,
           "waveM": 1,
-          "vizM": 14,
+          "vizM": 24,
           "rainMm": 80,
           "windMs": 2.9,
           "sunnyDays": 15,
-          "vizMinM": 10,
-          "vizMaxM": 19,
-          "vizSource": "aggregate",
-          "vizSourceUrl": null
+          "vizMinM": 20,
+          "vizMaxM": 27,
+          "vizSource": "curated",
+          "vizSourceUrl": "https://www.bluewaterdivetravel.com/destination/cozumel-diving"
         },
         {
           "m": 12,
           "tempC": 26,
           "waveM": 1,
-          "vizM": 27,
+          "vizM": 30,
           "rainMm": 53,
           "windMs": 2.9,
           "sunnyDays": 16,
-          "vizMinM": 24,
-          "vizMaxM": 30,
+          "vizMinM": 25,
+          "vizMaxM": 35,
           "vizSource": "curated",
           "vizSourceUrl": "https://www.bluewaterdivetravel.com/destination/cozumel-diving"
         }
@@ -558,7 +558,7 @@
           4
         ]
       },
-      "generatedAt": "2026-07-02T19:50:50.390Z"
+      "generatedAt": "2026-07-02T21:52:52.891Z"
     },
     "bestTime": "On the Caribbean coast, May and July to October offer calm seas with temperatures at 27–30°C. The Pacific coast sees its clearest water July to October, with 23–29°C. In the Gulf of Mexico, June offers calm seas and clear water, with temperatures of 24–30°C.",
     "bestTimeAuto": "In May and July to October, the sea is calmest. The water is warmest at 29–30°C and cools to about 27°C. Conditions vary by coast."
@@ -728,19 +728,19 @@
     "conditions": {
       "source": "monthly_climatology",
       "basis": "10yr",
-      "siteCount": 3429,
+      "siteCount": 3427,
       "span": "varies",
       "byMonth": [
         {
           "m": 1,
           "tempC": 19,
           "waveM": 1.2,
-          "vizM": 12,
+          "vizM": 10,
           "rainMm": 76,
           "windMs": 2.3,
           "sunnyDays": 12,
-          "vizMinM": 8,
-          "vizMaxM": 17,
+          "vizMinM": 7,
+          "vizMaxM": 13,
           "vizSource": "aggregate",
           "vizSourceUrl": null
         },
@@ -748,12 +748,12 @@
           "m": 2,
           "tempC": 19,
           "waveM": 1.2,
-          "vizM": 11,
+          "vizM": 10,
           "rainMm": 67,
           "windMs": 2.6,
           "sunnyDays": 13,
-          "vizMinM": 8,
-          "vizMaxM": 15,
+          "vizMinM": 7,
+          "vizMaxM": 11,
           "vizSource": "aggregate",
           "vizSourceUrl": null
         },
@@ -761,12 +761,12 @@
           "m": 3,
           "tempC": 19.5,
           "waveM": 1.1,
-          "vizM": 11,
+          "vizM": 9,
           "rainMm": 68,
           "windMs": 2.7,
           "sunnyDays": 13,
           "vizMinM": 7,
-          "vizMaxM": 17,
+          "vizMaxM": 12,
           "vizSource": "aggregate",
           "vizSourceUrl": null
         },
@@ -774,12 +774,12 @@
           "m": 4,
           "tempC": 20.5,
           "waveM": 1.1,
-          "vizM": 10,
+          "vizM": 9,
           "rainMm": 57,
           "windMs": 3.1,
           "sunnyDays": 13,
           "vizMinM": 7,
-          "vizMaxM": 20,
+          "vizMaxM": 12,
           "vizSource": "aggregate",
           "vizSourceUrl": null
         },
@@ -787,12 +787,12 @@
           "m": 5,
           "tempC": 22,
           "waveM": 1,
-          "vizM": 11,
+          "vizM": 10,
           "rainMm": 70,
           "windMs": 3.2,
           "sunnyDays": 13,
           "vizMinM": 8,
-          "vizMaxM": 20,
+          "vizMaxM": 13,
           "vizSource": "aggregate",
           "vizSourceUrl": null
         },
@@ -800,12 +800,12 @@
           "m": 6,
           "tempC": 24,
           "waveM": 0.9,
-          "vizM": 11,
+          "vizM": 9,
           "rainMm": 85,
           "windMs": 3.3,
           "sunnyDays": 11,
-          "vizMinM": 8,
-          "vizMaxM": 19,
+          "vizMinM": 7,
+          "vizMaxM": 12,
           "vizSource": "aggregate",
           "vizSourceUrl": null
         },
@@ -813,12 +813,12 @@
           "m": 7,
           "tempC": 25,
           "waveM": 0.8,
-          "vizM": 10,
+          "vizM": 9,
           "rainMm": 76,
           "windMs": 3.4,
           "sunnyDays": 12,
           "vizMinM": 8,
-          "vizMaxM": 16,
+          "vizMaxM": 12,
           "vizSource": "aggregate",
           "vizSourceUrl": null
         },
@@ -826,12 +826,12 @@
           "m": 8,
           "tempC": 25.5,
           "waveM": 0.8,
-          "vizM": 11,
-          "rainMm": 92,
+          "vizM": 10,
+          "rainMm": 93,
           "windMs": 3.1,
           "sunnyDays": 13,
           "vizMinM": 8,
-          "vizMaxM": 17,
+          "vizMaxM": 12,
           "vizSource": "aggregate",
           "vizSourceUrl": null
         },
@@ -839,12 +839,12 @@
           "m": 9,
           "tempC": 25.5,
           "waveM": 0.9,
-          "vizM": 12,
+          "vizM": 10,
           "rainMm": 99,
           "windMs": 2.7,
           "sunnyDays": 13,
           "vizMinM": 8,
-          "vizMaxM": 16,
+          "vizMaxM": 13,
           "vizSource": "aggregate",
           "vizSourceUrl": null
         },
@@ -852,12 +852,12 @@
           "m": 10,
           "tempC": 24,
           "waveM": 1,
-          "vizM": 11,
+          "vizM": 10,
           "rainMm": 83,
           "windMs": 2.9,
           "sunnyDays": 15,
           "vizMinM": 8,
-          "vizMaxM": 15,
+          "vizMaxM": 13,
           "vizSource": "aggregate",
           "vizSourceUrl": null
         },
@@ -865,12 +865,12 @@
           "m": 11,
           "tempC": 22,
           "waveM": 1.1,
-          "vizM": 12,
+          "vizM": 10,
           "rainMm": 67,
           "windMs": 3,
           "sunnyDays": 14,
           "vizMinM": 8,
-          "vizMaxM": 16,
+          "vizMaxM": 13,
           "vizSource": "aggregate",
           "vizSourceUrl": null
         },
@@ -878,12 +878,12 @@
           "m": 12,
           "tempC": 20.5,
           "waveM": 1.2,
-          "vizM": 12,
+          "vizM": 9,
           "rainMm": 81,
           "windMs": 2.5,
           "sunnyDays": 13,
           "vizMinM": 7,
-          "vizMaxM": 18,
+          "vizMaxM": 13,
           "vizSource": "aggregate",
           "vizSourceUrl": null
         }
@@ -910,7 +910,7 @@
           9
         ]
       },
-      "generatedAt": "2026-07-02T19:50:50.390Z"
+      "generatedAt": "2026-07-02T21:52:52.891Z"
     },
     "bestTime": "On the Pacific coast, June to September brings calmest seas with water at 22–23°C. Meanwhile, the Gulf of Mexico offers calm seas from May to September, with waters heating up to a balmy 30–31°C.",
     "bestTimeAuto": "From May to September, the sea is calmest. The water warms to 30–31°C in summer and drops to about 22°C in winter. Conditions vary by coast."
@@ -1235,7 +1235,7 @@
           5
         ]
       },
-      "generatedAt": "2026-07-02T19:50:50.390Z"
+      "generatedAt": "2026-07-02T21:52:52.891Z"
     },
     "bestTime": "In May, the seas are at their calmest, with clearest waters and dry conditions making it an ideal month for diving in Georgia.",
     "bestTimeAuto": "In May, the sea is calmest, the water is clearest, and there is the least rain. The water warms to 28°C in summer and drops to about 10°C in winter."
@@ -1287,79 +1287,79 @@
           "m": 3,
           "tempC": 28,
           "waveM": 1.6,
-          "vizM": 32,
+          "vizM": 18,
           "rainMm": 54,
           "windMs": 7.1,
           "sunnyDays": 14,
-          "vizMinM": 30,
-          "vizMaxM": 34,
-          "vizSource": "aggregate",
-          "vizSourceUrl": null
+          "vizMinM": 10,
+          "vizMaxM": 25,
+          "vizSource": "curated",
+          "vizSourceUrl": "https://scubadiving.place/divesite/blue-hole-5"
         },
         {
           "m": 4,
           "tempC": 28.5,
           "waveM": 1.4,
-          "vizM": 31,
+          "vizM": 25,
           "rainMm": 92,
           "windMs": 6.8,
           "sunnyDays": 13,
-          "vizMinM": 28,
-          "vizMaxM": 35,
-          "vizSource": "aggregate",
-          "vizSourceUrl": null
+          "vizMinM": 21,
+          "vizMaxM": 29,
+          "vizSource": "curated",
+          "vizSourceUrl": "https://scubadiving.place/divesite/blue-hole-5"
         },
         {
           "m": 5,
           "tempC": 29,
           "waveM": 1.1,
-          "vizM": 31,
+          "vizM": 25,
           "rainMm": 110,
           "windMs": 6.1,
           "sunnyDays": 11,
-          "vizMinM": 30,
-          "vizMaxM": 31,
-          "vizSource": "aggregate",
-          "vizSourceUrl": null
+          "vizMinM": 21,
+          "vizMaxM": 29,
+          "vizSource": "curated",
+          "vizSourceUrl": "https://scubadiving.place/divesite/blue-hole-5"
         },
         {
           "m": 6,
           "tempC": 29.5,
           "waveM": 1,
-          "vizM": 32,
+          "vizM": 25,
           "rainMm": 166,
           "windMs": 5.5,
           "sunnyDays": 9,
-          "vizMinM": 30,
-          "vizMaxM": 33,
-          "vizSource": "aggregate",
-          "vizSourceUrl": null
+          "vizMinM": 21,
+          "vizMaxM": 29,
+          "vizSource": "curated",
+          "vizSourceUrl": "https://scubadiving.place/divesite/blue-hole-5"
         },
         {
           "m": 7,
           "tempC": 29.5,
           "waveM": 1.1,
-          "vizM": 31,
+          "vizM": 25,
           "rainMm": 282,
           "windMs": 4,
           "sunnyDays": 3,
-          "vizMinM": 30,
-          "vizMaxM": 32,
-          "vizSource": "aggregate",
-          "vizSourceUrl": null
+          "vizMinM": 21,
+          "vizMaxM": 29,
+          "vizSource": "curated",
+          "vizSourceUrl": "https://scubadiving.place/divesite/blue-hole-5"
         },
         {
           "m": 8,
           "tempC": 30,
           "waveM": 1.3,
-          "vizM": 31,
+          "vizM": 18,
           "rainMm": 367,
           "windMs": 2.9,
           "sunnyDays": 1,
-          "vizMinM": 31,
-          "vizMaxM": 33,
-          "vizSource": "aggregate",
-          "vizSourceUrl": null
+          "vizMinM": 10,
+          "vizMaxM": 25,
+          "vizSource": "curated",
+          "vizSourceUrl": "https://scubadiving.place/divesite/blue-hole-5"
         },
         {
           "m": 9,
@@ -1404,14 +1404,14 @@
           "m": 12,
           "tempC": 29,
           "waveM": 1.8,
-          "vizM": 33,
+          "vizM": 25,
           "rainMm": 111,
           "windMs": 8.1,
           "sunnyDays": 13,
-          "vizMinM": 30,
-          "vizMaxM": 34,
-          "vizSource": "aggregate",
-          "vizSourceUrl": null
+          "vizMinM": 21,
+          "vizMaxM": 29,
+          "vizSource": "curated",
+          "vizSourceUrl": "https://scubadiving.place/divesite/blue-hole-5"
         }
       ],
       "windows": {
@@ -1451,7 +1451,7 @@
           9
         ]
       },
-      "generatedAt": "2026-07-02T19:50:50.390Z"
+      "generatedAt": "2026-07-02T21:52:52.891Z"
     },
     "bestTime": "In May to July and September, the sea is calmest. The water stays a warm 28–30°C all year."
   },
@@ -1880,7 +1880,7 @@
           5
         ]
       },
-      "generatedAt": "2026-07-02T19:50:50.390Z"
+      "generatedAt": "2026-07-02T21:52:52.891Z"
     },
     "bestTime": "In May, the seas around the Northern Mariana Islands calm, and the dry spell coincides with warm waters at 29–30°C.",
     "bestTimeAuto": "In May, the sea is calmest and there is the least rain. The water stays a warm 28–30°C all year."
@@ -2711,7 +2711,7 @@
           2
         ]
       },
-      "generatedAt": "2026-07-02T19:50:50.390Z"
+      "generatedAt": "2026-07-02T21:52:52.891Z"
     },
     "bestTime": "Conditions vary from coast to coast, but the water stays a warm 28–31°C and somewhere is diveable year-round."
   },

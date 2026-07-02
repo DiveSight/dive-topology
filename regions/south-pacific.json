@@ -257,7 +257,7 @@
           9
         ]
       },
-      "generatedAt": "2026-07-02T19:50:50.390Z"
+      "generatedAt": "2026-07-02T21:52:52.891Z"
     },
     "bestTimeAuto": "From June to September, there is the least rain. The water is warmest at 28–29°C and cools to about 26°C."
   },
@@ -476,12 +476,12 @@
           "m": 1,
           "tempC": 29,
           "waveM": 0.9,
-          "vizM": 18,
+          "vizM": 20,
           "rainMm": 318,
           "windMs": 2.5,
           "sunnyDays": 6,
           "vizMinM": 15,
-          "vizMaxM": 20,
+          "vizMaxM": 25,
           "vizSource": "curated",
           "vizSourceUrl": "https://coralcoastdivers.com/a-month-by-month-guide-to-the-scuba-diving-in-pacific-harbour-fiji/"
         },
@@ -489,12 +489,12 @@
           "m": 2,
           "tempC": 29,
           "waveM": 0.9,
-          "vizM": 18,
+          "vizM": 20,
           "rainMm": 314,
           "windMs": 2.1,
           "sunnyDays": 4,
           "vizMinM": 15,
-          "vizMaxM": 20,
+          "vizMaxM": 25,
           "vizSource": "curated",
           "vizSourceUrl": "https://coralcoastdivers.com/a-month-by-month-guide-to-the-scuba-diving-in-pacific-harbour-fiji/"
         },
@@ -502,12 +502,12 @@
           "m": 3,
           "tempC": 29,
           "waveM": 0.9,
-          "vizM": 21,
+          "vizM": 23,
           "rainMm": 342,
           "windMs": 2.4,
           "sunnyDays": 5,
           "vizMinM": 18,
-          "vizMaxM": 24,
+          "vizMaxM": 28,
           "vizSource": "curated",
           "vizSourceUrl": "https://coralcoastdivers.com/a-month-by-month-guide-to-the-scuba-diving-in-pacific-harbour-fiji/"
         },
@@ -515,12 +515,12 @@
           "m": 4,
           "tempC": 28.5,
           "waveM": 1,
-          "vizM": 26,
+          "vizM": 30,
           "rainMm": 230,
           "windMs": 3.5,
           "sunnyDays": 6,
-          "vizMinM": 23,
-          "vizMaxM": 29,
+          "vizMinM": 25,
+          "vizMaxM": 35,
           "vizSource": "curated",
           "vizSourceUrl": "https://coralcoastdivers.com/a-month-by-month-guide-to-the-scuba-diving-in-pacific-harbour-fiji/"
         },
@@ -528,12 +528,12 @@
           "m": 5,
           "tempC": 28,
           "waveM": 1.1,
-          "vizM": 28,
+          "vizM": 33,
           "rainMm": 144,
           "windMs": 4.8,
           "sunnyDays": 8,
-          "vizMinM": 25,
-          "vizMaxM": 31,
+          "vizMinM": 28,
+          "vizMaxM": 38,
           "vizSource": "curated",
           "vizSourceUrl": "https://coralcoastdivers.com/a-month-by-month-guide-to-the-scuba-diving-in-pacific-harbour-fiji/"
         },
@@ -541,12 +541,12 @@
           "m": 6,
           "tempC": 27,
           "waveM": 1.2,
-          "vizM": 24,
+          "vizM": 34,
           "rainMm": 88,
           "windMs": 5.1,
           "sunnyDays": 7,
-          "vizMinM": 21,
-          "vizMaxM": 27,
+          "vizMinM": 28,
+          "vizMaxM": 40,
           "vizSource": "curated",
           "vizSourceUrl": "https://coralcoastdivers.com/a-month-by-month-guide-to-the-scuba-diving-in-pacific-harbour-fiji/"
         },
@@ -554,12 +554,12 @@
           "m": 7,
           "tempC": 26.5,
           "waveM": 1.2,
-          "vizM": 24,
+          "vizM": 34,
           "rainMm": 71,
           "windMs": 5.5,
           "sunnyDays": 9,
-          "vizMinM": 21,
-          "vizMaxM": 27,
+          "vizMinM": 28,
+          "vizMaxM": 40,
           "vizSource": "curated",
           "vizSourceUrl": "https://coralcoastdivers.com/a-month-by-month-guide-to-the-scuba-diving-in-pacific-harbour-fiji/"
         },
@@ -567,12 +567,12 @@
           "m": 8,
           "tempC": 26,
           "waveM": 1.2,
-          "vizM": 28,
+          "vizM": 34,
           "rainMm": 107,
           "windMs": 5.2,
           "sunnyDays": 9,
-          "vizMinM": 24,
-          "vizMaxM": 32,
+          "vizMinM": 28,
+          "vizMaxM": 40,
           "vizSource": "curated",
           "vizSourceUrl": "https://coralcoastdivers.com/a-month-by-month-guide-to-the-scuba-diving-in-pacific-harbour-fiji/"
         },
@@ -580,12 +580,12 @@
           "m": 9,
           "tempC": 26,
           "waveM": 1.1,
-          "vizM": 24,
+          "vizM": 32,
           "rainMm": 84,
           "windMs": 5.5,
           "sunnyDays": 8,
-          "vizMinM": 21,
-          "vizMaxM": 27,
+          "vizMinM": 25,
+          "vizMaxM": 38,
           "vizSource": "curated",
           "vizSourceUrl": "https://coralcoastdivers.com/a-month-by-month-guide-to-the-scuba-diving-in-pacific-harbour-fiji/"
         },
@@ -593,12 +593,12 @@
           "m": 10,
           "tempC": 26.5,
           "waveM": 1.1,
-          "vizM": 29,
+          "vizM": 34,
           "rainMm": 155,
           "windMs": 5.1,
           "sunnyDays": 7,
-          "vizMinM": 25,
-          "vizMaxM": 33,
+          "vizMinM": 28,
+          "vizMaxM": 40,
           "vizSource": "curated",
           "vizSourceUrl": "https://coralcoastdivers.com/a-month-by-month-guide-to-the-scuba-diving-in-pacific-harbour-fiji/"
         },
@@ -606,12 +606,12 @@
           "m": 11,
           "tempC": 27.5,
           "waveM": 1,
-          "vizM": 24,
+          "vizM": 25,
           "rainMm": 157,
           "windMs": 4,
           "sunnyDays": 6,
           "vizMinM": 20,
-          "vizMaxM": 27,
+          "vizMaxM": 30,
           "vizSource": "curated",
           "vizSourceUrl": "https://coralcoastdivers.com/a-month-by-month-guide-to-the-scuba-diving-in-pacific-harbour-fiji/"
         },
@@ -619,12 +619,12 @@
           "m": 12,
           "tempC": 28.5,
           "waveM": 1,
-          "vizM": 19,
+          "vizM": 20,
           "rainMm": 286,
           "windMs": 3.2,
           "sunnyDays": 6,
-          "vizMinM": 16,
-          "vizMaxM": 22,
+          "vizMinM": 15,
+          "vizMaxM": 25,
           "vizSource": "curated",
           "vizSourceUrl": "https://coralcoastdivers.com/a-month-by-month-guide-to-the-scuba-diving-in-pacific-harbour-fiji/"
         }
@@ -659,7 +659,7 @@
           9
         ]
       },
-      "generatedAt": "2026-07-02T19:50:50.390Z"
+      "generatedAt": "2026-07-02T21:52:52.891Z"
     },
     "bestTimeAuto": "From November to April, the sea is calmest. The water is warmest at 28–29°C and cools to about 26°C. Conditions vary by coast."
   },
@@ -998,7 +998,7 @@
           9
         ]
       },
-      "generatedAt": "2026-07-02T19:50:50.390Z"
+      "generatedAt": "2026-07-02T21:52:52.891Z"
     },
     "bestTimeAuto": "In May and July to September, there is the least rain. The water is warmest at 29–30°C and cools to about 27°C."
   },
@@ -1295,7 +1295,7 @@
           10
         ]
       },
-      "generatedAt": "2026-07-02T19:50:50.390Z"
+      "generatedAt": "2026-07-02T21:52:52.891Z"
     },
     "bestTime": "From July to October, the sea is calmest. The water stays a warm 28–30°C all year."
   },
@@ -1648,7 +1648,7 @@
           9
         ]
       },
-      "generatedAt": "2026-07-02T19:50:50.390Z"
+      "generatedAt": "2026-07-02T21:52:52.891Z"
     }
   },
   "chuuk": {
@@ -1942,7 +1942,7 @@
           9
         ]
       },
-      "generatedAt": "2026-07-02T19:50:50.390Z"
+      "generatedAt": "2026-07-02T21:52:52.891Z"
     }
   },
   "loyalty-islands": {
@@ -2222,7 +2222,7 @@
           10
         ]
       },
-      "generatedAt": "2026-07-02T19:50:50.390Z"
+      "generatedAt": "2026-07-02T21:52:52.891Z"
     }
   },
   "airai": {
@@ -2543,7 +2543,7 @@
           9
         ]
       },
-      "generatedAt": "2026-07-02T19:50:50.390Z"
+      "generatedAt": "2026-07-02T21:52:52.891Z"
     },
     "bestTime": "From December to February, the sea is calmest and there is the least rain. The water is warmest at 29–30°C and cools to about 27°C. Conditions vary by coast."
   },
@@ -2885,7 +2885,7 @@
           9
         ]
       },
-      "generatedAt": "2026-07-02T19:50:50.390Z"
+      "generatedAt": "2026-07-02T21:52:52.891Z"
     },
     "bestTime": "From June to September, there is the least rain. The water stays a warm 28–30°C all year."
   },
@@ -3152,7 +3152,7 @@
           12
         ]
       },
-      "generatedAt": "2026-07-02T19:50:50.390Z"
+      "generatedAt": "2026-07-02T21:52:52.891Z"
     },
     "bestTimeAuto": "From October to April, the sea is calmest. The water stays a warm 29–30°C all year."
   },
@@ -3437,7 +3437,7 @@
           9
         ]
       },
-      "generatedAt": "2026-07-02T19:50:50.390Z"
+      "generatedAt": "2026-07-02T21:52:52.891Z"
     }
   },
   "haapai": {
@@ -3713,7 +3713,7 @@
           9
         ]
       },
-      "generatedAt": "2026-07-02T19:50:50.390Z"
+      "generatedAt": "2026-07-02T21:52:52.891Z"
     },
     "bestTimeAuto": "From June to September, there is the least rain. The water stays a warm 27–29°C all year."
   },
@@ -4032,7 +4032,7 @@
           9
         ]
       },
-      "generatedAt": "2026-07-02T19:50:50.390Z"
+      "generatedAt": "2026-07-02T21:52:52.891Z"
     },
     "bestTime": "From June to September, there is the least rain. The water is warmest at 28–29°C and cools to about 26°C."
   },
@@ -4218,7 +4218,7 @@
         "lightestWind": [],
         "best": []
       },
-      "generatedAt": "2026-07-02T19:50:50.390Z"
+      "generatedAt": "2026-07-02T21:52:52.891Z"
     },
     "bestTime": ""
   },
@@ -4433,7 +4433,7 @@
           10
         ]
       },
-      "generatedAt": "2026-07-02T19:50:50.390Z"
+      "generatedAt": "2026-07-02T21:52:52.891Z"
     },
     "bestTime": "On the east coast, July to October brings the calmest seas, with water temperatures a consistently warm 29–30°C. Meanwhile, from May to September, the west coast enjoys similarly placid conditions.",
     "bestTimeAuto": "Conditions vary from coast to coast, but the water stays a warm 29–30°C and somewhere is diveable year-round."

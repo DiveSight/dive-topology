@@ -246,7 +246,7 @@
           10
         ]
       },
-      "generatedAt": "2026-07-02T19:50:50.390Z"
+      "generatedAt": "2026-07-02T21:52:52.891Z"
     },
     "bestTime": "In October, the sea is calmest and there is the least rain. The water is warmest at 29–30°C and cools to about 26°C."
   },
@@ -501,7 +501,7 @@
           12
         ]
       },
-      "generatedAt": "2026-07-02T19:50:50.390Z"
+      "generatedAt": "2026-07-02T21:52:52.891Z"
     },
     "bestTimeAuto": "In February to April and November to December, the sea is calmest. The water is warmest at 28–29°C and cools to about 26°C."
   },
@@ -762,7 +762,7 @@
           12
         ]
       },
-      "generatedAt": "2026-07-02T19:50:50.390Z"
+      "generatedAt": "2026-07-02T21:52:52.891Z"
     },
     "bestTime": "In February to March and November to December, the sea is calmest. The water is warmest at 29–30°C and cools to about 26°C."
   },
@@ -808,12 +808,12 @@
           "m": 1,
           "tempC": 21.5,
           "waveM": 2.3,
-          "vizM": 8,
+          "vizM": 13,
           "rainMm": 115,
           "windMs": 3.3,
           "sunnyDays": 10,
-          "vizMinM": 5,
-          "vizMaxM": 10,
+          "vizMinM": 10,
+          "vizMaxM": 15,
           "vizSource": "curated",
           "vizSourceUrl": "https://techdivetravels.com/top-destinations/dive-sites-africa/best-time-to-dive-in-tofo-beach/"
         },
@@ -821,12 +821,12 @@
           "m": 2,
           "tempC": 21,
           "waveM": 2.2,
-          "vizM": 8,
+          "vizM": 12,
           "rainMm": 80,
           "windMs": 3.1,
           "sunnyDays": 10,
-          "vizMinM": 5,
-          "vizMaxM": 10,
+          "vizMinM": 8,
+          "vizMaxM": 15,
           "vizSource": "curated",
           "vizSourceUrl": "https://techdivetravels.com/top-destinations/dive-sites-africa/best-time-to-dive-in-tofo-beach/"
         },
@@ -834,12 +834,12 @@
           "m": 3,
           "tempC": 21,
           "waveM": 2.2,
-          "vizM": 8,
+          "vizM": 12,
           "rainMm": 84,
           "windMs": 3.3,
           "sunnyDays": 15,
-          "vizMinM": 5,
-          "vizMaxM": 10,
+          "vizMinM": 8,
+          "vizMaxM": 15,
           "vizSource": "curated",
           "vizSourceUrl": "https://techdivetravels.com/top-destinations/dive-sites-africa/best-time-to-dive-in-tofo-beach/"
         },
@@ -847,12 +847,12 @@
           "m": 4,
           "tempC": 21,
           "waveM": 1.9,
-          "vizM": 25,
+          "vizM": 20,
           "rainMm": 99,
           "windMs": 2.9,
           "sunnyDays": 16,
-          "vizMinM": 20,
-          "vizMaxM": 30,
+          "vizMinM": 15,
+          "vizMaxM": 25,
           "vizSource": "curated",
           "vizSourceUrl": "https://techdivetravels.com/top-destinations/dive-sites-africa/best-time-to-dive-in-tofo-beach/"
         },
@@ -860,12 +860,12 @@
           "m": 5,
           "tempC": 21.5,
           "waveM": 1.7,
-          "vizM": 25,
+          "vizM": 23,
           "rainMm": 45,
           "windMs": 3.2,
           "sunnyDays": 23,
-          "vizMinM": 20,
-          "vizMaxM": 30,
+          "vizMinM": 18,
+          "vizMaxM": 28,
           "vizSource": "curated",
           "vizSourceUrl": "https://techdivetravels.com/top-destinations/dive-sites-africa/best-time-to-dive-in-tofo-beach/"
         },
@@ -886,12 +886,12 @@
           "m": 7,
           "tempC": 24,
           "waveM": 1.2,
-          "vizM": 16,
+          "vizM": 25,
           "rainMm": 17,
           "windMs": 4.4,
           "sunnyDays": 22,
-          "vizMinM": 12,
-          "vizMaxM": 20,
+          "vizMinM": 20,
+          "vizMaxM": 30,
           "vizSource": "curated",
           "vizSourceUrl": "https://techdivetravels.com/top-destinations/dive-sites-africa/best-time-to-dive-in-tofo-beach/"
         },
@@ -899,12 +899,12 @@
           "m": 8,
           "tempC": 25,
           "waveM": 1.3,
-          "vizM": 16,
+          "vizM": 25,
           "rainMm": 19,
           "windMs": 3.2,
           "sunnyDays": 22,
-          "vizMinM": 12,
-          "vizMaxM": 20,
+          "vizMinM": 20,
+          "vizMaxM": 30,
           "vizSource": "curated",
           "vizSourceUrl": "https://techdivetravels.com/top-destinations/dive-sites-africa/best-time-to-dive-in-tofo-beach/"
         },
@@ -925,12 +925,12 @@
           "m": 10,
           "tempC": 24.5,
           "waveM": 2,
-          "vizM": 25,
+          "vizM": 20,
           "rainMm": 72,
           "windMs": 2.5,
           "sunnyDays": 18,
-          "vizMinM": 20,
-          "vizMaxM": 30,
+          "vizMinM": 15,
+          "vizMaxM": 25,
           "vizSource": "curated",
           "vizSourceUrl": "https://techdivetravels.com/top-destinations/dive-sites-africa/best-time-to-dive-in-tofo-beach/"
         },
@@ -938,12 +938,12 @@
           "m": 11,
           "tempC": 23,
           "waveM": 2.1,
-          "vizM": 25,
+          "vizM": 20,
           "rainMm": 67,
           "windMs": 3.2,
           "sunnyDays": 15,
-          "vizMinM": 20,
-          "vizMaxM": 30,
+          "vizMinM": 15,
+          "vizMaxM": 25,
           "vizSource": "curated",
           "vizSourceUrl": "https://techdivetravels.com/top-destinations/dive-sites-africa/best-time-to-dive-in-tofo-beach/"
         },
@@ -951,12 +951,12 @@
           "m": 12,
           "tempC": 22,
           "waveM": 2.4,
-          "vizM": 8,
+          "vizM": 13,
           "rainMm": 101,
           "windMs": 2.8,
           "sunnyDays": 11,
-          "vizMinM": 5,
-          "vizMaxM": 10,
+          "vizMinM": 10,
+          "vizMaxM": 15,
           "vizSource": "curated",
           "vizSourceUrl": "https://techdivetravels.com/top-destinations/dive-sites-africa/best-time-to-dive-in-tofo-beach/"
         }
@@ -999,7 +999,7 @@
           9
         ]
       },
-      "generatedAt": "2026-07-02T19:50:50.390Z"
+      "generatedAt": "2026-07-02T21:52:52.891Z"
     }
   },
   "cabo-delgado-province": {
@@ -1274,7 +1274,7 @@
           9
         ]
       },
-      "generatedAt": "2026-07-02T19:50:50.390Z"
+      "generatedAt": "2026-07-02T21:52:52.891Z"
     },
     "bestTimeAuto": "From June to August, the sea is calmest, the water is clearest, and there is the least rain. The water warms to 25–26°C in summer and drops to about 20°C in winter. Conditions vary by coast."
   },
@@ -1575,7 +1575,7 @@
           2
         ]
       },
-      "generatedAt": "2026-07-02T19:50:50.390Z"
+      "generatedAt": "2026-07-02T21:52:52.891Z"
     },
     "bestTimeAuto": "In February, the sea is calmest and there is the least rain. The water is warmest at 29–30°C and cools to about 26°C."
   },
@@ -1969,7 +1969,7 @@
           9
         ]
       },
-      "generatedAt": "2026-07-02T19:50:50.390Z"
+      "generatedAt": "2026-07-02T21:52:52.891Z"
     }
   },
   "casablanca-settat": {
@@ -2272,7 +2272,7 @@
           8
         ]
       },
-      "generatedAt": "2026-07-02T19:50:50.390Z"
+      "generatedAt": "2026-07-02T21:52:52.891Z"
     },
     "bestTimeAuto": "In June and August to September, the sea is calmest and the water is clearest. The water is warmest at 31–32°C and cools to about 27°C. Conditions vary by coast."
   },
@@ -2528,7 +2528,7 @@
           8
         ]
       },
-      "generatedAt": "2026-07-02T19:50:50.390Z"
+      "generatedAt": "2026-07-02T21:52:52.891Z"
     },
     "bestTimeAuto": "From July to August, the sea is calmest and there is the least rain. The water warms to 31–32°C in summer and drops to about 26°C in winter."
   },
@@ -2843,7 +2843,7 @@
           10
         ]
       },
-      "generatedAt": "2026-07-02T19:50:50.390Z"
+      "generatedAt": "2026-07-02T21:52:52.891Z"
     },
     "bestTimeAuto": "From July to October, the water is clearest. The water warms to 28–29°C in summer and drops to about 18°C in winter."
   },
@@ -3071,7 +3071,7 @@
           7
         ]
       },
-      "generatedAt": "2026-07-02T19:50:50.390Z"
+      "generatedAt": "2026-07-02T21:52:52.891Z"
     }
   },
   "saint-helena-island": {
@@ -3277,7 +3277,7 @@
           5
         ]
       },
-      "generatedAt": "2026-07-02T19:50:50.390Z"
+      "generatedAt": "2026-07-02T21:52:52.891Z"
     },
     "bestTime": "February to May brings the clearest water, with warm temperatures of 28–29°C, perfect for exploring the underwater landscapes.",
     "bestTimeAuto": "From February to May, the water is clearest. The water is warmest at 28–29°C and cools to about 25°C."

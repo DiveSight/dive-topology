@@ -210,7 +210,7 @@
           12
         ]
       },
-      "generatedAt": "2026-07-02T19:50:50.390Z"
+      "generatedAt": "2026-07-02T21:52:52.891Z"
     },
     "bestTime": "From August to December, the sea is calmest. The water is warmest at 29–30°C and cools to about 27°C."
   },
@@ -458,7 +458,7 @@
           12
         ]
       },
-      "generatedAt": "2026-07-02T19:50:50.390Z"
+      "generatedAt": "2026-07-02T21:52:52.891Z"
     },
     "bestTime": "On the Caribbean coast, March to April brings clear waters and dry days, with warm water at 29–30°C. The Pacific coast offers dry months in January to March and November, with temperatures at a warm 28–30°C.",
     "bestTimeAuto": "From December to March, there is the least rain. The water stays a warm 28–30°C all year. Conditions vary by coast."
@@ -724,7 +724,7 @@
         ],
         "best": []
       },
-      "generatedAt": "2026-07-02T19:50:50.390Z"
+      "generatedAt": "2026-07-02T21:52:52.891Z"
     },
     "bestTime": "The water warms to 17–18°C in summer and drops to about 10°C in winter."
   },
@@ -971,7 +971,7 @@
           10
         ]
       },
-      "generatedAt": "2026-07-02T19:50:50.390Z"
+      "generatedAt": "2026-07-02T21:52:52.891Z"
     },
     "bestTime": "In the south, November to March offers the clearest waters, with temperatures ranging from 22°C to 27°C. The north sees its driest months from September to December, maintaining warm waters between 27°C and 29°C.",
     "bestTimeAuto": "From September to December, there is the least rain. The water stays a warm 27–29°C all year. Conditions vary by coast."
@@ -1093,12 +1093,12 @@
           "m": 1,
           "tempC": 20,
           "waveM": 1.8,
-          "vizM": 7,
+          "vizM": 6,
           "rainMm": 24,
           "windMs": 3.6,
           "sunnyDays": 15,
           "vizMinM": 6,
-          "vizMaxM": 36,
+          "vizMaxM": 7,
           "vizSource": "aggregate",
           "vizSourceUrl": null
         },
@@ -1110,8 +1110,8 @@
           "rainMm": 27,
           "windMs": 3.5,
           "sunnyDays": 16,
-          "vizMinM": 7,
-          "vizMaxM": 30,
+          "vizMinM": 6,
+          "vizMaxM": 7,
           "vizSource": "aggregate",
           "vizSourceUrl": null
         },
@@ -1119,12 +1119,12 @@
           "m": 3,
           "tempC": 20,
           "waveM": 2,
-          "vizM": 8,
+          "vizM": 7,
           "rainMm": 27,
           "windMs": 3.6,
           "sunnyDays": 16,
           "vizMinM": 7,
-          "vizMaxM": 29,
+          "vizMaxM": 8,
           "vizSource": "aggregate",
           "vizSourceUrl": null
         },
@@ -1132,12 +1132,12 @@
           "m": 4,
           "tempC": 18.5,
           "waveM": 2.1,
-          "vizM": 8,
+          "vizM": 7,
           "rainMm": 39,
           "windMs": 3,
           "sunnyDays": 11,
-          "vizMinM": 7,
-          "vizMaxM": 31,
+          "vizMinM": 6,
+          "vizMaxM": 8,
           "vizSource": "aggregate",
           "vizSourceUrl": null
         },
@@ -1145,12 +1145,12 @@
           "m": 5,
           "tempC": 18,
           "waveM": 2.2,
-          "vizM": 9,
+          "vizM": 8,
           "rainMm": 56,
           "windMs": 2.2,
           "sunnyDays": 9,
-          "vizMinM": 8,
-          "vizMaxM": 28,
+          "vizMinM": 7,
+          "vizMaxM": 8,
           "vizSource": "aggregate",
           "vizSourceUrl": null
         },
@@ -1158,12 +1158,12 @@
           "m": 6,
           "tempC": 17,
           "waveM": 2.3,
-          "vizM": 10,
+          "vizM": 8,
           "rainMm": 58,
           "windMs": 2.2,
           "sunnyDays": 9,
-          "vizMinM": 8,
-          "vizMaxM": 33,
+          "vizMinM": 7,
+          "vizMaxM": 9,
           "vizSource": "aggregate",
           "vizSourceUrl": null
         },
@@ -1171,12 +1171,12 @@
           "m": 7,
           "tempC": 16,
           "waveM": 2.2,
-          "vizM": 12,
+          "vizM": 9,
           "rainMm": 45,
           "windMs": 2.2,
           "sunnyDays": 9,
-          "vizMinM": 8,
-          "vizMaxM": 26,
+          "vizMinM": 7,
+          "vizMaxM": 12,
           "vizSource": "aggregate",
           "vizSourceUrl": null
         },
@@ -1184,12 +1184,12 @@
           "m": 8,
           "tempC": 16,
           "waveM": 2.2,
-          "vizM": 10,
+          "vizM": 8,
           "rainMm": 46,
           "windMs": 2.5,
           "sunnyDays": 11,
-          "vizMinM": 7,
-          "vizMaxM": 26,
+          "vizMinM": 6,
+          "vizMaxM": 10,
           "vizSource": "aggregate",
           "vizSourceUrl": null
         },
@@ -1197,12 +1197,12 @@
           "m": 9,
           "tempC": 16,
           "waveM": 2.1,
-          "vizM": 8,
+          "vizM": 7,
           "rainMm": 24,
           "windMs": 3.1,
           "sunnyDays": 10,
           "vizMinM": 7,
-          "vizMaxM": 20,
+          "vizMaxM": 8,
           "vizSource": "aggregate",
           "vizSourceUrl": null
         },
@@ -1215,7 +1215,7 @@
           "windMs": 3.6,
           "sunnyDays": 11,
           "vizMinM": 6,
-          "vizMaxM": 21,
+          "vizMaxM": 7,
           "vizSource": "aggregate",
           "vizSourceUrl": null
         },
@@ -1223,12 +1223,12 @@
           "m": 11,
           "tempC": 17.5,
           "waveM": 1.9,
-          "vizM": 8,
+          "vizM": 7,
           "rainMm": 22,
           "windMs": 3.7,
           "sunnyDays": 13,
           "vizMinM": 7,
-          "vizMaxM": 28,
+          "vizMaxM": 8,
           "vizSource": "aggregate",
           "vizSourceUrl": null
         },
@@ -1236,12 +1236,12 @@
           "m": 12,
           "tempC": 18.5,
           "waveM": 1.8,
-          "vizM": 7,
+          "vizM": 6,
           "rainMm": 17,
           "windMs": 4,
           "sunnyDays": 14,
           "vizMinM": 6,
-          "vizMaxM": 29,
+          "vizMaxM": 7,
           "vizSource": "aggregate",
           "vizSourceUrl": null
         }
@@ -1275,7 +1275,7 @@
           12
         ]
       },
-      "generatedAt": "2026-07-02T19:50:50.390Z"
+      "generatedAt": "2026-07-02T21:52:52.891Z"
     },
     "bestTime": "In Chile, the Pacific coast offers its clearest waters from May to August, with brisk temperatures of 14–18°C. On Easter Island, December brings calm seas and clear water, with a milder 21–26°C.",
     "bestTimeAuto": "In December, the sea is calmest, the water is clearest, and there is the least rain. The water is warmest at 25–26°C and cools to about 21°C. Conditions vary by coast."
@@ -1526,7 +1526,7 @@
           11
         ]
       },
-      "generatedAt": "2026-07-02T19:50:50.390Z"
+      "generatedAt": "2026-07-02T21:52:52.891Z"
     },
     "bestTime": "In August to September and November, the water is clearest and there is the least rain. The water is warmest at 26–27°C and cools to about 24°C."
   },
@@ -1551,66 +1551,66 @@
           "m": 1,
           "tempC": 25,
           "waveM": 0.9,
-          "vizM": 14,
+          "vizM": 23,
           "rainMm": 34,
           "windMs": 3.4,
           "sunnyDays": 10,
-          "vizMinM": 13,
-          "vizMaxM": 16,
-          "vizSource": "aggregate",
-          "vizSourceUrl": null
+          "vizMinM": 15,
+          "vizMaxM": 30,
+          "vizSource": "curated",
+          "vizSourceUrl": "https://divebooker.com/blog/best-time-to-scuba-dive-in-galapagos-islands/"
         },
         {
           "m": 2,
           "tempC": 26.5,
           "waveM": 0.9,
-          "vizM": 12,
+          "vizM": 23,
           "rainMm": 67,
           "windMs": 2.1,
           "sunnyDays": 8,
-          "vizMinM": 11,
-          "vizMaxM": 12,
-          "vizSource": "aggregate",
-          "vizSourceUrl": null
+          "vizMinM": 15,
+          "vizMaxM": 30,
+          "vizSource": "curated",
+          "vizSourceUrl": "https://divebooker.com/blog/best-time-to-scuba-dive-in-galapagos-islands/"
         },
         {
           "m": 3,
           "tempC": 27,
           "waveM": 1,
-          "vizM": 13,
+          "vizM": 23,
           "rainMm": 99,
           "windMs": 1.7,
           "sunnyDays": 15,
-          "vizMinM": 12,
-          "vizMaxM": 14,
-          "vizSource": "aggregate",
-          "vizSourceUrl": null
+          "vizMinM": 15,
+          "vizMaxM": 30,
+          "vizSource": "curated",
+          "vizSourceUrl": "https://divebooker.com/blog/best-time-to-scuba-dive-in-galapagos-islands/"
         },
         {
           "m": 4,
           "tempC": 26,
           "waveM": 1,
-          "vizM": 13,
+          "vizM": 23,
           "rainMm": 61,
           "windMs": 2.4,
           "sunnyDays": 12,
-          "vizMinM": 11,
-          "vizMaxM": 15,
-          "vizSource": "aggregate",
-          "vizSourceUrl": null
+          "vizMinM": 15,
+          "vizMaxM": 30,
+          "vizSource": "curated",
+          "vizSourceUrl": "https://divebooker.com/blog/best-time-to-scuba-dive-in-galapagos-islands/"
         },
         {
           "m": 5,
           "tempC": 24.5,
           "waveM": 1,
-          "vizM": 12,
+          "vizM": 23,
           "rainMm": 22,
           "windMs": 3.6,
           "sunnyDays": 9,
-          "vizMinM": 11,
-          "vizMaxM": 14,
-          "vizSource": "aggregate",
-          "vizSourceUrl": null
+          "vizMinM": 15,
+          "vizMaxM": 30,
+          "vizSource": "curated",
+          "vizSourceUrl": "https://divebooker.com/blog/best-time-to-scuba-dive-in-galapagos-islands/"
         },
         {
           "m": 6,
@@ -1620,10 +1620,10 @@
           "rainMm": 10,
           "windMs": 4.5,
           "sunnyDays": 7,
-          "vizMinM": 11,
-          "vizMaxM": 15,
-          "vizSource": "aggregate",
-          "vizSourceUrl": null
+          "vizMinM": 5,
+          "vizMaxM": 20,
+          "vizSource": "curated",
+          "vizSourceUrl": "https://divebooker.com/blog/best-time-to-scuba-dive-in-galapagos-islands/"
         },
         {
           "m": 7,
@@ -1633,10 +1633,10 @@
           "rainMm": 7,
           "windMs": 4.9,
           "sunnyDays": 6,
-          "vizMinM": 11,
-          "vizMaxM": 15,
-          "vizSource": "aggregate",
-          "vizSourceUrl": null
+          "vizMinM": 5,
+          "vizMaxM": 20,
+          "vizSource": "curated",
+          "vizSourceUrl": "https://divebooker.com/blog/best-time-to-scuba-dive-in-galapagos-islands/"
         },
         {
           "m": 8,
@@ -1646,62 +1646,62 @@
           "rainMm": 5,
           "windMs": 5.1,
           "sunnyDays": 4,
-          "vizMinM": 11,
-          "vizMaxM": 14,
-          "vizSource": "aggregate",
-          "vizSourceUrl": null
+          "vizMinM": 5,
+          "vizMaxM": 20,
+          "vizSource": "curated",
+          "vizSourceUrl": "https://divebooker.com/blog/best-time-to-scuba-dive-in-galapagos-islands/"
         },
         {
           "m": 9,
           "tempC": 21.5,
           "waveM": 1.1,
-          "vizM": 14,
+          "vizM": 13,
           "rainMm": 6,
           "windMs": 5,
           "sunnyDays": 3,
-          "vizMinM": 12,
-          "vizMaxM": 15,
-          "vizSource": "aggregate",
-          "vizSourceUrl": null
+          "vizMinM": 5,
+          "vizMaxM": 20,
+          "vizSource": "curated",
+          "vizSourceUrl": "https://divebooker.com/blog/best-time-to-scuba-dive-in-galapagos-islands/"
         },
         {
           "m": 10,
           "tempC": 22,
           "waveM": 1.1,
-          "vizM": 15,
+          "vizM": 13,
           "rainMm": 6,
           "windMs": 5,
           "sunnyDays": 7,
-          "vizMinM": 13,
-          "vizMaxM": 18,
-          "vizSource": "aggregate",
-          "vizSourceUrl": null
+          "vizMinM": 5,
+          "vizMaxM": 20,
+          "vizSource": "curated",
+          "vizSourceUrl": "https://divebooker.com/blog/best-time-to-scuba-dive-in-galapagos-islands/"
         },
         {
           "m": 11,
           "tempC": 22.5,
           "waveM": 1,
-          "vizM": 14,
+          "vizM": 13,
           "rainMm": 5,
           "windMs": 4.9,
           "sunnyDays": 7,
-          "vizMinM": 13,
-          "vizMaxM": 17,
-          "vizSource": "aggregate",
-          "vizSourceUrl": null
+          "vizMinM": 5,
+          "vizMaxM": 20,
+          "vizSource": "curated",
+          "vizSourceUrl": "https://divebooker.com/blog/best-time-to-scuba-dive-in-galapagos-islands/"
         },
         {
           "m": 12,
           "tempC": 23,
           "waveM": 1,
-          "vizM": 15,
+          "vizM": 23,
           "rainMm": 9,
           "windMs": 4.4,
           "sunnyDays": 6,
-          "vizMinM": 13,
-          "vizMaxM": 17,
-          "vizSource": "aggregate",
-          "vizSourceUrl": null
+          "vizMinM": 15,
+          "vizMaxM": 30,
+          "vizSource": "curated",
+          "vizSourceUrl": "https://divebooker.com/blog/best-time-to-scuba-dive-in-galapagos-islands/"
         }
       ],
       "windows": {
@@ -1731,7 +1731,7 @@
           11
         ]
       },
-      "generatedAt": "2026-07-02T19:50:50.390Z"
+      "generatedAt": "2026-07-02T21:52:52.891Z"
     },
     "bestTime": "August to November marks the driest spell in the Galápagos Islands, with waters cooling to 22°C, perfect for exploring its unique marine life.",
     "bestTimeAuto": "From August to November, there is the least rain. The water is warmest at 26–27°C and cools to about 22°C."
@@ -1956,7 +1956,7 @@
           9
         ]
       },
-      "generatedAt": "2026-07-02T19:50:50.390Z"
+      "generatedAt": "2026-07-02T21:52:52.891Z"
     },
     "bestTime": "In May and July to September, the water is clearest. The water warms to 10–11°C in summer and drops to about 5°C in winter."
   },
@@ -2198,7 +2198,7 @@
           4
         ]
       },
-      "generatedAt": "2026-07-02T19:50:50.390Z"
+      "generatedAt": "2026-07-02T21:52:52.891Z"
     },
     "bestTime": "On the Caribbean coast, May and September to October offer calm seas and clear water, while the Pacific coast enjoys similar conditions from January to March with warm waters at 28–30°C.",
     "bestTimeAuto": "From December to March, the sea is calmest, the water is clearest, and there is the least rain. The water stays a warm 28–30°C all year. Conditions vary by coast."
@@ -2513,7 +2513,7 @@
           11
         ]
       },
-      "generatedAt": "2026-07-02T19:50:50.390Z"
+      "generatedAt": "2026-07-02T21:52:52.891Z"
     },
     "bestTime": "From July to November, the water is clearest and there is the least rain. The water is warmest at 23–24°C and cools to about 20°C."
   },
@@ -2778,7 +2778,7 @@
           10
         ]
       },
-      "generatedAt": "2026-07-02T19:50:50.390Z"
+      "generatedAt": "2026-07-02T21:52:52.891Z"
     },
     "bestTime": "In October, the sea is calmest, the water is clearest, and there is the least rain. The water stays a warm 27–29°C all year."
   },
@@ -3077,7 +3077,7 @@
           12
         ]
       },
-      "generatedAt": "2026-07-02T19:50:50.390Z"
+      "generatedAt": "2026-07-02T21:52:52.891Z"
     },
     "bestTime": "From September to May, the water is clearest. The water warms to 22–23°C in summer and drops to about 12°C in winter."
   },
@@ -3323,7 +3323,7 @@
           11
         ]
       },
-      "generatedAt": "2026-07-02T19:50:50.390Z"
+      "generatedAt": "2026-07-02T21:52:52.891Z"
     },
     "bestTime": "From July to November, the sea is calmest. The water is warmest at 28–29°C and cools to about 26°C."
   },
