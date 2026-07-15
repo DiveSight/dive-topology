@@ -8191,17 +8191,7 @@
     "taxonomicLevel": "species",
     "isSpecies": true,
     "depiction": "https://storage.googleapis.com/divesight-bathymetry/species/alosa-sapidissima.jpg",
-    "thumbnail": "https://live.staticflickr.com/895/40984895120_acd344c9c2_m.jpg",
-    "imageCredit": {
-      "creator": "Free Public Domain Illustrations by rawpixel",
-      "copyrightNotice": "© 2017 Free Public Domain Illustrations by rawpixel",
-      "license": "CC BY 2.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
-      "disclaimerNotice": "This image is provided as-is. The original creator and Flickr bear no liability for its use.",
-      "materialLink": "https://www.flickr.com/photos/vintage_illustration/40984895120/",
-      "photoTitle": "Shad (Clupea alosa) illustration from The Natural History of British Fishes (1802) by Edward Donovan (1768-1837). Digitally enhanced from our own original edition.",
-      "source": "Flickr"
-    },
+    "thumbnail": "https://storage.googleapis.com/divesight-bathymetry/thumbs/alosa-sapidissima.jpg",
     "shortDescription": "Largest North American herring, migrating from ocean to rivers for spawning. Historically important and now recovering.",
     "longDescription": "Surface to 30 meters in coastal waters",
     "wikipedia": "https://en.wikipedia.org/wiki/American_shad",
@@ -58958,7 +58948,7 @@
     "shortDescription": "Iconic Atlantic oyster that once formed massive reefs in estuaries. Now the focus of major restoration efforts along the US east coast.",
     "longDescription": "0-30 feet (intertidal to shallow subtidal zones)",
     "wikipedia": "https://en.wikipedia.org/wiki/Eastern_oyster",
-    "divingRegions": "Eastern Atlantic, Caribbean, US East Coast",
+    "divingRegions": "US East Coast, Gulf of Mexico, Caribbean",
     "bestSeason": "Year-round, but most active during warmer months (April-October)",
     "photographyTips": "Focus on the reef structure and associated marine life rather than individual oysters; use macro lenses to capture detailed shell textures and any commensal species",
     "alias": [
@@ -126419,15 +126409,7 @@
     "taxonomicLevel": "species",
     "isSpecies": true,
     "depiction": "https://storage.googleapis.com/divesight-bathymetry/species/luvarus-imperialis.jpg",
-    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Luvarus_imperialis_Croatia.jpg/330px-Luvarus_imperialis_Croatia.jpg",
-    "imageCredit": {
-      "artist": "ivica",
-      "license": "CC BY 3.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
-      "source": "Wikimedia Commons",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Luvarus_imperialis_Croatia.jpg",
-      "photoTitle": "Louvar"
-    },
+    "thumbnail": "https://storage.googleapis.com/divesight-bathymetry/thumbs/luvarus-imperialis.jpg",
     "shortDescription": "Rare large pink-bodied pelagic fish related to surgeonfishes. An exceptionally uncommon blue-water sighting that few divers ever experience.",
     "wikipedia": "https://en.wikipedia.org/wiki/Luvarus_imperialis",
     "wormsUrl": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=126974",
@@ -165985,15 +165967,7 @@
     "taxonomicLevel": "species",
     "isSpecies": true,
     "depiction": "https://storage.googleapis.com/divesight-bathymetry/species/peprilus-simillimus.jpg",
-    "thumbnail": "https://inaturalist-open-data.s3.amazonaws.com/photos/415874637/medium.jpeg",
-    "imageCredit": {
-      "creator": "Cricket Raspet",
-      "license": "CC BY 4.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
-      "source": "iNaturalist",
-      "materialLink": "https://www.inaturalist.org/observations/233972723",
-      "photoTitle": "Pacific Pompano"
-    },
+    "thumbnail": "https://storage.googleapis.com/divesight-bathymetry/thumbs/peprilus-simillimus.jpg",
     "shortDescription": "Peprilus simillimus, known as the Pacific Pompano, is a silvery fish belonging to the family Stromateidae, found in the Warm Temperate and Cold Temperate Northeast Pacific.",
     "wikipedia": "https://en.wikipedia.org/wiki/Peprilus simillimus",
     "tags": [
@@ -168897,17 +168871,7 @@
     "taxonomicLevel": "species",
     "isSpecies": true,
     "depiction": "https://storage.googleapis.com/divesight-bathymetry/species/phocoena-phocoena.jpg",
-    "thumbnail": "https://live.staticflickr.com/7691/17115118569_21f382e2c2_m.jpg",
-    "imageCredit": {
-      "creator": "the_jetboy",
-      "copyrightNotice": "© 2015 the_jetboy",
-      "license": "CC BY 2.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
-      "disclaimerNotice": "This image is provided as-is. The original creator and Flickr bear no liability for its use.",
-      "materialLink": "https://www.flickr.com/photos/biplex/17115118569/",
-      "photoTitle": "phocoena phoenis (Morświn) Mk II",
-      "source": "Flickr"
-    },
+    "thumbnail": "https://storage.googleapis.com/divesight-bathymetry/thumbs/phocoena-phocoena.jpg",
     "shortDescription": "Small, shy porpoise of the North Atlantic and Pacific. Usually seen briefly at the surface; one of the smallest cetaceans.",
     "longDescription": "Surface to 30 meters (shallow coastal waters and harbors)",
     "wikipedia": "https://en.wikipedia.org/wiki/Harbour_porpoise",
@@ -174776,13 +174740,7 @@
     "taxonomicLevel": "species",
     "isSpecies": true,
     "depiction": "https://storage.googleapis.com/divesight-bathymetry/species/pleurogrammus-monopterygius.jpg",
-    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atka_Mackerel_caught_near_Homer_AK.jpg/330px-Atka_Mackerel_caught_near_Homer_AK.jpg",
-    "imageCredit": {
-      "artist": "Andrewarm",
-      "license": "CC BY 3.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
-      "source": "Wikipedia"
-    },
+    "thumbnail": "https://storage.googleapis.com/divesight-bathymetry/thumbs/pleurogrammus-monopterygius.jpg",
     "shortDescription": "The Atka mackerel (Pleurogrammus monopterygius) is a species of greenling in the family Hexagrammidae. Adults reach up to 56 cm with an elongated body displaying distinctive dark vertical bars on a lighter background, ranging from olive-green to golden-brown. Males during spawning develop bright yellow coloration.\n\nThis species inhabits rocky reefs, kelp forests, and offshore areas at depths of 0-575 meters in the northern Pacific, from the Sea of Japan to the Aleutian Islands and Gulf of Alaska. Atka mackerel are schooling fish that form large aggregations near rocky substrates. Males are nest guarders, defending egg masses deposited on rocky surfaces by multiple females and turning bright yellow during this period.\n\nThey feed on zooplankton, small fish, and invertebrates. This species is ecologically significant in the Aleutian Islands ecosystem, serving as important prey for Steller sea lions, seals, and seabirds.",
     "longDescription": "0-575 m",
     "wikipedia": "https://en.wikipedia.org/wiki/Atka_mackerel",
@@ -207471,15 +207429,7 @@
     "taxonomicLevel": "species",
     "isSpecies": true,
     "depiction": "https://storage.googleapis.com/divesight-bathymetry/species/sphyraena-argentea.jpg",
-    "thumbnail": "https://inaturalist-open-data.s3.amazonaws.com/photos/303493422/medium.jpg",
-    "imageCredit": {
-      "artist": "Jess Mullins",
-      "license": "CC BY 4.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
-      "source": "iNaturalist",
-      "sourceUrl": "https://www.inaturalist.org/observations/174679516",
-      "photoTitle": "Pacific barracuda"
-    },
+    "thumbnail": "https://storage.googleapis.com/divesight-bathymetry/thumbs/sphyraena-argentea.jpg",
     "shortDescription": "Sleek silver barracuda of the eastern Pacific. Often in large schools around kelp beds and offshore islands.",
     "longDescription": "Surface to 200+ feet, most commonly encountered 20-100 feet",
     "wikipedia": "https://en.wikipedia.org/wiki/Pacific_barracuda",
@@ -207492,7 +207442,8 @@
     "alias": [
       "Pacific barracuda",
       "Sphyraena argentea",
-      "sphyraena argentea"
+      "sphyraena argentea",
+      "silver barracuda"
     ],
     "name_i18n": {
       "en": "Pacific Barracuda",
