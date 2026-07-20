@@ -13,7 +13,6 @@ export async function loadAllRegions() {
     'new-zealand.json',
     'north-america.json',
     'south-america.json',
-    'indian-ocean.json',
     'south-pacific.json',
     'southeast-asia.json'
   ];

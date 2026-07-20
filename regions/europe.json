@@ -4,7 +4,7 @@
     "id": "albania",
     "name": "Albania",
     "type": "country",
-    "parent": "europe",
+    "parent": "europe-mediterranean",
     "description": "Diving in Albania.",
     "coordinates": [
       40.1711,
@@ -231,7 +231,7 @@
     "id": "algeria",
     "name": "Algeria",
     "type": "country",
-    "parent": "europe",
+    "parent": "europe-mediterranean",
     "description": "Diving in Algeria.",
     "coordinates": [
       36.6756,
@@ -819,7 +819,7 @@
     "id": "bulgaria",
     "name": "Bulgaria",
     "type": "country",
-    "parent": "europe",
+    "parent": "europe-mediterranean",
     "description": "Diving in Bulgaria.",
     "coordinates": [
       42.8133,
@@ -1683,7 +1683,7 @@
     "id": "czech-republic",
     "name": "Czech Republic",
     "type": "country",
-    "parent": "europe",
+    "parent": "europe-mediterranean",
     "description": "Diving in Czech Republic.",
     "coordinates": [
       49.8004,
@@ -2475,18 +2475,6 @@
     "bestTime": "Along the Mediterranean coast, June to August offers calm seas and clear water, with warm temperatures around 24–25°C. On the Atlantic coast, April to September brings the calmest seas, while French Polynesia invites year-round diving, particularly dry from July to October with 27–29°C waters.",
     "bestTimeAuto": "From June to August, the sea is calmest, the water is clearest, and there is the least rain. The water warms to 24–25°C in summer and drops to about 14°C in winter. Conditions vary by coast."
   },
-  "austral-islands": {
-    "children": [],
-    "id": "austral-islands",
-    "name": "Austral Islands",
-    "type": "area",
-    "parent": "france",
-    "description": "Diving in Austral Islands.",
-    "coordinates": [
-      -23.2867,
-      -149.329
-    ]
-  },
   "auvergne-rhone-alpes": {
     "children": [],
     "id": "auvergne-rhone-alpes",
@@ -2571,18 +2559,6 @@
       55.2717
     ]
   },
-  "leeward-islands": {
-    "children": [],
-    "id": "leeward-islands",
-    "name": "Leeward Islands",
-    "type": "area",
-    "parent": "france",
-    "description": "Diving in Leeward Islands.",
-    "coordinates": [
-      -16.6258,
-      -151.4542
-    ]
-  },
   "leewind-islands": {
     "children": [],
     "id": "leewind-islands",
@@ -2593,18 +2569,6 @@
     "coordinates": [
       -16.73,
       -151.44
-    ]
-  },
-  "marquesas-islands": {
-    "children": [],
-    "id": "marquesas-islands",
-    "name": "Marquesas Islands",
-    "type": "area",
-    "parent": "france",
-    "description": "Diving in Marquesas Islands.",
-    "coordinates": [
-      -9.4339,
-      -139.629
     ]
   },
   "polynesie-francaise": {
@@ -2641,30 +2605,6 @@
     "coordinates": [
       43.2186,
       6.1401
-    ]
-  },
-  "tuamotu-gambier": {
-    "children": [],
-    "id": "tuamotu-gambier",
-    "name": "Tuamotu-Gambier",
-    "type": "area",
-    "parent": "france",
-    "description": "Diving in Tuamotu-Gambier.",
-    "coordinates": [
-      -15.3823,
-      -146.6927
-    ]
-  },
-  "windward-islands": {
-    "children": [],
-    "id": "windward-islands",
-    "name": "Windward Islands",
-    "type": "area",
-    "parent": "france",
-    "description": "Diving in Windward Islands.",
-    "coordinates": [
-      -17.5415,
-      -149.67
     ]
   },
   "germany": {
@@ -3418,7 +3358,7 @@
     "id": "hungary",
     "name": "Hungary",
     "type": "country",
-    "parent": "europe",
+    "parent": "europe-mediterranean",
     "description": "Diving in Hungary.",
     "coordinates": [
       47.8937,
@@ -4409,7 +4349,7 @@
     "id": "libya",
     "name": "Libya",
     "type": "country",
-    "parent": "europe",
+    "parent": "europe-mediterranean",
     "description": "Diving in Libya.",
     "coordinates": [
       32.9036,
@@ -7724,7 +7664,7 @@
     "id": "tunisia",
     "name": "Tunisia",
     "type": "country",
-    "parent": "europe",
+    "parent": "europe-mediterranean",
     "description": "Diving in Tunisia.",
     "coordinates": [
       35.8987,
@@ -9415,7 +9355,7 @@
     "id": "russia",
     "name": "Russia",
     "type": "country",
-    "parent": "europe",
+    "parent": "europe-mediterranean",
     "description": "Diving in Russia.",
     "coordinates": [
       57.1087,
@@ -9621,7 +9561,7 @@
     "id": "ukraine",
     "name": "Ukraine",
     "type": "country",
-    "parent": "europe",
+    "parent": "europe-mediterranean",
     "description": "Diving in Ukraine.",
     "coordinates": [
       46.476411,
@@ -9633,7 +9573,7 @@
     "id": "estonia",
     "name": "Estonia",
     "type": "country",
-    "parent": "europe",
+    "parent": "europe-mediterranean",
     "description": "Diving in Estonia.",
     "coordinates": [
       59.4182,
@@ -9850,7 +9790,7 @@
     "id": "latvia",
     "name": "Latvia",
     "type": "country",
-    "parent": "europe",
+    "parent": "europe-mediterranean",
     "description": "Diving in Latvia.",
     "coordinates": [
       56.8927,
@@ -10067,7 +10007,7 @@
     "id": "lithuania",
     "name": "Lithuania",
     "type": "country",
-    "parent": "europe",
+    "parent": "europe-mediterranean",
     "description": "Diving in Lithuania.",
     "coordinates": [
       55.592025,

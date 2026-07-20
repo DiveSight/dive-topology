@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "type": "module",
   "scripts": {
+    "validate:regions": "node scripts/validate-regions.mjs"
   },
   "dependencies": {
     "dotenv": "^16.4.1",

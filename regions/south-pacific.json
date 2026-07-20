@@ -3204,16 +3204,16 @@
       159.2734
     ]
   },
-  "western-province": {
+  "western-province-solomon-islands": {
     "children": [],
-    "id": "western-province",
+    "id": "western-province-solomon-islands",
     "name": "Western Province",
     "type": "area",
     "parent": "solomon-islands",
     "description": "Diving in Western Province.",
     "coordinates": [
-      -5.2074,
-      141.2658
+      -8.1,
+      157.0
     ]
   },
   "tonga": {

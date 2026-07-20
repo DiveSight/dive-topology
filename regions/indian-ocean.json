@@ -1331,16 +1331,16 @@
       55.4314
     ]
   },
-  "north-island": {
+  "north-island-seychelles": {
     "children": [],
-    "id": "north-island",
+    "id": "north-island-seychelles",
     "name": "North Island",
     "type": "area",
     "parent": "seychelles",
     "description": "Diving in North Island.",
     "coordinates": [
-      -19.9117,
-      115.0666
+      -4.395,
+      55.244
     ]
   },
   "praslin": {
@@ -2440,16 +2440,16 @@
       80.3342
     ]
   },
-  "western-province": {
+  "western-province-sri-lanka": {
     "children": [],
-    "id": "western-province",
+    "id": "western-province-sri-lanka",
     "name": "Western Province",
     "type": "area",
     "parent": "sri-lanka",
     "description": "Diving in Western Province.",
     "coordinates": [
-      -5.2074,
-      141.2658
+      6.9,
+      80.0
     ]
   },
   "chagos": {
