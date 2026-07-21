@@ -750,13 +750,16 @@
   "western": {
     "children": [],
     "id": "western",
-    "name": "Western",
+    "name": "Western Province",
     "type": "area",
     "parent": "solomon-islands",
-    "description": "Diving in Western.",
+    "description": "The Western Province of the Solomon Islands is known for its clear waters and thriving coral ecosystems.",
     "coordinates": [
-      -10.9448,
-      162.7217
+      -8.1,
+      157.0
+    ],
+    "aliases": [
+      "Western"
     ]
   },
   "western-division": {
@@ -1000,7 +1003,11 @@
       },
       "generatedAt": "2026-07-02T21:52:52.891Z"
     },
-    "bestTimeAuto": "In May and July to September, there is the least rain. The water is warmest at 29–30°C and cools to about 27°C."
+    "bestTimeAuto": "In May and July to September, there is the least rain. The water is warmest at 29–30°C and cools to about 27°C.",
+    "aliases": [
+      "Polynésie française",
+      "Polynesie Francaise"
+    ]
   },
   "austral-islands": {
     "children": [],
@@ -3178,18 +3185,9 @@
     "coordinates": [
       -9.4286,
       159.925
-    ]
-  },
-  "guadalcanal-province": {
-    "children": [],
-    "id": "guadalcanal-province",
-    "name": "Guadalcanal Province",
-    "type": "area",
-    "parent": "solomon-islands",
-    "description": "Diving in Guadalcanal Province.",
-    "coordinates": [
-      -9.4068,
-      159.976
+    ],
+    "aliases": [
+      "Guadalcanal Province"
     ]
   },
   "isabel-province": {
@@ -3202,18 +3200,6 @@
     "coordinates": [
       -8.4166,
       159.2734
-    ]
-  },
-  "western-province-solomon-islands": {
-    "children": [],
-    "id": "western-province-solomon-islands",
-    "name": "Western Province",
-    "type": "area",
-    "parent": "solomon-islands",
-    "description": "Diving in Western Province.",
-    "coordinates": [
-      -8.1,
-      157.0
     ]
   },
   "tonga": {

@@ -2446,10 +2446,15 @@
     "name": "Western Province",
     "type": "area",
     "parent": "sri-lanka",
-    "description": "Diving in Western Province.",
+    "description": "More than a dozen wrecks lie off Colombo, from the Chief Dragon car carrier to deep freighters, alongside the rocky Taprobane reefs and gorgonian gardens.",
     "coordinates": [
-      6.9,
-      80.0
+      6.9271,
+      79.8612
+    ],
+    "bestTime": "November to April brings calm seas and 10 to 20 m visibility to the west coast, with February and March the peak months.",
+    "aliases": [
+      "Colombo",
+      "Western Province"
     ]
   },
   "chagos": {

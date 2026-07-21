@@ -2487,18 +2487,6 @@
       6.2311
     ]
   },
-  "bretagne": {
-    "children": [],
-    "id": "bretagne",
-    "name": "Bretagne",
-    "type": "area",
-    "parent": "france",
-    "description": "Diving in Bretagne.",
-    "coordinates": [
-      48.4759,
-      -1.6151
-    ]
-  },
   "brittany": {
     "children": [],
     "id": "brittany",
@@ -2509,18 +2497,9 @@
     "coordinates": [
       48.1756,
       -3.8387
-    ]
-  },
-  "corse": {
-    "children": [],
-    "id": "corse",
-    "name": "Corse",
-    "type": "area",
-    "parent": "france",
-    "description": "Diving in Corse.",
-    "coordinates": [
-      41.0569,
-      8.9692
+    ],
+    "aliases": [
+      "Bretagne"
     ]
   },
   "corsica": {
@@ -2533,6 +2512,9 @@
     "coordinates": [
       42.121,
       9.0035
+    ],
+    "aliases": [
+      "Corse"
     ]
   },
   "ile-de-france": {
@@ -2559,52 +2541,19 @@
       55.2717
     ]
   },
-  "leewind-islands": {
-    "children": [],
-    "id": "leewind-islands",
-    "name": "Leewind Islands",
-    "type": "area",
-    "parent": "france",
-    "description": "Diving in Leewind Islands.",
-    "coordinates": [
-      -16.73,
-      -151.44
-    ]
-  },
-  "polynesie-francaise": {
-    "children": [],
-    "id": "polynesie-francaise",
-    "name": "Polynesie Francaise",
-    "type": "area",
-    "parent": "france",
-    "description": "Diving in Polynesie Francaise.",
-    "coordinates": [
-      -17.2194,
-      -150.3285
-    ]
-  },
   "provence-alpes-cote-dazur": {
     "children": [],
     "id": "provence-alpes-cote-dazur",
-    "name": "Provence-Alpes-Cote d'Azur",
+    "name": "Provence-Alpes-Côte d'Azur",
     "type": "area",
     "parent": "france",
     "description": "Diving in Provence-Alpes-Cote d'Azur.",
     "coordinates": [
-      42.9935,
-      6.4026
-    ]
-  },
-  "provence-alpes-cte-dazur": {
-    "children": [],
-    "id": "provence-alpes-cte-dazur",
-    "name": "Provence-Alpes-Côte d'Azur",
-    "type": "area",
-    "parent": "france",
-    "description": "Diving in Provence-Alpes-Côte d'Azur.",
-    "coordinates": [
       43.2186,
       6.1401
+    ],
+    "aliases": [
+      "Côte d'Azur"
     ]
   },
   "germany": {
