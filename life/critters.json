@@ -16488,7 +16488,7 @@
     "shortDescription": "Only North American freshwater drum, producing croaking sounds with its swim bladder. Found in large rivers and lakes.",
     "longDescription": "Not applicable - freshwater species",
     "wikipedia": "https://en.wikipedia.org/wiki/Freshwater_drum",
-    "divingRegions": "North Atlantic, California & Baja, US East Coast",
+    "divingRegions": "North American Inland",
     "bestSeason": "Not applicable - freshwater species",
     "photographyTips": "Not applicable - freshwater species not encountered in marine diving",
     "alias": [
@@ -20905,7 +20905,7 @@
     "shortDescription": "The world's largest freshwater invertebrate, a massive crayfish found only in Tasmanian rivers. Critically endangered, sightings are rare and memorable.",
     "longDescription": "Not applicable - freshwater species",
     "wikipedia": "https://en.wikipedia.org/wiki/Astacopsis_gouldi",
-    "divingRegions": "Southern Australia",
+    "divingRegions": "Australasian Inland",
     "bestSeason": "Not applicable - freshwater species",
     "photographyTips": "Not applicable - freshwater species requiring specialized freshwater diving equipment and permits",
     "alias": [
@@ -20946,7 +20946,7 @@
     "shortDescription": "Large native European freshwater crayfish found in clean rivers and lakes. Now threatened by plague spread by invasive signal crayfish.",
     "longDescription": "0.5-10 meters in freshwater environments",
     "wikipedia": "https://en.wikipedia.org/wiki/Astacus_astacus",
-    "divingRegions": "North Sea & Baltic",
+    "divingRegions": "European Inland",
     "bestSeason": "Late spring through early autumn when water temperatures are warmer and activity levels are higher",
     "photographyTips": "Best photographed during night dives when active; use red filters to avoid startling them; focus on claw details and eye reflections; shoot at their level on the bottom substrate",
     "tags": [
@@ -50130,7 +50130,7 @@
     "shortDescription": "A colorful freshwater turtle with red and yellow markings on its shell edges and skin. Occasionally seen by freshwater divers basking or swimming in North American ponds and lakes.",
     "longDescription": "Not applicable - freshwater species",
     "wikipedia": "https://en.wikipedia.org/wiki/Painted_turtle",
-    "divingRegions": "North Atlantic, California & Baja, US East Coast",
+    "divingRegions": "North American Inland",
     "bestSeason": "Not applicable - freshwater species",
     "photographyTips": "Not relevant for marine underwater photography as this is a freshwater species",
     "alias": [
@@ -58490,7 +58490,7 @@
     "shortDescription": "A small, well-camouflaged freshwater fish with a broad flat head and fan-like pectoral fins. Found in clear streams and rivers across Europe.",
     "wikipedia": "https://en.wikipedia.org/wiki/European_bullhead",
     "wormsUrl": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=126148",
-    "divingRegions": "Eastern Atlantic, Mediterranean",
+    "divingRegions": "European Inland",
     "bestSeason": "Year-round",
     "name_i18n": {
       "en": "European Bullhead",
@@ -109260,7 +109260,7 @@
     "shortDescription": "A small, translucent freshwater smelt found in cold lakes and rivers of the Northern Hemisphere. Typically seen in large schools near the surface.",
     "longDescription": "Not applicable - primarily freshwater species",
     "wikipedia": "https://en.wikipedia.org/wiki/Pond_smelt",
-    "divingRegions": "Northern Japan, Japan",
+    "divingRegions": "North & Central Asian Inland",
     "bestSeason": "Not applicable",
     "photographyTips": "Not relevant for marine diving photography",
     "alias": [
@@ -135308,10 +135308,10 @@
       "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
       "source": "iNaturalist"
     },
-    "shortDescription": "A large freshwater sunfish variant with a distinctive bump on its forehead. Found in warm freshwater habitats where it feeds on invertebrates.",
+    "shortDescription": "The bump-head sunfish is one of the two giant ocean sunfishes of the southern hemisphere and the heaviest bony fish ever weighed, at well over two tonnes and up to about three metres long. Adults are deep-bodied and abruptly truncated behind, so the animal reads as a swimming head, with a bony bump on the snout and another above the eyes in large individuals. It ranges through open ocean but rises from cool deep water to visit cleaning stations on coastal reefs, where bannerfish and other cleaner species strip parasites from its skin — the behaviour that makes it reliably divable at Nusa Penida in Bali and around southern Australia and New Zealand. It feeds mainly on gelatinous plankton such as jellyfish and salps.",
     "wikipedia": "https://en.wikipedia.org/wiki/Bump_head_sunfish",
     "wormsUrl": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=126233",
-    "divingRegions": "Western Indian Ocean",
+    "divingRegions": "Western Australia, South Pacific Islands, Western Indian Ocean, Lord Howe & Norfolk, Eastern Australia, Southern Australia, South Africa, Southwestern Australia, New Zealand",
     "bestSeason": "Year-round",
     "name_i18n": {
       "en": "Bump-head Mola",
@@ -172150,7 +172150,7 @@
     "shortDescription": "A virtually blind freshwater dolphin that navigates by echolocation alone. Its long, narrow beak is packed with interlocking teeth for catching fish in murky river water.",
     "longDescription": "A virtually blind freshwater dolphin that navigates by echolocation alone. Its long, narrow beak is packed with interlocking teeth for catching fish in murky river water.",
     "wikipedia": "https://en.wikipedia.org/wiki/South%20Asian%20River%20Dolphin",
-    "divingRegions": "Bay of Bengal, India & Sri Lanka",
+    "divingRegions": "South Asia Inland",
     "bestSeason": "Year-round",
     "photographyTips": "Wide angle — respect distance and regulations",
     "tags": [
@@ -175612,7 +175612,7 @@
     "shortDescription": "A small livebearing fish with males displaying a large, sail-like dorsal fin. Found in brackish and fresh coastal waters of the southeastern United States.",
     "longDescription": "Surface to 3 feet in brackish coastal areas",
     "wikipedia": "https://en.wikipedia.org/wiki/Sailfin_molly",
-    "divingRegions": "Caribbean",
+    "divingRegions": "North American Inland",
     "bestSeason": "Year-round in warmer months",
     "photographyTips": "Best photographed in shallow brackish water with macro lens, focus on male's distinctive sail-like dorsal fin during display behavior",
     "alias": [
@@ -180399,7 +180399,7 @@
     "shortDescription": "A slender, silvery freshwater fish found in clear mountain streams and rivers of western North America. Prefers cold, well-oxygenated water over rocky substrates.",
     "longDescription": "Not applicable - freshwater species",
     "wikipedia": "https://en.wikipedia.org/wiki/Mountain_whitefish",
-    "divingRegions": "Pacific Northwest",
+    "divingRegions": "North American Inland",
     "bestSeason": "Not applicable - freshwater species",
     "photographyTips": "Not applicable - freshwater species not encountered in marine diving",
     "alias": [
@@ -187923,7 +187923,7 @@
     "shortDescription": "An iconic freshwater predator with a silvery body and bright red belly. Found in South American rivers and lakes, often in large schools.",
     "longDescription": "1-5 meters in rivers and lakes",
     "wikipedia": "https://en.wikipedia.org/wiki/Pygocentrus_nattereri",
-    "divingRegions": "North Sea & Baltic",
+    "divingRegions": "South American Inland",
     "bestSeason": "Year-round, best during dry season when concentrated",
     "photographyTips": "Schools photograph well with wide-angle; the red belly is most visible from below or side angles.",
     "alias": [
@@ -188720,7 +188720,7 @@
     "shortDescription": "Most common European frog, found in freshwater habitats from gardens to mountain pools. Aggregates for spawning in spring.",
     "longDescription": "Not applicable - terrestrial/freshwater species",
     "wikipedia": "https://en.wikipedia.org/wiki/Common_frog",
-    "divingRegions": "North Sea & Baltic",
+    "divingRegions": "European Inland",
     "bestSeason": "Not applicable - not encountered while diving",
     "photographyTips": "Not relevant for underwater marine photography",
     "alias": [
@@ -190043,7 +190043,7 @@
     "shortDescription": "Small, colorful freshwater goby endemic to Lake Biwa in Japan. Males display vivid breeding colors in rocky streams.",
     "longDescription": "Not applicable - freshwater species",
     "wikipedia": "https://en.wikipedia.org/wiki/Rhinogobius",
-    "divingRegions": "Southern Japan, Japan",
+    "divingRegions": "East Asia Inland",
     "bestSeason": "Not applicable - freshwater species",
     "photographyTips": "Not relevant for marine diving photography",
     "alias": [
@@ -193663,7 +193663,7 @@
     "shortDescription": "Beautiful char with marbled green back and orange-red belly spots. Native to cold, clean streams of eastern North America.",
     "longDescription": "Not applicable - freshwater species",
     "wikipedia": "https://en.wikipedia.org/wiki/Brook_trout",
-    "divingRegions": "North Atlantic",
+    "divingRegions": "North American Inland",
     "bestSeason": "Not applicable - freshwater species",
     "photographyTips": "Not applicable for marine diving - freshwater photography would require different techniques and locations",
     "alias": [
@@ -193703,7 +193703,7 @@
     "shortDescription": "A beautifully spotted cold-water char found in clear mountain streams and lakes of Japan and East Asia. Prized by freshwater divers for its striking white-spotted pattern.",
     "longDescription": "Not applicable - freshwater species",
     "wikipedia": "https://en.wikipedia.org/wiki/Salvelinus_leucomaenis",
-    "divingRegions": "Japan",
+    "divingRegions": "East Asia Inland",
     "bestSeason": "Not applicable - freshwater species",
     "photographyTips": "Not relevant for marine underwater photography as this is a freshwater species",
     "alias": [
@@ -206164,7 +206164,7 @@
     "shortDescription": "A small, graceful river dolphin found in the Amazon basin. Unlike the pink boto, the tucuxi is grey and cannot survive in saltwater. Named from a Tupi indigenous word.",
     "longDescription": "A small, graceful river dolphin found in the Amazon basin. Unlike the pink boto, the tucuxi is grey and cannot survive in saltwater. Named from a Tupi indigenous word.",
     "wikipedia": "https://en.wikipedia.org/wiki/Tucuxi",
-    "divingRegions": "Brazil Coast",
+    "divingRegions": "South American Inland",
     "bestSeason": "Year-round",
     "photographyTips": "Wide angle — respect distance and regulations",
     "tags": [
