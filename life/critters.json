@@ -82887,7 +82887,7 @@
     },
     "shortDescription": "Dark blue with yellow dorsal lines and a yellow gill pocket. Endemic to the Bay of Biscay and northern Iberian coast.",
     "wikipedia": "https://en.wikipedia.org/wiki/Felimare_cantabrica",
-    "divingRegions": "Eastern Atlantic, Caribbean, US East Coast",
+    "divingRegions": "Eastern Atlantic",
     "bestSeason": "Summer",
     "tags": [
       "nudibranchs-and-mollusks"
@@ -130349,7 +130349,7 @@
     },
     "shortDescription": "Colorful freshwater cichlid with red and turquoise markings. Found in cenotes and rivers of Central America and southern Mexico.",
     "wikipedia": "https://en.wikipedia.org/wiki/Mayaheros_urophthalmus",
-    "divingRegions": "Eastern Atlantic, Caribbean, US East Coast",
+    "divingRegions": "Caribbean",
     "bestSeason": "Year-round",
     "alias": [
       "mayan cichlid"
@@ -142236,7 +142236,7 @@
     },
     "shortDescription": "Black body with bright orange or red patches and prominent orange rhinophores. Its large cerata make it one of the most dramatic Nembrotha species.",
     "wikipedia": "https://en.wikipedia.org/wiki/Nembrotha_megalocera",
-    "divingRegions": "Andaman Sea, Bay of Bengal, Maldives & Chagos, Polynesia, Coral Triangle, Hawaii, Java Sea, Lord Howe & Norfolk, Micronesia, Great Barrier Reef, Western Australia, Red Sea, Northern Australia, Arabian Sea, South China Sea, Southern Japan, French Polynesia, Sunda Shelf, Eastern Tropical Pacific, South Pacific Islands, California & Baja, India & Sri Lanka, Western Indian Ocean",
+    "divingRegions": "Red Sea, Arabian Sea",
     "bestSeason": "Year-round",
     "tags": [
       "nudibranchs-and-mollusks"
@@ -152244,7 +152244,7 @@
     "shortDescription": "Large freshwater fish with a broad flat body and prominent forehead. Native to Southeast Asian rivers and occasionally seen by freshwater divers.",
     "wikipedia": "https://en.wikipedia.org/wiki/Giant_gourami",
     "wormsUrl": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=270131",
-    "divingRegions": "Coral Triangle, Eastern Atlantic, Caribbean, US East Coast",
+    "divingRegions": "Coral Triangle",
     "bestSeason": "Year-round",
     "name_i18n": {
       "en": "Giant Gourami",
@@ -183449,7 +183449,7 @@
     "shortDescription": "Pseudoceros scriptus is a marine flatworm belonging to the Pseudocerotidae family, known as the scripted flatworm.",
     "longDescription": "A vivid flatworm with scripted line patterns.",
     "wikipedia": "https://en.wikipedia.org/wiki/Pseudoceros_scriptus",
-    "divingRegions": "Andaman Sea, Bay of Bengal, Maldives & Chagos, Polynesia, Coral Triangle, Hawaii, Java Sea, Lord Howe & Norfolk, Micronesia, Great Barrier Reef, Western Australia, Red Sea, Northern Australia, Arabian Sea, South China Sea, Southern Japan, French Polynesia, Sunda Shelf, Eastern Tropical Pacific, South Pacific Islands, California & Baja, India & Sri Lanka, Western Indian Ocean",
+    "divingRegions": "Coral Triangle, Western Indian Ocean",
     "bestSeason": "Year-round",
     "photographyTips": "Approach carefully",
     "tags": [
@@ -221054,7 +221054,7 @@
     },
     "shortDescription": "A colorful South African freshwater cichlid with a bright red breast during breeding. Found in clear streams and rivers of the Western Cape region.",
     "wormsUrl": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=282979",
-    "divingRegions": "Andaman Sea, Maldives & Chagos, India & Sri Lanka, Western Indian Ocean",
+    "divingRegions": "Western Indian Ocean",
     "alias": [
       "red-breasted kurper",
       "Tilapia rendalli",
