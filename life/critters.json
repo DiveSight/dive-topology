@@ -174818,8 +174818,8 @@
     "genus": "Pleuronichthys",
     "taxonomicLevel": "species",
     "isSpecies": true,
-    "depiction": "https://storage.googleapis.com/divesight-bathymetry/species/pleuronichthys-coenosus.jpg",
-    "thumbnail": "https://storage.googleapis.com/divesight-bathymetry/species/pleuronichthys-coenosus_thumb.jpg",
+    "depiction": "https://storage.googleapis.com/divesight-bathymetry/species/pleuronichthys-coenosus.jpg?v=3d5cc041",
+    "thumbnail": "https://storage.googleapis.com/divesight-bathymetry/species/pleuronichthys-coenosus_thumb.jpg?v=3d5cc041",
     "imageCredit": {
       "creator": "Cliff",
       "license": "CC BY 2.0",
@@ -200733,8 +200733,8 @@
     "genus": "Sebastes",
     "taxonomicLevel": "species",
     "isSpecies": true,
-    "depiction": "https://storage.googleapis.com/divesight-bathymetry/species/sebastes-melanostomus.jpg",
-    "thumbnail": "https://storage.googleapis.com/divesight-bathymetry/species/sebastes-melanostomus_thumb.jpg",
+    "depiction": "https://storage.googleapis.com/divesight-bathymetry/species/sebastes-melanostomus.jpg?v=6a9ded1f",
+    "thumbnail": "https://storage.googleapis.com/divesight-bathymetry/species/sebastes-melanostomus_thumb.jpg?v=6a9ded1f",
     "imageCredit": {
       "artist": "DiveSight",
       "license": "All rights reserved",
