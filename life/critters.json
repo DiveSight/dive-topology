@@ -22437,7 +22437,7 @@
   },
   {
     "id": "atherinomorus-lacunosus",
-    "name": "Hardyhead Silverside",
+    "name": "Slender Hardyhead",
     "scientific": "Atherinomorus lacunosus",
     "originalCommon": "Hardyhead Silverside",
     "originalScientific": "Atherinomorus lacunosus",
@@ -22448,21 +22448,32 @@
     "genus": "Atherinomorus",
     "taxonomicLevel": "species",
     "isSpecies": true,
-    "depiction": "https://storage.googleapis.com/divesight-bathymetry/species/atherinomorus-lacunosus.jpg",
-    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Atherinomorus_lacunosus_%28Hardyhead_silverside%29.gif/330px-Atherinomorus_lacunosus_%28Hardyhead_silverside%29.gif",
+    "depiction": "https://storage.googleapis.com/divesight-bathymetry/species/atherinomorus-lacunosus.jpg?v=4b5b1fb5",
+    "thumbnail": "https://storage.googleapis.com/divesight-bathymetry/species/atherinomorus-lacunosus_thumb.jpg?v=4b5b1fb5",
     "imageCredit": {
-      "source": "Wikipedia",
-      "license": "CC BY-SA",
-      "url": "https://en.wikipedia.org/wiki/Atherinomorus%20lacunosus"
+      "creator": "Paul Asman and Jill Lenoble",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "iNaturalist",
+      "materialLink": "https://www.inaturalist.org/observations/96811903",
+      "photoTitle": "Slender Hardyhead"
     },
-    "shortDescription": "Enormous glittering schools of tiny silver fish near the surface. The shimmering 'baitball' effect is mesmerizing.",
+    "shortDescription": "The slender hardyhead is a robust, broad-headed silverside that usually measures 10-12 cm and tops out near 14 cm. Alive in the water it looks translucent with a bright blue stripe along the flank; freshly caught, it is silvery with a greenish back and dusky fins. Its wide mid-lateral band, low flat jaw bone and count of 40 to 44 scales along the side separate it from the several near-identical hardyheads it shares reefs with. It ranges across the Indo-Pacific from East Africa east to Tonga, north to southern Japan and south to northern Australia, apparently absent from the Andaman Sea and replaced in Hawaii by Atherinomorus insularum. It was also the second Red Sea fish ever recorded in the Mediterranean after the Suez Canal opened, reported there in 1902 and since spread as far as Greece. Divers find it along sandy shorelines and reef margins in schools running from a few hundred fish to aggregations more than 100 m long, a moving silver wall that opens and closes around a diver. It is largely nocturnal: the schools break up after dark and the fish forage singly on plankton and small bottom invertebrates. Breeding timing follows local water temperature, from August to December in New Caledonia, in two seasons in the Seychelles and year-round in the Marshall Islands, and the eggs carry fine threads that glue them to weed and other surfaces. Most fish die after their first spawning season. They are a keystone forage species, hunted by sharks, tuna, needlefish and amberjack from below and by terns, boobies and gulls from above.",
     "longDescription": "Enormous glittering schools of tiny silver fish near the surface. The shimmering 'baitball' effect is mesmerizing.",
     "wikipedia": "https://en.wikipedia.org/wiki/Atherinomorus_lacunosus",
+    "wormsUrl": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=126331",
     "divingRegions": "South Africa, Bay of Bengal, Maldives & Chagos, Eastern Australia, Coral Triangle, Great Barrier Reef, Western Australia, Red Sea, Northern Australia, South China Sea, Sunda Shelf, Micronesia, South Pacific Islands, Western Indian Ocean",
     "bestSeason": "Year-round",
     "photographyTips": "Approach slowly",
     "tags": [
       "reef-fish"
+    ],
+    "alias": [
+      "Hardyhead Silverside",
+      "Wide-banded Hardyhead Silverside",
+      "Broad-banded Hardyhead",
+      "Robust Hardyhead",
+      "Atherinomorus lacunosus"
     ],
     "name_i18n": {
       "en": "Slender Hardyhead",
@@ -22476,7 +22487,7 @@
   },
   {
     "id": "atherinomorus-stipes",
-    "name": "Reef Silverside",
+    "name": "Hardhead Silverside",
     "scientific": "Atherinomorus stipes",
     "originalCommon": "Reef Silverside",
     "originalScientific": "Atherinomorus stipes",
@@ -22487,14 +22498,17 @@
     "genus": "Atherinomorus",
     "taxonomicLevel": "species",
     "isSpecies": true,
-    "depiction": "https://storage.googleapis.com/divesight-bathymetry/species/atherinomorus-stipes.jpg",
-    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Atherinomorus_lacunosus_%28Hardyhead_silverside%29.gif/330px-Atherinomorus_lacunosus_%28Hardyhead_silverside%29.gif",
+    "depiction": "https://storage.googleapis.com/divesight-bathymetry/species/atherinomorus-stipes.jpg?v=5ad783f5",
+    "thumbnail": "https://storage.googleapis.com/divesight-bathymetry/species/atherinomorus-stipes_thumb.jpg?v=5ad783f5",
     "imageCredit": {
-      "source": "Wikipedia",
-      "license": "CC BY-SA",
-      "url": "https://en.wikipedia.org/wiki/Atherinomorus%20stipes"
+      "creator": "Peter Burka",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "Wikimedia Commons",
+      "materialLink": "https://commons.wikimedia.org/wiki/File:Atherinomorus_stipes_607969658.jpg",
+      "photoTitle": "Atherinomorus stipes 607969658"
     },
-    "shortDescription": "A Caribbean silverside forming enormous glittering schools near the surface. Major prey for reef predators.",
+    "shortDescription": "The hardhead silverside is a small Caribbean baitfish that rarely exceeds 10 cm, with a broad head - the source of its name - a slender, near-transparent body and the bright silver flank stripe shared across the family. It is a Western Atlantic species, running from southern Florida and the Bahamas through the Yucatan and down to Brazil, with an isolated record from Tumaco on the Pacific coast of Colombia. It is unusually tolerant of changing salinity, turning up in fully marine water, in brackish lagoons and even in fresh water, and it associates readily with both coral reefs and open soft bottoms. For divers it is one of the defining sights of a shallow Caribbean reef: dense schools that hang in the surface layer above the reef crest and around mangrove edges, wheeling in unison until the whole mass flashes at once. Those schools feed on zooplankton and in turn feed almost everything larger, so tarpon, jacks, snapper and seabirds all work the bait balls - a swirl of diving birds overhead usually means silversides below. Fish mature at around 6 cm. The IUCN lists the species as Least Concern.",
     "longDescription": "A Caribbean silverside forming enormous glittering schools near the surface. Major prey for reef predators.",
     "wormsUrl": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=272038",
     "divingRegions": "Caribbean",
@@ -22502,6 +22516,10 @@
     "photographyTips": "Approach slowly",
     "tags": [
       "reef-fish"
+    ],
+    "alias": [
+      "Reef Silverside",
+      "Atherinomorus stipes"
     ],
     "name_i18n": {
       "en": "Hardhead Silverside",
@@ -22547,7 +22565,7 @@
   },
   {
     "id": "atherinops-affinis",
-    "name": "Atherinops Affinis",
+    "name": "Topsmelt Silverside",
     "scientific": "Atherinops affinis",
     "originalCommon": "Atherinops Affinis",
     "originalScientific": "Atherinops affinis",
@@ -22558,21 +22576,24 @@
     "genus": "Atherinops",
     "taxonomicLevel": "species",
     "isSpecies": true,
-    "depiction": "https://storage.googleapis.com/divesight-bathymetry/species/atherinops-affinis.jpg",
-    "thumbnail": "https://inaturalist-open-data.s3.amazonaws.com/photos/186280815/medium.jpeg",
+    "depiction": "https://storage.googleapis.com/divesight-bathymetry/species/atherinops-affinis.jpg?v=7f62eb89",
+    "thumbnail": "https://storage.googleapis.com/divesight-bathymetry/species/atherinops-affinis_thumb.jpg?v=7f62eb89",
     "imageCredit": {
-      "artist": "Cypress Hansen",
+      "creator": "tunicatedreamz",
       "license": "CC BY 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
       "source": "iNaturalist",
-      "sourceUrl": "https://www.inaturalist.org/observations/110427830",
-      "photoTitle": "Atherinops affinis"
+      "materialLink": "https://www.inaturalist.org/observations/329293236",
+      "photoTitle": "Topsmelt Silverside"
     },
-    "shortDescription": "A slender silver schooling fish found in large groups near the surface along the California coast. Common on kelp forest and pier dives.",
+    "shortDescription": "The topsmelt silverside is a slim, surface-loving fish that grows to about 37 cm. Its back is a striking bright green, setting off silvery flanks and a pale belly, and it carries two separate dorsal fins, golden-yellow gills, and a blunt, rounded snout with small extendible jaws. There is no lateral line - instead a row of 63 to 65 scales marks where one would sit. Juveniles are nearly transparent with three rows of pigmented scales along the back. It ranges along the eastern Pacific from Vancouver Island south to Baja California and into the Gulf of California, and it is one of the most adaptable fish on that coast: common in estuaries, kelp forests, along sandy beaches and around pier pilings, and tolerant of water saltier than the sea, having been recorded living in evaporation ponds at 80 parts per thousand. Divers almost always find it in the upper 9 m, often in loose silver schools just under the surface. It moves into estuaries through spring and summer and back out to open coastline and kelp beds in autumn and winter. Spawning runs from March to October, at night over submerged vegetation. Young fish take zooplankton; adults forage closer to the bottom on algae, amphipods and midge larvae. Watch for them skipping clear of the water when mackerel or jacks push through.",
     "wikipedia": "https://en.wikipedia.org/wiki/Topsmelt_silverside",
+    "wormsUrl": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=279812",
     "divingRegions": "California & Baja",
     "alias": [
-      "topsmelt"
+      "topsmelt",
+      "Topsmelt",
+      "Atherinops affinis"
     ],
     "name_i18n": {
       "en": "Topsmelt Silverside",
@@ -22584,7 +22605,7 @@
   },
   {
     "id": "atherinopsis-californiensis",
-    "name": "Atherinopsis Californiensis",
+    "name": "Jack Silverside",
     "scientific": "Atherinopsis californiensis",
     "originalCommon": "Atherinopsis Californiensis",
     "originalScientific": "Atherinopsis californiensis",
@@ -22595,21 +22616,23 @@
     "genus": "Atherinopsis",
     "taxonomicLevel": "species",
     "isSpecies": true,
-    "depiction": "https://storage.googleapis.com/divesight-bathymetry/species/atherinopsis-californiensis.jpg",
-    "thumbnail": "https://inaturalist-open-data.s3.amazonaws.com/photos/465037414/medium.jpeg",
+    "depiction": "https://storage.googleapis.com/divesight-bathymetry/species/atherinopsis-californiensis.jpg?v=50248d13",
+    "thumbnail": "https://storage.googleapis.com/divesight-bathymetry/species/atherinopsis-californiensis_thumb.jpg?v=50248d13",
     "imageCredit": {
-      "artist": "P Holroyd",
-      "license": "CC BY 4.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
-      "source": "iNaturalist",
-      "sourceUrl": "https://www.inaturalist.org/observations/259104662",
-      "photoTitle": "Atherinopsis californiensis"
+      "creator": "DiveSight",
+      "license": "All rights reserved",
+      "source": "DiveSight",
+      "photoTitle": "Jack Silverside"
     },
-    "shortDescription": "A large silverside fish common along the California coast, often forming shimmering schools near the surface. Frequently seen on kelp forest dives.",
+    "shortDescription": "The jack silverside, better known to Californian anglers as the jacksmelt, is the largest of the West Coast silversides and the only member of its genus. It reaches about 49 cm and occasionally 55 cm, far outgrowing the topsmelt it is routinely confused with; a yellow blotch on the gill cover behind the eye and the heavier body are the easiest ways to tell the two apart underwater. The body is bright silver with a grey wash over the back. Its range runs down the Pacific coast from Yaquina Bay in Oregon to Bahia Magdalena in Baja California Sur, and it is at home in bays and estuaries as readily as on the open coast, tolerating a wide swing in salinity. Divers meet it in the top few metres over sand and along kelp edges, where daytime schools hang in the sunlit water and scatter in a sheet of mirrors when approached; it is rarely found below about 29 m. Spawning happens inshore on the bottom, the eggs bound to one another and to weed by sticky filaments in the egg case, while newly hatched larvae drift at the very surface grazing phytoplankton. It is netted commercially for food, and its sheer abundance makes it an important forage fish for seabirds, sea lions and larger predatory fish.",
     "wikipedia": "https://en.wikipedia.org/wiki/Jack_silverside",
+    "wormsUrl": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=279813",
     "divingRegions": "California & Baja",
     "alias": [
-      "jacksmelt"
+      "jacksmelt",
+      "Jacksmelt",
+      "Jack Smelt",
+      "Atherinopsis californiensis"
     ],
     "name_i18n": {
       "en": "Jack Silverside",
@@ -73173,23 +73196,25 @@
     "genus": "Ellochelon",
     "taxonomicLevel": "species",
     "isSpecies": true,
-    "depiction": "https://storage.googleapis.com/divesight-bathymetry/species/ellochelon-vaigiensis.jpg",
-    "thumbnail": "https://inaturalist-open-data.s3.amazonaws.com/photos/595030247/medium.jpg",
+    "depiction": "https://storage.googleapis.com/divesight-bathymetry/species/ellochelon-vaigiensis.jpg?v=7e74832e",
+    "thumbnail": "https://storage.googleapis.com/divesight-bathymetry/species/ellochelon-vaigiensis_thumb.jpg?v=7e74832e",
     "imageCredit": {
-      "creator": "Nicola Crockford",
-      "license": "CC BY 4.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
-      "source": "iNaturalist",
-      "materialLink": "https://www.inaturalist.org/observations/328379384",
-      "photoTitle": "Squaretail Mullet"
+      "creator": "Diego Delso",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "Wikimedia Commons",
+      "materialLink": "https://commons.wikimedia.org/wiki/File:Lisa_de_cola_cuadrada_(Ellochelon_vaigiensis),_islas_Ad_Dimaniyat,_Om%C3%A1n,_2024-08-16,_DD_52.jpg",
+      "photoTitle": "Squaretail mullet (Ellochelon vaigiensis), Ad Dimaniyat Islands, Oman"
     },
-    "shortDescription": "Ellochelon vaigiensis, or squaretail mullet, is a species of grey mullet from the family Mugilidae, found in the Sahul Shelf, Northeast Australian Shelf, Eastern Coral Triangle, Northwest Australian Shelf, and Western Coral Triangle.",
-    "wikipedia": "http://en.wikipedia.org/wiki/Squaretail_mullet",
+    "shortDescription": "The squaretail mullet is the only member of its genus, an Indo-Pacific grey mullet named for the blunt, almost straight-edged tail that makes it easy to pick out from the round- and fork-tailed mullets alongside it. It is olive-brown above and silvery on the flanks, with a white to yellowish belly and six lengthwise stripes formed by darker scale centres and edges, giving the side a faintly chequered look - hence its other name, the diamondscale mullet. The iris is patched with yellow, the tail fin is obviously yellow, and the fins are edged in dark; in young fish the pectoral fin is solid black, paling to yellowish below with age. It occurs from the Red Sea and the East African coast as far south as Mozambique, east as far as the Great Barrier Reef and New Caledonia, and north to the southern islands of Japan. Look for it over sheltered sandy shallows, in lagoons and estuaries and among mangroves, where it can gather in large aggregations; it tolerates fresh water well and has been found as much as 10 km up rivers, though it usually stays within reach of the tide. It grazes phytoplankton, algae and detritus, spawns at sea, and its eggs drift freely rather than sticking to the bottom. Juveniles turn up commonly in mangroves and even in rice paddies.",
+    "wikipedia": "https://en.wikipedia.org/wiki/Squaretail_mullet",
+    "wormsUrl": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=218878",
     "tags": [
       "pelagic"
     ],
     "alias": [
-      "Ellochelon vaigiensis"
+      "Ellochelon vaigiensis",
+      "Diamondscale Mullet"
     ],
     "name_i18n": {
       "en": "Squaretail Mullet",
