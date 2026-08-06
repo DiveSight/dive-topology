@@ -24016,7 +24016,7 @@
   },
   {
     "id": "balaenoptera-brydei",
-    "name": "Bryde's whale",
+    "name": "Bryde's Whale",
     "scientific": "Balaenoptera brydei",
     "originalCommon": "Bryde's whale",
     "originalScientific": "Balaenoptera brydei",
@@ -24027,13 +24027,15 @@
     "genus": "Balaenoptera",
     "taxonomicLevel": "species",
     "isSpecies": true,
-    "depiction": "https://storage.googleapis.com/divesight-bathymetry/species/balaenoptera-brydei.jpg",
-    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Balaenoptera_brydei.jpg/330px-Balaenoptera_brydei.jpg",
+    "depiction": "https://storage.googleapis.com/divesight-bathymetry/species/balaenoptera-brydei.jpg?v=8e1d0a3d",
+    "thumbnail": "https://storage.googleapis.com/divesight-bathymetry/species/balaenoptera-brydei_thumb.jpg?v=8e1d0a3d",
     "imageCredit": {
-      "artist": "",
-      "license": "Public domain",
-      "licenseUrl": "",
-      "source": "Wikipedia"
+      "creator": "Morningdew",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "source": "Wikimedia Commons",
+      "materialLink": "https://commons.wikimedia.org/wiki/File:Bryde%C2%B4s_whale.jpg",
+      "photoTitle": "Bryde's whale, Koh Phi Phi, Thailand"
     },
     "shortDescription": "Medium-sized tropical whale that feeds year-round in warm waters. Sardine run encounters off South Africa are spectacular.",
     "longDescription": "Surface to 40+ meters (typically encountered at surface during breathing)",
@@ -24045,7 +24047,9 @@
       "interesting"
     ],
     "alias": [
-      "Bryde'S Whale"
+      "Bryde'S Whale",
+      "Bryde's whale",
+      "balaenoptera brydei"
     ],
     "name_i18n": {
       "en": "Bryde's Whale",
@@ -24070,12 +24074,15 @@
     "genus": "Balaenoptera",
     "taxonomicLevel": "species",
     "isSpecies": true,
-    "depiction": "https://storage.googleapis.com/divesight-bathymetry/species/balaenoptera-edeni.jpg",
-    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Balaenoptera_brydei.jpg/330px-Balaenoptera_brydei.jpg",
+    "depiction": "https://storage.googleapis.com/divesight-bathymetry/species/balaenoptera-edeni.jpg?v=c0521a01",
+    "thumbnail": "https://storage.googleapis.com/divesight-bathymetry/species/balaenoptera-edeni_thumb.jpg?v=c0521a01",
     "imageCredit": {
-      "source": "Wikipedia",
-      "license": "CC BY-SA",
-      "url": "https://en.wikipedia.org/wiki/Balaenoptera%20edeni"
+      "creator": "Aucklandwhale",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "Wikimedia Commons",
+      "materialLink": "https://commons.wikimedia.org/wiki/File:Bryde's_Whale_-_Auckland,_New_Zealand.jpg",
+      "photoTitle": "Bryde's Whale - Auckland, New Zealand"
     },
     "shortDescription": "A tropical Bryde's whale recently split as a separate species. Famous for 'trap feeding' — rising vertically through bait balls with mouth agape. Viral video star from the Gulf of Thailand.",
     "longDescription": "Eden's Whale became a global sensation when videos of its extraordinary 'trap feeding' technique went viral. The whale rises vertically through the surface with its mouth wide open, waiting for fish to swim in before snapping shut. This passive ambush strategy is unique among whales. The Gulf of Thailand is the best place to witness this behavior.",
@@ -24087,6 +24094,9 @@
       "whale",
       "cetacean",
       "marine-mammal"
+    ],
+    "alias": [
+      "balaenoptera edeni"
     ],
     "name_i18n": {
       "en": "Eden's Whale",
