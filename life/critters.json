@@ -106710,15 +106710,13 @@
     "genus": "Hydrophis",
     "taxonomicLevel": "species",
     "isSpecies": true,
-    "depiction": "https://storage.googleapis.com/divesight-bathymetry/species/hydrophis-cyanocinctus.jpg",
-    "thumbnail": "https://inaturalist-open-data.s3.amazonaws.com/photos/50907365/medium.jpeg",
+    "depiction": "https://storage.googleapis.com/divesight-bathymetry/species/hydrophis-cyanocinctus.jpg?v=3173ec2b",
+    "thumbnail": "https://storage.googleapis.com/divesight-bathymetry/species/hydrophis-cyanocinctus_thumb.jpg?v=3173ec2b",
     "imageCredit": {
-      "artist": "evannazareth",
-      "license": "CC BY",
-      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
-      "source": "iNaturalist",
-      "materialLink": "https://www.inaturalist.org/observations/32455812",
-      "photoTitle": "Hydrophis cyanocinctus"
+      "creator": "DiveSight",
+      "license": "All rights reserved",
+      "source": "DiveSight",
+      "photoTitle": "Banded Sea Snake"
     },
     "shortDescription": "Venomous sea snake with blue-black bands found in the Persian Gulf and Indo-Pacific. Generally non-aggressive but best observed at distance.",
     "longDescription": "Surface to 50 meters, most commonly 5-20 meters",
@@ -218325,12 +218323,13 @@
     "genus": "Thalassophina",
     "taxonomicLevel": "species",
     "isSpecies": true,
-    "depiction": "https://storage.googleapis.com/divesight-bathymetry/species/thalassophina-viperina.jpg",
-    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Pelamis_platura%2C_Costa_Rica.jpg/330px-Pelamis_platura%2C_Costa_Rica.jpg",
+    "depiction": "https://storage.googleapis.com/divesight-bathymetry/species/thalassophina-viperina.jpg?v=46e47ab5",
+    "thumbnail": "https://storage.googleapis.com/divesight-bathymetry/species/thalassophina-viperina_thumb.jpg?v=46e47ab5",
     "imageCredit": {
-      "source": "Wikipedia",
-      "license": "CC BY-SA",
-      "url": "https://en.wikipedia.org/wiki/Sea%20snake"
+      "creator": "DiveSight",
+      "license": "All rights reserved",
+      "source": "DiveSight",
+      "photoTitle": "Viper Sea Snake"
     },
     "shortDescription": "A distinctive sea snake with viper-like head scales, giving it its common name. Found in the Persian Gulf, Arabian Sea, and coastal India. One of the more commonly encountered sea snakes in the Middle East.",
     "longDescription": "Named for head scales that resemble those of vipers, giving it a distinctive appearance among sea snakes. One of the most commonly encountered sea snakes in the Persian Gulf and Arabian Sea, often seen by divers on sandy bottoms.",
