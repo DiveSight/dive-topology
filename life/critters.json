@@ -74768,51 +74768,6 @@
     ]
   },
   {
-    "id": "enhydrina-schistosa",
-    "name": "Hook-Nosed Sea Snake",
-    "scientific": "Enhydrina schistosa",
-    "originalCommon": "Hook-Nosed Sea Snake",
-    "originalScientific": "Enhydrina schistosa",
-    "phylum": "Chordata",
-    "class": "Reptilia",
-    "order": "Squamata",
-    "family": "Elapidae",
-    "genus": "Enhydrina",
-    "taxonomicLevel": "species",
-    "isSpecies": true,
-    "depiction": "https://storage.googleapis.com/divesight-bathymetry/species/enhydrina-schistosa.jpg",
-    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/ValakadynRooij.jpg/330px-ValakadynRooij.jpg",
-    "imageCredit": {
-      "source": "Wikipedia",
-      "license": "CC BY-SA",
-      "url": "https://en.wikipedia.org/wiki/Enhydrina%20schistosa"
-    },
-    "shortDescription": "Considered the most dangerous sea snake to humans — responsible for more sea snake fatalities than any other species. Found in shallow, murky coastal waters from the Persian Gulf to Southeast Asia. Its upturned snout is distinctive.",
-    "longDescription": "The most medically significant sea snake — responsible for the vast majority of sea snake bite fatalities worldwide. Its upturned, hook-like snout helps it catch catfish and pufferfish in murky coastal waters. Despite its reputation, bites are rare and usually result from fishermen handling caught snakes.",
-    "wikipedia": "https://en.wikipedia.org/wiki/Enhydrina_schistosa",
-    "divingRegions": "Andaman Sea, Bay of Bengal, Coral Triangle, Great Barrier Reef, Northern Australia, Arabian Sea, India & Sri Lanka",
-    "bestSeason": "Year-round",
-    "photographyTips": "Maintain respectful distance — this species is more likely to bite defensively than most sea snakes. Use a longer focal length.",
-    "tags": [
-      "sea-snake",
-      "reptile",
-      "venomous",
-      "dangerous"
-    ],
-    "alias": [
-      "Valakadyn Sea Snake",
-      "Enhydrina schistosa"
-    ],
-    "name_i18n": {
-      "en": "Beaked Sea Snake",
-      "es": "Serpiente Marina Común",
-      "de": "Gewöhnliche Schnabelseeschlange",
-      "fr": "Hydrophide ardoisé",
-      "zh-Hans": "钩鼻海蛇",
-      "zh-Hant": "鉤鼻海蛇"
-    }
-  },
-  {
     "id": "enneanectes-altivelis",
     "name": "Lofty Triplefin",
     "scientific": "Enneanectes altivelis",
@@ -107758,17 +107713,26 @@
       "materialLink": "https://www.inaturalist.org/observations/143865155",
       "photoTitle": "Beaked Sea Snake"
     },
-    "shortDescription": "Responsible for more human envenomation cases than any other sea snake. Divers should give extra distance.",
+    "shortDescription": "The beaked sea snake is the sea snake most likely to put a person in hospital: it accounts for well over half of all sea snake bites and the large majority of the deaths, and its venom carries both nerve- and muscle-destroying toxins potent enough that a dose of roughly 1.5 mg is considered lethal while a single bite delivers around 8 or 9. Adults reach about 1.3 m. They are plain dark grey above and whitish along the sides and belly, with keeled or tubercled scales; juveniles are olive to grey and crossed by black bands that widen at the middle of the body. The short, downturned snout that gives the animal its name is the field mark to look for. Its Tamil and Malayalam name, valakadyn, translates as net biter, which is a fair description of how most encounters happen: the snake is hauled up in fishing gear and bites while being handled. The species ranges through the tropical Indo-Pacific from the Persian Gulf and Arabian Sea past Madagascar and the Seychelles to South and Southeast Asia, and it is one of the commonest sea snakes off the Indian coast. Australian and New Guinean populations were reassigned to a separate species after DNA work. It hunts fish by day and night over shallow, muddy coastal bottoms and in estuaries, can descend to about 100 m, and excretes excess salt through a specialised gland. Divers should give it room and never handle it.",
+    "longDescription": "The most medically significant sea snake — responsible for the vast majority of sea snake bite fatalities worldwide. Its upturned, hook-like snout helps it catch catfish and pufferfish in murky coastal waters. Despite its reputation, bites are rare and usually result from fishermen handling caught snakes.",
     "wikipedia": "https://en.wikipedia.org/wiki/Hydrophis_schistosus",
     "divingRegions": "Andaman Sea, Bay of Bengal, Coral Triangle, Great Barrier Reef, Northern Australia, Arabian Sea, India & Sri Lanka",
     "bestSeason": "Year-round",
+    "photographyTips": "Maintain respectful distance — this species is more likely to bite defensively than most sea snakes. Use a longer focal length.",
     "tags": [
-      "sea-snakes"
+      "sea-snakes",
+      "sea-snake",
+      "reptile",
+      "venomous",
+      "dangerous"
     ],
     "alias": [
       "beaked sea snake",
       "Hydrophis schistosus",
-      "hydrophis schistosus"
+      "hydrophis schistosus",
+      "Valakadyn Sea Snake",
+      "Enhydrina schistosa",
+      "Hook-Nosed Sea Snake"
     ],
     "name_i18n": {
       "en": "Beaked Sea Snake",
