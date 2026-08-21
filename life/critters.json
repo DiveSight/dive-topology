@@ -91177,6 +91177,41 @@
     }
   },
   {
+    "id": "gorgonocephalus-eucnemis",
+    "name": "Common Basket Star",
+    "scientific": "Gorgonocephalus eucnemis",
+    "originalCommon": "Common Basket Star",
+    "originalScientific": "Gorgonocephalus eucnemis",
+    "phylum": "Echinodermata",
+    "class": "Ophiuroidea",
+    "order": "Euryalida",
+    "family": "Gorgonocephalidae",
+    "genus": "Gorgonocephalus",
+    "taxonomicLevel": "species",
+    "isSpecies": true,
+    "depiction": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Gorgonocephalus_eucnemis_Basket_star.jpg",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Gorgonocephalus_eucnemis_Basket_star.jpg/330px-Gorgonocephalus_eucnemis_Basket_star.jpg",
+    "imageCredit": {
+      "artist": "Deadlymeap",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "Wikimedia Commons",
+      "materialLink": "https://commons.wikimedia.org/wiki/File:Gorgonocephalus_eucnemis_Basket_star.jpg",
+      "photoTitle": "Gorgonocephalus eucnemis Basket star"
+    },
+    "shortDescription": "The basket star is one of the most arresting invertebrates a cold-water diver can meet: a living tangle that looks more like a wind-thrown shrub than a relative of the sea stars. A central disc about 14 centimetres across carries five pairs of arms, and each arm forks over and over into an ever-finer lattice of coiling branchlets. Pale beige to near-white with a darker disc, the animal is sheathed in rubbery skin over a skeleton of calcified plates, and every branch bristles with minute hooks and spines for catching prey.\n\nIt feeds on the current rather than the bottom. Perched on a raised vantage — often a sponge or a soft coral of the genus Gersemia — it spreads its arms into a net held across the flow and snares krill, copepods, arrow worms, small jellyfish and drifting detritus. Each catch is bound in mucus, then curled in toward the mouth on the underside of the disc; with no anus, the animal expels waste back through that same opening.\n\nBy day it is cryptic, folded beneath sponges and corals, emerging to feed after dark. It prefers rocky, current-swept ground but also settles on mud and sand among boulders and sea fans, most often between roughly 15 and 150 metres though it has been recorded far deeper. Its range runs from the Arctic through the North Atlantic and across the Pacific from the Bering Sea to central California — a true cold-water specialist. Sexes are separate, and the larvae drift among the plankton before settling.",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gorgonocephalus_eucnemis",
+    "wormsUrl": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=124969",
+    "divingRegions": "Monterey Bay & U.S. West Coast, Pacific Northwest, North Atlantic, Arctic",
+    "tags": [
+      "macro-invertebrate"
+    ],
+    "alias": [
+      "Basket Star",
+      "common basket star"
+    ]
+  },
+  {
     "id": "gouania-willdenowi",
     "name": "Blunt-snouted Clingfish",
     "scientific": "Gouania willdenowi",
