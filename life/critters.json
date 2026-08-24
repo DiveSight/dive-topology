@@ -11337,11 +11337,11 @@
       "license": "CC BY-SA",
       "url": "https://en.wikipedia.org/wiki/Amphiprion%20frenatus"
     },
-    "shortDescription": "A deep red clownfish with a single white head bar. Found exclusively with bubble-tip anemones. Females are larger and darker than males.",
+    "shortDescription": "The tomato clownfish is a stocky Western Pacific anemonefish, bright orange-red with a single white bar set vertically just behind the eyes. Females grow the largest and darken to a sooty black across the flanks, while the smaller males stay red overall; juveniles are a deep red and may carry two or three pale bars before losing them as they age. The crisp black margin that outlines the head bar is the field mark separating it from the similar Australian and cinnamon clownfishes, whose bars are broader, fainter, or lack that dark edging. It almost always lives paired with a bubble-tip anemone, sheltering unharmed among tentacles that would sting other fish, and occasionally associates with the leathery sebae anemone. Like all clownfish it is a sequential hermaphrodite arranged in a size-based hierarchy: only the dominant female and her single breeding partner spawn, and should she die the top male changes sex to take her place. Reaching about 14 cm, it is pugnacious for its size and defends its host boldly, often darting out at a passing diver. Its range runs from the Ryukyu Islands of southern Japan south through Taiwan, the South China Sea and the Philippines to Malaysia and the Java Sea of western Indonesia.",
     "longDescription": "A deep red clownfish with a single white head bar. Found exclusively with bubble-tip anemones. Females are larger and darker than males.",
     "wikipedia": "https://en.wikipedia.org/wiki/Amphiprion_frenatus",
-    "wormsUrl": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1613177",
-    "divingRegions": "Andaman Sea, Pacific Northwest, Java Sea, South China Sea, Southern Japan, Sunda Shelf, South Pacific Islands, Coral Triangle, Western Indian Ocean",
+    "wormsUrl": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=278394",
+    "divingRegions": "Gulf of Thailand, South China Sea, Java Sea, Sunda Shelf, Philippines, Southern Japan, Taiwan",
     "bestSeason": "Year-round",
     "photographyTips": "Approach slowly; natural light works well",
     "tags": [
@@ -23934,7 +23934,7 @@
   },
   {
     "id": "balaenoptera-acutorostrata",
-    "name": "Minke Whale",
+    "name": "Common Minke Whale",
     "scientific": "Balaenoptera acutorostrata",
     "originalCommon": "Minke Whale",
     "originalScientific": "Balaenoptera acutorostrata",
@@ -23946,7 +23946,7 @@
     "taxonomicLevel": "species",
     "isSpecies": true,
     "depiction": "https://storage.googleapis.com/divesight-bathymetry/species/balaenoptera-acutorostrata.jpg",
-    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Dwarf_minke_whale_%2830694501214%29.jpg/330px-Dwarf_minke_whale_%2830694501214%29.jpg",
+    "thumbnail": "https://storage.googleapis.com/divesight-bathymetry/species/balaenoptera-acutorostrata_thumb.jpg",
     "imageCredit": {
       "artist": "Oregon State University",
       "license": "CC BY-SA 2.0",
@@ -23961,7 +23961,8 @@
     "alias": [
       "minke-whale",
       "balaenoptera acutorostrata (dwarf form)",
-      "dwarf minke whale"
+      "dwarf minke whale",
+      "Minke Whale"
     ],
     "name_i18n": {
       "en": "Common Minke Whale",
