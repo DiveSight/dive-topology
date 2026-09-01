@@ -224,7 +224,8 @@
       "generatedAt": "2026-07-02T21:52:52.891Z"
     },
     "bestTime": "The north of Madagascar has calmest, clearest conditions July to September, with water at a warm 27°C. In the south, dive during the same months for similar conditions but water temperatures around a brisk 20–21°C.",
-    "bestTimeAuto": "From July to September, the sea is calmest, the water is clearest, and there is the least rain. The water is warmest at 29–30°C and cools to about 27°C. Conditions vary by coast."
+    "bestTimeAuto": "From July to September, the sea is calmest, the water is clearest, and there is the least rain. The water is warmest at 29–30°C and cools to about 27°C. Conditions vary by coast.",
+    "bestTimeShort": "Varies by coast"
   },
   "analanjirofo": {
     "children": [],
@@ -515,7 +516,8 @@
         ]
       },
       "generatedAt": "2026-07-02T21:52:52.891Z"
-    }
+    },
+    "bestTimeShort": "October"
   },
   "black-river": {
     "children": [],
@@ -906,7 +908,8 @@
       },
       "generatedAt": "2026-07-02T21:52:52.891Z"
     },
-    "bestTime": "From May to September, there is the least rain. The water is warmest at 25–26°C and cools to about 23°C."
+    "bestTime": "From May to September, there is the least rain. The water is warmest at 25–26°C and cools to about 23°C.",
+    "bestTimeShort": "May to September"
   },
   "arrondissement-of-saint-benot": {
     "children": [],
@@ -1245,7 +1248,8 @@
         ]
       },
       "generatedAt": "2026-07-02T21:52:52.891Z"
-    }
+    },
+    "bestTimeShort": "February to April"
   },
   "aldabra-group": {
     "children": [],
@@ -1390,7 +1394,8 @@
     "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&h=600&fit=crop",
     "aliases": [
       "ދިވެހިރާއްޖެ"
-    ]
+    ],
+    "bestTimeShort": "November–April"
   },
   "india": {
     "children": [],
@@ -1604,7 +1609,8 @@
       },
       "generatedAt": "2026-07-02T21:52:52.891Z"
     },
-    "bestTime": "From January to February, the sea is calmest, the water is clearest, and there is the least rain. The water stays a warm 29–31°C all year. Conditions vary by coast."
+    "bestTime": "From January to February, the sea is calmest, the water is clearest, and there is the least rain. The water stays a warm 29–31°C all year. Conditions vary by coast.",
+    "bestTimeShort": "January to February"
   },
   "andaman-and-nicobar-islands": {
     "children": [],
@@ -1921,7 +1927,8 @@
         ]
       },
       "generatedAt": "2026-07-02T21:52:52.891Z"
-    }
+    },
+    "bestTimeShort": "February to April"
   },
   "addu-atoll": {
     "children": [],
@@ -2402,7 +2409,8 @@
       },
       "generatedAt": "2026-07-02T21:52:52.891Z"
     },
-    "bestTime": "From February to April, the sea is calmest, the water is clearest, and there is the least rain. The water stays a warm 28–30°C all year."
+    "bestTime": "From February to April, the sea is calmest, the water is clearest, and there is the least rain. The water stays a warm 28–30°C all year.",
+    "bestTimeShort": "February to April"
   },
   "eastern-province": {
     "children": [],
@@ -2455,7 +2463,8 @@
     "aliases": [
       "Colombo",
       "Western Province"
-    ]
+    ],
+    "bestTimeShort": "November to April"
   },
   "chagos": {
     "children": [],

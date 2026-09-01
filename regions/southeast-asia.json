@@ -34,7 +34,8 @@
     "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=80",
     "aliases": [
       "ประเทศไทย"
-    ]
+    ],
+    "bestTimeShort": "April-November (varies by country)"
   },
   "brunei": {
     "children": [],
@@ -270,7 +271,8 @@
         ]
       },
       "generatedAt": "2026-07-02T21:52:52.891Z"
-    }
+    },
+    "bestTimeShort": "April to May"
   },
   "cambodia": {
     "children": [],
@@ -502,7 +504,8 @@
         ]
       },
       "generatedAt": "2026-07-02T21:52:52.891Z"
-    }
+    },
+    "bestTimeShort": "February to March"
   },
   "koh-kong": {
     "children": [],
@@ -740,7 +743,8 @@
       "generatedAt": "2026-07-02T21:52:52.891Z"
     },
     "bestTime": "October delivers East Timor's calmest seas and dry conditions, with warm waters around 29–30°C, suitable for year-round diving.",
-    "bestTimeAuto": "In October, the sea is calmest and there is the least rain. The water stays a warm 28–30°C all year."
+    "bestTimeAuto": "In October, the sea is calmest and there is the least rain. The water stays a warm 28–30°C all year.",
+    "bestTimeShort": "October"
   },
   "dili": {
     "children": [],
@@ -1004,7 +1008,8 @@
       },
       "generatedAt": "2026-07-02T21:52:52.891Z"
     },
-    "bestTimeAuto": "In March to April and December, the sea is calmest and the water is clearest. The water stays a warm 28–30°C all year. Conditions vary by coast."
+    "bestTimeAuto": "In March to April and December, the sea is calmest and the water is clearest. The water stays a warm 28–30°C all year. Conditions vary by coast.",
+    "bestTimeShort": "Varies by coast"
   },
   "aceh": {
     "children": [],
@@ -1045,7 +1050,8 @@
       "manta rays",
       "easy diving"
     ],
-    "image": "https://images.unsplash.com/photo-1518717758536-85ae29035b6d?w=800&q=80"
+    "image": "https://images.unsplash.com/photo-1518717758536-85ae29035b6d?w=800&q=80",
+    "bestTimeShort": "May-November"
   },
   "central-sulawesi": {
     "children": [],
@@ -1528,7 +1534,8 @@
       },
       "generatedAt": "2026-07-02T21:52:52.891Z"
     },
-    "bestTimeAuto": "From April to May, the sea is calmest, the water is clearest, and there is the least rain. The water is warmest at 30–31°C and cools to about 28°C. Conditions vary by coast."
+    "bestTimeAuto": "From April to May, the sea is calmest, the water is clearest, and there is the least rain. The water is warmest at 30–31°C and cools to about 28°C. Conditions vary by coast.",
+    "bestTimeShort": "Varies by coast"
   },
   "kedah": {
     "children": [],
@@ -1616,7 +1623,8 @@
       "turtles",
       "coral reefs"
     ],
-    "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=80"
+    "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=80",
+    "bestTimeShort": "April-September"
   },
   "sarawak": {
     "children": [],
@@ -1640,7 +1648,8 @@
       "coral reefs",
       "macro"
     ],
-    "image": "https://images.unsplash.com/photo-1464983953574-0892a716854b?w=800&q=80"
+    "image": "https://images.unsplash.com/photo-1464983953574-0892a716854b?w=800&q=80",
+    "bestTimeShort": "April-September"
   },
   "selangor": {
     "children": [],
@@ -1888,7 +1897,8 @@
         ]
       },
       "generatedAt": "2026-07-02T21:52:52.891Z"
-    }
+    },
+    "bestTimeShort": "January to March"
   },
   "rakhine-state": {
     "children": [],
@@ -2154,7 +2164,8 @@
         ]
       },
       "generatedAt": "2026-07-02T21:52:52.891Z"
-    }
+    },
+    "bestTimeShort": "April to May"
   },
   "aklan": {
     "children": [],
@@ -2374,7 +2385,8 @@
       "pristine reefs",
       "turtles"
     ],
-    "image": "https://images.unsplash.com/photo-1464983953574-0892a716854b?w=800&q=80"
+    "image": "https://images.unsplash.com/photo-1464983953574-0892a716854b?w=800&q=80",
+    "bestTimeShort": "March-June"
   },
   "romblon": {
     "children": [],
@@ -2682,7 +2694,8 @@
       },
       "generatedAt": "2026-07-02T21:52:52.891Z"
     },
-    "bestTimeAuto": "In April and October to November, the sea is calmest and the water is clearest. The water is warmest at 30–31°C and cools to about 28°C."
+    "bestTimeAuto": "In April and October to November, the sea is calmest and the water is clearest. The water is warmest at 30–31°C and cools to about 28°C.",
+    "bestTimeShort": "April and October to November"
   },
   "thailand": {
     "children": [],
@@ -2916,7 +2929,8 @@
       },
       "generatedAt": "2026-07-02T21:52:52.891Z"
     },
-    "bestTimeAuto": "From January to March, the sea is calmest and there is the least rain. The water stays a warm 29–31°C all year. Conditions vary by coast."
+    "bestTimeAuto": "From January to March, the sea is calmest and there is the least rain. The water stays a warm 29–31°C all year. Conditions vary by coast.",
+    "bestTimeShort": "Varies by coast"
   },
   "chonburi": {
     "children": [],
@@ -3038,7 +3052,8 @@
       "coral reefs",
       "turtles"
     ],
-    "image": "https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?w=800&q=80"
+    "image": "https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?w=800&q=80",
+    "bestTimeShort": "November-May"
   },
   "ranong": {
     "children": [],
@@ -3329,7 +3344,8 @@
         ]
       },
       "generatedAt": "2026-07-02T21:52:52.891Z"
-    }
+    },
+    "bestTimeShort": "October"
   },
   "atauro": {
     "children": [],
@@ -3636,7 +3652,8 @@
         ]
       },
       "generatedAt": "2026-07-02T21:52:52.891Z"
-    }
+    },
+    "bestTimeShort": "April"
   },
   "ba-ria-vung-tau": {
     "children": [],
@@ -3833,7 +3850,8 @@
       "coral reefs",
       "schools of fish"
     ],
-    "image": "https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?w=800&q=80"
+    "image": "https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?w=800&q=80",
+    "bestTimeShort": "May-October"
   },
   "flores": {
     "children": [],
@@ -3862,7 +3880,8 @@
       "macro",
       "coral reefs"
     ],
-    "image": "https://images.unsplash.com/photo-1518717758536-85ae29035b6d?w=800&q=80"
+    "image": "https://images.unsplash.com/photo-1518717758536-85ae29035b6d?w=800&q=80",
+    "bestTimeShort": "April-November"
   },
   "sumbawa": {
     "children": [],
@@ -3887,7 +3906,8 @@
       "remote",
       "pristine reefs"
     ],
-    "image": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=800&q=80"
+    "image": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=800&q=80",
+    "bestTimeShort": "April-November"
   },
   "banda-sea": {
     "children": [],
@@ -3912,7 +3932,8 @@
       "remote",
       "liveaboard"
     ],
-    "image": "https://images.unsplash.com/photo-1583212292454-1fe6229603b7?w=800&q=80"
+    "image": "https://images.unsplash.com/photo-1583212292454-1fe6229603b7?w=800&q=80",
+    "bestTimeShort": "October-November"
   },
   "wakatobi": {
     "children": [],
@@ -3940,7 +3961,8 @@
       "biodiversity",
       "protected area"
     ],
-    "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=80"
+    "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=80",
+    "bestTimeShort": "March-December"
   },
   "cenderawasih-bay": {
     "children": [],
@@ -3966,7 +3988,8 @@
       "wrecks",
       "remote"
     ],
-    "image": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=800&q=80"
+    "image": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=800&q=80",
+    "bestTimeShort": "May-October"
   },
   "ambon": {
     "children": [],
@@ -3990,7 +4013,8 @@
       "macro",
       "rare critters"
     ],
-    "image": "https://images.unsplash.com/photo-1518717758536-85ae29035b6d?w=800&q=80"
+    "image": "https://images.unsplash.com/photo-1518717758536-85ae29035b6d?w=800&q=80",
+    "bestTimeShort": "September-November"
   },
   "alor": {
     "children": [],
@@ -4017,7 +4041,8 @@
       "rare critters",
       "pristine reefs"
     ],
-    "image": "https://images.unsplash.com/photo-1464983953574-0892a716854b?w=800&q=80"
+    "image": "https://images.unsplash.com/photo-1464983953574-0892a716854b?w=800&q=80",
+    "bestTimeShort": "April-November"
   },
   "raja-ampat": {
     "children": [],
@@ -4049,7 +4074,8 @@
       "big animals",
       "liveaboard"
     ],
-    "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=80"
+    "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=80",
+    "bestTimeShort": "October-April"
   },
   "komodo": {
     "children": [],
@@ -4079,7 +4105,8 @@
       "coral reefs",
       "manta rays"
     ],
-    "image": "https://images.unsplash.com/photo-1500534314209-a25ddb2bd429?w=800&q=80"
+    "image": "https://images.unsplash.com/photo-1500534314209-a25ddb2bd429?w=800&q=80",
+    "bestTimeShort": "April-November"
   },
   "tulamben": {
     "children": [],
@@ -4106,7 +4133,8 @@
       "macro",
       "shore diving"
     ],
-    "image": "https://images.unsplash.com/photo-1501594907352-04cda38ebc29?w=800&q=80"
+    "image": "https://images.unsplash.com/photo-1501594907352-04cda38ebc29?w=800&q=80",
+    "bestTimeShort": "May-November"
   },
   "lembeh-strait": {
     "children": [],
@@ -4131,7 +4159,8 @@
       "rare critters",
       "muck diving"
     ],
-    "image": "https://images.unsplash.com/photo-1518717758536-85ae29035b6d?w=800&q=80"
+    "image": "https://images.unsplash.com/photo-1518717758536-85ae29035b6d?w=800&q=80",
+    "bestTimeShort": "July-October"
   },
   "coron": {
     "children": [],
@@ -4157,7 +4186,8 @@
       "historic",
       "turtles"
     ],
-    "image": "https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?w=800&q=80"
+    "image": "https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?w=800&q=80",
+    "bestTimeShort": "March-June"
   },
   "tubbataha": {
     "children": [],
@@ -4185,7 +4215,8 @@
       "protected area",
       "liveaboard"
     ],
-    "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=80"
+    "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=80",
+    "bestTimeShort": "March-June"
   },
   "visayas": {
     "children": [],
@@ -4212,7 +4243,8 @@
       "coral reefs",
       "turtles"
     ],
-    "image": "https://images.unsplash.com/photo-1518717758536-85ae29035b6d?w=800&q=80"
+    "image": "https://images.unsplash.com/photo-1518717758536-85ae29035b6d?w=800&q=80",
+    "bestTimeShort": "March-June"
   },
   "cebu-bohol": {
     "children": [],
@@ -4239,7 +4271,8 @@
       "turtles",
       "coral reefs"
     ],
-    "image": "https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?w=800&q=80"
+    "image": "https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?w=800&q=80",
+    "bestTimeShort": "March-June"
   },
   "malapascua": {
     "children": [],
@@ -4263,7 +4296,8 @@
       "macro",
       "rare critters"
     ],
-    "image": "https://images.unsplash.com/photo-1464983953574-0892a716854b?w=800&q=80"
+    "image": "https://images.unsplash.com/photo-1464983953574-0892a716854b?w=800&q=80",
+    "bestTimeShort": "March-June"
   },
   "luzon": {
     "children": [],
@@ -4288,7 +4322,8 @@
       "easy diving",
       "shore diving"
     ],
-    "image": "https://images.unsplash.com/photo-1518717758536-85ae29035b6d?w=800&q=80"
+    "image": "https://images.unsplash.com/photo-1518717758536-85ae29035b6d?w=800&q=80",
+    "bestTimeShort": "March-June"
   },
   "anilao": {
     "children": [],
@@ -4311,7 +4346,8 @@
       "photography",
       "rare critters"
     ],
-    "image": "https://images.unsplash.com/photo-1501594907352-04cda38ebc29?w=800&q=80"
+    "image": "https://images.unsplash.com/photo-1501594907352-04cda38ebc29?w=800&q=80",
+    "bestTimeShort": "March-June"
   },
   "puerto-galera": {
     "children": [],
@@ -4336,7 +4372,8 @@
       "easy diving",
       "turtles"
     ],
-    "image": "https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?w=800&q=80"
+    "image": "https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?w=800&q=80",
+    "bestTimeShort": "March-June"
   },
   "andaman-sea": {
     "children": [],
@@ -4364,7 +4401,8 @@
       "big animals",
       "liveaboard"
     ],
-    "image": "https://images.unsplash.com/photo-1464983953574-0892a716854b?w=800&q=80"
+    "image": "https://images.unsplash.com/photo-1464983953574-0892a716854b?w=800&q=80",
+    "bestTimeShort": "November-May"
   },
   "similan-islands": {
     "children": [],
@@ -4391,7 +4429,8 @@
       "coral reefs",
       "liveaboard"
     ],
-    "image": "https://images.unsplash.com/photo-1518717758536-85ae29035b6d?w=800&q=80"
+    "image": "https://images.unsplash.com/photo-1518717758536-85ae29035b6d?w=800&q=80",
+    "bestTimeShort": "November-May"
   },
   "sipadan": {
     "children": [],
@@ -4418,7 +4457,8 @@
       "big animals",
       "coral reefs"
     ],
-    "image": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=800&q=80"
+    "image": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=800&q=80",
+    "bestTimeShort": "April-September"
   },
   "borneo": {
     "children": [],
@@ -4444,7 +4484,8 @@
       "turtles",
       "coral reefs"
     ],
-    "image": "https://images.unsplash.com/photo-1518717758536-85ae29035b6d?w=800&q=80"
+    "image": "https://images.unsplash.com/photo-1518717758536-85ae29035b6d?w=800&q=80",
+    "bestTimeShort": "April-September"
   },
   "nha-trang": {
     "children": [],
@@ -4468,7 +4509,8 @@
       "macro",
       "easy diving"
     ],
-    "image": "https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?w=800&q=80"
+    "image": "https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?w=800&q=80",
+    "bestTimeShort": "April-September"
   },
   "whale-island": {
     "children": [],
@@ -4493,7 +4535,8 @@
       "coral gardens",
       "easy diving"
     ],
-    "image": "https://images.unsplash.com/photo-1518717758536-85ae29035b6d?w=800&q=80"
+    "image": "https://images.unsplash.com/photo-1518717758536-85ae29035b6d?w=800&q=80",
+    "bestTimeShort": "April-September"
   },
   "con-dao": {
     "children": [],
@@ -4520,7 +4563,8 @@
       "remote",
       "coral reefs"
     ],
-    "image": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=800&q=80"
+    "image": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=800&q=80",
+    "bestTimeShort": "March-September"
   },
   "phu-quoc": {
     "children": [],
@@ -4544,7 +4588,8 @@
       "coral reefs",
       "easy diving"
     ],
-    "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=80"
+    "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=80",
+    "bestTimeShort": "November-April"
   },
   "mergui-archipelago": {
     "children": [],
@@ -4571,7 +4616,8 @@
       "big animals",
       "liveaboard"
     ],
-    "image": "https://images.unsplash.com/photo-1518717758536-85ae29035b6d?w=800&q=80"
+    "image": "https://images.unsplash.com/photo-1518717758536-85ae29035b6d?w=800&q=80",
+    "bestTimeShort": "November-April"
   },
   "black-rock": {
     "children": [],
@@ -4596,7 +4642,8 @@
       "walls",
       "remote"
     ],
-    "image": "https://images.unsplash.com/photo-1583212292454-1fe6229603b7?w=800&q=80"
+    "image": "https://images.unsplash.com/photo-1583212292454-1fe6229603b7?w=800&q=80",
+    "bestTimeShort": "February-April"
   },
   "western-rocky": {
     "children": [],
@@ -4622,7 +4669,8 @@
       "coral reefs",
       "remote"
     ],
-    "image": "https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?w=800&q=80"
+    "image": "https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?w=800&q=80",
+    "bestTimeShort": "February-April"
   },
   "miri": {
     "children": [],
@@ -4646,7 +4694,8 @@
       "macro",
       "easy diving"
     ],
-    "image": "https://images.unsplash.com/photo-1518717758536-85ae29035b6d?w=800&q=80"
+    "image": "https://images.unsplash.com/photo-1518717758536-85ae29035b6d?w=800&q=80",
+    "bestTimeShort": "April-September"
   },
   "kalimantan": {
     "children": [],
@@ -4672,7 +4721,8 @@
       "turtles",
       "coral reefs"
     ],
-    "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=80"
+    "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=80",
+    "bestTimeShort": "April-September"
   },
   "derawan-islands": {
     "children": [],
@@ -4698,7 +4748,8 @@
       "jellyfish",
       "coral reefs"
     ],
-    "image": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=800&q=80"
+    "image": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=800&q=80",
+    "bestTimeShort": "April-September"
   },
   "mindanao": {
     "children": [],

@@ -212,7 +212,8 @@
       },
       "generatedAt": "2026-07-02T21:52:52.891Z"
     },
-    "bestTime": "From August to December, the sea is calmest. The water is warmest at 29–30°C and cools to about 27°C."
+    "bestTime": "From August to December, the sea is calmest. The water is warmest at 29–30°C and cools to about 27°C.",
+    "bestTimeShort": "August to December"
   },
   "belize-district": {
     "children": [],
@@ -461,7 +462,8 @@
       "generatedAt": "2026-07-02T21:52:52.891Z"
     },
     "bestTime": "On the Caribbean coast, March to April brings clear waters and dry days, with warm water at 29–30°C. The Pacific coast offers dry months in January to March and November, with temperatures at a warm 28–30°C.",
-    "bestTimeAuto": "From December to March, there is the least rain. The water stays a warm 28–30°C all year. Conditions vary by coast."
+    "bestTimeAuto": "From December to March, there is the least rain. The water stays a warm 28–30°C all year. Conditions vary by coast.",
+    "bestTimeShort": "Varies by coast"
   },
   "guanacaste": {
     "children": [],
@@ -530,7 +532,8 @@
       "reefs",
       "unique species"
     ],
-    "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&h=600&fit=crop"
+    "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&h=600&fit=crop",
+    "bestTimeShort": "December–May"
   },
   "argentina": {
     "children": [],
@@ -974,7 +977,8 @@
       "generatedAt": "2026-07-02T21:52:52.891Z"
     },
     "bestTime": "In the south, November to March offers the clearest waters, with temperatures ranging from 22°C to 27°C. The north sees its driest months from September to December, maintaining warm waters between 27°C and 29°C.",
-    "bestTimeAuto": "From September to December, there is the least rain. The water stays a warm 27–29°C all year. Conditions vary by coast."
+    "bestTimeAuto": "From September to December, there is the least rain. The water stays a warm 27–29°C all year. Conditions vary by coast.",
+    "bestTimeShort": "Varies by coast"
   },
   "bahia": {
     "children": [],
@@ -1278,7 +1282,8 @@
       "generatedAt": "2026-07-02T21:52:52.891Z"
     },
     "bestTime": "In Chile, the Pacific coast offers its clearest waters from May to August, with brisk temperatures of 14–18°C. On Easter Island, December brings calm seas and clear water, with a milder 21–26°C.",
-    "bestTimeAuto": "In December, the sea is calmest, the water is clearest, and there is the least rain. The water is warmest at 25–26°C and cools to about 21°C. Conditions vary by coast."
+    "bestTimeAuto": "In December, the sea is calmest, the water is clearest, and there is the least rain. The water is warmest at 25–26°C and cools to about 21°C. Conditions vary by coast.",
+    "bestTimeShort": "Varies by coast"
   },
   "coquimbo": {
     "children": [],
@@ -1528,7 +1533,8 @@
       },
       "generatedAt": "2026-07-02T21:52:52.891Z"
     },
-    "bestTime": "In August to September and November, the water is clearest and there is the least rain. The water is warmest at 26–27°C and cools to about 24°C."
+    "bestTime": "In August to September and November, the water is clearest and there is the least rain. The water is warmest at 26–27°C and cools to about 24°C.",
+    "bestTimeShort": "August to September and November"
   },
   "galapagos": {
     "children": [],
@@ -1734,7 +1740,8 @@
       "generatedAt": "2026-07-02T21:52:52.891Z"
     },
     "bestTime": "August to November marks the driest spell in the Galápagos Islands, with waters cooling to 22°C, perfect for exploring its unique marine life.",
-    "bestTimeAuto": "From August to November, there is the least rain. The water is warmest at 26–27°C and cools to about 22°C."
+    "bestTimeAuto": "From August to November, there is the least rain. The water is warmest at 26–27°C and cools to about 22°C.",
+    "bestTimeShort": "August to November"
   },
   "manabi": {
     "children": [],
@@ -1958,7 +1965,8 @@
       },
       "generatedAt": "2026-07-02T21:52:52.891Z"
     },
-    "bestTime": "In May and July to September, the water is clearest. The water warms to 10–11°C in summer and drops to about 5°C in winter."
+    "bestTime": "In May and July to September, the water is clearest. The water warms to 10–11°C in summer and drops to about 5°C in winter.",
+    "bestTimeShort": "May and July to September"
   },
   "east-falkland": {
     "children": [],
@@ -2201,7 +2209,8 @@
       "generatedAt": "2026-07-02T21:52:52.891Z"
     },
     "bestTime": "On the Caribbean coast, May and September to October offer calm seas and clear water, while the Pacific coast enjoys similar conditions from January to March with warm waters at 28–30°C.",
-    "bestTimeAuto": "From December to March, the sea is calmest, the water is clearest, and there is the least rain. The water stays a warm 28–30°C all year. Conditions vary by coast."
+    "bestTimeAuto": "From December to March, the sea is calmest, the water is clearest, and there is the least rain. The water stays a warm 28–30°C all year. Conditions vary by coast.",
+    "bestTimeShort": "Varies by coast"
   },
   "bocas-del-toro": {
     "children": [],
@@ -2515,7 +2524,8 @@
       },
       "generatedAt": "2026-07-02T21:52:52.891Z"
     },
-    "bestTime": "From July to November, the water is clearest and there is the least rain. The water is warmest at 23–24°C and cools to about 20°C."
+    "bestTime": "From July to November, the water is clearest and there is the least rain. The water is warmest at 23–24°C and cools to about 20°C.",
+    "bestTimeShort": "July to November"
   },
   "ica": {
     "children": [],
@@ -2780,7 +2790,8 @@
       },
       "generatedAt": "2026-07-02T21:52:52.891Z"
     },
-    "bestTime": "In October, the sea is calmest, the water is clearest, and there is the least rain. The water stays a warm 27–29°C all year."
+    "bestTime": "In October, the sea is calmest, the water is clearest, and there is the least rain. The water stays a warm 27–29°C all year.",
+    "bestTimeShort": "October"
   },
   "commewijne": {
     "children": [],
@@ -3079,7 +3090,8 @@
       },
       "generatedAt": "2026-07-02T21:52:52.891Z"
     },
-    "bestTime": "From September to May, the water is clearest. The water warms to 22–23°C in summer and drops to about 12°C in winter."
+    "bestTime": "From September to May, the water is clearest. The water warms to 22–23°C in summer and drops to about 12°C in winter.",
+    "bestTimeShort": "September to May"
   },
   "colonia": {
     "children": [],
@@ -3325,7 +3337,8 @@
       },
       "generatedAt": "2026-07-02T21:52:52.891Z"
     },
-    "bestTime": "From July to November, the sea is calmest. The water is warmest at 28–29°C and cools to about 26°C."
+    "bestTime": "From July to November, the sea is calmest. The water is warmest at 28–29°C and cools to about 26°C.",
+    "bestTimeShort": "July to November"
   },
   "anzotegui": {
     "children": [],

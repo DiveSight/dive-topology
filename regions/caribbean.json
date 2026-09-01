@@ -36,7 +36,8 @@
       "easy",
       "warm water"
     ],
-    "image": "https://images.unsplash.com/photo-1641435039819-cf9a31d893c2?ixid=M3w4MzAyODF8MHwxfHNlYXJjaHwxfHxDYXJpYmJlYW4lMjBkaXZpbmclMjBtYXJpbmV8ZW58MHwwfHx8MTc2MzA0ODY3OXww&ixlib=rb-4.1.0&w=800&h=600&fit=crop"
+    "image": "https://images.unsplash.com/photo-1641435039819-cf9a31d893c2?ixid=M3w4MzAyODF8MHwxfHNlYXJjaHwxfHxDYXJpYmJlYW4lMjBkaXZpbmclMjBtYXJpbmV8ZW58MHwwfHx8MTc2MzA0ODY3OXww&ixlib=rb-4.1.0&w=800&h=600&fit=crop",
+    "bestTimeShort": "December–May"
   },
   "anguilla": {
     "children": [],
@@ -245,7 +246,8 @@
       },
       "generatedAt": "2026-07-02T21:52:52.891Z"
     },
-    "bestTime": "From December to March, there is the least rain. The water is warmest at 29–30°C and cools to about 27°C."
+    "bestTime": "From December to March, there is the least rain. The water is warmest at 29–30°C and cools to about 27°C.",
+    "bestTimeShort": "December to March"
   },
   "antigua-and-barbuda": {
     "children": [],
@@ -494,7 +496,8 @@
       },
       "generatedAt": "2026-07-02T21:52:52.891Z"
     },
-    "bestTime": "From March to June, there is the least rain. The water is warmest at 29°C and cools to about 26°C."
+    "bestTime": "From March to June, there is the least rain. The water is warmest at 29°C and cools to about 26°C.",
+    "bestTimeShort": "March to June"
   },
   "bahamas": {
     "children": [],
@@ -733,7 +736,8 @@
       },
       "generatedAt": "2026-07-02T21:52:52.891Z"
     },
-    "bestTimeAuto": "From May to September, the sea is calmest. The water is warmest at 29–30°C and cools to about 25°C."
+    "bestTimeAuto": "From May to September, the sea is calmest. The water is warmest at 29–30°C and cools to about 25°C.",
+    "bestTimeShort": "May to September"
   },
   "abaco": {
     "children": [],
@@ -1142,7 +1146,8 @@
       },
       "generatedAt": "2026-07-02T21:52:52.891Z"
     },
-    "bestTime": "In September and November, the sea is calmest and the water is clearest. The water is warmest at 29–30°C and cools to about 27°C."
+    "bestTime": "In September and November, the sea is calmest and the water is clearest. The water is warmest at 29–30°C and cools to about 27°C.",
+    "bestTimeShort": "September and November"
   },
   "christ-church": {
     "children": [],
@@ -1451,7 +1456,8 @@
       },
       "generatedAt": "2026-07-02T21:52:52.891Z"
     },
-    "bestTime": "From February to May, there is the least rain. The water is warmest at 29–30°C and cools to about 27°C."
+    "bestTime": "From February to May, there is the least rain. The water is warmest at 29–30°C and cools to about 27°C.",
+    "bestTimeShort": "February to May"
   },
   "caribbean-netherlands": {
     "children": [],
@@ -1766,7 +1772,8 @@
         ]
       },
       "generatedAt": "2026-07-02T21:52:52.891Z"
-    }
+    },
+    "bestTimeShort": "April"
   },
   "cayman-brac": {
     "children": [],
@@ -2017,7 +2024,8 @@
       "generatedAt": "2026-07-02T21:52:52.891Z"
     },
     "bestTime": "The Caribbean coast of Cuba dries out from January to April, perfect for dives in 27–31°C waters. The Gulf of Mexico calms from June to September. On the Pacific coast, May to September brings settled seas and warm waters around 26–30°C.",
-    "bestTimeAuto": "In May, the sea is calmest and the water is clearest. The water is warmest at 31°C and cools to about 27°C. Conditions vary by coast."
+    "bestTimeAuto": "In May, the sea is calmest and the water is clearest. The water is warmest at 31°C and cools to about 27°C. Conditions vary by coast.",
+    "bestTimeShort": "Varies by coast"
   },
   "ciego-de-vila": {
     "children": [],
@@ -2351,7 +2359,8 @@
       "generatedAt": "2026-07-02T21:52:52.891Z"
     },
     "bestTime": "February to May offers Curaçao's driest months, with water temperatures at a mild 27°C, perfect for uninterrupted diving.",
-    "bestTimeAuto": "From February to May, there is the least rain. The water is warmest at 29–30°C and cools to about 27°C."
+    "bestTimeAuto": "From February to May, there is the least rain. The water is warmest at 29–30°C and cools to about 27°C.",
+    "bestTimeShort": "February to May"
   },
   "curaao": {
     "children": [],
@@ -2590,7 +2599,8 @@
       },
       "generatedAt": "2026-07-02T21:52:52.891Z"
     },
-    "bestTimeAuto": "In April, the sea is calmest and there is the least rain. The water is warmest at 29–30°C and cools to about 27°C."
+    "bestTimeAuto": "In April, the sea is calmest and there is the least rain. The water is warmest at 29–30°C and cools to about 27°C.",
+    "bestTimeShort": "April"
   },
   "saint-andrew-parish": {
     "children": [],
@@ -2910,7 +2920,8 @@
       },
       "generatedAt": "2026-07-02T21:52:52.891Z"
     },
-    "bestTime": "In January to March and June, there is the least rain. The water is warmest at 29–30°C and cools to about 27°C."
+    "bestTime": "In January to March and June, there is the least rain. The water is warmest at 29–30°C and cools to about 27°C.",
+    "bestTimeShort": "January to March and June"
   },
   "la-altagracia-province": {
     "children": [],
@@ -3178,7 +3189,8 @@
       "generatedAt": "2026-07-02T21:52:52.891Z"
     },
     "bestTime": "Grenada's calmest seas extend from July to November, with warm water temperatures between 27–30°C, creating a welcoming environment for divers.",
-    "bestTimeAuto": "From July to November, the sea is calmest. The water is warmest at 29–30°C and cools to about 27°C."
+    "bestTimeAuto": "From July to November, the sea is calmest. The water is warmest at 29–30°C and cools to about 27°C.",
+    "bestTimeShort": "July to November"
   },
   "carriacou": {
     "children": [],
@@ -3463,7 +3475,8 @@
         ]
       },
       "generatedAt": "2026-07-02T21:52:52.891Z"
-    }
+    },
+    "bestTimeShort": "May"
   },
   "bay-islands": {
     "children": [],
@@ -3747,7 +3760,8 @@
         ]
       },
       "generatedAt": "2026-07-02T21:52:52.891Z"
-    }
+    },
+    "bestTimeShort": "April to May and August to October"
   },
   "kingston": {
     "children": [],
@@ -4011,7 +4025,8 @@
       "generatedAt": "2026-07-02T21:52:52.891Z"
     },
     "bestTime": "January to March offers the driest months for diving, with water temperatures around 27°C. June also provides a dry window, with waters warming to 29–30°C.",
-    "bestTimeAuto": "In January to March and June, there is the least rain. The water is warmest at 29–30°C and cools to about 27°C."
+    "bestTimeAuto": "In January to March and June, there is the least rain. The water is warmest at 29–30°C and cools to about 27°C.",
+    "bestTimeShort": "January to March"
   },
   "nicaragua": {
     "children": [],
@@ -4235,7 +4250,8 @@
         ]
       },
       "generatedAt": "2026-07-02T21:52:52.891Z"
-    }
+    },
+    "bestTimeShort": "April"
   },
   "rivas": {
     "children": [],
@@ -4490,7 +4506,8 @@
       },
       "generatedAt": "2026-07-02T21:52:52.891Z"
     },
-    "bestTime": "From December to March, there is the least rain. The water is warmest at 29–30°C and cools to about 27°C."
+    "bestTime": "From December to March, there is the least rain. The water is warmest at 29–30°C and cools to about 27°C.",
+    "bestTimeShort": "December to March"
   },
   "nevis": {
     "children": [],
@@ -4727,7 +4744,8 @@
       },
       "generatedAt": "2026-07-02T21:52:52.891Z"
     },
-    "bestTime": "From April to May, the sea is calmest and there is the least rain. The water is warmest at 29–30°C and cools to about 27°C."
+    "bestTime": "From April to May, the sea is calmest and there is the least rain. The water is warmest at 29–30°C and cools to about 27°C.",
+    "bestTimeShort": "April to May"
   },
   "anse-la-raye": {
     "children": [],
@@ -5128,7 +5146,8 @@
       },
       "generatedAt": "2026-07-02T21:52:52.891Z"
     },
-    "bestTime": "In November, the sea is calmest and the water is clearest. The water is warmest at 29–30°C and cools to about 27°C."
+    "bestTime": "In November, the sea is calmest and the water is clearest. The water is warmest at 29–30°C and cools to about 27°C.",
+    "bestTimeShort": "November"
   },
   "grenadines": {
     "children": [],
@@ -5428,7 +5447,8 @@
       },
       "generatedAt": "2026-07-02T21:52:52.891Z"
     },
-    "bestTimeAuto": "In February to April and June, there is the least rain. The water is warmest at 29–30°C and cools to about 26°C."
+    "bestTimeAuto": "In February to April and June, there is the least rain. The water is warmest at 29–30°C and cools to about 26°C.",
+    "bestTimeShort": "January–April"
   },
   "french-cay": {
     "children": [],
@@ -5721,7 +5741,8 @@
       },
       "generatedAt": "2026-07-02T21:52:52.891Z"
     },
-    "bestTime": "From January to April, there is the least rain. The water is warmest at 29–30°C and cools to about 27°C."
+    "bestTime": "From January to April, there is the least rain. The water is warmest at 29–30°C and cools to about 27°C.",
+    "bestTimeShort": "January to April"
   },
   "martinique": {
     "children": [],
@@ -5929,7 +5950,8 @@
       },
       "generatedAt": "2026-07-02T21:52:52.891Z"
     },
-    "bestTime": "From January to April, there is the least rain. The water is warmest at 29–30°C and cools to about 27°C."
+    "bestTime": "From January to April, there is the least rain. The water is warmest at 29–30°C and cools to about 27°C.",
+    "bestTimeShort": "January to April"
   },
   "bermuda": {
     "children": [],
@@ -6152,7 +6174,8 @@
       },
       "generatedAt": "2026-07-02T21:52:52.891Z"
     },
-    "bestTimeAuto": "From May to August, the sea is calmest. The water warms to 28–29°C in summer and drops to about 20°C in winter."
+    "bestTimeAuto": "From May to August, the sea is calmest. The water warms to 28–29°C in summer and drops to about 20°C in winter.",
+    "bestTimeShort": "May to August"
   },
   "puerto-rico": {
     "children": [],
@@ -6371,7 +6394,8 @@
       },
       "generatedAt": "2026-07-02T21:52:52.891Z"
     },
-    "bestTime": "From April to May, the sea is calmest and the water is clearest. The water is warmest at 29–30°C and cools to about 27°C."
+    "bestTime": "From April to May, the sea is calmest and the water is clearest. The water is warmest at 29–30°C and cools to about 27°C.",
+    "bestTimeShort": "April to May"
   },
   "colombia": {
     "children": [],
@@ -6607,7 +6631,8 @@
       },
       "generatedAt": "2026-07-02T21:52:52.891Z"
     },
-    "bestTimeAuto": "In April, the sea is calmest and there is the least rain. The water stays a warm 28–30°C all year. Conditions vary by coast."
+    "bestTimeAuto": "In April, the sea is calmest and there is the least rain. The water stays a warm 28–30°C all year. Conditions vary by coast.",
+    "bestTimeShort": "Varies by coast"
   },
   "archipielago-de-san-andres-providencia-y-santa-catalina": {
     "children": [],
@@ -6915,7 +6940,8 @@
       },
       "generatedAt": "2026-07-02T21:52:52.891Z"
     },
-    "bestTimeAuto": "From February to March, the sea is calmest, the water is clearest, and there is the least rain. The water stays a warm 29–31°C all year."
+    "bestTimeAuto": "From February to March, the sea is calmest, the water is clearest, and there is the least rain. The water stays a warm 29–31°C all year.",
+    "bestTimeShort": "February to March"
   },
   "usvi": {
     "children": [],
@@ -7124,7 +7150,8 @@
       },
       "generatedAt": "2026-07-02T21:52:52.891Z"
     },
-    "bestTime": "From December to March, there is the least rain. The water is warmest at 29–30°C and cools to about 27°C."
+    "bestTime": "From December to March, there is the least rain. The water is warmest at 29–30°C and cools to about 27°C.",
+    "bestTimeShort": "December to March"
   },
   "st-martin": {
     "children": [],
@@ -7334,7 +7361,8 @@
       },
       "generatedAt": "2026-07-02T21:52:52.891Z"
     },
-    "bestTime": "From December to March, there is the least rain. The water is warmest at 29–30°C and cools to about 27°C."
+    "bestTime": "From December to March, there is the least rain. The water is warmest at 29–30°C and cools to about 27°C.",
+    "bestTimeShort": "December to March"
   },
   "st-lucia": {
     "children": [],
@@ -7545,7 +7573,8 @@
       },
       "generatedAt": "2026-07-02T21:52:52.891Z"
     },
-    "bestTime": "In April, the sea is calmest and there is the least rain. The water is warmest at 29–30°C and cools to about 27°C."
+    "bestTime": "In April, the sea is calmest and there is the least rain. The water is warmest at 29–30°C and cools to about 27°C.",
+    "bestTimeShort": "April"
   },
   "antigua-barbuda": {
     "children": [],
@@ -7972,7 +8001,8 @@
       },
       "generatedAt": "2026-07-02T21:52:52.891Z"
     },
-    "bestTime": "From July to November, the sea is calmest. The water is warmest at 29–30°C and cools to about 27°C."
+    "bestTime": "From July to November, the sea is calmest. The water is warmest at 29–30°C and cools to about 27°C.",
+    "bestTimeShort": "July to November"
   },
   "st-kitts-and-nevis": {
     "children": [],
@@ -8175,7 +8205,8 @@
       },
       "generatedAt": "2026-07-02T21:52:52.891Z"
     },
-    "bestTime": "From December to March, there is the least rain. The water is warmest at 29–30°C and cools to about 27°C."
+    "bestTime": "From December to March, there is the least rain. The water is warmest at 29–30°C and cools to about 27°C.",
+    "bestTimeShort": "December to March"
   },
   "british-virgin-islands": {
     "children": [],
@@ -8383,7 +8414,8 @@
       },
       "generatedAt": "2026-07-02T21:52:52.891Z"
     },
-    "bestTime": "From December to March, there is the least rain. The water is warmest at 29–30°C and cools to about 27°C."
+    "bestTime": "From December to March, there is the least rain. The water is warmest at 29–30°C and cools to about 27°C.",
+    "bestTimeShort": "December to March"
   },
   "sint-maarten": {
     "children": [],
@@ -8587,7 +8619,8 @@
       "generatedAt": "2026-07-02T21:52:52.891Z"
     },
     "bestTime": "December to March is the driest period in Sint Maarten, with water temperatures settling at a mild 27–28°C. Plan your dives for these months to enjoy drier weather.",
-    "bestTimeAuto": "From December to March, there is the least rain. The water is warmest at 29–30°C and cools to about 27°C."
+    "bestTimeAuto": "From December to March, there is the least rain. The water is warmest at 29–30°C and cools to about 27°C.",
+    "bestTimeShort": "December to March"
   },
   "trinidad-and-tobago": {
     "children": [],
@@ -8805,7 +8838,8 @@
       },
       "generatedAt": "2026-07-02T21:52:52.891Z"
     },
-    "bestTime": "From July to October, the sea is calmest. The water is warmest at 29–30°C and cools to about 27°C."
+    "bestTime": "From July to October, the sea is calmest. The water is warmest at 29–30°C and cools to about 27°C.",
+    "bestTimeShort": "July to October"
   },
   "union-island": {
     "children": [],

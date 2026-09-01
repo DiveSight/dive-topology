@@ -212,7 +212,8 @@
       },
       "generatedAt": "2026-07-02T21:52:52.891Z"
     },
-    "bestTime": "From June to August, the sea is calmest, the water is clearest, and there is the least rain. The water warms to 25–26°C in summer and drops to about 15°C in winter."
+    "bestTime": "From June to August, the sea is calmest, the water is clearest, and there is the least rain. The water warms to 25–26°C in summer and drops to about 15°C in winter.",
+    "bestTimeShort": "June to August"
   },
   "vlor-county": {
     "children": [],
@@ -436,7 +437,8 @@
       },
       "generatedAt": "2026-07-02T21:52:52.891Z"
     },
-    "bestTime": "From June to September, the sea is calmest and the water is clearest. The water warms to 26°C in summer and drops to about 16°C in winter."
+    "bestTime": "From June to September, the sea is calmest and the water is clearest. The water warms to 26°C in summer and drops to about 16°C in winter.",
+    "bestTimeShort": "June to September"
   },
   "algiers-province": {
     "children": [],
@@ -615,7 +617,8 @@
       "alpine",
       "Europe"
     ],
-    "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&h=600&fit=crop"
+    "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&h=600&fit=crop",
+    "bestTimeShort": "June–September for warmest water"
   },
   "burgenland": {
     "children": [],
@@ -1027,7 +1030,8 @@
       },
       "generatedAt": "2026-07-02T21:52:52.891Z"
     },
-    "bestTime": "From June to August, the sea is calmest, the water is clearest, and there is the least rain. The water warms to 26°C in summer and drops to about 7°C in winter."
+    "bestTime": "From June to August, the sea is calmest, the water is clearest, and there is the least rain. The water warms to 26°C in summer and drops to about 7°C in winter.",
+    "bestTimeShort": "June to August"
   },
   "croatia": {
     "children": [],
@@ -1246,7 +1250,8 @@
       },
       "generatedAt": "2026-07-02T21:52:52.891Z"
     },
-    "bestTime": "From June to August, the sea is calmest, the water is clearest, and there is the least rain. The water warms to 25–26°C in summer and drops to about 13°C in winter."
+    "bestTime": "From June to August, the sea is calmest, the water is clearest, and there is the least rain. The water warms to 25–26°C in summer and drops to about 13°C in winter.",
+    "bestTimeShort": "June to August"
   },
   "dubrovnik-neretva": {
     "children": [],
@@ -1616,7 +1621,8 @@
       },
       "generatedAt": "2026-07-02T21:52:52.891Z"
     },
-    "bestTime": "From June to September, the sea is calmest, the water is clearest, and there is the least rain. The water warms to 29–30°C in summer and drops to about 18°C in winter."
+    "bestTime": "From June to September, the sea is calmest, the water is clearest, and there is the least rain. The water warms to 29–30°C in summer and drops to about 18°C in winter.",
+    "bestTimeShort": "June to September"
   },
   "famagusta": {
     "children": [],
@@ -1911,7 +1917,8 @@
       },
       "generatedAt": "2026-07-02T21:52:52.891Z"
     },
-    "bestTime": "In July, the sea is calmest and the water is clearest. The water warms to 18–19°C in summer and drops to about 3°C in winter."
+    "bestTime": "In July, the sea is calmest and the water is clearest. The water warms to 18–19°C in summer and drops to about 3°C in winter.",
+    "bestTimeShort": "July"
   },
   "capital-region": {
     "children": [],
@@ -2176,7 +2183,8 @@
       },
       "generatedAt": "2026-07-02T21:52:52.891Z"
     },
-    "bestTime": "In June, the sea is calmest, the water is clearest, and there is the least rain. The water warms to 20°C in summer and drops to about 5°C in winter. Conditions vary by coast."
+    "bestTime": "In June, the sea is calmest, the water is clearest, and there is the least rain. The water warms to 20°C in summer and drops to about 5°C in winter. Conditions vary by coast.",
+    "bestTimeShort": "June"
   },
   "etel-pohjanmaa": {
     "children": [],
@@ -2473,7 +2481,8 @@
       "generatedAt": "2026-07-02T21:52:52.891Z"
     },
     "bestTime": "Along the Mediterranean coast, June to August offers calm seas and clear water, with warm temperatures around 24–25°C. On the Atlantic coast, April to September brings the calmest seas, while French Polynesia invites year-round diving, particularly dry from July to October with 27–29°C waters.",
-    "bestTimeAuto": "From June to August, the sea is calmest, the water is clearest, and there is the least rain. The water warms to 24–25°C in summer and drops to about 14°C in winter. Conditions vary by coast."
+    "bestTimeAuto": "From June to August, the sea is calmest, the water is clearest, and there is the least rain. The water warms to 24–25°C in summer and drops to about 14°C in winter. Conditions vary by coast.",
+    "bestTimeShort": "Varies by coast"
   },
   "auvergne-rhone-alpes": {
     "children": [],
@@ -2772,7 +2781,8 @@
       },
       "generatedAt": "2026-07-02T21:52:52.891Z"
     },
-    "bestTime": "In March to May and November, the sea is calmest and the water is clearest. The water warms to 22–23°C in summer and drops to about 14°C in winter."
+    "bestTime": "In March to May and November, the sea is calmest and the water is clearest. The water warms to 22–23°C in summer and drops to about 14°C in winter.",
+    "bestTimeShort": "March to May and November"
   },
   "baden-wrttemberg": {
     "children": [],
@@ -3204,7 +3214,8 @@
       },
       "generatedAt": "2026-07-02T21:52:52.891Z"
     },
-    "bestTime": "From May to August, the sea is calmest and there is the least rain. The water warms to 27–28°C in summer and drops to about 19°C in winter."
+    "bestTime": "From May to August, the sea is calmest and there is the least rain. The water warms to 27–28°C in summer and drops to about 19°C in winter.",
+    "bestTimeShort": "May to August"
   },
   "attica": {
     "children": [],
@@ -3515,7 +3526,8 @@
       },
       "generatedAt": "2026-07-02T21:52:52.891Z"
     },
-    "bestTime": "From November to February, the water is clearest. The water is warmest at 14–15°C and cools to about 11°C."
+    "bestTime": "From November to February, the water is clearest. The water is warmest at 14–15°C and cools to about 11°C.",
+    "bestTimeShort": "November to February"
   },
   "austurland": {
     "children": [],
@@ -3802,7 +3814,8 @@
       },
       "generatedAt": "2026-07-02T21:52:52.891Z"
     },
-    "bestTime": "From June to July, the sea is calmest, the water is clearest, and there is the least rain. The water warms to 15–16°C in summer and drops to about 9°C in winter."
+    "bestTime": "From June to July, the sea is calmest, the water is clearest, and there is the least rain. The water warms to 15–16°C in summer and drops to about 9°C in winter.",
+    "bestTimeShort": "June to July"
   },
   "county-clare": {
     "children": [],
@@ -4171,7 +4184,8 @@
       },
       "generatedAt": "2026-07-02T21:52:52.891Z"
     },
-    "bestTimeAuto": "From June to August, the sea is calmest, the water is clearest, and there is the least rain. The water warms to 27–28°C in summer and drops to about 16°C in winter. Conditions vary by coast."
+    "bestTimeAuto": "From June to August, the sea is calmest, the water is clearest, and there is the least rain. The water warms to 27–28°C in summer and drops to about 16°C in winter. Conditions vary by coast.",
+    "bestTimeShort": "Varies by coast"
   },
   "campania": {
     "children": [],
@@ -4512,7 +4526,8 @@
       },
       "generatedAt": "2026-07-02T21:52:52.891Z"
     },
-    "bestTime": "From June to August, the sea is calmest and there is the least rain. The water warms to 27–28°C in summer and drops to about 16°C in winter."
+    "bestTime": "From June to August, the sea is calmest and there is the least rain. The water warms to 27–28°C in summer and drops to about 16°C in winter.",
+    "bestTimeShort": "June to August"
   },
   "comino": {
     "children": [],
@@ -4793,7 +4808,8 @@
       },
       "generatedAt": "2026-07-02T21:52:52.891Z"
     },
-    "bestTime": "From June to August, the sea is calmest, the water is clearest, and there is the least rain. The water warms to 26°C in summer and drops to about 14°C in winter."
+    "bestTime": "From June to August, the sea is calmest, the water is clearest, and there is the least rain. The water warms to 26°C in summer and drops to about 14°C in winter.",
+    "bestTimeShort": "June to August"
   },
   "netherlands": {
     "children": [],
@@ -5004,7 +5020,8 @@
       "generatedAt": "2026-07-02T21:52:52.891Z"
     },
     "bestTime": "April sees the Atlantic coast calm with clear water and dry conditions, with temperatures around 12–22°C. On the Caribbean coast, January to April offers dry months, with 27°C waters.",
-    "bestTimeAuto": "In April and June to August, the sea is calmest. The water warms to 19–20°C in summer and drops to about 6°C in winter. Conditions vary by coast."
+    "bestTimeAuto": "In April and June to August, the sea is calmest. The water warms to 19–20°C in summer and drops to about 6°C in winter. Conditions vary by coast.",
+    "bestTimeShort": "April"
   },
   "drenthe": {
     "children": [],
@@ -5345,7 +5362,8 @@
       "generatedAt": "2026-07-02T21:52:52.891Z"
     },
     "bestTime": "On the Atlantic coast, dive from April to August when the seas calm; in the Arctic, the same months offer similar tranquility. Expect brisk waters, warming to 16–17°C in July and August.",
-    "bestTimeAuto": "In February to March and November to December, the water is clearest. The water warms to 12–13°C in summer and drops to about 3°C in winter. Conditions vary by coast."
+    "bestTimeAuto": "In February to March and November to December, the water is clearest. The water warms to 12–13°C in summer and drops to about 3°C in winter. Conditions vary by coast.",
+    "bestTimeShort": "Varies by coast"
   },
   "agder": {
     "children": [],
@@ -5708,7 +5726,8 @@
       },
       "generatedAt": "2026-07-02T21:52:52.891Z"
     },
-    "bestTime": "From April to August, the sea is calmest. The water warms to 19–20°C in summer and drops to about 3°C in winter. Conditions vary by coast."
+    "bestTime": "From April to August, the sea is calmest. The water warms to 19–20°C in summer and drops to about 3°C in winter. Conditions vary by coast.",
+    "bestTimeShort": "April to August"
   },
   "wojewodztwo-dolnoslaskie": {
     "children": [],
@@ -5943,7 +5962,8 @@
       },
       "generatedAt": "2026-07-02T21:52:52.891Z"
     },
-    "bestTime": "From June to September, the sea is calmest and there is the least rain. The water is warmest at 20–21°C and cools to about 17°C."
+    "bestTime": "From June to September, the sea is calmest and there is the least rain. The water is warmest at 20–21°C and cools to about 17°C.",
+    "bestTimeShort": "June to September"
   },
   "acores": {
     "children": [],
@@ -6165,7 +6185,8 @@
       },
       "generatedAt": "2026-07-02T21:52:52.891Z"
     },
-    "bestTime": "From December to March, the water is clearest. The water is warmest at 27°C and cools to about 22°C."
+    "bestTime": "From December to March, the water is clearest. The water is warmest at 27°C and cools to about 22°C.",
+    "bestTimeShort": "December to March"
   },
   "faro": {
     "children": [],
@@ -6526,7 +6547,8 @@
       "generatedAt": "2026-07-02T21:52:52.891Z"
     },
     "bestTime": "In the Mediterranean coast, June to August offers the calmest seas and clearest water, with warm temperatures reaching 25–26°C. On the Atlantic coast, dive in June for similar calm and clear conditions, with sea temperatures around 17–18°C. Meanwhile, the Canary Islands see their driest months and clearest water from June to September, with comfortable waters at 19–23°C.",
-    "bestTimeAuto": "From June to July, the sea is calmest, the water is clearest, and there is the least rain. The water is warmest at 17–18°C and cools to about 13°C. Conditions vary by coast."
+    "bestTimeAuto": "From June to July, the sea is calmest, the water is clearest, and there is the least rain. The water is warmest at 17–18°C and cools to about 13°C. Conditions vary by coast.",
+    "bestTimeShort": "Varies by coast"
   },
   "andalucia": {
     "children": [],
@@ -6745,7 +6767,8 @@
       },
       "generatedAt": "2026-07-02T21:52:52.891Z"
     },
-    "bestTime": "From May to September, there is the least rain. The water is warmest at 23–24°C and cools to about 19°C."
+    "bestTime": "From May to September, there is the least rain. The water is warmest at 23–24°C and cools to about 19°C.",
+    "bestTimeShort": "May to September"
   },
   "catalonia": {
     "children": [],
@@ -7030,7 +7053,8 @@
       },
       "generatedAt": "2026-07-02T21:52:52.891Z"
     },
-    "bestTime": "In February and April to May, the sea is calmest, the water is clearest, and there is the least rain. The water warms to 19°C in summer and drops to about 5°C in winter."
+    "bestTime": "In February and April to May, the sea is calmest, the water is clearest, and there is the least rain. The water warms to 19°C in summer and drops to about 5°C in winter.",
+    "bestTimeShort": "February and April to May"
   },
   "gotland": {
     "children": [],
@@ -7330,7 +7354,8 @@
         ]
       },
       "generatedAt": "2026-07-02T21:52:52.891Z"
-    }
+    },
+    "bestTimeShort": "May to June and August to September"
   },
   "aargau": {
     "children": [],
@@ -7822,7 +7847,8 @@
       },
       "generatedAt": "2026-07-02T21:52:52.891Z"
     },
-    "bestTime": "From June to August, the sea is calmest, the water is clearest, and there is the least rain. The water warms to 27–28°C in summer and drops to about 16°C in winter."
+    "bestTime": "From June to August, the sea is calmest, the water is clearest, and there is the least rain. The water warms to 27–28°C in summer and drops to about 16°C in winter.",
+    "bestTimeShort": "June to August"
   },
   "bizerte-governorate": {
     "children": [],
@@ -8123,7 +8149,8 @@
       },
       "generatedAt": "2026-07-02T21:52:52.891Z"
     },
-    "bestTime": "From June to September, the sea is calmest and there is the least rain. The water warms to 27–28°C in summer and drops to about 17°C in winter."
+    "bestTime": "From June to September, the sea is calmest and there is the least rain. The water warms to 27–28°C in summer and drops to about 17°C in winter.",
+    "bestTimeShort": "June to September"
   },
   "antalya-province": {
     "children": [],
@@ -8417,7 +8444,8 @@
       },
       "generatedAt": "2026-07-02T21:52:52.891Z"
     },
-    "bestTime": "From May to July, the sea is calmest, the water is clearest, and there is the least rain. The water warms to 16°C in summer and drops to about 9°C in winter."
+    "bestTime": "From May to July, the sea is calmest, the water is clearest, and there is the least rain. The water warms to 16°C in summer and drops to about 9°C in winter.",
+    "bestTimeShort": "May to July"
   },
   "alba-scotland": {
     "children": [],
@@ -8694,7 +8722,8 @@
       "generatedAt": "2026-07-02T21:52:52.891Z"
     },
     "bestTime": "May to August brings the calmest seas to Scotland, with water temperatures rising to a brisk 12–13°C. Dive during these months for steadier conditions in the chilly waters.",
-    "bestTimeAuto": "From May to August, the sea is calmest. The water is warmest at 12–13°C and cools to about 8°C."
+    "bestTimeAuto": "From May to August, the sea is calmest. The water is warmest at 12–13°C and cools to about 8°C.",
+    "bestTimeShort": "May to August"
   },
   "wales": {
     "children": [],
@@ -8739,7 +8768,8 @@
       "wrecks",
       "historic"
     ],
-    "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&h=600&fit=crop"
+    "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&h=600&fit=crop",
+    "bestTimeShort": "May–October"
   },
   "mediterranean": {
     "children": [],
@@ -8769,7 +8799,8 @@
       "wrecks",
       "historic"
     ],
-    "image": "https://images.unsplash.com/photo-1464983953574-0892a716854b?w=800&h=600&fit=crop"
+    "image": "https://images.unsplash.com/photo-1464983953574-0892a716854b?w=800&h=600&fit=crop",
+    "bestTimeShort": "May–October"
   },
   "italian-riviera": {
     "children": [],
@@ -9029,7 +9060,8 @@
       },
       "generatedAt": "2026-07-02T21:52:52.891Z"
     },
-    "bestTime": "In October, the sea is calmest and the water is clearest. The water is warmest at 21°C and cools to about 16°C."
+    "bestTime": "In October, the sea is calmest and the water is clearest. The water is warmest at 21°C and cools to about 16°C.",
+    "bestTimeShort": "October"
   },
   "czechia": {
     "children": [],
@@ -9297,7 +9329,8 @@
         ]
       },
       "generatedAt": "2026-07-02T21:52:52.891Z"
-    }
+    },
+    "bestTimeShort": "May to August"
   },
   "russia": {
     "children": [],
@@ -9503,7 +9536,8 @@
       "generatedAt": "2026-07-02T21:52:52.891Z"
     },
     "bestTime": "For the south, dive from June to August when seas are calmest, water is clearest, and rains ease. Expect warm dives at 26–27°C. In the north, conditions are diveable year-round but very cold.",
-    "bestTimeAuto": "Conditions vary from coast to coast, but the water stays a mild 8–22°C and somewhere is diveable year-round."
+    "bestTimeAuto": "Conditions vary from coast to coast, but the water stays a mild 8–22°C and somewhere is diveable year-round.",
+    "bestTimeShort": "Varies by coast"
   },
   "ukraine": {
     "children": [],
@@ -9732,7 +9766,8 @@
       "generatedAt": "2026-07-02T21:52:52.891Z"
     },
     "bestTime": "From April to August, the seas calm for diving, while water temperatures range from a brisk 1°C to a milder 19°C at their peak during July and August.",
-    "bestTimeAuto": "From April to August, the sea is calmest. The water warms to 18–19°C in summer and drops to about 1°C in winter."
+    "bestTimeAuto": "From April to August, the sea is calmest. The water warms to 18–19°C in summer and drops to about 1°C in winter.",
+    "bestTimeShort": "April to August"
   },
   "latvia": {
     "children": [],
@@ -9949,7 +9984,8 @@
       },
       "generatedAt": "2026-07-02T21:52:52.891Z"
     },
-    "bestTime": "From April to August, the sea is calmest. The water warms to 19–20°C in summer and drops to about 2°C in winter."
+    "bestTime": "From April to August, the sea is calmest. The water warms to 19–20°C in summer and drops to about 2°C in winter.",
+    "bestTimeShort": "April to August"
   },
   "lithuania": {
     "children": [],
@@ -10174,7 +10210,8 @@
       },
       "generatedAt": "2026-07-02T21:52:52.891Z"
     },
-    "bestTime": "From April to August, the sea is calmest. The water warms to 19–20°C in summer and drops to about 3°C in winter."
+    "bestTime": "From April to August, the sea is calmest. The water warms to 19–20°C in summer and drops to about 3°C in winter.",
+    "bestTimeShort": "April to August"
   },
   "sverdlovsk-oblast": {
     "children": [],

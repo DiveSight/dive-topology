@@ -226,7 +226,8 @@
       },
       "generatedAt": "2026-07-02T21:52:52.891Z"
     },
-    "bestTimeAuto": "Conditions vary from coast to coast, but the water stays a mild 19–25°C and somewhere is diveable year-round."
+    "bestTimeAuto": "Conditions vary from coast to coast, but the water stays a mild 19–25°C and somewhere is diveable year-round.",
+    "bestTimeShort": "April–November"
   },
   "new-south-wales": {
     "children": [],
@@ -290,7 +291,8 @@
       "big animals",
       "adventure"
     ],
-    "image": "https://images.unsplash.com/photo-1518717758536-85ae29035b6d?w=800&h=600&fit=crop"
+    "image": "https://images.unsplash.com/photo-1518717758536-85ae29035b6d?w=800&h=600&fit=crop",
+    "bestTimeShort": "April–October for great white sharks"
   },
   "tasmania": {
     "children": [],
@@ -318,7 +320,8 @@
       "macro",
       "cold"
     ],
-    "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&h=600&fit=crop"
+    "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&h=600&fit=crop",
+    "bestTimeShort": "December–May"
   },
   "victoria": {
     "children": [],
@@ -375,7 +378,8 @@
       "colorful",
       "iconic"
     ],
-    "image": "https://images.unsplash.com/photo-1464983953574-0892a716854b?w=800&h=600&fit=crop"
+    "image": "https://images.unsplash.com/photo-1464983953574-0892a716854b?w=800&h=600&fit=crop",
+    "bestTimeShort": "June–November"
   },
   "ningaloo-reef": {
     "children": [],
@@ -407,7 +411,8 @@
       "iconic",
       "fringing reefs"
     ],
-    "image": "https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?w=800&h=600&fit=crop"
+    "image": "https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?w=800&h=600&fit=crop",
+    "bestTimeShort": "March–July"
   },
   "coral-sea": {
     "children": [],
@@ -439,7 +444,8 @@
       "drop-offs",
       "adventure"
     ],
-    "image": "https://images.unsplash.com/photo-1465101046530-73398c7f28ca?w=800&h=600&fit=crop"
+    "image": "https://images.unsplash.com/photo-1465101046530-73398c7f28ca?w=800&h=600&fit=crop",
+    "bestTimeShort": "September–December"
   },
   "lord-howe-island": {
     "children": [],
@@ -471,7 +477,8 @@
       "reefs",
       "clear water"
     ],
-    "image": "https://images.unsplash.com/photo-1518717758536-85ae29035b6d?w=800&h=600&fit=crop"
+    "image": "https://images.unsplash.com/photo-1518717758536-85ae29035b6d?w=800&h=600&fit=crop",
+    "bestTimeShort": "September–May"
   },
   "sydney": {
     "children": [],
@@ -500,7 +507,8 @@
       "macro",
       "city diving"
     ],
-    "image": "https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?w=800&h=600&fit=crop"
+    "image": "https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?w=800&h=600&fit=crop",
+    "bestTimeShort": "October–May"
   },
   "melbourne": {
     "children": [],
@@ -528,7 +536,8 @@
       "macro",
       "wrecks"
     ],
-    "image": "https://images.unsplash.com/photo-1465101046530-73398c7f28ca?w=800&h=600&fit=crop"
+    "image": "https://images.unsplash.com/photo-1465101046530-73398c7f28ca?w=800&h=600&fit=crop",
+    "bestTimeShort": "December–May"
   },
   "rowley-shoals": {
     "children": [],
@@ -560,7 +569,8 @@
       "reefs",
       "pristine"
     ],
-    "image": "https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?w=800&h=600&fit=crop"
+    "image": "https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?w=800&h=600&fit=crop",
+    "bestTimeShort": "September–December"
   },
   "cocos-keeling-islands": {
     "children": [],

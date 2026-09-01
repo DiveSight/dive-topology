@@ -32,7 +32,8 @@
       "pristine",
       "atolls"
     ],
-    "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&h=600&fit=crop"
+    "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&h=600&fit=crop",
+    "bestTimeShort": "May–October"
   },
   "cook-islands": {
     "children": [],
@@ -259,7 +260,8 @@
       },
       "generatedAt": "2026-07-02T21:52:52.891Z"
     },
-    "bestTimeAuto": "From June to September, there is the least rain. The water is warmest at 28–29°C and cools to about 26°C."
+    "bestTimeAuto": "From June to September, there is the least rain. The water is warmest at 28–29°C and cools to about 26°C.",
+    "bestTimeShort": "June to September"
   },
   "aitutaki": {
     "children": [],
@@ -661,7 +663,8 @@
       },
       "generatedAt": "2026-07-02T21:52:52.891Z"
     },
-    "bestTimeAuto": "From November to April, the sea is calmest. The water is warmest at 28–29°C and cools to about 26°C. Conditions vary by coast."
+    "bestTimeAuto": "From November to April, the sea is calmest. The water is warmest at 28–29°C and cools to about 26°C. Conditions vary by coast.",
+    "bestTimeShort": "Varies by coast"
   },
   "central": {
     "children": [],
@@ -756,7 +759,7 @@
     "description": "The Western Province of the Solomon Islands is known for its clear waters and thriving coral ecosystems.",
     "coordinates": [
       -8.1,
-      157.0
+      157
     ],
     "aliases": [
       "Western"
@@ -1007,7 +1010,8 @@
     "aliases": [
       "Polynésie française",
       "Polynesie Francaise"
-    ]
+    ],
+    "bestTimeShort": "May and July to September"
   },
   "austral-islands": {
     "children": [],
@@ -1304,7 +1308,8 @@
       },
       "generatedAt": "2026-07-02T21:52:52.891Z"
     },
-    "bestTime": "From July to October, the sea is calmest. The water stays a warm 28–30°C all year."
+    "bestTime": "From July to October, the sea is calmest. The water stays a warm 28–30°C all year.",
+    "bestTimeShort": "July to October"
   },
   "arno-atoll": {
     "children": [],
@@ -1656,7 +1661,8 @@
         ]
       },
       "generatedAt": "2026-07-02T21:52:52.891Z"
-    }
+    },
+    "bestTimeShort": "June to October"
   },
   "chuuk": {
     "children": [],
@@ -1950,7 +1956,8 @@
         ]
       },
       "generatedAt": "2026-07-02T21:52:52.891Z"
-    }
+    },
+    "bestTimeShort": "June to September"
   },
   "loyalty-islands": {
     "children": [],
@@ -2230,7 +2237,8 @@
         ]
       },
       "generatedAt": "2026-07-02T21:52:52.891Z"
-    }
+    },
+    "bestTimeShort": "May to July and September to October"
   },
   "airai": {
     "children": [],
@@ -2552,7 +2560,8 @@
       },
       "generatedAt": "2026-07-02T21:52:52.891Z"
     },
-    "bestTime": "From December to February, the sea is calmest and there is the least rain. The water is warmest at 29–30°C and cools to about 27°C. Conditions vary by coast."
+    "bestTime": "From December to February, the sea is calmest and there is the least rain. The water is warmest at 29–30°C and cools to about 27°C. Conditions vary by coast.",
+    "bestTimeShort": "December to February"
   },
   "east-new-britain": {
     "children": [],
@@ -2894,7 +2903,8 @@
       },
       "generatedAt": "2026-07-02T21:52:52.891Z"
     },
-    "bestTime": "From June to September, there is the least rain. The water stays a warm 28–30°C all year."
+    "bestTime": "From June to September, there is the least rain. The water stays a warm 28–30°C all year.",
+    "bestTimeShort": "June to September"
   },
   "savaii": {
     "children": [],
@@ -3161,7 +3171,8 @@
       },
       "generatedAt": "2026-07-02T21:52:52.891Z"
     },
-    "bestTimeAuto": "From October to April, the sea is calmest. The water stays a warm 29–30°C all year."
+    "bestTimeAuto": "From October to April, the sea is calmest. The water stays a warm 29–30°C all year.",
+    "bestTimeShort": "October to April"
   },
   "central-province": {
     "children": [],
@@ -3424,7 +3435,8 @@
         ]
       },
       "generatedAt": "2026-07-02T21:52:52.891Z"
-    }
+    },
+    "bestTimeShort": "June to September"
   },
   "haapai": {
     "children": [],
@@ -3701,7 +3713,8 @@
       },
       "generatedAt": "2026-07-02T21:52:52.891Z"
     },
-    "bestTimeAuto": "From June to September, there is the least rain. The water stays a warm 27–29°C all year."
+    "bestTimeAuto": "From June to September, there is the least rain. The water stays a warm 27–29°C all year.",
+    "bestTimeShort": "June to September"
   },
   "penama": {
     "children": [],
@@ -4020,7 +4033,8 @@
       },
       "generatedAt": "2026-07-02T21:52:52.891Z"
     },
-    "bestTime": "From June to September, there is the least rain. The water is warmest at 28–29°C and cools to about 26°C."
+    "bestTime": "From June to September, there is the least rain. The water is warmest at 28–29°C and cools to about 26°C.",
+    "bestTimeShort": "June to September"
   },
   "united-states-minor-outlying-islands": {
     "children": [],
@@ -4422,7 +4436,8 @@
       "generatedAt": "2026-07-02T21:52:52.891Z"
     },
     "bestTime": "On the east coast, July to October brings the calmest seas, with water temperatures a consistently warm 29–30°C. Meanwhile, from May to September, the west coast enjoys similarly placid conditions.",
-    "bestTimeAuto": "Conditions vary from coast to coast, but the water stays a warm 29–30°C and somewhere is diveable year-round."
+    "bestTimeAuto": "Conditions vary from coast to coast, but the water stays a warm 29–30°C and somewhere is diveable year-round.",
+    "bestTimeShort": "Varies by coast"
   },
   "palmyra-atoll": {
     "children": [],

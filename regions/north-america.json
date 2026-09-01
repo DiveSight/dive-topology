@@ -34,7 +34,8 @@
       "tropical",
       "shore diving"
     ],
-    "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&h=600&fit=crop"
+    "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&h=600&fit=crop",
+    "bestTimeShort": "May–October"
   },
   "canada": {
     "children": [],
@@ -252,7 +253,8 @@
       "generatedAt": "2026-07-02T21:52:52.891Z"
     },
     "bestTime": "On the Pacific coast, dive from May to August for calm seas and dry weather, with temperatures reaching a mild 17–18°C. Along the Atlantic coast, June to August offers calm seas and clear water, warming to 16–17°C.",
-    "bestTimeAuto": "From May to September, the sea is calmest. The water warms to 16°C in summer and drops to about 7°C in winter. Conditions vary by coast."
+    "bestTimeAuto": "From May to September, the sea is calmest. The water warms to 16°C in summer and drops to about 7°C in winter. Conditions vary by coast.",
+    "bestTimeShort": "Varies by coast"
   },
   "alberta": {
     "children": [],
@@ -561,7 +563,8 @@
       "generatedAt": "2026-07-02T21:52:52.891Z"
     },
     "bestTime": "On the Caribbean coast, May and July to October offer calm seas with temperatures at 27–30°C. The Pacific coast sees its clearest water July to October, with 23–29°C. In the Gulf of Mexico, June offers calm seas and clear water, with temperatures of 24–30°C.",
-    "bestTimeAuto": "In May and July to October, the sea is calmest. The water is warmest at 29–30°C and cools to about 27°C. Conditions vary by coast."
+    "bestTimeAuto": "In May and July to October, the sea is calmest. The water is warmest at 29–30°C and cools to about 27°C. Conditions vary by coast.",
+    "bestTimeShort": "Varies by coast"
   },
   "baja-california": {
     "children": [],
@@ -913,7 +916,8 @@
       "generatedAt": "2026-07-02T21:52:52.891Z"
     },
     "bestTime": "On the Pacific coast, June to September brings calmest seas with water at 22–23°C. Meanwhile, the Gulf of Mexico offers calm seas from May to September, with waters heating up to a balmy 30–31°C.",
-    "bestTimeAuto": "From May to September, the sea is calmest. The water warms to 30–31°C in summer and drops to about 22°C in winter. Conditions vary by coast."
+    "bestTimeAuto": "From May to September, the sea is calmest. The water warms to 30–31°C in summer and drops to about 22°C in winter. Conditions vary by coast.",
+    "bestTimeShort": "Varies by coast"
   },
   "alabama": {
     "children": [],
@@ -1238,7 +1242,8 @@
       "generatedAt": "2026-07-02T21:52:52.891Z"
     },
     "bestTime": "In May, the seas are at their calmest, with clearest waters and dry conditions making it an ideal month for diving in Georgia.",
-    "bestTimeAuto": "In May, the sea is calmest, the water is clearest, and there is the least rain. The water warms to 28°C in summer and drops to about 10°C in winter."
+    "bestTimeAuto": "In May, the sea is calmest, the water is clearest, and there is the least rain. The water warms to 28°C in summer and drops to about 10°C in winter.",
+    "bestTimeShort": "May"
   },
   "guam": {
     "children": [],
@@ -1453,7 +1458,8 @@
       },
       "generatedAt": "2026-07-02T21:52:52.891Z"
     },
-    "bestTime": "In May to July and September, the sea is calmest. The water stays a warm 28–30°C all year."
+    "bestTime": "In May to July and September, the sea is calmest. The water stays a warm 28–30°C all year.",
+    "bestTimeShort": "May to July and September"
   },
   "hawaii": {
     "children": [],
@@ -1883,7 +1889,8 @@
       "generatedAt": "2026-07-02T21:52:52.891Z"
     },
     "bestTime": "In May, the seas around the Northern Mariana Islands calm, and the dry spell coincides with warm waters at 29–30°C.",
-    "bestTimeAuto": "In May, the sea is calmest and there is the least rain. The water stays a warm 28–30°C all year."
+    "bestTimeAuto": "In May, the sea is calmest and there is the least rain. The water stays a warm 28–30°C all year.",
+    "bestTimeShort": "May"
   },
   "ohio": {
     "children": [],
@@ -2107,7 +2114,8 @@
       "photography",
       "otters"
     ],
-    "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&h=600&fit=crop"
+    "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&h=600&fit=crop",
+    "bestTimeShort": "September–November"
   },
   "san-diego": {
     "children": [],
@@ -2139,7 +2147,8 @@
       "sea lions",
       "sharks"
     ],
-    "image": "https://images.unsplash.com/photo-1464983953574-0892a716854b?w=800&h=600&fit=crop"
+    "image": "https://images.unsplash.com/photo-1464983953574-0892a716854b?w=800&h=600&fit=crop",
+    "bestTimeShort": "July–October for warmest water"
   },
   "channel-islands": {
     "children": [],
@@ -2169,7 +2178,8 @@
       "protected",
       "islands"
     ],
-    "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&h=600&fit=crop"
+    "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&h=600&fit=crop",
+    "bestTimeShort": "July–October for warmest water"
   },
   "catalina": {
     "children": [],
@@ -2198,7 +2208,8 @@
       "boat diving",
       "island"
     ],
-    "image": "https://images.unsplash.com/photo-1518717758536-85ae29035b6d?w=800&h=600&fit=crop"
+    "image": "https://images.unsplash.com/photo-1518717758536-85ae29035b6d?w=800&h=600&fit=crop",
+    "bestTimeShort": "July–October"
   },
   "anacapa": {
     "children": [],
@@ -2225,7 +2236,8 @@
       "island",
       "sea lions"
     ],
-    "image": "https://images.unsplash.com/photo-1464983953574-0892a716854b?w=800&h=600&fit=crop"
+    "image": "https://images.unsplash.com/photo-1464983953574-0892a716854b?w=800&h=600&fit=crop",
+    "bestTimeShort": "July–October"
   },
   "point-lobos": {
     "children": [],
@@ -2252,7 +2264,8 @@
       "macro",
       "shore diving"
     ],
-    "image": "https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?w=800&h=600&fit=crop"
+    "image": "https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?w=800&h=600&fit=crop",
+    "bestTimeShort": "September–November"
   },
   "big-sur": {
     "children": [],
@@ -2279,7 +2292,8 @@
       "remote",
       "macro"
     ],
-    "image": "https://images.unsplash.com/photo-1465101046530-73398c7f28ca?w=800&h=600&fit=crop"
+    "image": "https://images.unsplash.com/photo-1465101046530-73398c7f28ca?w=800&h=600&fit=crop",
+    "bestTimeShort": "September–November"
   },
   "palos-verdes": {
     "children": [],
@@ -2306,7 +2320,8 @@
       "macro",
       "urban"
     ],
-    "image": "https://images.unsplash.com/photo-1518717758536-85ae29035b6d?w=800&h=600&fit=crop"
+    "image": "https://images.unsplash.com/photo-1518717758536-85ae29035b6d?w=800&h=600&fit=crop",
+    "bestTimeShort": "July–October"
   },
   "malibu": {
     "children": [],
@@ -2331,7 +2346,8 @@
       "shore diving",
       "beaches"
     ],
-    "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&h=600&fit=crop"
+    "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&h=600&fit=crop",
+    "bestTimeShort": "July–October"
   },
   "la-jolla": {
     "children": [],
@@ -2360,7 +2376,8 @@
       "sea lions",
       "sharks"
     ],
-    "image": "https://images.unsplash.com/photo-1464983953574-0892a716854b?w=800&h=600&fit=crop"
+    "image": "https://images.unsplash.com/photo-1464983953574-0892a716854b?w=800&h=600&fit=crop",
+    "bestTimeShort": "July–October"
   },
   "florida-keys": {
     "children": [],
@@ -2713,7 +2730,8 @@
       },
       "generatedAt": "2026-07-02T21:52:52.891Z"
     },
-    "bestTime": "Conditions vary from coast to coast, but the water stays a warm 28–31°C and somewhere is diveable year-round."
+    "bestTime": "Conditions vary from coast to coast, but the water stays a warm 28–31°C and somewhere is diveable year-round.",
+    "bestTimeShort": "Varies by coast"
   },
   "montana": {
     "children": [],

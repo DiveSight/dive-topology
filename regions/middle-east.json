@@ -40,7 +40,8 @@
       "قطر",
       "ليبيا",
       "مصر"
-    ]
+    ],
+    "bestTimeShort": "March–June and September–November"
   },
   "egypt": {
     "children": [],
@@ -277,7 +278,8 @@
       },
       "generatedAt": "2026-07-02T21:52:52.891Z"
     },
-    "bestTimeAuto": "From June to September, the sea is calmest, the water is clearest, and there is the least rain. The water warms to 27–28°C in summer and drops to about 18°C in winter. Conditions vary by coast."
+    "bestTimeAuto": "From June to September, the sea is calmest, the water is clearest, and there is the least rain. The water warms to 27–28°C in summer and drops to about 18°C in winter. Conditions vary by coast.",
+    "bestTimeShort": "Varies by coast"
   },
   "red-sea": {
     "children": [],
@@ -312,7 +314,8 @@
       "big animals",
       "pristine"
     ],
-    "image": "https://images.unsplash.com/photo-1464983953574-0892a716854b?w=800&h=600&fit=crop"
+    "image": "https://images.unsplash.com/photo-1464983953574-0892a716854b?w=800&h=600&fit=crop",
+    "bestTimeShort": "March–June and September–November"
   },
   "red-sea-governorate": {
     "children": [],
@@ -566,7 +569,8 @@
       },
       "generatedAt": "2026-07-02T21:52:52.891Z"
     },
-    "bestTime": "In May, the sea is calmest, the water is clearest, and there is the least rain. The water warms to 33–34°C in summer and drops to about 27°C in winter."
+    "bestTime": "In May, the sea is calmest, the water is clearest, and there is the least rain. The water warms to 33–34°C in summer and drops to about 27°C in winter.",
+    "bestTimeShort": "May"
   },
   "northern-red-sea-region": {
     "children": [],
@@ -857,7 +861,8 @@
         ]
       },
       "generatedAt": "2026-07-02T21:52:52.891Z"
-    }
+    },
+    "bestTimeShort": "June"
   },
   "aqaba": {
     "children": [],
@@ -1090,7 +1095,8 @@
       },
       "generatedAt": "2026-07-02T21:52:52.891Z"
     },
-    "bestTime": "From August to September, the sea is calmest and there is the least rain. The water warms to 33–34°C in summer and drops to about 17°C in winter."
+    "bestTime": "From August to September, the sea is calmest and there is the least rain. The water warms to 33–34°C in summer and drops to about 17°C in winter.",
+    "bestTimeShort": "August to September"
   },
   "oman": {
     "children": [],
@@ -1312,7 +1318,8 @@
       "generatedAt": "2026-07-02T21:52:52.891Z"
     },
     "bestTime": "Dive the Arabian Sea in May or October to November for calmest seas and clearest water; in the Persian Gulf, similar conditions prevail in May and September to October.",
-    "bestTimeAuto": "From May to June, the sea is calmest, the water is clearest, and there is the least rain. The water warms to 32–33°C in summer and drops to about 24°C in winter. Conditions vary by coast."
+    "bestTimeAuto": "From May to June, the sea is calmest, the water is clearest, and there is the least rain. The water warms to 32–33°C in summer and drops to about 24°C in winter. Conditions vary by coast.",
+    "bestTimeShort": "Varies by coast"
   },
   "al-batinah-north-governorate": {
     "children": [],
@@ -1584,7 +1591,8 @@
       },
       "generatedAt": "2026-07-02T21:52:52.891Z"
     },
-    "bestTime": "From January to May, the sea is calmest and the water is clearest. The water warms to 35°C in summer and drops to about 20°C in winter."
+    "bestTime": "From January to May, the sea is calmest and the water is clearest. The water warms to 35°C in summer and drops to about 20°C in winter.",
+    "bestTimeShort": "January to May"
   },
   "saudi-arabia": {
     "children": [],
@@ -1804,7 +1812,8 @@
       "generatedAt": "2026-07-02T21:52:52.891Z"
     },
     "bestTime": "In the north, April and June to August bring dry spells, while in the south, May offers the calmest seas and clearest water, with warm dives at 32–33°C.",
-    "bestTimeAuto": "From June to August, the water is clearest and there is the least rain. The water warms to 30–31°C in summer and drops to about 24°C in winter. Conditions vary by coast."
+    "bestTimeAuto": "From June to August, the water is clearest and there is the least rain. The water warms to 30–31°C in summer and drops to about 24°C in winter. Conditions vary by coast.",
+    "bestTimeShort": "Varies by coast"
   },
   "al-madinah-province": {
     "children": [],
@@ -2080,7 +2089,8 @@
       },
       "generatedAt": "2026-07-02T21:52:52.891Z"
     },
-    "bestTime": "From March to April, the sea is calmest and the water is clearest. The water is warmest at 30°C and cools to about 25°C."
+    "bestTime": "From March to April, the sea is calmest and the water is clearest. The water is warmest at 30°C and cools to about 25°C.",
+    "bestTimeShort": "March to April"
   },
   "socotra": {
     "children": [],
@@ -2313,7 +2323,8 @@
       },
       "generatedAt": "2026-07-02T21:52:52.891Z"
     },
-    "bestTime": "In September, the sea is calmest, the water is clearest, and there is the least rain. The water warms to 33–34°C in summer and drops to about 23°C in winter."
+    "bestTime": "In September, the sea is calmest, the water is clearest, and there is the least rain. The water warms to 33–34°C in summer and drops to about 23°C in winter.",
+    "bestTimeShort": "September"
   },
   "united-arab-emirates": {
     "children": [],
@@ -2538,7 +2549,8 @@
       },
       "generatedAt": "2026-07-02T21:52:52.891Z"
     },
-    "bestTime": "In September, the sea is calmest, the water is clearest, and there is the least rain. The water warms to 33–34°C in summer and drops to about 23°C in winter."
+    "bestTime": "In September, the sea is calmest, the water is clearest, and there is the least rain. The water warms to 33–34°C in summer and drops to about 23°C in winter.",
+    "bestTimeShort": "September"
   },
   "pakistan": {
     "children": [],
@@ -2754,7 +2766,8 @@
       },
       "generatedAt": "2026-07-02T21:52:52.891Z"
     },
-    "bestTime": "From November to February, the sea is calmest. The water warms to 29–30°C in summer and drops to about 23°C in winter."
+    "bestTime": "From November to February, the sea is calmest. The water warms to 29–30°C in summer and drops to about 23°C in winter.",
+    "bestTimeShort": "November to February"
   },
   "iraq": {
     "children": [],

@@ -37,7 +37,8 @@
     "image": "https://images.unsplash.com/photo-1694151425826-db0e185368dd?ixid=M3w4MzAyODF8MHwxfHNlYXJjaHwxfHxBZnJpY2ElMjBkaXZpbmclMjBtYXJpbmV8ZW58MHwwfHx8MTc2MzA0ODY3OHww&ixlib=rb-4.1.0&w=800&h=600&fit=crop",
     "aliases": [
       "Moçambique"
-    ]
+    ],
+    "bestTimeShort": "May–October"
   },
   "comoros": {
     "children": [],
@@ -248,7 +249,8 @@
       },
       "generatedAt": "2026-07-02T21:52:52.891Z"
     },
-    "bestTime": "In October, the sea is calmest and there is the least rain. The water is warmest at 29–30°C and cools to about 26°C."
+    "bestTime": "In October, the sea is calmest and there is the least rain. The water is warmest at 29–30°C and cools to about 26°C.",
+    "bestTimeShort": "October"
   },
   "grande-comore": {
     "children": [],
@@ -503,7 +505,8 @@
       },
       "generatedAt": "2026-07-02T21:52:52.891Z"
     },
-    "bestTimeAuto": "In February to April and November to December, the sea is calmest. The water is warmest at 28–29°C and cools to about 26°C."
+    "bestTimeAuto": "In February to April and November to December, the sea is calmest. The water is warmest at 28–29°C and cools to about 26°C.",
+    "bestTimeShort": "February to April and November to December"
   },
   "kilifi-county": {
     "children": [],
@@ -764,7 +767,8 @@
       },
       "generatedAt": "2026-07-02T21:52:52.891Z"
     },
-    "bestTime": "In February to March and November to December, the sea is calmest. The water is warmest at 29–30°C and cools to about 26°C."
+    "bestTime": "In February to March and November to December, the sea is calmest. The water is warmest at 29–30°C and cools to about 26°C.",
+    "bestTimeShort": "February to March and November to December"
   },
   "mozambique": {
     "children": [],
@@ -1000,7 +1004,8 @@
         ]
       },
       "generatedAt": "2026-07-02T21:52:52.891Z"
-    }
+    },
+    "bestTimeShort": "June to September"
   },
   "cabo-delgado-province": {
     "children": [],
@@ -1276,7 +1281,8 @@
       },
       "generatedAt": "2026-07-02T21:52:52.891Z"
     },
-    "bestTimeAuto": "From June to August, the sea is calmest, the water is clearest, and there is the least rain. The water warms to 25–26°C in summer and drops to about 20°C in winter. Conditions vary by coast."
+    "bestTimeAuto": "From June to August, the sea is calmest, the water is clearest, and there is the least rain. The water warms to 25–26°C in summer and drops to about 20°C in winter. Conditions vary by coast.",
+    "bestTimeShort": "May–September"
   },
   "eastern-cape": {
     "children": [],
@@ -1577,7 +1583,8 @@
       },
       "generatedAt": "2026-07-02T21:52:52.891Z"
     },
-    "bestTimeAuto": "In February, the sea is calmest and there is the least rain. The water is warmest at 29–30°C and cools to about 26°C."
+    "bestTimeAuto": "In February, the sea is calmest and there is the least rain. The water is warmest at 29–30°C and cools to about 26°C.",
+    "bestTimeShort": "February"
   },
   "dar-es-salaam-region": {
     "children": [],
@@ -1970,7 +1977,8 @@
         ]
       },
       "generatedAt": "2026-07-02T21:52:52.891Z"
-    }
+    },
+    "bestTimeShort": "June to September"
   },
   "casablanca-settat": {
     "children": [],
@@ -2274,7 +2282,8 @@
       },
       "generatedAt": "2026-07-02T21:52:52.891Z"
     },
-    "bestTimeAuto": "In June and August to September, the sea is calmest and the water is clearest. The water is warmest at 31–32°C and cools to about 27°C. Conditions vary by coast."
+    "bestTimeAuto": "In June and August to September, the sea is calmest and the water is clearest. The water is warmest at 31–32°C and cools to about 27°C. Conditions vary by coast.",
+    "bestTimeShort": "Varies by coast"
   },
   "obock": {
     "children": [],
@@ -2530,7 +2539,8 @@
       },
       "generatedAt": "2026-07-02T21:52:52.891Z"
     },
-    "bestTimeAuto": "From July to August, the sea is calmest and there is the least rain. The water warms to 31–32°C in summer and drops to about 26°C in winter."
+    "bestTimeAuto": "From July to August, the sea is calmest and there is the least rain. The water warms to 31–32°C in summer and drops to about 26°C in winter.",
+    "bestTimeShort": "July to August"
   },
   "red-sea-state": {
     "children": [],
@@ -2845,7 +2855,8 @@
       },
       "generatedAt": "2026-07-02T21:52:52.891Z"
     },
-    "bestTimeAuto": "From July to October, the water is clearest. The water warms to 28–29°C in summer and drops to about 18°C in winter."
+    "bestTimeAuto": "From July to October, the water is clearest. The water warms to 28–29°C in summer and drops to about 18°C in winter.",
+    "bestTimeShort": "July to October"
   },
   "cape-verde": {
     "children": [],
@@ -3072,7 +3083,8 @@
         ]
       },
       "generatedAt": "2026-07-02T21:52:52.891Z"
-    }
+    },
+    "bestTimeShort": "May to July"
   },
   "saint-helena-island": {
     "children": [],
@@ -3280,7 +3292,8 @@
       "generatedAt": "2026-07-02T21:52:52.891Z"
     },
     "bestTime": "February to May brings the clearest water, with warm temperatures of 28–29°C, perfect for exploring the underwater landscapes.",
-    "bestTimeAuto": "From February to May, the water is clearest. The water is warmest at 28–29°C and cools to about 25°C."
+    "bestTimeAuto": "From February to May, the water is clearest. The water is warmest at 28–29°C and cools to about 25°C.",
+    "bestTimeShort": "February to May"
   },
   "inhaca-island": {
     "children": [],
