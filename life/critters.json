@@ -2133,7 +2133,7 @@
     "taxonomicLevel": "species",
     "isSpecies": true,
     "depiction": "https://inaturalist-open-data.s3.amazonaws.com/photos/298284586/large.jpg",
-    "thumbnail": "https://inaturalist-open-data.s3.amazonaws.com/photos/298284586/medium.jpg",
+    "thumbnail": "https://inaturalist-open-data.s3.amazonaws.com/photos/298284586/medium.jpg?v=40cbc866",
     "imageCredit": {
       "creator": "Niki Hubbard",
       "license": "CC BY 4.0",
@@ -19858,7 +19858,7 @@
     "taxonomicLevel": "species",
     "isSpecies": true,
     "depiction": "https://inaturalist-open-data.s3.amazonaws.com/photos/43885223/large.jpeg",
-    "thumbnail": "https://inaturalist-open-data.s3.amazonaws.com/photos/43885223/medium.jpeg",
+    "thumbnail": "https://inaturalist-open-data.s3.amazonaws.com/photos/43885223/medium.jpeg?v=6cdb34be",
     "imageCredit": {
       "creator": "Dan Schofield",
       "license": "CC BY 4.0",
@@ -44395,7 +44395,7 @@
     "taxonomicLevel": "species",
     "isSpecies": true,
     "depiction": "https://upload.wikimedia.org/wikipedia/commons/2/29/Cheilinus_undulatus_Maldives.JPG",
-    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Cheilinus_undulatus_Maldives.JPG/330px-Cheilinus_undulatus_Maldives.JPG",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Cheilinus_undulatus_Maldives.JPG/330px-Cheilinus_undulatus_Maldives.JPG?v=10d363d3",
     "imageCredit": {
       "creator": "Julien Bidet for MDC Seamarc",
       "license": "CC BY-SA 4.0",
@@ -44800,7 +44800,7 @@
     "taxonomicLevel": "species",
     "isSpecies": true,
     "depiction": "https://inaturalist-open-data.s3.amazonaws.com/photos/436556245/large.jpeg",
-    "thumbnail": "https://inaturalist-open-data.s3.amazonaws.com/photos/436556245/medium.jpeg",
+    "thumbnail": "https://inaturalist-open-data.s3.amazonaws.com/photos/436556245/medium.jpeg?v=c6a9720d",
     "imageCredit": {
       "creator": "Charlotte Kirchner",
       "license": "CC BY 4.0",
@@ -61954,7 +61954,7 @@
     "taxonomicLevel": "species",
     "isSpecies": true,
     "depiction": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Volutidae.JPG",
-    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Volutidae.JPG/330px-Volutidae.JPG",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Volutidae.JPG/330px-Volutidae.JPG?v=75773e6c",
     "imageCredit": {
       "creator": "Haplochromis",
       "license": "Public domain",
@@ -81609,7 +81609,7 @@
     "taxonomicLevel": "species",
     "isSpecies": true,
     "depiction": "https://inaturalist-open-data.s3.amazonaws.com/photos/341861851/large.jpg",
-    "thumbnail": "https://inaturalist-open-data.s3.amazonaws.com/photos/341861851/medium.jpg",
+    "thumbnail": "https://inaturalist-open-data.s3.amazonaws.com/photos/341861851/medium.jpg?v=9aad31c3",
     "imageCredit": {
       "creator": "portioid",
       "license": "CC BY 4.0",
@@ -81833,8 +81833,8 @@
     "genus": "Exocoetus",
     "taxonomicLevel": "species",
     "isSpecies": true,
-    "depiction": "https://storage.googleapis.com/divesight-bathymetry/species/exocoetus-volitans-v2.jpg",
-    "thumbnail": "https://storage.googleapis.com/divesight-bathymetry/species/exocoetus-volitans-v2_thumb.jpg",
+    "depiction": "https://storage.googleapis.com/divesight-bathymetry/species/exocoetus-volitans-v2.jpg?v=8ab3e5c3",
+    "thumbnail": "https://storage.googleapis.com/divesight-bathymetry/species/exocoetus-volitans-v2_thumb.jpg?v=a6363bab",
     "shortDescription": "Classic two-winged flyingfish seen skimming the surface during boat rides to dive sites. Occasionally observed underwater in blue water.",
     "wikipedia": "https://en.wikipedia.org/wiki/Exocoetus_volitans",
     "wormsUrl": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=126385",
@@ -91162,8 +91162,8 @@
     "genus": "Gorgonocephalus",
     "taxonomicLevel": "species",
     "isSpecies": true,
-    "depiction": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Gorgonocephalus_eucnemis_Basket_star.jpg",
-    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Gorgonocephalus_eucnemis_Basket_star.jpg/330px-Gorgonocephalus_eucnemis_Basket_star.jpg",
+    "depiction": "https://storage.googleapis.com/divesight-bathymetry/species/gorgonocephalus-eucnemis.jpg?v=08d76c64",
+    "thumbnail": "https://storage.googleapis.com/divesight-bathymetry/species/gorgonocephalus-eucnemis_thumb.jpg?v=08d76c64",
     "imageCredit": {
       "artist": "Deadlymeap",
       "license": "CC BY-SA 4.0",
@@ -92483,7 +92483,7 @@
     "taxonomicLevel": "species",
     "isSpecies": true,
     "depiction": "https://inaturalist-open-data.s3.amazonaws.com/photos/102092147/original.jpeg",
-    "thumbnail": "https://inaturalist-open-data.s3.amazonaws.com/photos/102092147/medium.jpeg",
+    "thumbnail": "https://inaturalist-open-data.s3.amazonaws.com/photos/102092147/medium.jpeg?v=01109f42",
     "imageCredit": {
       "creator": "desertnaturalist",
       "license": "CC BY",
@@ -93070,7 +93070,7 @@
     "taxonomicLevel": "species",
     "isSpecies": true,
     "depiction": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Morena_boca_blanca_%28Gymnothorax_meleagris%29%2C_Zanz%C3%ADbar%2C_Tanzania%2C_2024-05-29%2C_DD_96.jpg",
-    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Morena_boca_blanca_%28Gymnothorax_meleagris%29%2C_Zanz%C3%ADbar%2C_Tanzania%2C_2024-05-29%2C_DD_96.jpg/330px-Morena_boca_blanca_%28Gymnothorax_meleagris%29%2C_Zanz%C3%ADbar%2C_Tanzania%2C_2024-05-29%2C_DD_96.jpg",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Morena_boca_blanca_%28Gymnothorax_meleagris%29%2C_Zanz%C3%ADbar%2C_Tanzania%2C_2024-05-29%2C_DD_96.jpg/330px-Morena_boca_blanca_%28Gymnothorax_meleagris%29%2C_Zanz%C3%ADbar%2C_Tanzania%2C_2024-05-29%2C_DD_96.jpg?v=52fd093a",
     "imageCredit": {
       "artist": "Diego Delso",
       "license": "CC BY-SA 4.0",
@@ -97384,7 +97384,7 @@
     "taxonomicLevel": "species",
     "isSpecies": true,
     "depiction": "https://upload.wikimedia.org/wikipedia/commons/1/10/Haliotis_rubra_P2153824.JPG",
-    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Haliotis_rubra_P2153824.JPG/330px-Haliotis_rubra_P2153824.JPG",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Haliotis_rubra_P2153824.JPG/330px-Haliotis_rubra_P2153824.JPG?v=9c7a81dc",
     "imageCredit": {
       "creator": "Peter Southwood",
       "license": "CC BY-SA 3.0",
@@ -129711,7 +129711,7 @@
     "taxonomicLevel": "species",
     "isSpecies": true,
     "depiction": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Arabian_Cowry2.jpg",
-    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Arabian_Cowry2.jpg/330px-Arabian_Cowry2.jpg",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Arabian_Cowry2.jpg/330px-Arabian_Cowry2.jpg?v=dcd4fbc2",
     "imageCredit": {
       "creator": "Was a bee",
       "license": "Public domain",
@@ -131170,7 +131170,7 @@
     "taxonomicLevel": "species",
     "isSpecies": true,
     "depiction": "https://inaturalist-open-data.s3.amazonaws.com/photos/197390465/large.jpg",
-    "thumbnail": "https://inaturalist-open-data.s3.amazonaws.com/photos/197390465/medium.jpg",
+    "thumbnail": "https://inaturalist-open-data.s3.amazonaws.com/photos/197390465/medium.jpg?v=58e47545",
     "imageCredit": {
       "creator": "Leila Dasher",
       "license": "CC BY 4.0",
@@ -134387,7 +134387,7 @@
     "taxonomicLevel": "species",
     "isSpecies": true,
     "depiction": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Manta_melanistic.jpg/1280px-Manta_melanistic.jpg",
-    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Manta_melanistic.jpg/330px-Manta_melanistic.jpg",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Manta_melanistic.jpg/330px-Manta_melanistic.jpg?v=81cbf560",
     "imageCredit": {
       "creator": "Steve Laycock (Stevelaycock21)",
       "license": "CC BY-SA 4.0",
@@ -137193,7 +137193,7 @@
     "taxonomicLevel": "species",
     "isSpecies": true,
     "depiction": "https://upload.wikimedia.org/wikipedia/commons/5/59/Mustelus_californicus.jpg",
-    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Mustelus_californicus.jpg/330px-Mustelus_californicus.jpg",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Mustelus_californicus.jpg/330px-Mustelus_californicus.jpg?v=b472dba5",
     "imageCredit": {
       "creator": "Coughdrop12",
       "license": "CC BY-SA 4.0",
@@ -143061,7 +143061,7 @@
     "taxonomicLevel": "species",
     "isSpecies": true,
     "depiction": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Finless_Porpoise.JPG",
-    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Finless_Porpoise.JPG/330px-Finless_Porpoise.JPG",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Finless_Porpoise.JPG/330px-Finless_Porpoise.JPG?v=051c70f2",
     "imageCredit": {
       "creator": "Cipher01",
       "license": "CC BY-SA 3.0",
@@ -186790,7 +186790,7 @@
     "taxonomicLevel": "species",
     "isSpecies": true,
     "depiction": "https://upload.wikimedia.org/wikipedia/commons/4/46/Pugettia_productus.jpg",
-    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Pugettia_productus.jpg/330px-Pugettia_productus.jpg",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Pugettia_productus.jpg/330px-Pugettia_productus.jpg?v=c67c1d29",
     "imageCredit": {
       "artist": "Matt Knoth",
       "license": "CC BY 2.0",
@@ -211742,7 +211742,7 @@
     "taxonomicLevel": "species",
     "isSpecies": true,
     "depiction": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Urchin_%289398869414%29.jpg",
-    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Urchin_%289398869414%29.jpg/330px-Urchin_%289398869414%29.jpg",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Urchin_%289398869414%29.jpg/330px-Urchin_%289398869414%29.jpg?v=45643cb9",
     "imageCredit": {
       "artist": "Ed Bierman",
       "license": "CC BY 2.0",
@@ -211901,7 +211901,7 @@
     "taxonomicLevel": "species",
     "isSpecies": true,
     "depiction": "https://inaturalist-open-data.s3.amazonaws.com/photos/175331571/large.jpeg",
-    "thumbnail": "https://inaturalist-open-data.s3.amazonaws.com/photos/175331571/medium.jpeg",
+    "thumbnail": "https://inaturalist-open-data.s3.amazonaws.com/photos/175331571/medium.jpeg?v=2720b42b",
     "imageCredit": {
       "creator": "Tim",
       "license": "CC BY 4.0",
@@ -217492,7 +217492,7 @@
     "taxonomicLevel": "species",
     "isSpecies": true,
     "depiction": "https://upload.wikimedia.org/wikipedia/commons/4/40/KogashiraBRnup.jpg",
-    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/KogashiraBRnup.jpg/330px-KogashiraBRnup.jpg",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/KogashiraBRnup.jpg/330px-KogashiraBRnup.jpg?v=983739f1",
     "imageCredit": {
       "creator": "Izuzuki",
       "license": "CC BY-SA 3.0",
@@ -223249,7 +223249,7 @@
     "taxonomicLevel": "species",
     "isSpecies": true,
     "depiction": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Leopard_shark_in_kelp.jpg",
-    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Leopard_shark_in_kelp.jpg/330px-Leopard_shark_in_kelp.jpg",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Leopard_shark_in_kelp.jpg/330px-Leopard_shark_in_kelp.jpg?v=d6c32a1e",
     "imageCredit": {
       "artist": "Matthew Field",
       "license": "CC BY-SA 3.0",
@@ -228782,7 +228782,7 @@
     "taxonomicLevel": "species",
     "isSpecies": true,
     "depiction": "https://inaturalist-open-data.s3.amazonaws.com/photos/96377707/large.jpeg",
-    "thumbnail": "https://inaturalist-open-data.s3.amazonaws.com/photos/96377707/medium.jpeg",
+    "thumbnail": "https://inaturalist-open-data.s3.amazonaws.com/photos/96377707/medium.jpeg?v=4782dfcc",
     "imageCredit": {
       "artist": "Javier (@predomalpha on iNaturalist)",
       "license": "CC BY",
