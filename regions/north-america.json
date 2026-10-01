@@ -607,7 +607,9 @@
       "Socorro",
       "Socorro Island",
       "Colima"
-    ]
+    ],
+    "bestTime": "The liveaboard season runs November to May; mantas and sharks throughout, with humpback whales mid-winter.",
+    "bestTimeShort": "November to May"
   },
   "guerrero": {
     "children": [],
@@ -1471,7 +1473,9 @@
     "coordinates": [
       20.8392,
       -157.1278
-    ]
+    ],
+    "bestTime": "Good diving year-round; summer brings the calmest seas, and the Kona manta night dive runs all year.",
+    "bestTimeShort": "Year-round"
   },
   "idaho": {
     "children": [],
