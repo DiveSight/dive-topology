@@ -12071,7 +12071,7 @@
       "zh-Hans": "粉紅雙鋸魚",
       "zh-Hant": "粉紅雙鋸魚",
       "pt": "Peixe-palhaço-rosado",
-      "it": "pesce pagliaccio rosa"
+      "it": "Pesce pagliaccio rosa"
     }
   },
   {
@@ -20565,7 +20565,7 @@
       "zh-Hans": "黑斑叉鼻魨",
       "zh-Hant": "黑斑叉鼻魨",
       "pt": "Baiacu-focinho-de-cão",
-      "it": "pesce palla a macchie nere"
+      "it": "Pesce palla a macchie nere"
     }
   },
   {
@@ -46456,7 +46456,7 @@
       "zh-Hans": "綠海龜",
       "zh-Hant": "綠海龜",
       "pt": "Aruanã",
-      "it": "tartaruga verde"
+      "it": "Tartaruga verde"
     }
   },
   {
@@ -67664,7 +67664,7 @@
       "zh-Hans": "革龜",
       "zh-Hant": "革龜",
       "pt": "Careba-Gigante",
-      "it": "tartaruga liuto"
+      "it": "Tartaruga liuto"
     }
   },
   {
@@ -79572,7 +79572,7 @@
       "zh-Hans": "玳瑁",
       "zh-Hant": "玳瑁",
       "pt": "Tartaruga-Verdadeira",
-      "it": "tartaruga embricata"
+      "it": "Tartaruga embricata"
     }
   },
   {
@@ -81549,7 +81549,8 @@
       "zh-Hans": "拟鳞磷沙蚕",
       "zh-Hant": "擬鱗磷沙蠶",
       "de": "Wunderwurm",
-      "it": "Verme di Rimini"
+      "it": "Verme di Rimini",
+      "pt": "Verme Bobbit"
     }
   },
   {
@@ -132612,7 +132613,7 @@
       "zh-Hans": "大翅鯨",
       "zh-Hant": "大翅鯨",
       "pt": "Baleia-de-bossa",
-      "it": "balena gobba"
+      "it": "Balena gobba"
     }
   },
   {
@@ -149498,7 +149499,7 @@
       "zh-Hans": "蟬形齒指蝦蛄",
       "zh-Hant": "蟬形齒指蝦蛄",
       "pt": "Lagosta-boxeadora",
-      "it": "canocchia pavone"
+      "it": "Canocchia pavone"
     }
   },
   {
@@ -149599,7 +149600,7 @@
       "ja": "アカモンガラ",
       "zh-Hans": "紅牙鱗魨",
       "zh-Hant": "紅牙鱗魨",
-      "it": "pesce balestra denti rossi",
+      "it": "Pesce balestra denti rossi",
       "pt": "Peixe-porco-de-dentes-vermelhos"
     }
   },
@@ -153745,7 +153746,7 @@
       "zh-Hans": "虎鲸",
       "zh-Hant": "虎鯨",
       "pt": "Baleia-assassina",
-      "it": "orca"
+      "it": "Orca"
     }
   },
   {
@@ -171635,7 +171636,7 @@
     ],
     "name_i18n": {
       "en": "Leafy Seadragon",
-      "es": "Velika avstralska algovnica",
+      "es": "Dragón de mar foliáceo",
       "de": "Großer Fetzenfisch",
       "fr": "dragon de mer feuillu",
       "ja": "リーフィーシードラゴン",
@@ -173088,7 +173089,7 @@
       "zh-Hans": "抹香鯨",
       "zh-Hant": "抹香鯨",
       "pt": "cachalote",
-      "it": "capodoglio"
+      "it": "Capodoglio"
     }
   },
   {
@@ -179214,7 +179215,8 @@
       "ja": "アデヤッコ",
       "zh-Hans": "黃顱蓋刺魚",
       "zh-Hant": "黃顱蓋刺魚",
-      "pt": "Peixe-anjo-de-face-azul"
+      "pt": "Peixe-anjo-de-face-azul",
+      "it": "Pesce angelo faccia blu"
     }
   },
   {
@@ -192213,7 +192215,7 @@
       "zh-Hans": "鲸鲨",
       "zh-Hant": "鯨鯊",
       "pt": "Pintadona",
-      "it": "squalo balena"
+      "it": "Squalo balena"
     }
   },
   {
@@ -213652,7 +213654,7 @@
       "zh-Hans": "花斑原海豚",
       "zh-Hant": "花斑原海豚",
       "pt": "golfinho pintado do Atlantico",
-      "it": "stenella maculata atlantica"
+      "it": "Stenella maculata atlantica"
     }
   },
   {
@@ -227230,9 +227232,9 @@
       "fr": "Pieuvre violacée",
       "zh-Hans": "印太水孔蛸",
       "zh-Hant": "印太水孔蛸",
-      "ja": "ムラサキダコ属",
+      "ja": "ムラサキダコ",
       "pt": "Polvo-véu",
-      "it": "Tremoctopus"
+      "it": "Polpo coperta comune"
     }
   },
   {
@@ -230206,7 +230208,7 @@
       "zh-Hans": "瓶鼻海豚",
       "zh-Hant": "瓶鼻海豚",
       "pt": "Golfinho-roaz",
-      "it": "delfino maggiore"
+      "it": "Delfino maggiore"
     }
   },
   {
