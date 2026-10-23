@@ -15454,7 +15454,7 @@
     ],
     "name_i18n": {
       "en": "Striate Anglerfish",
-      "es": "ranisapo estriado",
+      "es": "Ranisapo estriado",
       "de": "Gestreifter Anglerfisch",
       "fr": "Antennaire strié",
       "ja": "カエルアンコウ",
@@ -20558,7 +20558,7 @@
     ],
     "name_i18n": {
       "en": "Blackspotted Puffer",
-      "es": "Botete Cara de Perro",
+      "es": "Botete cara de perro",
       "de": "Schwarzfleck-Kugelfisch",
       "fr": "Poisson-ballon à points noirs",
       "ja": "コクテンフグ",
@@ -25169,7 +25169,7 @@
     ],
     "name_i18n": {
       "en": "Clown Triggerfish",
-      "es": "Ballesta Payaso",
+      "es": "Ballesta payaso",
       "de": "Leopard-Drückerfisch",
       "fr": "Baliste-clown",
       "ja": "モンガラカワハギ",
@@ -35213,7 +35213,7 @@
     ],
     "name_i18n": {
       "en": "Bluefin Trevally",
-      "es": "jurel aleta azul",
+      "es": "Jurel aleta azul",
       "de": "Blauflossen-Makrele",
       "fr": "Carangue bleue",
       "ja": "カスミアジ",
@@ -35884,7 +35884,7 @@
       "ja": "オオメジロザメ",
       "zh-Hans": "公牛真鲨",
       "zh-Hant": "公牛真鯊",
-      "it": "Carcarino",
+      "it": "Squalo leuca",
       "pt": "Cação-fidalgo"
     }
   },
@@ -36249,8 +36249,8 @@
       "ja": "ホホジロザメ",
       "zh-Hans": "噬人鲨",
       "zh-Hant": "噬人鯊",
-      "pt": "Alequim",
-      "it": "Canesca"
+      "pt": "Tubarão-branco",
+      "it": "Squalo bianco"
     }
   },
   {
@@ -41830,7 +41830,7 @@
     ],
     "name_i18n": {
       "en": "Saddle Butterflyfish",
-      "es": "Pez Mariposa",
+      "es": "Pez mariposa",
       "de": "Sattelfleck-Falterfisch",
       "fr": "Poisson-papillon à selle noire",
       "ja": "セグロチョウチョウウオ",
@@ -46455,7 +46455,7 @@
       "ja": "アオウミガメ",
       "zh-Hans": "綠海龜",
       "zh-Hant": "綠海龜",
-      "pt": "Aruanã",
+      "pt": "Tartaruga-verde",
       "it": "Tartaruga verde"
     }
   },
@@ -61533,13 +61533,13 @@
     ],
     "name_i18n": {
       "en": "Lined Bristletooth",
-      "es": "Pez Cirujano Estriado",
+      "es": "Pez cirujano estriado",
       "de": "Längsstreifen-Borstenzahndoktor",
       "fr": "Chirurgien strié",
       "ja": "サザナミハギ",
       "zh-Hans": "漣紋櫛齒刺尾鯛",
       "zh-Hant": "漣紋櫛齒刺尾鯛",
-      "pt": "Barbeiro Estriado",
+      "pt": "Barbeiro estriado",
       "it": "Pesce chirurgo striato"
     }
   },
@@ -67657,7 +67657,7 @@
     ],
     "name_i18n": {
       "en": "Leatherback Sea Turtle",
-      "es": "Tortuga Laúd",
+      "es": "Tortuga laúd",
       "de": "Lederschildkröte",
       "fr": "Tortue Luth",
       "ja": "オサガメ",
@@ -76835,7 +76835,7 @@
       "zh-Hans": "北太平洋巨型章魚",
       "zh-Hant": "北太平洋巨型章魚",
       "it": "Polpo gigante del Pacifico",
-      "pt": "Polvo Gigante do Pacífico Norte"
+      "pt": "Polvo gigante do Pacífico Norte"
     }
   },
   {
@@ -78188,7 +78188,7 @@
       "fr": "Mérou géant",
       "zh-Hans": "伊氏石斑魚",
       "zh-Hant": "伊氏石斑魚",
-      "pt": "mero",
+      "pt": "Mero",
       "it": "Cernia gigante atlantica",
       "ja": "イタヤラ"
     }
@@ -87267,7 +87267,7 @@
       "ja": "イタチザメ",
       "zh-Hans": "鼬鲨",
       "zh-Hant": "鼬鯊",
-      "pt": "Tubarao-tigre",
+      "pt": "Tubarão-tigre",
       "it": "Squalo tigre"
     }
   },
@@ -94646,7 +94646,7 @@
       "zh-Hans": "爪哇裸胸鳝",
       "zh-Hant": "爪哇裸胸鱔",
       "pt": "Moreia-gigante",
-      "it": "Múrena gigante"
+      "it": "Murena gigante"
     }
   },
   {
@@ -99752,7 +99752,7 @@
     ],
     "name_i18n": {
       "en": "Greater Blue-ringed Octopus",
-      "es": "Pulpo de Anillos Azules",
+      "es": "Pulpo de anillos azules",
       "de": "Großer Blaugeringelter Krake",
       "fr": "Poulpe à anneaux bleus",
       "ja": "オオマルモンダコ",
@@ -101365,7 +101365,7 @@
     ],
     "name_i18n": {
       "en": "Pennant Bannerfish",
-      "es": "Pez Estandarte de Hocico dorado",
+      "es": "Pez estandarte de hocico dorado",
       "de": "Pazifik-Wimpelfisch",
       "fr": "Poisson-cocher du Pacifique",
       "ja": "ミナミハタタテダイ",
@@ -104231,7 +104231,7 @@
     ],
     "name_i18n": {
       "en": "Pygmy Seahorse",
-      "es": "Caballito de Mar Pigmeo de Bargibant",
+      "es": "Caballito de mar pigmeo de Bargibant",
       "de": "Zwerg-Seepferdchen",
       "fr": "Hippocampe pygmée rose",
       "ja": "コダマタツ",
@@ -137193,7 +137193,7 @@
       "ja": "マンボウ",
       "zh-Hans": "翻車魨",
       "zh-Hant": "翻車魨",
-      "pt": "Bezedor",
+      "pt": "Peixe-lua",
       "it": "Mola"
     }
   },
@@ -142707,7 +142707,7 @@
     ],
     "name_i18n": {
       "en": "Bignose Unicornfish",
-      "es": "Pez Unicornio Narigudo",
+      "es": "Pez unicornio narigudo",
       "de": "Masken-Nasendoktorfisch",
       "fr": "Nason zébré",
       "ja": "サザナミトサカハギ",
@@ -149492,7 +149492,7 @@
     ],
     "name_i18n": {
       "en": "Peacock Mantis Shrimp",
-      "es": "Camarón Mantis Arlequín",
+      "es": "Camarón mantis arlequín",
       "de": "Clown-Fangschreckenkrebs",
       "fr": "Mante de mer paon",
       "ja": "モンハナシャコ",
@@ -172775,7 +172775,7 @@
     ],
     "name_i18n": {
       "en": "Weedy Seadragon",
-      "es": "Dragón de Mar Común",
+      "es": "Dragón de mar común",
       "de": "Seedrache",
       "fr": "Dragon de Mer Commun",
       "ja": "ウィーディ・シードラゴン",
@@ -173088,7 +173088,7 @@
       "ja": "マッコウクジラ",
       "zh-Hans": "抹香鯨",
       "zh-Hant": "抹香鯨",
-      "pt": "cachalote",
+      "pt": "Cachalote",
       "it": "Capodoglio"
     }
   },
@@ -192214,7 +192214,7 @@
       "ja": "ジンベエザメ",
       "zh-Hans": "鲸鲨",
       "zh-Hant": "鯨鯊",
-      "pt": "Pintadona",
+      "pt": "Tubarão-baleia",
       "it": "Squalo balena"
     }
   },
@@ -192871,7 +192871,7 @@
     ],
     "name_i18n": {
       "en": "Weedy Scorpionfish",
-      "es": "Pez Escorpión Ojón",
+      "es": "Pez escorpión ojón",
       "de": "Tentakel-Drachenkopf",
       "fr": "Poisson-scorpion feuillu",
       "ja": "ボロカサゴ",
@@ -197721,7 +197721,7 @@
       "ja": "トガリエビス",
       "zh-Hans": "尖吻棘鱗魚",
       "zh-Hant": "尖吻棘鱗魚",
-      "es": "Candil Sable",
+      "es": "Candil sable",
       "it": "Pesce scoiattolo spinoso",
       "pt": "Esquilo sabre"
     }
@@ -208809,7 +208809,7 @@
     ],
     "name_i18n": {
       "en": "Ornate Ghostpipefish",
-      "es": "Pez Pipa Fantasma Arlequín",
+      "es": "Pez pipa fantasma arlequín",
       "de": "Harlekin-Geisterpfeifenfisch",
       "fr": "Poisson-fantôme arlequin",
       "ja": "ニシキフウライウオ",
@@ -211096,13 +211096,13 @@
     ],
     "name_i18n": {
       "en": "Scalloped Hammerhead",
-      "es": "Tiburón Martillo Común",
+      "es": "Tiburón martillo común",
       "de": "Bogenstirn-Hammerhai",
       "fr": "Requin-marteau halicorne",
       "ja": "アカシュモクザメ",
       "zh-Hans": "路易氏雙髻鯊",
       "zh-Hant": "路易氏雙髻鯊",
-      "pt": "Cambeva",
+      "pt": "Tubarão-martelo-recortado",
       "it": "Squalo martello smerlato"
     }
   },
@@ -211142,13 +211142,13 @@
     ],
     "name_i18n": {
       "en": "Great Hammerhead",
-      "es": "cornuda gigante",
+      "es": "Cornuda gigante",
       "de": "Großer Hammerhai",
       "fr": "Grand requin-marteau",
       "ja": "ヒラシュモクザメ",
       "zh-Hans": "无沟双髻鲨",
       "zh-Hant": "無溝雙髻鯊",
-      "pt": "Cambeva",
+      "pt": "Tubarão-martelo-panã",
       "it": "Squalo martello maggiore"
     }
   },
@@ -213653,7 +213653,7 @@
       "ja": "タイセイヨウマダライルカ",
       "zh-Hans": "花斑原海豚",
       "zh-Hant": "花斑原海豚",
-      "pt": "golfinho pintado do Atlantico",
+      "pt": "Golfinho-pintado-do-atlântico",
       "it": "Stenella maculata atlantica"
     }
   },
@@ -218386,7 +218386,7 @@
     ],
     "name_i18n": {
       "en": "Mandarinfish",
-      "es": "Pez Mandarín Dragón",
+      "es": "Pez mandarín dragón",
       "de": "Mandarin-Leierfisch",
       "fr": "Poisson mandarin",
       "ja": "ニシキテグリ",
@@ -219466,7 +219466,7 @@
     ],
     "name_i18n": {
       "en": "Leaf Scorpionfish",
-      "es": "Pez Escorpión de Vela",
+      "es": "Pez escorpión de vela",
       "de": "Schaukelfisch",
       "fr": "Poisson-scorpion feuille",
       "ja": "ハダカハオコゼ",
@@ -227282,7 +227282,7 @@
       "zh-Hans": "白鰭鯊",
       "zh-Hant": "白鰭鯊",
       "pt": "Galha-branca-dos-recifes",
-      "it": "Squalo a pina bianca di scogliera"
+      "it": "Squalo pinna bianca del reef"
     }
   },
   {
@@ -235341,13 +235341,13 @@
     ],
     "name_i18n": {
       "en": "Pacific Sailfin Tang",
-      "es": "Pez Cirujano Vela",
+      "es": "Pez cirujano vela",
       "de": "Östlicher Segelflossen-Doktorfisch",
       "fr": "Chirurgien-voile du Pacifique",
       "ja": "ヒレナガハギ",
       "zh-Hans": "橫帶高鰭刺尾鯛",
       "zh-Hant": "橫帶高鰭刺尾鯛",
-      "pt": "Canivete Veleiro"
+      "pt": "Canivete veleiro"
     }
   },
   {
