@@ -61,7 +61,8 @@
     "shortDescription": "Abalistes stellatus, commonly referred to as the starry triggerfish, is a marine ray-finned fish belonging to the Balistidae family. This species has a wide distribution across the Northwest and Northeast Australian Shelves, the Sahul Shelf, and the Western Indian Ocean.",
     "wikipedia": "http://en.wikipedia.org/wiki/Abalistes_stellatus",
     "alias": [
-      "Abalistes stellatus"
+      "Abalistes stellatus",
+      "寬尾鱗魨"
     ],
     "name_i18n": {
       "en": "Starry Triggerfish",
@@ -388,7 +389,8 @@
     "alias": [
       "flat needlefish",
       "Ablennes hians",
-      "ablennes hians"
+      "ablennes hians",
+      "橫帶扁頜針魚"
     ],
     "name_i18n": {
       "en": "Flat Needlefish",
@@ -706,6 +708,9 @@
     "wormsUrl": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=159289",
     "divingRegions": "Maldives & Chagos, Polynesia, Coral Triangle, Java Sea, Micronesia, Great Barrier Reef, Western Australia, Northern Australia, French Polynesia, Sunda Shelf, South Pacific Islands, Western Indian Ocean",
     "bestSeason": "Year-round",
+    "alias": [
+      "六帶豆娘魚 (石剎/石剎婆)"
+    ],
     "name_i18n": {
       "en": "Scissortail Sergeant",
       "de": "Scherenschwanz-Sergeant",
@@ -3142,7 +3147,8 @@
       "interesting"
     ],
     "alias": [
-      "Powder Blue Tang"
+      "Powder Blue Tang",
+      "白胸刺尾魚"
     ],
     "name_i18n": {
       "en": "Powder Blue Tang",
@@ -3434,6 +3440,9 @@
     "photographyTips": "Approach carefully",
     "tags": [
       "reef-fish"
+    ],
+    "alias": [
+      "倒吊"
     ],
     "name_i18n": {
       "en": "Bluelined Surgeonfish",
@@ -3885,7 +3894,8 @@
     "shortDescription": "Acentronura breviperula, also referred to as the shortpouch pygmy pipehorse, is a small species from the Syngnathidae family occurring in the Indo-Pacific region, extending from the eastern Andaman Sea to New Guinea and the northern Great Barrier Reef.",
     "wikipedia": "https://en.wikipedia.org/wiki/Acentronura_breviperula",
     "alias": [
-      "Acentronura breviperula"
+      "Acentronura breviperula",
+      "海馬"
     ],
     "name_i18n": {
       "en": "Shortpouch Pygmy Pipehorse",
@@ -4284,7 +4294,8 @@
       "interesting"
     ],
     "alias": [
-      "European sturgeon"
+      "European sturgeon",
+      "歐洲鱘"
     ],
     "name_i18n": {
       "en": "European Sea Sturgeon",
@@ -4692,7 +4703,8 @@
     "alias": [
       "millepora staghorn coral",
       "Acropora millepora",
-      "acropora millepora"
+      "acropora millepora",
+      "多孔鹿角珊瑚"
     ],
     "name_i18n": {
       "ja": "ハイマツミドリイシ",
@@ -5526,6 +5538,9 @@
       "mollusk",
       "sea-slug"
     ],
+    "alias": [
+      "花環三鰓海蛞蝓"
+    ],
     "name_i18n": {
       "ja": "ハナサキセンヒメウミウシ",
       "zh-Hans": "花环三鳃海牛",
@@ -5598,6 +5613,9 @@
     },
     "shortDescription": "Aegires villosus is a dorid nudibranch in the family Aegiridae, found in the Warm Temperate Northwest Pacific, Western Coral Triangle, South Kuroshio, Eastern Coral Triangle, and the Marshall, Gilbert, and Ellis Islands.",
     "wikipedia": "http://en.wikipedia.org/wiki/Aegires_villosus",
+    "alias": [
+      "絨毛三葉鰓"
+    ],
     "name_i18n": {
       "fr": "Aegires villeuse",
       "ja": "センヒメウミウシ",
@@ -6009,7 +6027,8 @@
       "Spotted Eagle Ray",
       "Atlantic Spotted Eagle Ray",
       "Eagle Ray",
-      "Aetobatus narinari"
+      "Aetobatus narinari",
+      "雪花鴨嘴燕魟"
     ],
     "name_i18n": {
       "en": "Spotted Eagle Ray",
@@ -7184,7 +7203,8 @@
     "alias": [
       "bonefish",
       "Albula vulpes",
-      "albula vulpes"
+      "albula vulpes",
+      "北梭魚"
     ],
     "name_i18n": {
       "en": "Common Bonefish",
@@ -7598,7 +7618,8 @@
     "alias": [
       "longnose lancetfish",
       "Alepisaurus ferox",
-      "alepisaurus ferox"
+      "alepisaurus ferox",
+      "北方帆蜥魚"
     ],
     "name_i18n": {
       "en": "Longnose Lancetfish",
@@ -8690,7 +8711,8 @@
     "alias": [
       "ochre-striped pistol shrimp",
       "Alpheus ochrostriatus",
-      "alpheus ochrostriatus"
+      "alpheus ochrostriatus",
+      "黃帶槍蝦（黃紋槍蝦）"
     ],
     "name_i18n": {
       "en": "Fine-striped Snapping Shrimp",
@@ -9032,7 +9054,8 @@
       "interesting"
     ],
     "alias": [
-      "Scrawled Filefish"
+      "Scrawled Filefish",
+      "擬態革魨"
     ],
     "name_i18n": {
       "en": "Scrawled Filefish",
@@ -9348,6 +9371,9 @@
     "tags": [
       "reef-fish"
     ],
+    "alias": [
+      "斜帶鈍塘鱧"
+    ],
     "name_i18n": {
       "en": "Diagonal Shrimpgoby",
       "ja": "ハチマキダテハゼ",
@@ -9420,6 +9446,9 @@
     "tags": [
       "reef-fish"
     ],
+    "alias": [
+      "福氏鈍塘鱧"
+    ],
     "name_i18n": {
       "en": "Giant shrimpgoby",
       "ja": "ニュウドウダテハゼ",
@@ -9458,7 +9487,8 @@
     ],
     "alias": [
       "orangespotted shrimp goby",
-      "orangespotted shrimp"
+      "orangespotted shrimp",
+      "點紋鈍塘鱧"
     ],
     "name_i18n": {
       "en": "Spotted Shrimpgoby",
@@ -9497,6 +9527,9 @@
     "tags": [
       "reef-fish"
     ],
+    "alias": [
+      "日本鈍塘鱧"
+    ],
     "name_i18n": {
       "ja": "ダテハゼ",
       "zh-Hans": "日本钝塘鳢",
@@ -9533,6 +9566,9 @@
     "tags": [
       "reef-fish"
     ],
+    "alias": [
+      "小笠原鈍塘鱧"
+    ],
     "name_i18n": {
       "en": "Redspotted Shrimpgoby",
       "ja": "ミナミダテハゼ",
@@ -9568,6 +9604,9 @@
     "photographyTips": "Macro essential",
     "tags": [
       "reef-fish"
+    ],
+    "alias": [
+      "圓眶鈍塘鱧"
     ],
     "name_i18n": {
       "en": "Broad-banded Shrimpgoby",
@@ -9608,7 +9647,8 @@
     ],
     "alias": [
       "randall's shrimp goby",
-      "randalls shrimp"
+      "randalls shrimp",
+      "倫氏鈍塘鱧"
     ],
     "name_i18n": {
       "en": "Sailfin Shrimpgoby",
@@ -9687,7 +9727,8 @@
       "steinitz's shrimp goby",
       "steinitzs shrimp",
       "Steinitzs Shrimp Goby",
-      "steinitzs-shrimp-goby"
+      "steinitzs-shrimp-goby",
+      "施氏鈍塘鱧"
     ],
     "name_i18n": {
       "en": "Steinitz's Shrimpgoby",
@@ -9729,7 +9770,8 @@
     ],
     "alias": [
       "gorgeous shrimp goby",
-      "gorgeous shrimp"
+      "gorgeous shrimp",
+      "威氏鈍塘鱧"
     ],
     "name_i18n": {
       "en": "Gorgeous Shrimpgoby",
@@ -10088,7 +10130,8 @@
     ],
     "alias": [
       "broadbarred goby",
-      "Broadbarred Goby"
+      "Broadbarred Goby",
+      "尾斑鈍鰕虎魚"
     ],
     "name_i18n": {
       "en": "Whitebarred Goby",
@@ -10880,7 +10923,8 @@
       "echinoderm"
     ],
     "alias": [
-      "Amphipholis squamata"
+      "Amphipholis squamata",
+      "蛇尾綱"
     ],
     "name_i18n": {
       "en": "Dwarf Brittle Star",
@@ -10922,7 +10966,8 @@
     ],
     "alias": [
       "amphiprion akallopisos",
-      "skunk anemonefish"
+      "skunk anemonefish",
+      "背紋雙鋸魚"
     ],
     "name_i18n": {
       "en": "Skunk Anemonefish",
@@ -11335,6 +11380,9 @@
     "tags": [
       "reef-fish"
     ],
+    "alias": [
+      "大眼雙鋸魚"
+    ],
     "name_i18n": {
       "en": "Red Saddleback Anemonefish",
       "es": "Pez payaso naranja ensillado",
@@ -11582,6 +11630,9 @@
     "photographyTips": "Approach slowly; natural light works well",
     "tags": [
       "reef-fish"
+    ],
+    "alias": [
+      "黑雙鋸魚"
     ],
     "name_i18n": {
       "en": "Blackback Anemonefish",
@@ -13932,7 +13983,8 @@
       "interesting"
     ],
     "alias": [
-      "American eel"
+      "American eel",
+      "美洲鰻鱺"
     ],
     "name_i18n": {
       "en": "American Eel",
@@ -14975,7 +15027,8 @@
       "interesting"
     ],
     "alias": [
-      "Longlure Frogfish"
+      "Longlure Frogfish",
+      "多斑躄魚"
     ],
     "name_i18n": {
       "en": "Longlure Frogfish",
@@ -16011,7 +16064,8 @@
       "White-Lined Grouper",
       "white lined",
       "white-lined grouper",
-      "white-lined-grouper"
+      "white-lined-grouper",
+      "白線光顎鱸"
     ],
     "name_i18n": {
       "en": "Slender Grouper",
@@ -19236,7 +19290,8 @@
     "alias": [
       "brown paper nautilus",
       "Argonauta hians",
-      "argonauta hians"
+      "argonauta hians",
+      "錦葵船蛸"
     ],
     "name_i18n": {
       "en": "Brown Argonaut",
@@ -19438,7 +19493,8 @@
       "interesting"
     ],
     "alias": [
-      "Mulloway"
+      "Mulloway",
+      "日本白姑魚"
     ],
     "name_i18n": {
       "en": "Mulloway",
@@ -20052,7 +20108,8 @@
       "interesting"
     ],
     "alias": [
-      "Mappa Pufferfish"
+      "Mappa Pufferfish",
+      "條紋叉鼻魨"
     ],
     "name_i18n": {
       "en": "Map Puffer",
@@ -20615,6 +20672,9 @@
       "algae",
       "marine-plant"
     ],
+    "alias": [
+      "海門冬"
+    ],
     "name_i18n": {
       "en": "red sea plume",
       "fr": "Asparagopsis if",
@@ -20725,6 +20785,9 @@
     "photographyTips": "Approach slowly on the reef",
     "tags": [
       "reef-fish"
+    ],
+    "alias": [
+      "狗鰷"
     ],
     "name_i18n": {
       "en": "False Cleanerfish",
@@ -21237,7 +21300,8 @@
     "alias": [
       "bushy-backed nudibranch",
       "Asteronotus cespitosus",
-      "asteronotus cespitosus"
+      "asteronotus cespitosus",
+      "草皮星背海牛"
     ],
     "name_i18n": {
       "en": "Clumpy Nudibranch",
@@ -21339,6 +21403,9 @@
     "divingRegions": "Maldives & Chagos, Polynesia, Eastern Australia, Coral Triangle, Hawaii, Java Sea, Micronesia, Great Barrier Reef, Western Australia, Red Sea, Southern Japan, French Polynesia, South Pacific Islands, Japan, Western Indian Ocean",
     "bestSeason": "Year-round",
     "photographyTips": "Flash illumination reveals the iridescent blue spots; photograph head-on to maximize the blue spot display.",
+    "alias": [
+      "星塘鱧"
+    ],
     "name_i18n": {
       "en": "Starry Goby",
       "fr": "Gobie à points bleus",
@@ -22972,6 +23039,9 @@
       "bivalve",
       "mollusk"
     ],
+    "alias": [
+      "旗江珧"
+    ],
     "name_i18n": {
       "en": "Flag Atrina",
       "fr": "Nacre étendard",
@@ -23648,7 +23718,8 @@
     ],
     "alias": [
       "auxis thazard",
-      "frigate tuna"
+      "frigate tuna",
+      "扁舵鰹"
     ],
     "name_i18n": {
       "en": "Frigate Tuna",
@@ -23985,6 +24056,9 @@
       "cetacean",
       "marine-mammal"
     ],
+    "alias": [
+      "弓頭鯨"
+    ],
     "name_i18n": {
       "en": "Bowhead Whale",
       "es": "Ballena boreal",
@@ -24027,7 +24101,8 @@
       "minke-whale",
       "balaenoptera acutorostrata (dwarf form)",
       "dwarf minke whale",
-      "Minke Whale"
+      "Minke Whale",
+      "小鬚鯨"
     ],
     "name_i18n": {
       "en": "Common Minke Whale",
@@ -24166,7 +24241,8 @@
       "marine-mammal"
     ],
     "alias": [
-      "balaenoptera edeni"
+      "balaenoptera edeni",
+      "鯷鯨"
     ],
     "name_i18n": {
       "en": "Eden's Whale",
@@ -24302,7 +24378,8 @@
       "interesting"
     ],
     "alias": [
-      "Fin Whale"
+      "Fin Whale",
+      "長鬚鯨"
     ],
     "name_i18n": {
       "en": "Fin Whale",
@@ -24720,7 +24797,8 @@
       "interesting"
     ],
     "alias": [
-      "Clown Triggerfish"
+      "Clown Triggerfish",
+      "花斑擬板機魨"
     ],
     "name_i18n": {
       "en": "Clown Triggerfish",
@@ -25058,7 +25136,8 @@
     "shortDescription": "Bathygobius coalitus, commonly called the Whitespotted Frillgoby, is a species of fish in the Gobiidae family. Its distribution includes the South Kuroshio, Western Indian Ocean, Hawaii, and various regions of the Tropical Southwestern Pacific and Agulhas.",
     "wikipedia": "https://en.wikipedia.org/wiki/Bathygobius_coalitus",
     "alias": [
-      "Bathygobius coalitus"
+      "Bathygobius coalitus",
+      "藍點深鰕虎魚"
     ],
     "name_i18n": {
       "en": "Whitespotted Frillgoby",
@@ -25132,6 +25211,9 @@
     "photographyTips": "Approach carefully",
     "tags": [
       "reef-fish"
+    ],
+    "alias": [
+      "深鰕虎魚"
     ],
     "name_i18n": {
       "en": "Dusky Frillgoby",
@@ -26686,6 +26768,9 @@
     "tags": [
       "reef-fish"
     ],
+    "alias": [
+      "雙斑普提魚"
+    ],
     "name_i18n": {
       "en": "Twospot Pigfish",
       "fr": "Labre à deux taches",
@@ -26860,6 +26945,9 @@
     "tags": [
       "reef-fish"
     ],
+    "alias": [
+      "伊津普提魚"
+    ],
     "name_i18n": {
       "en": "Striped Pigfish",
       "ja": "タヌキベラ",
@@ -26895,6 +26983,9 @@
     "photographyTips": "Approach carefully",
     "tags": [
       "reef-fish"
+    ],
+    "alias": [
+      "斜帶普提魚"
     ],
     "name_i18n": {
       "en": "Blackfin Hogfish",
@@ -26933,6 +27024,9 @@
     "photographyTips": "Approach carefully",
     "tags": [
       "reef-fish"
+    ],
+    "alias": [
+      "益田普提魚"
     ],
     "name_i18n": {
       "en": "Masuda's candy hogfish",
@@ -27055,7 +27149,8 @@
       "interesting"
     ],
     "alias": [
-      "Hulafish"
+      "Hulafish",
+      "尖頭普提魚"
     ],
     "name_i18n": {
       "en": "Nagasaki hogfish",
@@ -27191,7 +27286,8 @@
       "interesting"
     ],
     "alias": [
-      "Maori Sea Perch"
+      "Maori Sea Perch",
+      "單斑普提魚"
     ],
     "name_i18n": {
       "en": "Eastern Pigfish",
@@ -27230,7 +27326,8 @@
     ],
     "alias": [
       "bodianus vulpinus",
-      "red pigfish"
+      "red pigfish",
+      "黑點普提魚"
     ],
     "name_i18n": {
       "en": "Western Pigfish",
@@ -27975,6 +28072,9 @@
     "wormsUrl": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=126110",
     "divingRegions": "Maldives & Chagos, Coral Triangle, Red Sea, Micronesia, Western Indian Ocean",
     "bestSeason": "Year-round",
+    "alias": [
+      "豹鮃"
+    ],
     "name_i18n": {
       "en": "Panther Flounder",
       "de": "Panther-Butt",
@@ -29746,7 +29846,8 @@
     "alias": [
       "ornate cadlinella",
       "Cadlinella ornatissima",
-      "cadlinella ornatissima"
+      "cadlinella ornatissima",
+      "裝飾多彩海蛞蝓（ 裝飾法官海麒麟）"
     ],
     "name_i18n": {
       "fr": "Cadlinelle ornée",
@@ -29857,7 +29958,8 @@
       "interesting"
     ],
     "alias": [
-      "Yellowtail Fusilier"
+      "Yellowtail Fusilier",
+      "黃尾梅鯛"
     ],
     "name_i18n": {
       "en": "Yellowtail Fusilier",
@@ -29945,7 +30047,8 @@
     ],
     "alias": [
       "banana fusilier",
-      "banana-fusilier"
+      "banana-fusilier",
+      "斑尾鱗鰭梅鯛"
     ],
     "name_i18n": {
       "en": "Ruddy Fusilier",
@@ -30778,7 +30881,8 @@
       "crustacean"
     ],
     "alias": [
-      "Calcinus laevimanus"
+      "Calcinus laevimanus",
+      "光掌硬螯寄居蟹"
     ],
     "name_i18n": {
       "en": "Left-handed Hermit Crab",
@@ -30894,7 +30998,8 @@
       "crustacean"
     ],
     "alias": [
-      "Calcinus minutus"
+      "Calcinus minutus",
+      "微小硬殼寄居蟹(微小硬殼寄居蟹)"
     ],
     "name_i18n": {
       "en": "Small White Hermit Crab",
@@ -32050,6 +32155,9 @@
     "tags": [
       "reef-fish"
     ],
+    "alias": [
+      "麗鮗"
+    ],
     "name_i18n": {
       "en": "Comet",
       "de": "Mirakelfisch",
@@ -32465,7 +32573,8 @@
     "alias": [
       "indian caloria",
       "Caloria indica",
-      "caloria indica"
+      "caloria indica",
+      "印度灰翼海蛞蝓"
     ],
     "name_i18n": {
       "en": "Indian Caloria",
@@ -33133,7 +33242,8 @@
     "shortDescription": "The Ambon toby (Canthigaster amboinensis) is a species of pufferfish in the family Tetraodontidae, commonly found in the tropical Indo-Pacific Ocean, including regions such as Hawaii, Central Polynesia, and the Western Indian Ocean.",
     "wikipedia": "https://en.wikipedia.org/wiki/Canthigaster_amboinensis",
     "alias": [
-      "Canthigaster amboinensis"
+      "Canthigaster amboinensis",
+      "安汶扁背魨"
     ],
     "name_i18n": {
       "en": "Ambon Toby",
@@ -33174,6 +33284,9 @@
     "wormsUrl": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=126238",
     "divingRegions": "Coral Triangle, Hawaii, Great Barrier Reef, Western Australia, Northern Australia, Southern Japan, South Pacific Islands",
     "bestSeason": "Year-round",
+    "alias": [
+      "軸扁背魨"
+    ],
     "name_i18n": {
       "en": "Pacific Crown Toby",
       "fr": "Canthigaster couronné du Pacifique",
@@ -33210,6 +33323,9 @@
     "wormsUrl": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=126238",
     "divingRegions": "Maldives & Chagos, Polynesia, Coral Triangle, Micronesia, Great Barrier Reef, Western Australia, Northern Australia, French Polynesia, South Pacific Islands, Western Indian Ocean",
     "bestSeason": "Year-round",
+    "alias": [
+      "點線扁背魨"
+    ],
     "name_i18n": {
       "en": "Whitebelly Toby",
       "es": "Tamborín de Bennett",
@@ -33320,6 +33436,9 @@
     "wormsUrl": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=126238",
     "divingRegions": "Coral Triangle, Micronesia, Great Barrier Reef, Northern Australia, South Pacific Islands",
     "bestSeason": "Year-round",
+    "alias": [
+      "細紋扁背魨"
+    ],
     "name_i18n": {
       "en": "Fingerprint Toby",
       "de": "Labyrinth-Spitzkopfkugelfisch",
@@ -33355,7 +33474,8 @@
     "shortDescription": "Canthigaster coronata, commonly referred to as the Hawaiian Crown Toby, is a pufferfish endemic to the Hawaiian Islands and part of the family Tetraodontidae.",
     "wikipedia": "http://en.wikipedia.org/wiki/Canthigaster_coronata",
     "alias": [
-      "Canthigaster coronata"
+      "Canthigaster coronata",
+      "花冠扁背魨"
     ],
     "name_i18n": {
       "en": "Hawaiian Crown Toby",
@@ -33401,7 +33521,8 @@
       "interesting"
     ],
     "alias": [
-      "Hawaiian whitespotted toby"
+      "Hawaiian whitespotted toby",
+      "圓點扁背魨"
     ],
     "name_i18n": {
       "en": "Hawaiian Spotted Toby",
@@ -33976,7 +34097,8 @@
       "interesting"
     ],
     "alias": [
-      "Pink Maomao"
+      "Pink Maomao",
+      "長鰭菱牙鮨"
     ],
     "name_i18n": {
       "en": "Longfin Perch",
@@ -34052,7 +34174,8 @@
     "divingRegions": "Maldives & Chagos, Polynesia, Coral Triangle, Hawaii, Micronesia, Great Barrier Reef, Southern Japan, French Polynesia, South Pacific Islands",
     "alias": [
       "lord howe coral croucher",
-      "norfolk island pine tree fish"
+      "norfolk island pine tree fish",
+      "斑點頭棘鮋"
     ],
     "name_i18n": {
       "en": "Spotted Croucher",
@@ -34379,7 +34502,8 @@
       "interesting"
     ],
     "alias": [
-      "Jack Crevalle"
+      "Jack Crevalle",
+      "馬鰺"
     ],
     "name_i18n": {
       "en": "Atlantic Crevalle Jack",
@@ -34426,7 +34550,8 @@
       "reef-fish"
     ],
     "alias": [
-      "Jack Trevally"
+      "Jack Trevally",
+      "珍鰺"
     ],
     "name_i18n": {
       "en": "Giant Trevally",
@@ -34747,7 +34872,8 @@
     "bestSeason": "Not applicable - freshwater aquarium fish",
     "photographyTips": "Not relevant for marine diving photography",
     "alias": [
-      "Introduced Goldfish"
+      "Introduced Goldfish",
+      "鯽魚 (金魚)"
     ],
     "name_i18n": {
       "en": "Goldfish",
@@ -34874,7 +35000,8 @@
       "interesting"
     ],
     "alias": [
-      "White-Tip Reef Shark"
+      "White-Tip Reef Shark",
+      "白邊真鯊"
     ],
     "name_i18n": {
       "en": "Silvertip Shark",
@@ -34912,7 +35039,8 @@
     "wikipedia": "https://en.wikipedia.org/wiki/Carcharhinus_altimus",
     "divingRegions": "North Atlantic, Eastern Australia, Western Australia, Caribbean, US East Coast",
     "alias": [
-      "mediterranean shark"
+      "mediterranean shark",
+      "高翅真鯊"
     ],
     "name_i18n": {
       "en": "Bignose Shark",
@@ -35050,7 +35178,8 @@
       "interesting"
     ],
     "alias": [
-      "Spinner Shark"
+      "Spinner Shark",
+      "短鰭真鯊"
     ],
     "name_i18n": {
       "en": "Spinner Shark",
@@ -35184,7 +35313,8 @@
       "interesting"
     ],
     "alias": [
-      "Galápagos Shark"
+      "Galápagos Shark",
+      "直翅真鯊"
     ],
     "name_i18n": {
       "en": "Galápagos Shark",
@@ -35235,7 +35365,8 @@
       "Bull Shark",
       "Zambezi Shark",
       "carcharhinus leucas",
-      "zambezi shark"
+      "zambezi shark",
+      "公牛真鯊"
     ],
     "name_i18n": {
       "en": "Bull Shark",
@@ -35371,7 +35502,8 @@
     ],
     "alias": [
       "Blacktip Reef Shark",
-      "Black Tip Reef Shark"
+      "Black Tip Reef Shark",
+      "黑鰭鯊"
     ],
     "name_i18n": {
       "en": "Blacktip Reef Shark",
@@ -35418,7 +35550,8 @@
       "interesting"
     ],
     "alias": [
-      "Dusky Whaler Shark"
+      "Dusky Whaler Shark",
+      "灰真鯊"
     ],
     "name_i18n": {
       "en": "Dusky Shark",
@@ -35600,7 +35733,8 @@
       "shark"
     ],
     "alias": [
-      "White Shark"
+      "White Shark",
+      "噬人鯊"
     ],
     "name_i18n": {
       "en": "Great White Shark",
@@ -36944,6 +37078,9 @@
       "gastropod",
       "mollusk"
     ],
+    "alias": [
+      "三齒駝蝶螺"
+    ],
     "name_i18n": {
       "en": "Three-tooth Cavoline",
       "fr": "Cavoline tridentée",
@@ -37110,7 +37247,8 @@
     "bestSeason": "Year-round",
     "alias": [
       "rigid shrimpfish",
-      "Rigid shrimpfish"
+      "Rigid shrimpfish",
+      "刀片魚"
     ],
     "name_i18n": {
       "en": "Grooved Razorfish",
@@ -37649,6 +37787,9 @@
     "tags": [
       "reef-fish"
     ],
+    "alias": [
+      "鐵紅刺尻魚"
+    ],
     "name_i18n": {
       "en": "Rusty Angelfish",
       "es": "Ángel oxidado",
@@ -37687,6 +37828,9 @@
     "photographyTips": "Approach slowly",
     "tags": [
       "reef-fish"
+    ],
+    "alias": [
+      "條尾刺尻魚"
     ],
     "name_i18n": {
       "en": "Fisher's Angelfish",
@@ -38445,7 +38589,8 @@
     "alias": [
       "cephalopholis cyanostigma",
       "blue-spotted grouper",
-      "blue spotted grouper"
+      "blue spotted grouper",
+      "藍點九棘鱸"
     ],
     "name_i18n": {
       "en": "Bluespotted Grouper",
@@ -38612,6 +38757,9 @@
     "tags": [
       "reef-fish"
     ],
+    "alias": [
+      "七帶九棘鱸"
+    ],
     "name_i18n": {
       "en": "Garish Hind",
       "es": "Cherna chillona",
@@ -38649,6 +38797,9 @@
     "photographyTips": "Approach slowly; natural light works well",
     "tags": [
       "reef-fish"
+    ],
+    "alias": [
+      "豹紋九棘鱸"
     ],
     "name_i18n": {
       "en": "Leopard Grouper",
@@ -38857,7 +39008,8 @@
       "Six-Spot Grouper",
       "Sixblotch Hind",
       "sixblotch hind",
-      "sixblotch-hind"
+      "sixblotch-hind",
+      "六斑九棘鱸"
     ],
     "name_i18n": {
       "en": "Saddle Grouper",
@@ -38945,7 +39097,8 @@
     ],
     "alias": [
       "strawberry grouper",
-      "Strawberry grouper"
+      "Strawberry grouper",
+      "黑緣九棘鱸"
     ],
     "name_i18n": {
       "en": "Strawberry Grouper",
@@ -39758,7 +39911,8 @@
     "photographyTips": "Shoot from the side to capture the dramatic profile and horn projections. Multiple angles reveal different aspects of its bizarre form.",
     "alias": [
       "Ceratosoma trilobatum",
-      "ceratosoma trilobatum"
+      "ceratosoma trilobatum",
+      "三葉角質海蛞蝓"
     ],
     "name_i18n": {
       "en": "Three-lobed T-bar Nudibranch",
@@ -40199,7 +40353,8 @@
     "alias": [
       "bicolor parrotfish",
       "cetoscarus bicolor",
-      "bicolor-parrotfish"
+      "bicolor-parrotfish",
+      "青鯨鸚嘴魚"
     ],
     "name_i18n": {
       "en": "Bicolour Parrotfish",
@@ -41126,6 +41281,9 @@
     "tags": [
       "reef-fish"
     ],
+    "alias": [
+      "紋帶蝴蝶魚"
+    ],
     "name_i18n": {
       "en": "Saddleback Butterflyfish",
       "de": "Indischer Doppelsattel-Falterfisch",
@@ -41421,7 +41579,8 @@
       "reef-fish"
     ],
     "alias": [
-      "sunburst butterflyfish"
+      "sunburst butterflyfish",
+      "珠蝴蝶魚"
     ],
     "name_i18n": {
       "en": "Blacklip Butterflyfish",
@@ -41919,6 +42078,9 @@
     "tags": [
       "interesting"
     ],
+    "alias": [
+      "粟點蝴蝶魚"
+    ],
     "name_i18n": {
       "en": "Milletseed Butterflyfish",
       "de": "Zitronen-Falterfisch",
@@ -41955,6 +42117,9 @@
     "photographyTips": "Approach carefully",
     "tags": [
       "reef-fish"
+    ],
+    "alias": [
+      "耳帶蝴蝶魚"
     ],
     "name_i18n": {
       "en": "Oriental Butterflyfish",
@@ -42720,6 +42885,9 @@
     "tags": [
       "reef-fish"
     ],
+    "alias": [
+      "細點蝴蝶魚"
+    ],
     "name_i18n": {
       "en": "Dotted Butterflyfish",
       "de": "Blaustirn-Falterfisch",
@@ -43035,7 +43203,8 @@
     ],
     "alias": [
       "Chevron Butterflyfish",
-      "Three-Banded Butterflyfish"
+      "Three-Banded Butterflyfish",
+      "巛紋蝴蝶魚"
     ],
     "name_i18n": {
       "en": "Chevron Butterflyfish",
@@ -43076,6 +43245,9 @@
     "photographyTips": "Approach slowly",
     "tags": [
       "reef-fish"
+    ],
+    "alias": [
+      "三帶蝴蝶魚"
     ],
     "name_i18n": {
       "en": "Indian Redfin Butterflyfish",
@@ -43467,7 +43639,8 @@
     "divingRegions": "Great Barrier Reef, Western Australia, Northern Australia, Eastern Australia",
     "bestSeason": "Year-round",
     "alias": [
-      "scribbled angelfish"
+      "scribbled angelfish",
+      "眼帶荷包魚"
     ],
     "name_i18n": {
       "en": "Scribbled Angelfish",
@@ -43538,7 +43711,8 @@
     "shortDescription": "Chaetodontoplus mesoleucus, known as the vermiculated angelfish, is a marine ray-finned fish belonging to the Pomacanthidae family. It is distributed throughout the Western Coral Triangle, Eastern Coral Triangle, Tropical Northwestern Pacific, Sunda Shelf, and South Kuroshio.",
     "wikipedia": "https://en.wikipedia.org/wiki/Chaetodontoplus_mesoleucus",
     "alias": [
-      "Chaetodontoplus mesoleucus"
+      "Chaetodontoplus mesoleucus",
+      "黃尾荷包魚"
     ],
     "name_i18n": {
       "en": "Vermiculate Angelfish",
@@ -43900,7 +44074,8 @@
     "wormsUrl": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=204462",
     "divingRegions": "Caribbean",
     "alias": [
-      "channomuraena vittata"
+      "channomuraena vittata",
+      "寬帶鱧鱔（環帶裂口鯙）"
     ],
     "name_i18n": {
       "en": "Broadbanded Moray",
@@ -44141,6 +44316,9 @@
       "crustacean",
       "crab"
     ],
+    "alias": [
+      "鈍齒蟳"
+    ],
     "name_i18n": {
       "en": "Indo-Pacific Swimming Crab",
       "fr": "Crabe nageur de Heller",
@@ -44257,7 +44435,8 @@
       "Cheilinus abudjubbe",
       "abudjubbe wrasse",
       "cheilinus abudjubbe",
-      "double-header wrasse"
+      "double-header wrasse",
+      "絲尾唇魚"
     ],
     "name_i18n": {
       "en": "Abudjubbe Wrasse",
@@ -45112,6 +45291,9 @@
       "nudibranch",
       "macro-invertebrate"
     ],
+    "alias": [
+      "迷人美麗海蛞蝓"
+    ],
     "name_i18n": {
       "en": "Lovely Headshield Slug",
       "ja": "コナユキツバメガイ",
@@ -45172,7 +45354,8 @@
     "shortDescription": "Chelidonura hirundinina, commonly referred to as the Swallowtail Headshield Slug, is a colorful sea slug in the family Aglajidae, found in the Tropical Northwestern Atlantic, Warm Temperate Northwest Pacific, Western Coral Triangle, South Kuroshio, and Hawaii.",
     "wikipedia": "http://en.wikipedia.org/wiki/Chelidonura_hirundinina",
     "alias": [
-      "Chelidonura hirundinina"
+      "Chelidonura hirundinina",
+      "燕尾海牛"
     ],
     "name_i18n": {
       "en": "Swallowtail Headshield Slug",
@@ -45568,7 +45751,8 @@
       "sea-turtle"
     ],
     "alias": [
-      "Pacific green turtle"
+      "Pacific green turtle",
+      "綠海龜"
     ],
     "name_i18n": {
       "en": "Green Sea Turtle",
@@ -46153,7 +46337,8 @@
       "shark-ray"
     ],
     "alias": [
-      "Chiloscyllium plagiosum"
+      "Chiloscyllium plagiosum",
+      "條紋斑竹鯊"
     ],
     "name_i18n": {
       "en": "White-spotted Bamboo Shark",
@@ -46199,7 +46384,8 @@
       "elasmobranch"
     ],
     "alias": [
-      "brownbanded bamboo"
+      "brownbanded bamboo",
+      "點紋斑竹鯊"
     ],
     "name_i18n": {
       "en": "Brown-banded Bamboo Shark",
@@ -47056,6 +47242,9 @@
     "tags": [
       "reef-fish"
     ],
+    "alias": [
+      "白氏綠鸚哥魚"
+    ],
     "name_i18n": {
       "en": "Bleeker's Parrotfish",
       "de": "Bleekers Papageifisch",
@@ -47878,6 +48067,9 @@
     "tags": [
       "reef-fish"
     ],
+    "alias": [
+      "黑腋光鰓魚"
+    ],
     "name_i18n": {
       "en": "Black-axil Chromis",
       "de": "Schwarzachsel-Schwalbenschwänzchen",
@@ -48085,7 +48277,8 @@
     "wikipedia": "https://en.wikipedia.org/wiki/Chromis_flavomaculata",
     "divingRegions": "South Pacific Islands, Lord Howe & Norfolk",
     "alias": [
-      "blue-and-yellow chromis"
+      "blue-and-yellow chromis",
+      "尾斑光鰓雀鯛（斑鰭光鰓雀鯛）"
     ],
     "name_i18n": {
       "en": "Pearl-spot Chromis",
@@ -48121,6 +48314,9 @@
     "photographyTips": "Approach carefully",
     "tags": [
       "reef-fish"
+    ],
+    "alias": [
+      "煙色光鰓魚"
     ],
     "name_i18n": {
       "en": "Smoky Puller",
@@ -48786,6 +48982,9 @@
     "tags": [
       "reef-fish"
     ],
+    "alias": [
+      "韋氏光鰓魚"
+    ],
     "name_i18n": {
       "en": "Weber's Puller",
       "fr": "Chromis de Weber",
@@ -48897,7 +49096,8 @@
       "gastropoda"
     ],
     "alias": [
-      "anna's chromodoris"
+      "anna's chromodoris",
+      "安娜多彩海蛞蝓"
     ],
     "name_i18n": {
       "en": "Anna's Chromodoris",
@@ -49165,7 +49365,8 @@
     "alias": [
       "elisabeth's chromodoris",
       "Chromodoris elisabethina",
-      "chromodoris elisabethina"
+      "chromodoris elisabethina",
+      "伊莉莎白多彩海蛞蝓"
     ],
     "name_i18n": {
       "en": "Elisabeth's Chromodoris",
@@ -49311,6 +49512,9 @@
       "nudibranch",
       "macro-invertebrate"
     ],
+    "alias": [
+      "庫尼多彩海蛞蝓"
+    ],
     "name_i18n": {
       "fr": "Doris de Kunié",
       "ja": "オトヒメウミウシ",
@@ -49425,7 +49629,8 @@
       "gastropoda"
     ],
     "alias": [
-      "magnificent chromodoris"
+      "magnificent chromodoris",
+      "華麗多彩海蛞蝓"
     ],
     "name_i18n": {
       "en": "Magnificent Chromodoris",
@@ -49503,7 +49708,8 @@
     ],
     "alias": [
       "chromodoris orientalis",
-      "nudibranch (chromodoris orientalis)"
+      "nudibranch (chromodoris orientalis)",
+      "東方多彩海蛞蝓"
     ],
     "name_i18n": {
       "en": "Spotted White Sea Slug",
@@ -49619,7 +49825,8 @@
     "alias": [
       "chromodoris-willani",
       "Willans Chromodoris",
-      "willans-chromodoris"
+      "willans-chromodoris",
+      "威廉多彩海蛞蝓"
     ],
     "name_i18n": {
       "en": "Willan's Chromodoris",
@@ -50051,7 +50258,8 @@
     "alias": [
       "chrysiptera biocellata",
       "two-spot demoiselle",
-      "two spot demoiselle"
+      "two spot demoiselle",
+      "二點刻齒雀鯛"
     ],
     "name_i18n": {
       "en": "Twospot Demoiselle",
@@ -50773,7 +50981,8 @@
       "interesting"
     ],
     "alias": [
-      "australasian snapper"
+      "australasian snapper",
+      "銀金鯛"
     ],
     "name_i18n": {
       "en": "Australasian Snapper",
@@ -53578,7 +53787,8 @@
       "crustacean"
     ],
     "alias": [
-      "Clibanarius longitarsus"
+      "Clibanarius longitarsus",
+      "長趾細螯寄居蟹"
     ],
     "name_i18n": {
       "en": "Long-legged Hermit Crab",
@@ -55043,7 +55253,8 @@
     "shortDescription": "Conger cinereus, commonly known as the mustache conger, is a member of the Congridae family found in the Western Indian Ocean and across various regions of the Indo-West Pacific.",
     "wikipedia": "http://en.wikipedia.org/wiki/Longfin_African_conger",
     "alias": [
-      "Conger cinereus"
+      "Conger cinereus",
+      "灰康吉鰻"
     ],
     "name_i18n": {
       "en": "Mustache Conger",
@@ -55228,7 +55439,8 @@
     "shortDescription": "Conger myriaster, known as the Whitespotted Conger, is a marine eel in the Congridae family, widely distributed in the northwest Pacific Ocean, including Japan and surrounding areas.",
     "wikipedia": "http://en.wikipedia.org/wiki/Whitespotted_conger",
     "alias": [
-      "Conger myriaster"
+      "Conger myriaster",
+      "星康吉鰻"
     ],
     "name_i18n": {
       "en": "Whitespotted Conger",
@@ -55848,7 +56060,8 @@
     "alias": [
       "imperial cone",
       "Conus imperialis",
-      "conus imperialis"
+      "conus imperialis",
+      "堂皇芋螺"
     ],
     "name_i18n": {
       "en": "The Darkened Cone",
@@ -56085,6 +56298,9 @@
       "gastropod",
       "mollusk"
     ],
+    "alias": [
+      "細紋芋螺"
+    ],
     "name_i18n": {
       "en": "Striated Cone",
       "fr": "Cône strié",
@@ -56120,7 +56336,8 @@
     "shortDescription": "Conus tessulatus, referred to as the tessellate cone, is a species of sea snail in the family Conidae. This species is distributed across the Western Indian Ocean, Northeast Australian Shelf, Tropical Southwestern Pacific, Tropical Northwestern Pacific, and Eastern Coral Triangle.",
     "wikipedia": "http://en.wikipedia.org/wiki/Conus_tessulatus",
     "alias": [
-      "Conus tessulatus"
+      "Conus tessulatus",
+      "方斑芋螺"
     ],
     "name_i18n": {
       "en": "Tessellate Cone",
@@ -57245,7 +57462,8 @@
     "alias": [
       "pompano dolphinfish",
       "Coryphaena equiselis",
-      "coryphaena equiselis"
+      "coryphaena equiselis",
+      "棘鯕鰍"
     ],
     "name_i18n": {
       "en": "Pompano Dolphinfish",
@@ -57891,7 +58109,8 @@
     "divingRegions": "Polynesia, Coral Triangle, Micronesia, Great Barrier Reef, Western Australia, Northern Australia, French Polynesia, South Pacific Islands",
     "bestSeason": "Year-round",
     "alias": [
-      "messmate pipefish"
+      "messmate pipefish",
+      "內冠海龍"
     ],
     "name_i18n": {
       "en": "Messmate Pipefish",
@@ -58192,7 +58411,8 @@
     },
     "shortDescription": "Costasiella usagi, commonly known as the Rabbit Sapsucking Slug, is a sacoglossan gastropod from the South Kuroshio, Western Coral Triangle, and Northeast Australian Shelf.",
     "alias": [
-      "Costasiella usagi"
+      "Costasiella usagi",
+      "跳兔柱海蛞蝓"
     ],
     "name_i18n": {
       "en": "Rabbit Sapsucking Slug",
@@ -58722,6 +58942,9 @@
     "tags": [
       "bivalve",
       "mollusk"
+    ],
+    "alias": [
+      "太平洋牡蠣"
     ],
     "name_i18n": {
       "en": "Pacific Oyster",
@@ -59340,7 +59563,8 @@
     "alias": [
       "Mexican Crocodile",
       "Belize Crocodile",
-      "Crocodylus moreletii"
+      "Crocodylus moreletii",
+      "危地馬拉鱷"
     ],
     "name_i18n": {
       "en": "Morelet's Crocodile",
@@ -59386,7 +59610,8 @@
       "predator"
     ],
     "alias": [
-      "Crocodylus niloticus"
+      "Crocodylus niloticus",
+      "尼羅河鱷"
     ],
     "name_i18n": {
       "en": "Nile Crocodile",
@@ -59428,6 +59653,9 @@
     "wormsUrl": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=343595",
     "divingRegions": "Great Barrier Reef, Northern Australia, Eastern Australia",
     "bestSeason": "Year-round",
+    "alias": [
+      "鹹水鱷"
+    ],
     "name_i18n": {
       "en": "Saltwater Crocodile",
       "es": "Cocodrilo poroso",
@@ -60530,6 +60758,9 @@
     "tags": [
       "reef-fish"
     ],
+    "alias": [
+      "斜帶櫛眼鰕虎魚"
+    ],
     "name_i18n": {
       "en": "Goldstreaked Shrimpgoby",
       "ja": "オビシノビハゼ",
@@ -60636,6 +60867,9 @@
     "photographyTips": "Approach carefully",
     "tags": [
       "reef-fish"
+    ],
+    "alias": [
+      "長棘櫛眼鰕虎魚"
     ],
     "name_i18n": {
       "en": "Tangaroa shrimpgoby",
@@ -60790,7 +61024,8 @@
     "bestSeason": "Not applicable - freshwater species",
     "photographyTips": "Not relevant for marine underwater photography",
     "alias": [
-      "Grass Carp"
+      "Grass Carp",
+      "鯇魚"
     ],
     "name_i18n": {
       "en": "Grass Carp",
@@ -61315,7 +61550,8 @@
     "alias": [
       "siboga aeolid",
       "Cuthona sibogae",
-      "cuthona sibogae"
+      "cuthona sibogae",
+      "西寶羽螅背鰓海牛"
     ],
     "name_i18n": {
       "en": "Tropical Gasflame",
@@ -61884,7 +62120,8 @@
     "divingRegions": "Coral Triangle, Southern Japan, Micronesia, South Pacific Islands, Japan",
     "alias": [
       "crocodile fish",
-      "crocodilefish"
+      "crocodilefish",
+      "博氏孔鯒"
     ],
     "name_i18n": {
       "en": "Crocodile Flathead",
@@ -62370,6 +62607,9 @@
     "tags": [
       "coral",
       "cnidarian"
+    ],
+    "alias": [
+      "小葉細菊珊瑚"
     ],
     "name_i18n": {
       "fr": "Cyphastrée à petits polypes",
@@ -63048,7 +63288,8 @@
     "bestSeason": "Not applicable - not a marine diving species",
     "photographyTips": "Not relevant for marine underwater photography as this is primarily a freshwater species",
     "alias": [
-      "Mirror Carp"
+      "Mirror Carp",
+      "歐亞鯉"
     ],
     "name_i18n": {
       "en": "European Carp",
@@ -63213,7 +63454,8 @@
     "bestSeason": "Year-round",
     "alias": [
       "helmet-gurnard",
-      "oriental flying gurnard"
+      "oriental flying gurnard",
+      "東方豹魴鮄"
     ],
     "name_i18n": {
       "en": "Oriental Flying Gurnard",
@@ -63253,6 +63495,9 @@
     "photographyTips": "Wait for the wing display — when the pectoral fins spread, it's one of the most spectacular reef sights",
     "tags": [
       "reef-fish"
+    ],
+    "alias": [
+      "皮氏豹魴鮄"
     ],
     "name_i18n": {
       "en": "Onespine Flying Gurnard",
@@ -63729,7 +63974,8 @@
       "crustacean"
     ],
     "alias": [
-      "Dardanus crassimanus"
+      "Dardanus crassimanus",
+      "厚掌真寄居蟹"
     ],
     "name_i18n": {
       "en": "Mauve Eyed Hermit Crab",
@@ -63887,7 +64133,8 @@
     "alias": [
       "white-spotted hermit crab",
       "Dardanus megistos",
-      "dardanus megistos"
+      "dardanus megistos",
+      "巨型真寄居蟹"
     ],
     "name_i18n": {
       "en": "White-spotted Hermit Crab",
@@ -64149,7 +64396,8 @@
       "reef-fish"
     ],
     "alias": [
-      "indian dascyllus"
+      "indian dascyllus",
+      "肉色宅泥魚"
     ],
     "name_i18n": {
       "en": "Indian Dascyllus",
@@ -64260,6 +64508,9 @@
     "photographyTips": "Approach carefully",
     "tags": [
       "reef-fish"
+    ],
+    "alias": [
+      "黑尾宅泥魚"
     ],
     "name_i18n": {
       "en": "Blacktail Humbug",
@@ -64987,7 +65238,8 @@
     "alias": [
       "round scad",
       "Cigar Minnow",
-      "Round Scad"
+      "Round Scad",
+      "黑點圓鰺"
     ],
     "name_i18n": {
       "en": "Cigar Minnow",
@@ -65220,7 +65472,8 @@
       "interesting"
     ],
     "alias": [
-      "Short-Beaked Common Dolphin"
+      "Short-Beaked Common Dolphin",
+      "真海豚"
     ],
     "name_i18n": {
       "en": "Common Dolphin",
@@ -65425,6 +65678,9 @@
     "tags": [
       "reef-fish"
     ],
+    "alias": [
+      "斑馬紋多臂簑鮋"
+    ],
     "name_i18n": {
       "en": "Zebra Lionfish",
       "es": "Pez león cebra",
@@ -65501,7 +65757,8 @@
     "alias": [
       "Dendrodoris Denisoni",
       "Dendrodoris denisoni",
-      "dendrodoris denisoni"
+      "dendrodoris denisoni",
+      "庫氏枝鰓海蛞蝓"
     ],
     "name_i18n": {
       "en": "Gem Doris",
@@ -65539,6 +65796,9 @@
     "wormsUrl": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=137883",
     "divingRegions": "Maldives & Chagos, Polynesia, Coral Triangle, Hawaii, Lord Howe & Norfolk, Micronesia, Great Barrier Reef, Western Australia, Northern Australia, Arabian Sea, Southern Japan, French Polynesia, South Pacific Islands, California & Baja, India & Sri Lanka, Western Indian Ocean",
     "bestSeason": "Year-round",
+    "alias": [
+      "黑枝鰓海蛞蝓"
+    ],
     "name_i18n": {
       "en": "Black Doris",
       "fr": "Dendrodoris noire",
@@ -65575,6 +65835,9 @@
     "wormsUrl": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=137883",
     "divingRegions": "Maldives & Chagos, Coral Triangle, Hawaii, Micronesia, Great Barrier Reef, Northern Australia, Southern Japan, South Pacific Islands, Western Indian Ocean",
     "bestSeason": "Year-round",
+    "alias": [
+      "結節樹紋海麒麟"
+    ],
     "name_i18n": {
       "ja": "イシガキウミウシ",
       "zh-Hans": "瘤枝鳃海牛",
@@ -66652,6 +66915,9 @@
     "tags": [
       "reef-fish"
     ],
+    "alias": [
+      "海膽姥姥魚"
+    ],
     "name_i18n": {
       "en": "Striped Clingfish",
       "fr": "Poisson-crampon d'oursins",
@@ -66831,6 +67097,9 @@
     "photographyTips": "Approach slowly",
     "tags": [
       "reef-fish"
+    ],
+    "alias": [
+      "條紋胡椒鯛"
     ],
     "name_i18n": {
       "en": "Painted Sweetlips",
@@ -67218,7 +67487,8 @@
     "alias": [
       "green barrel tunicate",
       "colonial tunicates",
-      "Colonial Tunicates"
+      "Colonial Tunicates",
+      "柔軟壺海鞘"
     ],
     "name_i18n": {
       "en": "Green Barrel Sea Squirt",
@@ -68493,7 +68763,8 @@
     "alias": [
       "pale star coral",
       "Dipsastraea pallida",
-      "dipsastraea pallida"
+      "dipsastraea pallida",
+      "圈紋菊珊瑚"
     ],
     "name_i18n": {
       "fr": "Dipsastrée pâle",
@@ -68578,6 +68849,9 @@
     "photographyTips": "Approach carefully",
     "tags": [
       "pelagic-fish"
+    ],
+    "alias": [
+      "雙鰭梅鯛"
     ],
     "name_i18n": {
       "en": "Mottled Fusilier",
@@ -68854,7 +69128,8 @@
     "shortDescription": "Discodoris boholiensis, known as the flatworm discodoris, is a species of sea slug in the family Discodorididae. Its range includes the Western Coral Triangle, West and South Indian Shelf, South Kuroshio, Tropical Southwestern Pacific, and Western Indian Ocean.",
     "wikipedia": "http://en.wikipedia.org/wiki/Discodoris_boholiensis",
     "alias": [
-      "Discodoris boholiensis"
+      "Discodoris boholiensis",
+      "薄荷盤海蛞蝓"
     ],
     "name_i18n": {
       "en": "Flatworm Discodoris",
@@ -69110,7 +69385,8 @@
     "alias": [
       "violet lace coral",
       "Distichopora violacea",
-      "distichopora violacea"
+      "distichopora violacea",
+      "紫側孔珊瑚"
     ],
     "name_i18n": {
       "fr": "Corail-dentelle violacé",
@@ -69259,7 +69535,8 @@
     "shortDescription": "Dolabella auricularia, commonly referred to as the blunt-end seahare, is a large sea slug in the family Aplysiidae. This species is found in the Tropical Southwestern Pacific, East Central Australian Shelf, Warm Temperate Northwest Pacific, Western Indian Ocean, and Western Coral Triangle.",
     "wikipedia": "http://en.wikipedia.org/wiki/Dolabella_auricularia",
     "alias": [
-      "Dolabella auricularia"
+      "Dolabella auricularia",
+      "截尾海兔"
     ],
     "name_i18n": {
       "en": "Blunt-end Seahare",
@@ -69500,7 +69777,8 @@
     "alias": [
       "black-margined doris",
       "Doriprismatica atromarginata",
-      "doriprismatica atromarginata"
+      "doriprismatica atromarginata",
+      "黑邊多彩海蛞蝓"
     ],
     "name_i18n": {
       "en": "Black-margined Nudibranch",
@@ -70420,7 +70698,8 @@
       "marine-mammal"
     ],
     "alias": [
-      "Dugong"
+      "Dugong",
+      "儒艮"
     ],
     "name_i18n": {
       "en": "Dugong",
@@ -70613,7 +70892,8 @@
     "wikipedia": "https://en.wikipedia.org/wiki/Durvillaea_antarctica",
     "divingRegions": "South Pacific Islands, New Zealand, Patagonia, Chile & Peru, Antarctic",
     "alias": [
-      "sea rimu"
+      "sea rimu",
+      "南極公牛藻"
     ],
     "name_i18n": {
       "en": "New Zealand Bull Kelp",
@@ -70800,7 +71080,8 @@
     "alias": [
       "live sharksucker",
       "Echeneis naucrates",
-      "echeneis naucrates"
+      "echeneis naucrates",
+      "長鮣魚"
     ],
     "name_i18n": {
       "en": "Sharksucker",
@@ -71045,7 +71326,8 @@
       "barred moray eel",
       "Barred Moray",
       "barred moray",
-      "Barred moray"
+      "Barred moray",
+      "多帶蛇鱔"
     ],
     "name_i18n": {
       "en": "Barred Moray",
@@ -71623,7 +71905,8 @@
     "alias": [
       "chalice plate coral",
       "Echinopora lamellosa",
-      "echinopora lamellosa"
+      "echinopora lamellosa",
+      "片形棘孔珊瑚"
     ],
     "name_i18n": {
       "ja": "リュウキュウキッカサンゴ",
@@ -74291,6 +74574,9 @@
     "tags": [
       "reef-fish"
     ],
+    "alias": [
+      "貝氏澤鱔（貝爾氏勾吻鯙）"
+    ],
     "name_i18n": {
       "en": "Bayer's Moray",
       "ja": "ヤシャウツボ",
@@ -75257,7 +75543,8 @@
     "alias": [
       "red reef lobster",
       "Enoplometopus occidentalis",
-      "enoplometopus occidentalis"
+      "enoplometopus occidentalis",
+      "西方礁螯蝦"
     ],
     "name_i18n": {
       "en": "Red Reef Lobster",
@@ -75334,7 +75621,8 @@
     "divingRegions": "Andaman Sea, Polynesia, Eastern Australia, Coral Triangle, Java Sea, Micronesia, Great Barrier Reef, Western Australia, Red Sea, Northern Australia, Arabian Sea, Southern Japan, Sunda Shelf, South Pacific Islands, Japan, Western Indian Ocean",
     "alias": [
       "bubble-tip anemone",
-      "bubble tip"
+      "bubble tip",
+      "奶嘴海葵"
     ],
     "name_i18n": {
       "en": "Bubble-tip Anemone",
@@ -76007,7 +76295,8 @@
     ],
     "alias": [
       "epinephelus bruneus",
-      "longtooth grouper"
+      "longtooth grouper",
+      "褐石斑魚"
     ],
     "name_i18n": {
       "en": "Longtooth Grouper",
@@ -76503,7 +76792,8 @@
     ],
     "alias": [
       "Tiger Grouper",
-      "Flowery Cod"
+      "Flowery Cod",
+      "棕點石斑魚˙"
     ],
     "name_i18n": {
       "en": "Flowery Rockcod",
@@ -76624,6 +76914,9 @@
     "photographyTips": "Approach slowly",
     "tags": [
       "reef-fish"
+    ],
+    "alias": [
+      "六角石斑"
     ],
     "name_i18n": {
       "en": "Wirenet Rockcod",
@@ -76980,7 +77273,8 @@
       "interesting"
     ],
     "alias": [
-      "Honeycomb Grouper"
+      "Honeycomb Grouper",
+      "花頭梅 (金錢斑)"
     ],
     "name_i18n": {
       "en": "Honeycomb Grouper",
@@ -77100,7 +77394,8 @@
     "wikipedia": "https://en.wikipedia.org/wiki/Epinephelus_morrhua",
     "divingRegions": "South Africa, Maldives & Chagos, Polynesia, Eastern Australia, Lord Howe & Norfolk, Great Barrier Reef, Western Australia, Red Sea, Northern Australia, Arabian Sea, South China Sea, Southern Japan, Southern Australia, South Pacific Islands, Japan, India & Sri Lanka, Western Indian Ocean",
     "alias": [
-      "new caledonian grouper"
+      "new caledonian grouper",
+      "吊橋石斑魚"
     ],
     "name_i18n": {
       "en": "Comet Grouper",
@@ -77143,7 +77438,8 @@
       "interesting"
     ],
     "alias": [
-      "Whiteblotched Grouper"
+      "Whiteblotched Grouper",
+      "藍棕石斑魚"
     ],
     "name_i18n": {
       "en": "Rankin Cod",
@@ -78649,6 +78945,9 @@
     "photographyTips": "Approach slowly",
     "tags": [
       "reef-fish"
+    ],
+    "alias": [
+      "紅肉鑽"
     ],
     "name_i18n": {
       "en": "Ruby Snapper",
@@ -81126,7 +81425,8 @@
     "shortDescription": "Euselenops luniceps is a type of sea slug in the family Pleurobranchaeidae. This species is located in the Northeast Australian Shelf, East Central Australian Shelf, South China Sea, Sahul Shelf, and Northwest Australian Shelf.",
     "wikipedia": "http://en.wikipedia.org/wiki/Euselenops_luniceps",
     "alias": [
-      "Euselenops luniceps"
+      "Euselenops luniceps",
+      "明月側鰓"
     ],
     "name_i18n": {
       "en": "Moon-headed Sidegill Slug",
@@ -81285,7 +81585,8 @@
       "pelagic"
     ],
     "alias": [
-      "Euthynnus alletteratus"
+      "Euthynnus alletteratus",
+      "小鮪"
     ],
     "name_i18n": {
       "en": "Little Tunny",
@@ -81542,6 +81843,9 @@
     "tags": [
       "reef-fish"
     ],
+    "alias": [
+      "黑體磯塘鱧"
+    ],
     "name_i18n": {
       "en": "Headspot Eviota",
       "ja": "アカホシイソハゼ",
@@ -81576,6 +81880,9 @@
     "divingRegions": "Coral Triangle, Great Barrier Reef, Southern Japan, Sunda Shelf, Micronesia, South Pacific Islands",
     "bestSeason": "Year-round",
     "photographyTips": "Super-macro with diopter essential; the transparent body benefits from backlighting to reveal internal structures.",
+    "alias": [
+      "透體磯塘鱧"
+    ],
     "name_i18n": {
       "en": "Transparent Pygmygoby",
       "ja": "コジカイソハゼ",
@@ -81611,6 +81918,9 @@
     "photographyTips": "Approach carefully",
     "tags": [
       "reef-fish"
+    ],
+    "alias": [
+      "胸斑磯塘鱧"
     ],
     "name_i18n": {
       "en": "Hairfin Eviota",
@@ -81648,6 +81958,9 @@
     "tags": [
       "reef-fish"
     ],
+    "alias": [
+      "昆士蘭磯塘鱧"
+    ],
     "name_i18n": {
       "en": "Queensland Eviota",
       "ja": "ホシヒレイソハゼ",
@@ -81682,7 +81995,8 @@
     "wikipedia": "https://en.wikipedia.org/wiki/Eviota_sebreei",
     "alias": [
       "Eviota sebreei",
-      "Striped Dwarfgoby"
+      "Striped Dwarfgoby",
+      "希氏磯塘鱧"
     ],
     "name_i18n": {
       "en": "Striped Eviota",
@@ -82253,7 +82567,8 @@
     "alias": [
       "Favorinus Japonicus",
       "Favorinus japonicus",
-      "favorinus japonicus"
+      "favorinus japonicus",
+      "日本灰翼海蛞蝓"
     ],
     "name_i18n": {
       "en": "Egg-eating Nudibranch",
@@ -82332,7 +82647,8 @@
     "alias": [
       "tsuruga favorinus",
       "Favorinus tsuruganus",
-      "favorinus tsuruganus"
+      "favorinus tsuruganus",
+      "敦賀灰翼海蛞蝓"
     ],
     "name_i18n": {
       "ja": "ツルガチゴミノウミウシ",
@@ -83320,7 +83636,8 @@
       "blue-spotted cornetfish",
       "blue spotted cornetfish",
       "Bluespotted Cornetfish",
-      "bluespotted-cornetfish"
+      "bluespotted-cornetfish",
+      "棘煙管魚"
     ],
     "name_i18n": {
       "en": "Blue-spotted Cornetfish",
@@ -83402,6 +83719,9 @@
     "tags": [
       "reef-fish"
     ],
+    "alias": [
+      "鱗煙管魚"
+    ],
     "name_i18n": {
       "en": "Rough Flutemouth",
       "es": "Corneta colorada",
@@ -83445,7 +83765,8 @@
     ],
     "alias": [
       "cornetfish",
-      "Fistulariidae"
+      "Fistulariidae",
+      "藍斑煙管魚"
     ],
     "name_i18n": {
       "en": "Atlantic Bluespotted Cornetfish",
@@ -86304,6 +86625,9 @@
     "tags": [
       "pelagic-fish"
     ],
+    "alias": [
+      "萍體蛇鯖"
+    ],
     "name_i18n": {
       "en": "Snake Mackerel",
       "es": "Escolar de canal",
@@ -87491,7 +87815,8 @@
     "bestSeason": "Year-round throughout most of its range; especially common in warm months",
     "photographyTips": "A 60mm or 100mm macro lens captures the flowing mantle edge beautifully. Side lighting emphasizes the marginal banding pattern and body texture.",
     "alias": [
-      "Glossodoris atromarginata"
+      "Glossodoris atromarginata",
+      "黑邊多彩海蛞蝓"
     ],
     "name_i18n": {
       "en": "Black-margined Nudibranch",
@@ -87528,7 +87853,8 @@
     "bestSeason": "Year-round in tropical waters",
     "photographyTips": "Macro lens at substrate level captures the ruffled mantle edge beautifully. Side lighting emphasizes the texture and pattern.",
     "alias": [
-      "Glossodoris cincta"
+      "Glossodoris cincta",
+      "腰帶多彩海蛞蝓"
     ],
     "name_i18n": {
       "en": "Girdled Glossodoris",
@@ -87635,7 +87961,8 @@
     "alias": [
       "rufous-margined glossodoris",
       "Glossodoris rufomarginata",
-      "glossodoris rufomarginata"
+      "glossodoris rufomarginata",
+      "橘色多彩海麒麟"
     ],
     "name_i18n": {
       "en": "Caramel Nudibranch",
@@ -88094,7 +88421,8 @@
     ],
     "alias": [
       "bumblebee shrimp",
-      "bumblebee-shrimp"
+      "bumblebee-shrimp",
+      "美洲葉顎蝦"
     ],
     "name_i18n": {
       "en": "bumblebee shrimp",
@@ -88175,6 +88503,9 @@
     "tags": [
       "crustacean",
       "shrimp"
+    ],
+    "alias": [
+      "美洲葉顎蝦"
     ],
     "name_i18n": {
       "en": "bumblebee shrimp",
@@ -88798,7 +89129,8 @@
     ],
     "alias": [
       "citron goby",
-      "citron-goby"
+      "citron-goby",
+      "橙色葉鰕虎魚"
     ],
     "name_i18n": {
       "en": "Lemon Coralgoby",
@@ -88874,6 +89206,9 @@
     "divingRegions": "Coral Triangle, Micronesia, Great Barrier Reef, Western Australia, Northern Australia, South China Sea, Southern Japan, Sunda Shelf, South Pacific Islands",
     "bestSeason": "Year-round",
     "photographyTips": "Photograph peeking between coral branches; the bright yellow against coral provides strong color contrast.",
+    "alias": [
+      "黃體業鰕虎"
+    ],
     "name_i18n": {
       "en": "Yellow Coralgoby",
       "ja": "キイロサンゴハゼ",
@@ -89954,7 +90289,8 @@
     "bestSeason": "Year-round",
     "photographyTips": "The blue-purple ring pattern is highly photogenic; ensure sharp focus on the ringed spots for maximum impact.",
     "alias": [
-      "Goniobranchus Collingwoodi"
+      "Goniobranchus Collingwoodi",
+      "科氏多彩海蛞蝓"
     ],
     "name_i18n": {
       "en": "Collingwood's Goniobranchus",
@@ -90069,7 +90405,8 @@
     "shortDescription": "Goniobranchus fidelis, commonly referred to as the Faithful Sea Slug, is a colorful nudibranch belonging to the family Chromodorididae, found in the South Kuroshio, Warm Temperate Northwest Pacific, Western Coral Triangle, Northeast Australian Shelf, and Tropical Southwestern Pacific.",
     "wikipedia": "http://en.wikipedia.org/wiki/Goniobranchus_fidelis",
     "alias": [
-      "Goniobranchus fidelis"
+      "Goniobranchus fidelis",
+      "信實多彩海蛞蝓"
     ],
     "name_i18n": {
       "en": "Faithful Sea Slug",
@@ -90180,7 +90517,8 @@
     "alias": [
       "kunie's chromodoris",
       "Goniobranchus kuniei",
-      "goniobranchus kuniei"
+      "goniobranchus kuniei",
+      "庫尼多彩海蛞蝓"
     ],
     "name_i18n": {
       "fr": "Doris de Kunié",
@@ -90636,6 +90974,9 @@
     "shortDescription": "Goniosupradens acutifrons is a species classified in the family Portunidae. Specific information regarding its distribution and characteristics is not available.",
     "tags": [
       "crustacean"
+    ],
+    "alias": [
+      "尖額蟳"
     ],
     "name_i18n": {
       "ja": "トガリマダライシガニ",
@@ -91311,7 +91652,8 @@
     ],
     "alias": [
       "White-Edge Grouper",
-      "White-Edged Lyretail Grouper"
+      "White-Edged Lyretail Grouper",
+      "纖齒鱸"
     ],
     "name_i18n": {
       "en": "Masked Grouper",
@@ -91553,7 +91895,8 @@
       "pelagic"
     ],
     "alias": [
-      "Grammatorcynus bilineatus"
+      "Grammatorcynus bilineatus",
+      "大眼雙線鮁"
     ],
     "name_i18n": {
       "en": "Double-lined Mackerel",
@@ -92084,7 +92427,8 @@
     "alias": [
       "ceylon gymnodoris",
       "Gymnodoris ceylonica",
-      "gymnodoris ceylonica"
+      "gymnodoris ceylonica",
+      "錫蘭多角海蛞蝓（錫蘭裸海蛞蝓）"
     ],
     "name_i18n": {
       "fr": "Gymnodoris de Ceylan",
@@ -92231,7 +92575,8 @@
       "reef-fish"
     ],
     "alias": [
-      "Dogtooth Tuna"
+      "Dogtooth Tuna",
+      "裸狐鰹"
     ],
     "name_i18n": {
       "en": "Dogtooth Tuna",
@@ -92306,6 +92651,9 @@
     "photographyTips": "Approach slowly",
     "tags": [
       "reef-fish"
+    ],
+    "alias": [
+      "班氏裸胸鱔"
     ],
     "name_i18n": {
       "en": "Y-patterned moray",
@@ -92489,7 +92837,8 @@
     "alias": [
       "lipspot moray",
       "Gymnothorax chilospilus",
-      "gymnothorax chilospilus"
+      "gymnothorax chilospilus",
+      "雲紋裸胸鯙"
     ],
     "name_i18n": {
       "en": "Whitelip Moray",
@@ -92862,6 +93211,9 @@
     "tags": [
       "reef-fish"
     ],
+    "alias": [
+      "細尾裸胸鱔"
+    ],
     "name_i18n": {
       "en": "Slendertail Moray",
       "zh-Hans": "细尾裸胸鳝",
@@ -92981,7 +93333,8 @@
       "reef-fish"
     ],
     "alias": [
-      "Giant Moray Eel"
+      "Giant Moray Eel",
+      "爪哇裸胸鱔"
     ],
     "name_i18n": {
       "en": "Giant Moray",
@@ -93109,7 +93462,8 @@
       "Dwarf Moray",
       "dwarf moray",
       "Dwarf moray",
-      "gymnothorax melatremus"
+      "gymnothorax melatremus",
+      "黑孔裸胸鱔"
     ],
     "name_i18n": {
       "en": "Dwarf Moray",
@@ -93451,7 +93805,8 @@
     "alias": [
       "yellowmouth moray",
       "Starry moray",
-      "Starry Moray Eel"
+      "Starry Moray Eel",
+      "星斑裸胸鱔"
     ],
     "name_i18n": {
       "en": "Yellowmouth Moray",
@@ -93569,7 +93924,8 @@
       "interesting"
     ],
     "alias": [
-      "Tiger Moray Eel"
+      "Tiger Moray Eel",
+      "豹紋裸胸鱔"
     ],
     "name_i18n": {
       "en": "Freshwater Moray",
@@ -93717,7 +94073,8 @@
     "alias": [
       "richardson's moray",
       "Gymnothorax richardsonii",
-      "gymnothorax richardsonii"
+      "gymnothorax richardsonii",
+      "異紋裸胸鱔"
     ],
     "name_i18n": {
       "en": "Richardson's Moray",
@@ -93760,7 +94117,8 @@
       "Gymnothorax rueppelliae",
       "banded moray",
       "gymnothorax rueppelliae",
-      "Banded moray"
+      "Banded moray",
+      "鞍斑裸胸鱔"
     ],
     "name_i18n": {
       "en": "Yellow-headed Moray",
@@ -93975,7 +94333,8 @@
       "Gymnothorax vicinus",
       "purplemouth moray",
       "Purplemouth moray",
-      "gymnothorax vicinus"
+      "gymnothorax vicinus",
+      "紫頜裸胸鱔"
     ],
     "name_i18n": {
       "en": "Purplemouth Moray",
@@ -94086,7 +94445,8 @@
     "alias": [
       "barredfin moray",
       "Gymnothorax zonipectis",
-      "gymnothorax zonipectis"
+      "gymnothorax zonipectis",
+      "帶尾裸胸鱔"
     ],
     "name_i18n": {
       "en": "Barred-fin Moray",
@@ -95294,6 +95654,9 @@
       "nudibranch",
       "macro-invertebrate"
     ],
+    "alias": [
+      "鑲嵌盤海蛞蝓"
+    ],
     "name_i18n": {
       "fr": "Halgerda-mosaïque",
       "ja": "モザイクウミウシ",
@@ -95370,7 +95733,8 @@
     "alias": [
       "willey's halgerda",
       "Halgerda willeyi",
-      "halgerda willeyi"
+      "halgerda willeyi",
+      "威氏瘤背海蛞蝓"
     ],
     "name_i18n": {
       "fr": "Halgerda de Willey",
@@ -96194,6 +96558,9 @@
     "photographyTips": "Approach slowly",
     "tags": [
       "reef-fish"
+    ],
+    "alias": [
+      "雲斑海豬魚"
     ],
     "name_i18n": {
       "en": "Bubblefin Wrasse",
@@ -97600,6 +97967,9 @@
       "sea-star",
       "echinoderm"
     ],
+    "alias": [
+      "規則瘤海星"
+    ],
     "name_i18n": {
       "en": "Mosaic Cushion Star",
       "fr": "Étoile-coussin régulier",
@@ -97715,6 +98085,9 @@
     "tags": [
       "seagrass",
       "marine-plant"
+    ],
+    "alias": [
+      "卵葉鹽藻"
     ],
     "name_i18n": {
       "en": "Sea Wrack",
@@ -101412,7 +101785,8 @@
     ],
     "alias": [
       "heterodontus japonicus",
-      "japanese bullhead shark"
+      "japanese bullhead shark",
+      "寬紋虎鯊"
     ],
     "name_i18n": {
       "en": "Japanese Bullhead Shark",
@@ -101732,7 +102106,8 @@
       "interesting"
     ],
     "alias": [
-      "Spanish dancer nudibranch"
+      "Spanish dancer nudibranch",
+      "血紅六鰓海麒麟"
     ],
     "name_i18n": {
       "en": "Spanish Dancer",
@@ -102401,7 +102776,8 @@
       "interesting"
     ],
     "alias": [
-      "Bargibanti Pygmy Seahorse"
+      "Bargibanti Pygmy Seahorse",
+      "巴氏豆丁海馬"
     ],
     "name_i18n": {
       "en": "Pygmy Seahorse",
@@ -102765,7 +103141,8 @@
       "interesting"
     ],
     "alias": [
-      "Mediterranean seahorse"
+      "Mediterranean seahorse",
+      "多枝海馬"
     ],
     "name_i18n": {
       "en": "Long-snouted Seahorse",
@@ -103055,7 +103432,8 @@
     "alias": [
       "yellow seahorse",
       "spotted seahorse",
-      "Estuary Seahorse"
+      "Estuary Seahorse",
+      "管海馬"
     ],
     "name_i18n": {
       "en": "Common Seahorse",
@@ -103139,6 +103517,9 @@
     "tags": [
       "seahorse",
       "syngnathid"
+    ],
+    "alias": [
+      "日本海馬"
     ],
     "name_i18n": {
       "en": "Japanese Seahorse",
@@ -103382,6 +103763,9 @@
     "tags": [
       "seahorse",
       "syngnathid"
+    ],
+    "alias": [
+      "海馬"
     ],
     "name_i18n": {
       "en": "Shiho's Seahorse",
@@ -103954,7 +104338,8 @@
     "alias": [
       "bear paw clam",
       "Hippopus hippopus",
-      "hippopus hippopus"
+      "hippopus hippopus",
+      "硨蠔"
     ],
     "name_i18n": {
       "en": "Bear Paw Clam",
@@ -104110,6 +104495,9 @@
     "tags": [
       "pelagic-fish",
       "flying-fish"
+    ],
+    "alias": [
+      "隆氏巨飛魚"
     ],
     "name_i18n": {
       "en": "Blackwing Flyingfish",
@@ -104859,7 +105247,8 @@
       "echinoderm"
     ],
     "alias": [
-      "Holothuria fuscocinerea"
+      "Holothuria fuscocinerea",
+      "棕環海參"
     ],
     "name_i18n": {
       "en": "Ashy Pink Sea Cucumber",
@@ -104898,7 +105287,8 @@
       "echinoderm"
     ],
     "alias": [
-      "Holothuria fuscopunctata"
+      "Holothuria fuscopunctata",
+      "象鼻海參"
     ],
     "name_i18n": {
       "en": "Elephant Trunkfish",
@@ -106166,7 +106556,8 @@
     "shortDescription": "Hydatina amplustre, commonly known as the Pink Bubble Snail, is a marine gastropod mollusk belonging to the family Aplustridae. It is found in regions including Hawaii, the Western Indian Ocean, and the Tropical Southwestern Pacific.",
     "wikipedia": "https://en.wikipedia.org/wiki/Aplustrum_amplustre",
     "alias": [
-      "Hydatina amplustre"
+      "Hydatina amplustre",
+      "玫瑰泡螺"
     ],
     "name_i18n": {
       "en": "Pink Bubble Snail",
@@ -106204,7 +106595,8 @@
     "alias": [
       "Hydatina Physis",
       "Hydatina physis",
-      "hydatina physis"
+      "hydatina physis",
+      "密紋泡螺"
     ],
     "name_i18n": {
       "en": "Brown-lined Paperbubble",
@@ -107793,7 +108185,8 @@
       "hydrophis schistosus",
       "Valakadyn Sea Snake",
       "Enhydrina schistosa",
-      "Hook-Nosed Sea Snake"
+      "Hook-Nosed Sea Snake",
+      "鉤鼻海蛇"
     ],
     "name_i18n": {
       "en": "Beaked Sea Snake",
@@ -108310,6 +108703,9 @@
       "crustacean",
       "shrimp"
     ],
+    "alias": [
+      "油彩臘膜蝦"
+    ],
     "name_i18n": {
       "en": "Harlequin Shrimp",
       "de": "Harlekingarnele",
@@ -108353,7 +108749,8 @@
       "interesting"
     ],
     "alias": [
-      "Harlequin Shrimp"
+      "Harlequin Shrimp",
+      "油彩臘膜蝦"
     ],
     "name_i18n": {
       "en": "Harlequin Shrimp",
@@ -108395,6 +108792,9 @@
     "tags": [
       "bivalve",
       "mollusk"
+    ],
+    "alias": [
+      "舌骨牡蠣"
     ],
     "name_i18n": {
       "en": "Giant Honeycomb Oyster",
@@ -108845,7 +109245,8 @@
     "bestSeason": "Not applicable - not a marine diving species",
     "photographyTips": "Not applicable for marine diving photography as this is a freshwater species",
     "alias": [
-      "Silver Carp"
+      "Silver Carp",
+      "鰱魚"
     ],
     "name_i18n": {
       "en": "Silver Carp",
@@ -108889,7 +109290,8 @@
     "bestSeason": "Not applicable - freshwater species",
     "photographyTips": "Not relevant for marine diving photography",
     "alias": [
-      "Bighead Carp"
+      "Bighead Carp",
+      "大頭鰱"
     ],
     "name_i18n": {
       "en": "Bighead Carp",
@@ -109840,7 +110242,8 @@
     "bestSeason": "Year-round in tropical waters",
     "photographyTips": "Macro lens ideal. Shoot against dark backgrounds to make the purple-pink colors pop. Include the rhinophores and gills in the frame.",
     "alias": [
-      "Hypselodoris apolegma"
+      "Hypselodoris apolegma",
+      "鑲邊高澤海蛞蝓"
     ],
     "name_i18n": {
       "en": "Giant Hypselodoris",
@@ -109922,7 +110325,8 @@
     ],
     "alias": [
       "Bullock's Nudibranch",
-      "Bullock's Hypselodoris"
+      "Bullock's Hypselodoris",
+      "布氏高澤海蛞蝓（布拉克高澤海蛞蝓）"
     ],
     "name_i18n": {
       "en": "Bullock's Hypselodoris",
@@ -110252,7 +110656,8 @@
     "divingRegions": "Coral Triangle",
     "bestSeason": "Year-round",
     "alias": [
-      "maritime hypselodoris"
+      "maritime hypselodoris",
+      "海洋多彩海蛞蝓(海洋高澤多彩海蛞蝓)"
     ],
     "name_i18n": {
       "en": "Maritime Nudibranch",
@@ -110476,7 +110881,8 @@
       "Tryon's Risbecia",
       "garish hypselodoris",
       "hypselodoris tryoni",
-      "tryon's risbecia"
+      "tryon's risbecia",
+      "崔恩多彩海蛞蝓"
     ],
     "name_i18n": {
       "en": "Tryon's Hypselodoris",
@@ -111411,6 +111817,9 @@
     "tags": [
       "reef-fish"
     ],
+    "alias": [
+      "日本瞳鯒"
+    ],
     "name_i18n": {
       "en": "Rusty Flathead",
       "ja": "トカゲゴチ",
@@ -111493,6 +111902,9 @@
       "cetacean",
       "marine-mammal"
     ],
+    "alias": [
+      "亞馬遜河豚"
+    ],
     "name_i18n": {
       "en": "Amazon River Dolphin",
       "es": "Tonina",
@@ -111573,7 +111985,8 @@
     "alias": [
       "peacock razor wrasse",
       "peacock razor",
-      "Peacock Razor Wrasse"
+      "Peacock Razor Wrasse",
+      "孔雀頸鰭魚"
     ],
     "name_i18n": {
       "en": "Peacock Razorfish",
@@ -112072,7 +112485,8 @@
     "alias": [
       "snake polyp zoanthid",
       "Isaurus tuberculatus",
-      "isaurus tuberculatus"
+      "isaurus tuberculatus",
+      "突瘤長菟葵"
     ],
     "name_i18n": {
       "en": "Knobbly Zoanthid",
@@ -112211,6 +112625,9 @@
     "tags": [
       "bivalve",
       "mollusk"
+    ],
+    "alias": [
+      "鉗蛤"
     ],
     "name_i18n": {
       "en": "Elongate Toothed Oyster",
@@ -112552,7 +112969,8 @@
       "reef-fish"
     ],
     "alias": [
-      "ornate goby"
+      "ornate goby",
+      "妝飾銜鰕虎魚"
     ],
     "name_i18n": {
       "en": "Ornate Sandgoby",
@@ -112627,7 +113045,8 @@
       "interesting"
     ],
     "alias": [
-      "Black Marlin"
+      "Black Marlin",
+      "印度槍魚"
     ],
     "name_i18n": {
       "en": "Black Marlin",
@@ -113314,7 +113733,8 @@
     "bestSeason": "Year-round in tropical waters, commonly found on day dives in areas with abundant sponge growth",
     "photographyTips": "A standard macro lens captures the full animal and spot pattern well. Black backgrounds created with snooted lighting emphasize the white body and dark spots beautifully.",
     "alias": [
-      "Jorunna funebris"
+      "Jorunna funebris",
+      "煙囪盤海蛞蝓"
     ],
     "name_i18n": {
       "en": "Mourning Dorid",
@@ -113360,7 +113780,8 @@
       "sea bunny",
       "Jorunna parva",
       "jorunna parva",
-      "sea-bunny"
+      "sea-bunny",
+      "碎毛盤海蛞蝓"
     ],
     "name_i18n": {
       "en": "Sea Bunny",
@@ -113400,6 +113821,9 @@
     "tags": [
       "nudibranch",
       "macro-invertebrate"
+    ],
+    "alias": [
+      "紅紋盤海蛞蝓（紅紋壺形海蛞蝓）"
     ],
     "name_i18n": {
       "en": "Red-lined Jorunna",
@@ -113477,7 +113901,8 @@
     "alias": [
       "white whip coral",
       "Junceella fragilis",
-      "junceella fragilis"
+      "junceella fragilis",
+      "白蘆莖珊瑚（白鞭珊瑚）"
     ],
     "name_i18n": {
       "ja": "リュウキュウミゾヤギ",
@@ -113598,7 +114023,8 @@
     ],
     "alias": [
       "kajikia audax",
-      "striped marlin"
+      "striped marlin",
+      "紅肉槍魚"
     ],
     "name_i18n": {
       "en": "Striped Marlin",
@@ -113648,7 +114074,8 @@
     ],
     "alias": [
       "ornate kalinga",
-      "ornate-kalinga"
+      "ornate-kalinga",
+      "佩飾巢海蛞蝓"
     ],
     "name_i18n": {
       "en": "Parade-Float Sea Slug",
@@ -113680,6 +114107,9 @@
     },
     "shortDescription": "Kaloplocamus acutus is a nudibranch in the family Polyceridae, present in the Warm Temperate Northwest Pacific, South Kuroshio, and the Western Coral Triangle.",
     "wikipedia": "http://en.wikipedia.org/wiki/Kaloplocamus_acutus",
+    "alias": [
+      "著火卷髮海蛞蝓"
+    ],
     "name_i18n": {
       "fr": "Kaloplocamus aiguisé",
       "ja": "ヒメエダウミウシ",
@@ -113944,7 +114374,8 @@
     "alias": [
       "simple soft coral",
       "Klyxum simplex",
-      "klyxum simplex"
+      "klyxum simplex",
+      "簡易冠形軟珊瑚"
     ],
     "name_i18n": {
       "en": "Simple Soft Coral",
@@ -114141,7 +114572,8 @@
     "alias": [
       "old glory goby",
       "old glory",
-      "old-glory-goby"
+      "old-glory-goby",
+      "雷氏鈍鯊"
     ],
     "name_i18n": {
       "en": "Old Glory",
@@ -115352,6 +115784,9 @@
     "tags": [
       "reef-fish"
     ],
+    "alias": [
+      "澳洲褶唇魚"
+    ],
     "name_i18n": {
       "en": "Southern Tubelip",
       "zh-Hans": "澳洲褶唇鱼",
@@ -116087,7 +116522,8 @@
     "alias": [
       "Lagenorhynchus obliquidens",
       "lagenorhynchus obliquidens",
-      "Lag"
+      "Lag",
+      "太平洋短吻海豚"
     ],
     "name_i18n": {
       "en": "Pacific White-sided Dolphin",
@@ -116311,7 +116747,8 @@
     "shortDescription": "Lagocephalus sceleratus, also known as the Silver Puffer, is a highly poisonous marine fish in the family Tetraodontidae, distributed across the Northwest Australian Shelf, Sahul Shelf, and the Mediterranean Sea.",
     "wikipedia": "https://en.wikipedia.org/wiki/Lagocephalus_sceleratus",
     "alias": [
-      "Lagocephalus sceleratus"
+      "Lagocephalus sceleratus",
+      "有毒兔頭魨"
     ],
     "name_i18n": {
       "en": "Silver Puffer",
@@ -116623,7 +117060,8 @@
       "interesting"
     ],
     "alias": [
-      "Salmon Shark"
+      "Salmon Shark",
+      "鮭鯊"
     ],
     "name_i18n": {
       "en": "Salmon Shark",
@@ -119947,7 +120385,8 @@
     "shortDescription": "Lethrinus mahsena, known as the Mahsena Emperor, is a species of emperor fish in the family Lethrinidae. It occurs in the Western Indian Ocean, Red Sea and Gulf of Aden, Tropical Southwestern Pacific, Central Indian Ocean Islands, and Western Coral Triangle.",
     "wikipedia": "http://en.wikipedia.org/wiki/Lethrinus_mahsena",
     "alias": [
-      "Lethrinus mahsena"
+      "Lethrinus mahsena",
+      "阿氏裸頰鯛"
     ],
     "name_i18n": {
       "en": "Mahsena Emperor",
@@ -120032,7 +120471,8 @@
       "red throat emperor",
       "red throat",
       "sweetlip emperor",
-      "Sweetlip Emperor"
+      "Sweetlip Emperor",
+      "長吻裸頰鯛"
     ],
     "name_i18n": {
       "en": "Redthroat Emperor",
@@ -120272,6 +120712,9 @@
     "tags": [
       "reef-fish"
     ],
+    "alias": [
+      "網紋裸頰鯛"
+    ],
     "name_i18n": {
       "en": "Redsnout Emperor",
       "ja": "ヤエヤマフエフキ",
@@ -120342,7 +120785,8 @@
     },
     "shortDescription": "Lethrinus semicinctus, or the Blackblotch Emperor, is a species of marine fish in the Lethrinidae family. It is found in the Northeast Australian Shelf, Northwest Australian Shelf, Tropical Southwestern Pacific, Western Coral Triangle, and Sahul Shelf.",
     "alias": [
-      "Lethrinus semicinctus"
+      "Lethrinus semicinctus",
+      "半帶裸頰鯛"
     ],
     "name_i18n": {
       "en": "Blackblotch Emperor",
@@ -120384,6 +120828,9 @@
     "photographyTips": "Approach slowly",
     "tags": [
       "reef-fish"
+    ],
+    "alias": [
+      "雜色裸頰鯛"
     ],
     "name_i18n": {
       "en": "Variegated Emperor",
@@ -121942,7 +122389,8 @@
     "divingRegions": "Coral Triangle, Red Sea",
     "bestSeason": "Year-round",
     "alias": [
-      "sea cucumber"
+      "sea cucumber",
+      "紫斑光背蟹"
     ],
     "name_i18n": {
       "en": "Sea Cucumber Crab",
@@ -122090,6 +122538,9 @@
     "tags": [
       "crustacean",
       "crab"
+    ],
+    "alias": [
+      "仿四葉光滑瓷蟹"
     ],
     "name_i18n": {
       "en": "Four-lobed Porcelain Crab",
@@ -122496,6 +122947,9 @@
     "tags": [
       "coral"
     ],
+    "alias": [
+      "元寶蕈珊瑚"
+    ],
     "name_i18n": {
       "fr": "Corail-champignon bouclier",
       "ja": "クサビライシ",
@@ -122744,7 +123198,8 @@
     "alias": [
       "devil's hand coral",
       "Lobophytum pauciflorum",
-      "lobophytum pauciflorum"
+      "lobophytum pauciflorum",
+      "簡葉形軟珊瑚"
     ],
     "name_i18n": {
       "en": "Devil's Hand Coral",
@@ -123543,6 +123998,9 @@
     "divingRegions": "Southern Japan, Japan",
     "bestSeason": "Year-round",
     "photographyTips": "Photograph peeking from shelter entrance; the yellow goby in a bottle creates characterful, humorous images.",
+    "alias": [
+      "短身裸葉蝦虎魚"
+    ],
     "name_i18n": {
       "en": "Yellow Pygmy Goby",
       "ja": "ミジンベニハゼ",
@@ -125413,6 +125871,9 @@
     "tags": [
       "reef-fish"
     ],
+    "alias": [
+      "黃線笛鯛"
+    ],
     "name_i18n": {
       "en": "Yellowlined Snapper",
       "ja": "キュウセンフエダイ",
@@ -125545,7 +126006,8 @@
     ],
     "alias": [
       "Black-Banded Snapper",
-      "Halfbanded Snapper"
+      "Halfbanded Snapper",
+      "黑紋笛鯛"
     ],
     "name_i18n": {
       "en": "Blackbanded Snapper",
@@ -125583,6 +126045,9 @@
     "photographyTips": "Approach carefully",
     "tags": [
       "reef-fish"
+    ],
+    "alias": [
+      "白星笛鯛"
     ],
     "name_i18n": {
       "en": "White-spotted Snapper",
@@ -126649,6 +127114,9 @@
       "crustacean",
       "shrimp"
     ],
+    "alias": [
+      "紅條鞭腕蝦"
+    ],
     "name_i18n": {
       "en": "East Asian Lined Shrimp",
       "es": "Camarón rayado indio",
@@ -126986,7 +127454,8 @@
     ],
     "alias": [
       "black-and-white snapper",
-      "black and"
+      "black and",
+      "黑體羽鰓笛鯛"
     ],
     "name_i18n": {
       "en": "Black-and-white Snapper",
@@ -128068,7 +128537,8 @@
       "interesting"
     ],
     "alias": [
-      "Blue Marlin"
+      "Blue Marlin",
+      "大西洋藍槍魚"
     ],
     "name_i18n": {
       "en": "Blue Marlin",
@@ -129580,6 +130050,9 @@
       "crustacean",
       "crab"
     ],
+    "alias": [
+      "紅點月神蟹"
+    ],
     "name_i18n": {
       "en": "Speckled Moon Crab",
       "fr": "Crabe lunaire à pois",
@@ -129653,7 +130126,8 @@
     "bestSeason": "Not applicable - not a marine species",
     "photographyTips": "Not relevant for marine diving photography",
     "alias": [
-      "Chinese pond turtle"
+      "Chinese pond turtle",
+      "烏龜"
     ],
     "name_i18n": {
       "en": "Chinese Pond Turtle",
@@ -131979,6 +132453,9 @@
       "crustacean",
       "shrimp"
     ],
+    "alias": [
+      "須赤蝦"
+    ],
     "name_i18n": {
       "en": "Whiskered velvet shrimp",
       "es": "Camarón gamuza barbudo",
@@ -132483,7 +132960,8 @@
     "bestSeason": "Year-round; most commonly found during thorough macro searches of reef rubble",
     "photographyTips": "Supermacro brings out the orange-tipped tubercles beautifully. Use a dark background and careful sidelight to emphasize the texture and purple-orange color contrast.",
     "alias": [
-      "Mexichromis multituberculata"
+      "Mexichromis multituberculata",
+      "多疣多彩海蛞蝓"
     ],
     "name_i18n": {
       "en": "Bumpy Mexichromis",
@@ -132693,7 +133171,8 @@
     "alias": [
       "Miamira Sinuata",
       "Miamira sinuata",
-      "miamira sinuata"
+      "miamira sinuata",
+      "曲紋多彩海蛞蝓"
     ],
     "name_i18n": {
       "en": "Jolly Green Giant",
@@ -133652,7 +134131,8 @@
     },
     "shortDescription": "Mirolabrichthys pascalus, known as the Purple Queen Anthias, is a member of the family Anthiadidae found in Central Polynesia, Tropical Northwestern Pacific, Marshall, Gilbert and Ellis Islands, and Southeast Polynesia.",
     "alias": [
-      "Mirolabrichthys pascalus"
+      "Mirolabrichthys pascalus",
+      "紫紅擬花鮨"
     ],
     "name_i18n": {
       "en": "Purple Queen Anthias",
@@ -134369,7 +134849,8 @@
     ],
     "alias": [
       "Pacific manta ray",
-      "Giant Oceanic Manta Ray"
+      "Giant Oceanic Manta Ray",
+      "鬼蝠魟"
     ],
     "name_i18n": {
       "en": "Oceanic Manta Ray",
@@ -134538,7 +135019,8 @@
       "interesting"
     ],
     "alias": [
-      "Tasmanian devil ray"
+      "Tasmanian devil ray",
+      "臺灣蝠魟"
     ],
     "name_i18n": {
       "en": "Sicklefin Devil Ray",
@@ -134665,6 +135147,9 @@
     "wormsUrl": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=126233",
     "divingRegions": "Western Australia, South Pacific Islands, Western Indian Ocean, Lord Howe & Norfolk, Eastern Australia, Southern Australia, South Africa, Southwestern Australia, New Zealand",
     "bestSeason": "Year-round",
+    "alias": [
+      "花紋翻車魨"
+    ],
     "name_i18n": {
       "en": "Bump-head Mola",
       "ja": "ウシマンボウ",
@@ -134871,7 +135356,8 @@
     "alias": [
       "monacanthus chinensis",
       "fan-bellied leatherjacket",
-      "fan bellied leatherjacket"
+      "fan bellied leatherjacket",
+      "中華單角魨"
     ],
     "name_i18n": {
       "en": "Fanbelly Leatherjacket",
@@ -135159,7 +135645,8 @@
     "shortDescription": "Monetaria moneta, commonly called the money cowry, is a small marine gastropod mollusk in the Cypraeidae family. It is found in the Tropical Southwestern Pacific and surrounding areas, where its shells were historically used as currency.",
     "wikipedia": "http://en.wikipedia.org/wiki/Monetaria_moneta",
     "alias": [
-      "Monetaria moneta"
+      "Monetaria moneta",
+      "黃寶螺"
     ],
     "name_i18n": {
       "en": "Money Cowry",
@@ -135619,6 +136106,9 @@
       "coral",
       "cnidarian"
     ],
+    "alias": [
+      "指形表孔珊瑚"
+    ],
     "name_i18n": {
       "ja": "エダコモンサンゴ",
       "zh-Hans": "指表孔珊瑚",
@@ -135768,7 +136258,8 @@
     "alias": [
       "brock's moridilla",
       "Moridilla brockii",
-      "moridilla brockii"
+      "moridilla brockii",
+      "紅羽灰海蛞蝓"
     ],
     "name_i18n": {
       "fr": "Moridille de Brock",
@@ -137229,7 +137720,8 @@
       "interesting"
     ],
     "alias": [
-      "Smooth Dogfish"
+      "Smooth Dogfish",
+      "美星鯊"
     ],
     "name_i18n": {
       "en": "Dusky Smooth-hound",
@@ -139161,7 +139653,8 @@
     "bestSeason": "Year-round, though better visibility in calmer seasons",
     "photographyTips": "Focus on mussel bed formations and associated marine life; use macro lens for byssal thread details; shoot during calm conditions for better visibility in shallow water",
     "alias": [
-      "Blue Mussels"
+      "Blue Mussels",
+      "藍貝 (藍青口)"
     ],
     "name_i18n": {
       "en": "Blue Mussel",
@@ -139819,6 +140312,9 @@
     "tags": [
       "reef-fish"
     ],
+    "alias": [
+      "美麗鼻魚"
+    ],
     "name_i18n": {
       "en": "Elegant Unicornfish",
       "es": "Pez unicornio elegante",
@@ -140069,6 +140565,9 @@
     "tags": [
       "reef-fish"
     ],
+    "alias": [
+      "瘤鼻魚"
+    ],
     "name_i18n": {
       "en": "Humphead Unicornfish",
       "fr": "Licorne à points noirs",
@@ -140240,7 +140739,8 @@
     "alias": [
       "tiger moon snail",
       "Natica tigrina",
-      "natica tigrina"
+      "natica tigrina",
+      "斑玉螺"
     ],
     "name_i18n": {
       "en": "Tiger Moon Snail",
@@ -140283,7 +140783,8 @@
     "alias": [
       "pilot fish",
       "Naucrates ductor",
-      "naucrates ductor"
+      "naucrates ductor",
+      "舟鰤"
     ],
     "name_i18n": {
       "en": "Pilotfish",
@@ -140630,7 +141131,8 @@
     "divingRegions": "Andaman Sea, Bay of Bengal, Maldives & Chagos, Polynesia, Coral Triangle, Hawaii, Java Sea, Lord Howe & Norfolk, Micronesia, Great Barrier Reef, Western Australia, Red Sea, Northern Australia, Arabian Sea, South China Sea, Southern Japan, French Polynesia, Sunda Shelf, Eastern Tropical Pacific, South Pacific Islands, California & Baja, India & Sri Lanka, Western Indian Ocean",
     "bestSeason": "Year-round",
     "alias": [
-      "robust ghost"
+      "robust ghost",
+      "棘軸蝦"
     ],
     "name_i18n": {
       "fr": "Crevette-taupe",
@@ -141487,7 +141989,8 @@
     "photographyTips": "Macro lens ideal. The orange rhinophores against the green-black body create stunning contrast. Try to catch them feeding on tunicates for behavioral shots.",
     "alias": [
       "nudibranch (nembrotha kubaryana)",
-      "nudibranch nembrotha"
+      "nudibranch nembrotha",
+      "條凸卷足海牛"
     ],
     "name_i18n": {
       "en": "Dusky Nembrotha",
@@ -141530,7 +142033,8 @@
     "alias": [
       "lined nembrotha",
       "Nembrotha lineolata",
-      "nembrotha lineolata"
+      "nembrotha lineolata",
+      "條紋多角海蛞蝓（褐紋多角海蛞蝓）"
     ],
     "name_i18n": {
       "en": "Lined Nembrotha",
@@ -141722,6 +142226,9 @@
     "tags": [
       "reef-fish"
     ],
+    "alias": [
+      "橫斑金線魚"
+    ],
     "name_i18n": {
       "en": "Rosy Threadfin Bream",
       "ja": "モモイトヨリ",
@@ -141827,7 +142334,8 @@
     "shortDescription": "Nemipterus virgatus, known as the Golden Threadfin Bream, is a species of marine ray-finned fish in the family Nemipteridae, found in the Northwest Australian Shelf, Sahul Shelf, Warm Temperate Northwest Pacific, South China Sea, and Sunda Shelf.",
     "wikipedia": "https://en.wikipedia.org/wiki/Nemipterus_virgatus",
     "alias": [
-      "Nemipterus virgatus"
+      "Nemipterus virgatus",
+      "紅衫"
     ],
     "name_i18n": {
       "en": "Golden Threadfin Bream",
@@ -141865,7 +142373,8 @@
     },
     "shortDescription": "Nemipterus zysron, commonly referred to as the Slender Threadfin Bream, is a species within the family Nemipteridae, found in the Northwest Australian Shelf, Western Coral Triangle, South China Sea, Western Indian Ocean, and Sunda Shelf.",
     "alias": [
-      "Nemipterus zysron"
+      "Nemipterus zysron",
+      "長體金線魚"
     ],
     "name_i18n": {
       "en": "Slender Threadfin Bream",
@@ -143060,7 +143569,8 @@
       "marine-mammal"
     ],
     "alias": [
-      "Finless Black Porpoise"
+      "Finless Black Porpoise",
+      "印太江豚"
     ],
     "name_i18n": {
       "en": "Indo-Pacific Finless Porpoise",
@@ -144359,7 +144869,8 @@
       "pelagic"
     ],
     "alias": [
-      "Nomeus gronovii"
+      "Nomeus gronovii",
+      "水母雙鰭鯧"
     ],
     "name_i18n": {
       "en": "Bluebottle-fish",
@@ -145110,7 +145621,8 @@
       "interesting"
     ],
     "alias": [
-      "Sevengill Shark"
+      "Sevengill Shark",
+      "扁頭哈那鯊"
     ],
     "name_i18n": {
       "en": "Broadnose Sevengill Shark",
@@ -146555,6 +147067,9 @@
     "photographyTips": "Approach carefully",
     "tags": [
       "reef-fish"
+    ],
+    "alias": [
+      "泥樓牙花鮨"
     ],
     "name_i18n": {
       "en": "Checked Swallowtail",
@@ -148018,7 +148533,8 @@
     "bestSeason": "Not applicable - freshwater species",
     "photographyTips": "Not relevant for underwater marine photography as this is a freshwater species",
     "alias": [
-      "Steelhead Trout"
+      "Steelhead Trout",
+      "虹鱒"
     ],
     "name_i18n": {
       "en": "Rainbow Trout",
@@ -148193,6 +148709,9 @@
     "photographyTips": "Macro for small subjects; wide angle for larger ones",
     "tags": [
       "seabird"
+    ],
+    "alias": [
+      "烏燕鷗"
     ],
     "name_i18n": {
       "en": "Sooty Tern",
@@ -150457,7 +150976,8 @@
     },
     "shortDescription": "Opistognathus solorensis is a jawfish of the family Opistognathidae, recorded from the Western Coral Triangle and Tropical Northwestern Pacific.",
     "alias": [
-      "Opistognathus solorensis"
+      "Opistognathus solorensis",
+      "索洛後頜魚"
     ],
     "name_i18n": {
       "en": "Solor Jawfish",
@@ -150497,6 +151017,9 @@
     "photographyTips": "Approach carefully",
     "tags": [
       "reef-fish"
+    ],
+    "alias": [
+      "多彩後頜魚"
     ],
     "name_i18n": {
       "en": "Variable Jawfish",
@@ -151677,7 +152200,8 @@
     "shortDescription": "Ostorhinchus apogonoides is a member of the family Apogonidae found in Central Polynesia, the Western Indian Ocean, Marquesas, Warm Temperate Northwest Pacific, and Agulhas.",
     "wikipedia": "https://en.wikipedia.org/wiki/Ostorhinchus",
     "alias": [
-      "Ostorhinchus apogonoides"
+      "Ostorhinchus apogonoides",
+      "大目側仔"
     ],
     "name_i18n": {
       "en": "Goldbelly Cardinalfish",
@@ -151795,7 +152319,8 @@
       "Zoramia Leptacantha",
       "zoramia-leptacantha",
       "nineband cardinalfish",
-      "Nineband cardinalfish"
+      "Nineband cardinalfish",
+      "大目側仔"
     ],
     "name_i18n": {
       "en": "Blue-eye Cardinalfish",
@@ -151913,6 +152438,9 @@
     "tags": [
       "reef-fish"
     ],
+    "alias": [
+      "細線天竺鯛"
+    ],
     "name_i18n": {
       "en": "Candystripe Cardinalfish",
       "ja": "コスジイシモチ",
@@ -151987,7 +152515,8 @@
     "wikipedia": "https://en.wikipedia.org/wiki/Ostorhinchus_fleurieu",
     "divingRegions": "Andaman Sea, India & Sri Lanka, Western Indian Ocean",
     "alias": [
-      "norfolk cardinalfish"
+      "norfolk cardinalfish",
+      "斑柄天竺鯛"
     ],
     "name_i18n": {
       "en": "Bullseye Cardinalfish",
@@ -152222,7 +152751,8 @@
     "shortDescription": "Ostorhinchus nigrofasciatus, known as the Blackstriped Cardinalfish, is a cardinalfish from the Indo-Pacific region and belongs to the family Apogonidae. It is characterized by its yellow-black stripes and is found in the Tropical Southwestern Pacific and surrounding areas.",
     "wikipedia": "http://en.wikipedia.org/wiki/Ostorhinchus_nigrofasciatus",
     "alias": [
-      "Ostorhinchus nigrofasciatus"
+      "Ostorhinchus nigrofasciatus",
+      "黑帶天竺鯛"
     ],
     "name_i18n": {
       "en": "Blackstriped Cardinalfish",
@@ -152999,7 +153529,8 @@
     "alias": [
       "crisp pillow coral",
       "Oulophyllia crispa",
-      "oulophyllia crispa"
+      "oulophyllia crispa",
+      "捲曲耳紋珊瑚"
     ],
     "name_i18n": {
       "en": "Intermediate Valley Coral",
@@ -153123,6 +153654,9 @@
     "photographyTips": "Approach carefully",
     "tags": [
       "reef-fish"
+    ],
+    "alias": [
+      "西里伯斯尖唇魚"
     ],
     "name_i18n": {
       "en": "Slender Maori Wrasse",
@@ -153485,7 +154019,8 @@
     ],
     "alias": [
       "orange spotted filefish",
-      "harlequin filefish"
+      "harlequin filefish",
+      "尖吻魨"
     ],
     "name_i18n": {
       "en": "Longnose Filefish",
@@ -154228,7 +154763,8 @@
     "wikipedia": "https://en.wikipedia.org/wiki/Pagrus_major",
     "divingRegions": "Western Australia, Southern Japan, Northern Australia, South China Sea, Eastern Australia, Japan, Southern Australia, Southwestern Australia, Northern Japan",
     "alias": [
-      "red sea bream"
+      "red sea bream",
+      "真鯛 (鯛魚)"
     ],
     "name_i18n": {
       "en": "Red Seabream",
@@ -155857,7 +156393,8 @@
       "coral"
     ],
     "alias": [
-      "Palythoa mutuki"
+      "Palythoa mutuki",
+      "圓突沙葵"
     ],
     "name_i18n": {
       "en": "Green Button Polyp",
@@ -155926,7 +156463,8 @@
     "wikipedia": "https://en.wikipedia.org/wiki/Palythoa_tuberculosa",
     "divingRegions": "Maldives & Chagos, Polynesia, Hawaii, New Zealand, Red Sea, Southern Japan, Micronesia, Japan, India & Sri Lanka, Coral Triangle",
     "alias": [
-      "pool drains"
+      "pool drains",
+      "瘤菟葵"
     ],
     "name_i18n": {
       "en": "Sea Mat",
@@ -156347,7 +156885,8 @@
       "crustacean"
     ],
     "alias": [
-      "Panulirus femoristriga"
+      "Panulirus femoristriga",
+      "白鬚長足龍蝦"
     ],
     "name_i18n": {
       "en": "White Whisker Spiny Lobster",
@@ -158606,6 +159145,9 @@
     "tags": [
       "coral"
     ],
+    "alias": [
+      "翼形角星珊瑚"
+    ],
     "name_i18n": {
       "fr": "Paragoniastrea d'Australie",
       "ja": "ウネカメノコキクメイシ",
@@ -159736,6 +160278,9 @@
     "tags": [
       "reef-fish"
     ],
+    "alias": [
+      "多斑擬鱸"
+    ],
     "name_i18n": {
       "en": "Spotted Sandperch",
       "es": "Arenal moteado",
@@ -160179,6 +160724,9 @@
     "tags": [
       "reef-fish"
     ],
+    "alias": [
+      "沙鱸"
+    ],
     "name_i18n": {
       "en": "Redspotted Sandperch",
       "ja": "ハワイトラギス",
@@ -160248,6 +160796,9 @@
     "photographyTips": "Approach slowly",
     "tags": [
       "reef-fish"
+    ],
+    "alias": [
+      "背斑擬鱸"
     ],
     "name_i18n": {
       "en": "Blackfin Sandperch",
@@ -160652,7 +161203,8 @@
     ],
     "alias": [
       "parapriacanthus ransonneti",
-      "pygmy sweeper"
+      "pygmy sweeper",
+      "擬單鰭魚"
     ],
     "name_i18n": {
       "en": "Golden Sweeper",
@@ -160796,7 +161348,8 @@
     "divingRegions": "Polynesia, Coral Triangle, Micronesia, Great Barrier Reef, Western Australia, Northern Australia, Southern Japan, French Polynesia, South Pacific Islands, Western Indian Ocean",
     "bestSeason": "Year-round",
     "alias": [
-      "mozambique scorpionfish"
+      "mozambique scorpionfish",
+      "莫桑比克圓鱗鮋"
     ],
     "name_i18n": {
       "en": "Mozambique Scorpionfish",
@@ -160837,6 +161390,9 @@
     "photographyTips": "Approach slowly",
     "tags": [
       "reef-fish"
+    ],
+    "alias": [
+      "花彩圓鱗鮋"
     ],
     "name_i18n": {
       "en": "Painted scorpionfish",
@@ -161787,7 +162343,8 @@
     },
     "shortDescription": "Parupeneus biaculeatus is a member of the Mullidae family, commonly known as the Pointed Goatfish. It is found in the Warm Temperate Northwest Pacific, South China Sea, Hawaii, and Sunda Shelf.",
     "alias": [
-      "Parupeneus biaculeatus"
+      "Parupeneus biaculeatus",
+      "雙帶副緋鯉"
     ],
     "name_i18n": {
       "en": "Pointed Goatfish",
@@ -162217,7 +162774,8 @@
       "Long-Barbel Goatfish",
       "long-barbel goatfish",
       "long barbel goatfish",
-      "Parupeneus macronemus"
+      "Parupeneus macronemus",
+      "大絲副緋鯉"
     ],
     "name_i18n": {
       "en": "Longbarbel Goatfish",
@@ -162487,6 +163045,9 @@
     "photographyTips": "Approach slowly",
     "tags": [
       "reef-fish"
+    ],
+    "alias": [
+      "三帶副緋鯉"
     ],
     "name_i18n": {
       "en": "Indian Doublebar Goatfish",
@@ -163196,7 +163757,8 @@
     "alias": [
       "lettuce coral",
       "Pectinia lactuca",
-      "pectinia lactuca"
+      "pectinia lactuca",
+      "萵苣梳珊瑚"
     ],
     "name_i18n": {
       "en": "Common Lettuce Coral",
@@ -163278,6 +163840,9 @@
     "tags": [
       "bivalve",
       "mollusk"
+    ],
+    "alias": [
+      "擬海菊足扇貝"
     ],
     "name_i18n": {
       "en": "Iridescent Scallop",
@@ -163384,7 +163949,8 @@
     "wikipedia": "https://en.wikipedia.org/wiki/Pegasus_volitans",
     "divingRegions": "Eastern Australia, Great Barrier Reef, Western Australia, Northern Australia, South China Sea, Southwestern Australia, Sunda Shelf, Coral Triangle",
     "alias": [
-      "pegasus sea moth"
+      "pegasus sea moth",
+      "長副海蛾魚"
     ],
     "name_i18n": {
       "en": "Slender Seamoth",
@@ -164467,7 +165033,8 @@
     ],
     "alias": [
       "tiger shrimp",
-      "tiger-shrimp"
+      "tiger-shrimp",
+      "草對蝦"
     ],
     "name_i18n": {
       "en": "giant tiger prawn",
@@ -165980,6 +166547,9 @@
     "tags": [
       "crustacean"
     ],
+    "alias": [
+      "姐妹異蝦（姐妹巖蝦）"
+    ],
     "name_i18n": {
       "en": "Seastar Shrimp",
       "es": "Camarón de estrellas de mar",
@@ -166992,6 +167562,9 @@
     "tags": [
       "seabird"
     ],
+    "alias": [
+      "白尾鸏"
+    ],
     "name_i18n": {
       "en": "White-tailed Tropicbird",
       "es": "Rabijunco cola blanca",
@@ -167456,7 +168029,8 @@
     "shortDescription": "Phenacovolva rosea, or the rosy spindle cowry, is a marine gastropod mollusc in the family Ovulidae, found in the Northeast Australian Shelf, East Central Australian Shelf, Western Coral Triangle, Sahul Shelf, and Warm Temperate Northwest Pacific.",
     "wikipedia": "http://en.wikipedia.org/wiki/Phenacovolva_rosea",
     "alias": [
-      "Phenacovolva rosea"
+      "Phenacovolva rosea",
+      "玫瑰騙梭螺"
     ],
     "name_i18n": {
       "en": "Rosy Spindle Cowry",
@@ -167573,6 +168147,9 @@
     "tags": [
       "nudibranch",
       "macro-invertebrate"
+    ],
+    "alias": [
+      "黑枝背鰓海蛞蝓（黑枝羽螅海蛞蝓）"
     ],
     "name_i18n": {
       "en": "Blackgill Tenellia",
@@ -168650,7 +169227,8 @@
     "photographyTips": "Macro with front lighting to bring out the blue-yellow contrast. The raised ridges create interesting textures with angled light.",
     "alias": [
       "Phyllidia coelestis",
-      "phyllidia coelestis"
+      "phyllidia coelestis",
+      "天空葉海蛞蝓"
     ],
     "name_i18n": {
       "en": "Sky Blue Phyllidia",
@@ -168691,7 +169269,8 @@
     "alias": [
       "elegant phyllidia",
       "Phyllidia elegans",
-      "phyllidia elegans"
+      "phyllidia elegans",
+      "華美葉海蛞蝓"
     ],
     "name_i18n": {
       "en": "Elegant Phyllidia",
@@ -168724,6 +169303,9 @@
     },
     "shortDescription": "Phyllidia exquisita is a species of sea slug, a dorid nudibranch, belonging to the family Phyllidiidae, found in the Warm Temperate Northwest Pacific, South Kuroshio, Western Coral Triangle, Northeast Australian Shelf, and Central Indian Ocean Islands.",
     "wikipedia": "http://en.wikipedia.org/wiki/Phyllidia_exquisita",
+    "alias": [
+      "優美葉海蛞蝓"
+    ],
     "name_i18n": {
       "fr": "Phyllidie raffinée",
       "ja": "ボンジイボウミウシ",
@@ -168787,7 +169369,8 @@
     "photographyTips": "Macro lens works well. Focus on the orange tubercle clusters for sharp detail. Dark backgrounds enhance the contrast of the color pattern.",
     "alias": [
       "Phyllidia ocellata",
-      "phyllidia ocellata"
+      "phyllidia ocellata",
+      "媚眼葉海麒麟"
     ],
     "name_i18n": {
       "en": "Ocellate Phyllidia",
@@ -168823,7 +169406,8 @@
     "shortDescription": "Phyllidia picta, commonly known as Painted Phyllidia, is a dorid nudibranch in the family Phyllidiidae, found in the Warm Temperate Northwest Pacific, South Kuroshio, Western Coral Triangle, Tropical Southwestern Pacific, and Eastern Coral Triangle.",
     "wikipedia": "http://en.wikipedia.org/wiki/Phyllidia_picta",
     "alias": [
-      "Phyllidia picta"
+      "Phyllidia picta",
+      "多彩葉海蛞蝓（飛機葉海蛞蝓、月藍葉海蛞蝓）"
     ],
     "name_i18n": {
       "en": "Painted Phyllidia",
@@ -168863,7 +169447,8 @@
     "photographyTips": "Their bold patterns and slow movement make them easy macro subjects. Side-on angles emphasize the raised ridges and texture.",
     "alias": [
       "Phyllidia varicosa",
-      "phyllidia varicosa"
+      "phyllidia varicosa",
+      "葉海蛞蝓"
     ],
     "name_i18n": {
       "en": "Varicose Wart Slug",
@@ -168977,7 +169562,8 @@
     "alias": [
       "pustulose phyllidia",
       "Phyllidiella pustulosa",
-      "phyllidiella pustulosa"
+      "phyllidiella pustulosa",
+      "突丘葉海麒麟"
     ],
     "name_i18n": {
       "en": "Pustulose Wart Slug",
@@ -169119,7 +169705,8 @@
     "alias": [
       "Phyllidiopsis Shireenae",
       "Phyllidiopsis shireenae",
-      "phyllidiopsis shireenae"
+      "phyllidiopsis shireenae",
+      "席琳葉海蛞蝓"
     ],
     "name_i18n": {
       "en": "Shireen's Phyllidiopsis",
@@ -169372,7 +169959,8 @@
     "alias": [
       "long-cirri phyllodesmium",
       "Phyllodesmium longicirrum",
-      "phyllodesmium longicirrum"
+      "phyllodesmium longicirrum",
+      "觸手麥翼海蛞蝓"
     ],
     "name_i18n": {
       "ja": "オオコノハミノウミウシ",
@@ -170020,7 +170608,8 @@
     "alias": [
       "bubble coral",
       "Physogyra lichtensteini",
-      "physogyra lichtensteini"
+      "physogyra lichtensteini",
+      "泡紋珊瑚"
     ],
     "name_i18n": {
       "en": "Pearl Bubble Coral",
@@ -170366,7 +170955,8 @@
     "alias": [
       "black-lip pearl oyster",
       "Pinctada margaritifera",
-      "pinctada margaritifera"
+      "pinctada margaritifera",
+      "珠母貝"
     ],
     "name_i18n": {
       "en": "Black-lip Pearl Shell",
@@ -170407,6 +170997,9 @@
     "tags": [
       "bivalve",
       "mollusk"
+    ],
+    "alias": [
+      "大珠母貝"
     ],
     "name_i18n": {
       "en": "white-lip oyster",
@@ -170959,7 +171552,8 @@
     "alias": [
       "longfin snake eel",
       "Pisodonophis cancrivorus",
-      "pisodonophis cancrivorus"
+      "pisodonophis cancrivorus",
+      "食蟹豆齒鰻"
     ],
     "name_i18n": {
       "en": "Longfin Snake Eel",
@@ -171137,6 +171731,9 @@
       "bivalve",
       "mollusk"
     ],
+    "alias": [
+      "海月"
+    ],
     "name_i18n": {
       "en": "Windowpane Oyster",
       "de": "Capiz-Muschel",
@@ -171208,6 +171805,9 @@
     "photographyTips": "Approach slowly; natural light works well on shallow reefs",
     "tags": [
       "reef-fish"
+    ],
+    "alias": [
+      "粗吻橫口䲁(粗吻短帶䲁, 狗鰷)"
     ],
     "name_i18n": {
       "en": "Bluestriped Fangblenny",
@@ -171315,7 +171915,8 @@
     "bestSeason": "Year-round",
     "photographyTips": "Wait for parapodia to unfold for the 'solar panel' display; the internal pattern is most visible when fully deployed.",
     "alias": [
-      "Plakobranchus Ocellatus"
+      "Plakobranchus Ocellatus",
+      "多葉鰓海麒麟"
     ],
     "name_i18n": {
       "en": "Ringed Sap-sucking Slug",
@@ -171580,7 +172181,8 @@
       "actinopterygii"
     ],
     "alias": [
-      "juvenile pinnate batfish"
+      "juvenile pinnate batfish",
+      "彎鰭燕魚"
     ],
     "name_i18n": {
       "en": "Dusky Batfish",
@@ -172386,7 +172988,8 @@
       "interesting"
     ],
     "alias": [
-      "Spotted Sweetlips"
+      "Spotted Sweetlips",
+      "厚唇石鱸"
     ],
     "name_i18n": {
       "en": "Harlequin Sweetlips",
@@ -172735,6 +173338,9 @@
     "tags": [
       "reef-fish"
     ],
+    "alias": [
+      "條紋胡椒鯛"
+    ],
     "name_i18n": {
       "en": "Oriental Sweetlips",
       "de": "Orientalische Süßlippe",
@@ -172931,6 +173537,9 @@
     "tags": [
       "reef-fish"
     ],
+    "alias": [
+      "打鐵婆"
+    ],
     "name_i18n": {
       "en": "Grey Sweetlips",
       "de": "Schotafs Süßlippe",
@@ -173008,7 +173617,8 @@
       "interesting"
     ],
     "alias": [
-      "Oriental Sweetlips"
+      "Oriental Sweetlips",
+      "條紋胡椒鯛"
     ],
     "name_i18n": {
       "en": "Oriental Sweetlips",
@@ -173233,6 +173843,9 @@
     "tags": [
       "reef-fish"
     ],
+    "alias": [
+      "藍點鰓棘鱸"
+    ],
     "name_i18n": {
       "en": "Squaretail Coralgrouper",
       "de": "Dunkelflossen-Forellenbarsch",
@@ -173360,6 +173973,9 @@
     "photographyTips": "Approach slowly",
     "tags": [
       "reef-fish"
+    ],
+    "alias": [
+      "花斑刺鰓鮨"
     ],
     "name_i18n": {
       "en": "Spotted Coral Grouper",
@@ -173843,7 +174459,8 @@
     "alias": [
       "grand side-gill slug",
       "Pleurobranchus grandis",
-      "pleurobranchus grandis"
+      "pleurobranchus grandis",
+      "雄偉側鰓海蛞蝓"
     ],
     "name_i18n": {
       "en": "Grand Pleurobranch",
@@ -174411,7 +175028,8 @@
     "shortDescription": "Plocamopherus tilesii is a nudibranch from the family Polyceridae, found in the Warm Temperate Northwest Pacific and surrounding regions, including the South China Sea and the Western Coral Triangle.",
     "wikipedia": "http://en.wikipedia.org/wiki/Plocamopherus_tilesii",
     "alias": [
-      "Plocamopherus tilesii"
+      "Plocamopherus tilesii",
+      "泰氏束鬚海蛞蝓"
     ],
     "name_i18n": {
       "en": "Tile's Sea Slug",
@@ -174760,7 +175378,8 @@
       "coral"
     ],
     "alias": [
-      "Pocillopora verrucosa"
+      "Pocillopora verrucosa",
+      "疣鹿角珊瑚"
     ],
     "name_i18n": {
       "en": "Cauliflower Coral",
@@ -174845,7 +175464,8 @@
     "bestSeason": "Not applicable - freshwater aquarium fish",
     "photographyTips": "Not relevant for underwater marine photography",
     "alias": [
-      "Guppy"
+      "Guppy",
+      "孔雀魚"
     ],
     "name_i18n": {
       "en": "Guppy",
@@ -175532,7 +176152,8 @@
     ],
     "alias": [
       "blue-ring angelfish",
-      "blue ring"
+      "blue ring",
+      "肩環刺蓋魚"
     ],
     "name_i18n": {
       "en": "Bluering Angelfish",
@@ -176290,6 +176911,9 @@
     "tags": [
       "reef-fish"
     ],
+    "alias": [
+      "金尾雀鯛"
+    ],
     "name_i18n": {
       "en": "Whitetail Damsel",
       "fr": "Demoiselle à queue blanche",
@@ -176523,6 +177147,9 @@
     "tags": [
       "reef-fish"
     ],
+    "alias": [
+      "黑緣雀鯛"
+    ],
     "name_i18n": {
       "en": "Blackmargin Damsel",
       "ja": "ニセモンツキスズメダイ",
@@ -176560,7 +177187,8 @@
     "bestSeason": "Year-round",
     "alias": [
       "peacock damsel",
-      "blue damsel"
+      "blue damsel",
+      "孔雀雀鯛"
     ],
     "name_i18n": {
       "en": "Peacock Damsel",
@@ -177521,7 +178149,8 @@
       "coral"
     ],
     "alias": [
-      "Porites cylindrica"
+      "Porites cylindrica",
+      "柱形微孔珊瑚"
     ],
     "name_i18n": {
       "en": "Yellow Finger Coral",
@@ -178258,6 +178887,9 @@
     "tags": [
       "pelagic-fish"
     ],
+    "alias": [
+      "布氏大眼鯛"
+    ],
     "name_i18n": {
       "en": "Bloch's Bigeye",
       "ja": "アカネキントキ",
@@ -178622,7 +179254,8 @@
       "interesting"
     ],
     "alias": [
-      "Blue Shark"
+      "Blue Shark",
+      "大青鯊"
     ],
     "name_i18n": {
       "en": "Blue Shark",
@@ -178665,6 +179298,9 @@
     "tags": [
       "urchin",
       "echinoderm"
+    ],
+    "alias": [
+      "環鋸棘頭帕海膽"
     ],
     "name_i18n": {
       "ja": "ノコギリウニ",
@@ -179001,7 +179637,8 @@
     "shortDescription": "Pristicon trimaculatus, known as the threespot cardinalfish, is a nocturnal fish found in the Western Pacific Ocean. Its range includes the Northeast Australian Shelf and various regions around inshore coral reefs.",
     "wikipedia": "http://en.wikipedia.org/wiki/Pristicon_trimaculatus",
     "alias": [
-      "Pristicon trimaculatus"
+      "Pristicon trimaculatus",
+      "三斑天竺鯛"
     ],
     "name_i18n": {
       "en": "Threespot Cardinalfish",
@@ -179149,6 +179786,9 @@
     "tags": [
       "reef-fish"
     ],
+    "alias": [
+      "多牙紫魚"
+    ],
     "name_i18n": {
       "en": "Goldband Snapper",
       "ja": "ナガサキフエダイ",
@@ -179186,6 +179826,9 @@
     "photographyTips": "Approach carefully",
     "tags": [
       "reef-fish"
+    ],
+    "alias": [
+      "尖齒紫魚"
     ],
     "name_i18n": {
       "en": "Sharptooth Snapper",
@@ -180021,7 +180664,8 @@
       "worm"
     ],
     "alias": [
-      "Protula bispiralis"
+      "Protula bispiralis",
+      "巨原管蟲"
     ],
     "name_i18n": {
       "en": "Red Fanworm",
@@ -180407,6 +181051,9 @@
     "tags": [
       "reef-fish"
     ],
+    "alias": [
+      "鋸鰓擬花鮨"
+    ],
     "name_i18n": {
       "en": "Silverstreak Anthias",
       "fr": "Anthias à tache rouge",
@@ -180445,7 +181092,8 @@
       "reef-fish"
     ],
     "alias": [
-      "dispar anthias"
+      "dispar anthias",
+      "刺蓋擬花鮨"
     ],
     "name_i18n": {
       "en": "Redfin Anthias",
@@ -180479,7 +181127,8 @@
     },
     "shortDescription": "Pseudanthias fasciatus is a species of marine ray-finned fish in the family Anthiadidae. It is found in the Warm Temperate Northwest Pacific, South Kuroshio, Western Coral Triangle, Agulhas, and Southeast Australian Shelf.",
     "alias": [
-      "Pseudanthias fasciatus"
+      "Pseudanthias fasciatus",
+      "條紋擬花鮨"
     ],
     "name_i18n": {
       "en": "Redstripe Basslet",
@@ -180550,7 +181199,8 @@
     "shortDescription": "Pseudanthias hypselosoma, known as the stocky anthias, is a marine ray-finned fish in the Anthiadidae family. This species inhabits the Tropical Southwestern Pacific and extends from the Maldives to Samoa, including regions like the Western Coral Triangle and the Northeast Australian Shelf.",
     "wikipedia": "https://en.wikipedia.org/wiki/Pseudanthias_hypselosoma",
     "alias": [
-      "Pseudanthias hypselosoma"
+      "Pseudanthias hypselosoma",
+      "高體擬花鮨"
     ],
     "name_i18n": {
       "en": "Stocky Anthias",
@@ -180622,6 +181272,9 @@
     "photographyTips": "Approach slowly; natural light works well on shallow reefs",
     "tags": [
       "reef-fish"
+    ],
+    "alias": [
+      "紫紅擬花鮨"
     ],
     "name_i18n": {
       "en": "Purple Queen Anthias",
@@ -181097,6 +181750,9 @@
     "wormsUrl": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=219884",
     "divingRegions": "Polynesia, Coral Triangle, Micronesia, Great Barrier Reef, Western Australia, Northern Australia, Southern Japan, French Polynesia, South Pacific Islands, Western Indian Ocean",
     "bestSeason": "Year-round",
+    "alias": [
+      "黃邊副鱗魨"
+    ],
     "name_i18n": {
       "en": "Yellowmargin Triggerfish",
       "es": "Ballesta de márgenes amarillos",
@@ -181133,7 +181789,8 @@
     "divingRegions": "Eastern Australia, Micronesia, Great Barrier Reef, Western Australia, Red Sea, Northern Australia, Southern Japan, French Polynesia, South Pacific Islands, Japan, Coral Triangle, Western Indian Ocean",
     "alias": [
       "yellow-spotted triggerfish",
-      "yellow spotted"
+      "yellow spotted",
+      "褐副鱗魨"
     ],
     "name_i18n": {
       "en": "Blue Triggerfish",
@@ -181825,7 +182482,8 @@
     "bestSeason": "Year-round",
     "alias": [
       "Sand Trevally",
-      "Pseudocaranx wrighti"
+      "Pseudocaranx wrighti",
+      "沙擬鰺"
     ],
     "name_i18n": {
       "en": "Skipjack trevally",
@@ -183718,7 +184376,8 @@
       "interesting"
     ],
     "alias": [
-      "Sea Apple"
+      "Sea Apple",
+      "海蘋果"
     ],
     "name_i18n": {
       "en": "Violet Sea Apple",
@@ -184050,6 +184709,9 @@
     "photographyTips": "Approach slowly; natural light works well",
     "tags": [
       "reef-fish"
+    ],
+    "alias": [
+      "細尾似虹錦魚"
     ],
     "name_i18n": {
       "en": "Smalltail Wrasse",
@@ -184917,6 +185579,9 @@
       "mollusk",
       "sea-slug"
     ],
+    "alias": [
+      "紫灰翼海蛞蝓"
+    ],
     "name_i18n": {
       "en": "Blue Dragon",
       "fr": "Dragon bleu",
@@ -185184,6 +185849,9 @@
     "tags": [
       "reef-fish"
     ],
+    "alias": [
+      "絲尾鰭塘鱧"
+    ],
     "name_i18n": {
       "en": "Threadfin Dartfish",
       "de": "Blaue Torpedogrundel",
@@ -185222,6 +185890,9 @@
     "tags": [
       "reef-fish"
     ],
+    "alias": [
+      "尾斑鰭塘鱧"
+    ],
     "name_i18n": {
       "en": "Spottail Dartfish",
       "fr": "Poisson-fléchette à queue tachée",
@@ -185258,6 +185929,9 @@
     "photographyTips": "Approach carefully",
     "tags": [
       "reef-fish"
+    ],
+    "alias": [
+      "細鱗鰭塘鱧"
     ],
     "name_i18n": {
       "en": "Pearly Dartfish",
@@ -185412,7 +186086,8 @@
     "alias": [
       "yellow banded fusilier",
       "goldband fusilier",
-      "Yellow-Band Fusilier"
+      "Yellow-Band Fusilier",
+      "金帶鱗鰭梅鯛"
     ],
     "name_i18n": {
       "en": "Yellowband Fusilier",
@@ -185537,7 +186212,8 @@
     "alias": [
       "marr's fusilier",
       "marrs fusilier",
-      "marrs-fusilier"
+      "marrs-fusilier",
+      "馬氏鱗鰭梅鯛"
     ],
     "name_i18n": {
       "en": "Twinstripe Fusilier",
@@ -185574,7 +186250,8 @@
     "shortDescription": "Pterocaesio pisang, commonly referred to as the Ruddy Fusilier, is a marine ray-finned fish in the family Caesionidae. This species is widespread around reefs in the Eastern Coral Triangle, Western Indian Ocean, and Western Coral Triangle.",
     "wikipedia": "https://en.wikipedia.org/wiki/Pterocaesio_pisang",
     "alias": [
-      "Pterocaesio pisang"
+      "Pterocaesio pisang",
+      "斑尾鱗鰭梅鯛"
     ],
     "name_i18n": {
       "en": "Ruddy Fusilier",
@@ -185617,7 +186294,8 @@
     "alias": [
       "randall's fusilier",
       "randalls fusilier",
-      "randalls-fusilier"
+      "randalls-fusilier",
+      "菲律賓鱗鰭梅鯛"
     ],
     "name_i18n": {
       "en": "Randall's fusilier",
@@ -185655,6 +186333,9 @@
     "photographyTips": "Approach carefully",
     "tags": [
       "pelagic-fish"
+    ],
+    "alias": [
+      "黃帶鱗鰭梅鯛"
     ],
     "name_i18n": {
       "en": "One-stripe fusilier",
@@ -185890,7 +186571,8 @@
       "interesting"
     ],
     "alias": [
-      "Ambon Scorpionfish"
+      "Ambon Scorpionfish",
+      "安朋狹簑鮋"
     ],
     "name_i18n": {
       "en": "Ambon Scorpionfish",
@@ -186061,7 +186743,8 @@
       "reef-fish"
     ],
     "alias": [
-      "Tailbar Lionfish"
+      "Tailbar Lionfish",
+      "輻蓑鮋"
     ],
     "name_i18n": {
       "en": "Clearfin Lionfish",
@@ -187495,7 +188178,8 @@
       "interesting"
     ],
     "alias": [
-      "Cobia"
+      "Cobia",
+      "懵仔魚"
     ],
     "name_i18n": {
       "en": "Cobia",
@@ -187868,7 +188552,8 @@
     ],
     "alias": [
       "spanner crab",
-      "spanner-crab"
+      "spanner-crab",
+      "旭蟹"
     ],
     "name_i18n": {
       "en": "Spanner Crab",
@@ -188136,7 +188821,8 @@
     "shortDescription": "Remora osteochir, or marlinsucker, is a species of remora widely distributed in tropical and temperate oceans. It typically attaches to larger fish, particularly marlins and sailfishes.",
     "wikipedia": "https://en.wikipedia.org/wiki/Remora_osteochir",
     "alias": [
-      "Remora osteochir"
+      "Remora osteochir",
+      "印仔魚"
     ],
     "name_i18n": {
       "en": "Marlinsucker",
@@ -188660,7 +189346,8 @@
       "interesting"
     ],
     "alias": [
-      "Bowmouth Guitar Shark"
+      "Bowmouth Guitar Shark",
+      "圓犁頭鰩"
     ],
     "name_i18n": {
       "en": "Bowmouth Guitarfish",
@@ -190807,7 +191494,8 @@
     "photographyTips": "Macro lens captures the vivid striping. If hunting, photograph the predator-prey interaction for dramatic behavioral documentation.",
     "alias": [
       "Roboastra gracilis",
-      "roboastra gracilis"
+      "roboastra gracilis",
+      "細身粗海蛞蝓"
     ],
     "name_i18n": {
       "en": "Slender Roboastra",
@@ -191667,6 +192355,9 @@
     "tags": [
       "reef-fish"
     ],
+    "alias": [
+      "珠櫻鮨"
+    ],
     "name_i18n": {
       "en": "Cherry Anthias",
       "ja": "サクラダイ",
@@ -191798,6 +192489,9 @@
       "photoTitle": "Sagaminopteron psychedelicum"
     },
     "shortDescription": "Sagaminopteron psychedelicum is a species of bubble snail within the family Gastropteridae. It is found in the South Kuroshio, Warm Temperate Northwest Pacific, and various regions of the Coral Triangle.",
+    "alias": [
+      "幻覺相模海蛞蝓"
+    ],
     "name_i18n": {
       "fr": "Limace psychédélique",
       "ja": "トウモンウミコチョウ",
@@ -192589,7 +193283,8 @@
       "interesting"
     ],
     "alias": [
-      "Golden Grouper"
+      "Golden Grouper",
+      "鮑氏澤鮨"
     ],
     "name_i18n": {
       "en": "Golden Grouper",
@@ -193498,7 +194193,8 @@
     ],
     "alias": [
       "Bali Sardinella",
-      "Sardinella lemuru"
+      "Sardinella lemuru",
+      "黃澤小沙丁魚"
     ],
     "name_i18n": {
       "en": "Scaly Mackerel",
@@ -193579,7 +194275,8 @@
       "Sardinops sagax",
       "South African Sardine",
       "sardinops sagax",
-      "Southern African Pilchard"
+      "Southern African Pilchard",
+      "擬沙丁魚"
     ],
     "name_i18n": {
       "en": "Pacific Sardine",
@@ -193706,7 +194403,8 @@
     "shortDescription": "Sargocentron cornutum, known as the threespot squirrelfish, is a member of the Holocentridae family native to the western Pacific Ocean, ranging from Indonesia to the Great Barrier Reef.",
     "wikipedia": "https://en.wikipedia.org/wiki/Sargocentron_cornutum",
     "alias": [
-      "Sargocentron cornutum"
+      "Sargocentron cornutum",
+      "瀾公妾"
     ],
     "name_i18n": {
       "en": "Threespot Squirrelfish",
@@ -193869,7 +194567,8 @@
       "interesting"
     ],
     "alias": [
-      "White-Striped Squirrelfish"
+      "White-Striped Squirrelfish",
+      "瀾公妾"
     ],
     "name_i18n": {
       "en": "Samurai Squirrelfish",
@@ -194045,6 +194744,9 @@
     "tags": [
       "reef-fish"
     ],
+    "alias": [
+      "乳斑棘鱗魚"
+    ],
     "name_i18n": {
       "en": "Speckled Squirrelfish",
       "fr": "Poisson-écureuil moucheté",
@@ -194165,6 +194867,9 @@
     "photographyTips": "Approach slowly",
     "tags": [
       "reef-fish"
+    ],
+    "alias": [
+      "瀾公妾"
     ],
     "name_i18n": {
       "en": "Bluestripe Squirrelfish",
@@ -194317,7 +195022,8 @@
       "crustaceans"
     ],
     "alias": [
-      "saron shrimp"
+      "saron shrimp",
+      "乳斑掃帚蝦"
     ],
     "name_i18n": {
       "en": "Marbled Shrimp",
@@ -194813,6 +195519,9 @@
     "tags": [
       "reef-fish"
     ],
+    "alias": [
+      "弧帶鸚嘴魚"
+    ],
     "name_i18n": {
       "en": "Yellow-barred Parrotfish",
       "ja": "カワリブダイ",
@@ -194848,6 +195557,9 @@
     "photographyTips": "Approach slowly",
     "tags": [
       "reef-fish"
+    ],
+    "alias": [
+      "橫紋鸚嘴魚"
     ],
     "name_i18n": {
       "en": "Festive Parrotfish",
@@ -195342,6 +196054,9 @@
     "tags": [
       "reef-fish"
     ],
+    "alias": [
+      "瓜氏鸚嘴魚"
+    ],
     "name_i18n": {
       "en": "Greenblotch Parrotfish",
       "fr": "Perroquet de Quoy",
@@ -195615,7 +196330,8 @@
     "shortDescription": "Scatophagus argus, known as the spotted scat, is a species of fish in the scat family found in the Indo-Pacific region, including the Bay of Bengal and the Western Coral Triangle. It exhibits two primary color morphs: green scat and ruby scat.",
     "wikipedia": "https://en.wikipedia.org/wiki/Scatophagus_argus",
     "alias": [
-      "Scatophagus argus"
+      "Scatophagus argus",
+      "金鼓"
     ],
     "name_i18n": {
       "en": "Spotted Scat",
@@ -195999,7 +196715,8 @@
       "interesting"
     ],
     "alias": [
-      "Red Drum"
+      "Red Drum",
+      "星鱸"
     ],
     "name_i18n": {
       "en": "Red Drum",
@@ -196140,7 +196857,8 @@
     "shortDescription": "Scolopsis affinis, commonly called the Pale Monocle Bream, is a member of the Nemipteridae family. This species is distributed across the Northeast Australian Shelf, Western Coral Triangle, South Kuroshio, Eastern Coral Triangle, and Sunda Shelf.",
     "wikipedia": "https://en.wikipedia.org/wiki/Scolopsis_affinis",
     "alias": [
-      "Scolopsis affinis"
+      "Scolopsis affinis",
+      "相似眶棘鱸"
     ],
     "name_i18n": {
       "en": "Pale Monocle Bream",
@@ -196428,7 +197146,8 @@
     "shortDescription": "Scolopsis japonica, commonly referred to as the Coral Monocle Bream, is a species of fish in the Nemipteridae family, found in the western Pacific Ocean.",
     "wikipedia": "https://en.wikipedia.org/wiki/Scolopsis_japonica",
     "alias": [
-      "Scolopsis japonica"
+      "Scolopsis japonica",
+      "日本眶棘鱸"
     ],
     "name_i18n": {
       "en": "Coral Monocle Bream",
@@ -196667,7 +197386,8 @@
     },
     "shortDescription": "Scolopsis temporalis is a member of the Nemipteridae family, recorded from the Eastern Coral Triangle, Western Coral Triangle, Tropical Northwestern Pacific, Tropical Southwestern Pacific, and Northeast Australian Shelf.",
     "alias": [
-      "Scolopsis temporalis"
+      "Scolopsis temporalis",
+      "花吻眶棘鱸"
     ],
     "name_i18n": {
       "en": "Rainbow Monocle Bream",
@@ -196701,7 +197421,8 @@
     },
     "shortDescription": "Scolopsis trilineata is a species of fish in the Nemipteridae family, found in the Tropical Southwestern Pacific, Tropical Northwestern Pacific, Eastern Coral Triangle, Western Coral Triangle, and Northwest Australian Shelf.",
     "alias": [
-      "Scolopsis trilineata"
+      "Scolopsis trilineata",
+      "三線眶棘鱸"
     ],
     "name_i18n": {
       "en": "Threeline Monocle Bream",
@@ -196777,6 +197498,9 @@
     "tags": [
       "reef-fish"
     ],
+    "alias": [
+      "欖斑眶棘鱸"
+    ],
     "name_i18n": {
       "en": "Oblique-bar Monocle Bream",
       "de": "Neon-Scheinschnapper",
@@ -196851,7 +197575,8 @@
       "pelagic"
     ],
     "alias": [
-      "Scomber australasicus"
+      "Scomber australasicus",
+      "澳洲鯖"
     ],
     "name_i18n": {
       "en": "Blue Mackerel",
@@ -196896,7 +197621,8 @@
       "interesting"
     ],
     "alias": [
-      "Chestnut Mackerel"
+      "Chestnut Mackerel",
+      "日本鯖"
     ],
     "name_i18n": {
       "en": "Pacific Chub Mackerel",
@@ -197028,7 +197754,8 @@
       "queenfish",
       "scomberoides lysan",
       "Queenfish",
-      "Doublespotted Queenfish"
+      "Doublespotted Queenfish",
+      "長頜似鰺"
     ],
     "name_i18n": {
       "en": "Lesser Queenfish",
@@ -197209,7 +197936,8 @@
       "interesting"
     ],
     "alias": [
-      "Korean mackerel"
+      "Korean mackerel",
+      "藍點馬鮫"
     ],
     "name_i18n": {
       "en": "Japanese Spanish Mackerel",
@@ -197500,6 +198228,9 @@
     "tags": [
       "crustacean",
       "crab"
+    ],
+    "alias": [
+      "圓球股窗蟹"
     ],
     "name_i18n": {
       "ja": "コメツキガニ",
@@ -198972,6 +199703,9 @@
     "photographyTips": "Approach carefully",
     "tags": [
       "crustacean"
+    ],
+    "alias": [
+      "鱗突擬蟬蝦"
     ],
     "name_i18n": {
       "en": "Scaly Slipper Lobster",
@@ -200892,7 +201626,8 @@
     ],
     "alias": [
       "sepia latimanus",
-      "reef cuttlefish"
+      "reef cuttlefish",
+      "白斑烏賊"
     ],
     "name_i18n": {
       "en": "Broadclub Cuttlefish",
@@ -202904,6 +203639,9 @@
     "tags": [
       "reef-fish"
     ],
+    "alias": [
+      "白點臭都魚 (泥鯭 / 臭肚魚)"
+    ],
     "name_i18n": {
       "en": "White-spotted Rabbitfish",
       "fr": "Sigan pintade",
@@ -202939,6 +203677,9 @@
     "photographyTips": "Shoot pairs together — rabbitfish are famously monogamous",
     "tags": [
       "reef-fish"
+    ],
+    "alias": [
+      "凹吻藍子魚"
     ],
     "name_i18n": {
       "en": "Coral Rabbitfish",
@@ -203019,7 +203760,8 @@
     "shortDescription": "Siganus fuscescens, known as the Dusky Rabbitfish, is a species of rabbitfish in the Siganidae family. It inhabits the Northwest Australian Shelf, Western Coral Triangle, Northeast Australian Shelf, East Central Australian Shelf, and Sahul Shelf.",
     "wikipedia": "https://en.wikipedia.org/wiki/Siganus_fuscescens",
     "alias": [
-      "Siganus fuscescens"
+      "Siganus fuscescens",
+      "褐藍子魚"
     ],
     "name_i18n": {
       "en": "Dusky Rabbitfish",
@@ -203202,6 +203944,9 @@
     "photographyTips": "Approach slowly",
     "tags": [
       "reef-fish"
+    ],
+    "alias": [
+      "金線藍子魚"
     ],
     "name_i18n": {
       "en": "Goldlined Rabbitfish",
@@ -203433,6 +204178,9 @@
     "tags": [
       "reef-fish"
     ],
+    "alias": [
+      "斑藍子魚"
+    ],
     "name_i18n": {
       "en": "Spotted Rabbitfish",
       "fr": "Picot nid d'abeille",
@@ -203472,6 +204220,9 @@
     "photographyTips": "Approach slowly",
     "tags": [
       "reef-fish"
+    ],
+    "alias": [
+      "金帶藍子魚"
     ],
     "name_i18n": {
       "en": "Rivulated Rabbitfish",
@@ -203663,6 +204414,9 @@
     "tags": [
       "reef-fish"
     ],
+    "alias": [
+      "單斑藍子魚"
+    ],
     "name_i18n": {
       "en": "Blackblotch Foxface",
       "de": "Einfleckiges Fuchsgesicht",
@@ -203809,7 +204563,8 @@
     ],
     "alias": [
       "foxface rabbitfish",
-      "foxface-rabbitfish"
+      "foxface-rabbitfish",
+      "狐藍子魚"
     ],
     "name_i18n": {
       "en": "Foxface",
@@ -204397,6 +205152,9 @@
     "tags": [
       "reef-fish"
     ],
+    "alias": [
+      "大目側仔"
+    ],
     "name_i18n": {
       "en": "Urchin Cardinalfish",
       "ja": "ヒカリイシモチ",
@@ -204920,7 +205678,8 @@
       "interesting"
     ],
     "alias": [
-      "Robust Ghost Pipefish"
+      "Robust Ghost Pipefish",
+      "鋸吻剃刀魚"
     ],
     "name_i18n": {
       "en": "Robust Ghostpipefish",
@@ -205044,7 +205803,8 @@
     ],
     "alias": [
       "Ornate Ghost Pipefish",
-      "Ghostpipefish"
+      "Ghostpipefish",
+      "剃刀魚"
     ],
     "name_i18n": {
       "en": "Ornate Ghostpipefish",
@@ -205167,6 +205927,9 @@
     "tags": [
       "shark",
       "elasmobranch"
+    ],
+    "alias": [
+      "小頭睡鯊"
     ],
     "name_i18n": {
       "en": "Greenland Shark",
@@ -205651,7 +206414,8 @@
       "interesting"
     ],
     "alias": [
-      "Gilthead Sea Bream"
+      "Gilthead Sea Bream",
+      "金頭鯛"
     ],
     "name_i18n": {
       "en": "Gilthead Seabream",
@@ -205978,7 +206742,8 @@
     "alias": [
       "Humboldt penguin",
       "Spheniscus humboldti",
-      "spheniscus humboldti"
+      "spheniscus humboldti",
+      "洪堡企鵝"
     ],
     "name_i18n": {
       "en": "Humboldt Penguin",
@@ -206820,7 +207585,8 @@
     "divingRegions": "Polynesia, Hawaii, Micronesia, Southern Japan, French Polynesia, South Pacific Islands, Western Indian Ocean",
     "bestSeason": "Year-round",
     "alias": [
-      "hellers barracuda"
+      "hellers barracuda",
+      "黃帶金梭魚"
     ],
     "name_i18n": {
       "en": "Heller's Barracuda",
@@ -206890,7 +207656,8 @@
     "wikipedia": "https://en.wikipedia.org/wiki/Sphyraena_jello",
     "divingRegions": "Coral Triangle, Micronesia, Great Barrier Reef, Western Australia, South Pacific Islands, Western Indian Ocean, Southern Japan, Northern Australia, Sunda Shelf, Red Sea, India & Sri Lanka, Java Sea, Eastern Australia, Arabian Sea, Bay of Bengal, Japan, South Africa",
     "alias": [
-      "pickhandle barracuda"
+      "pickhandle barracuda",
+      "斑條魣"
     ],
     "name_i18n": {
       "en": "Pickhandle Barracuda",
@@ -206960,7 +207727,8 @@
     "wikipedia": "https://en.wikipedia.org/wiki/Sphyraena_obtusata",
     "alias": [
       "Sphyraena obtusata",
-      "obtuse barracuda"
+      "obtuse barracuda",
+      "鈍魣"
     ],
     "name_i18n": {
       "en": "Obtuse Barracuda",
@@ -207002,7 +207770,8 @@
       "Sphyraena pinguis",
       "striped barracuda",
       "brown barracuda",
-      "red barracuda"
+      "red barracuda",
+      "油魣"
     ],
     "name_i18n": {
       "en": "Red Barracuda",
@@ -207735,7 +208504,8 @@
       "worm"
     ],
     "alias": [
-      "Spirobranchus kraussii"
+      "Spirobranchus kraussii",
+      "克氏旋鰓蟲"
     ],
     "name_i18n": {
       "en": "Blue Coral-worm",
@@ -209286,6 +210056,9 @@
     "tags": [
       "reef-fish"
     ],
+    "alias": [
+      "厚殼仔"
+    ],
     "name_i18n": {
       "en": "Marquesan Gregory",
       "de": "Zimt-Demoisellefisch",
@@ -209531,6 +210304,9 @@
       "crustacean",
       "shrimp"
     ],
+    "alias": [
+      "共棲蓋隱蝦"
+    ],
     "name_i18n": {
       "en": "Whitestripe urchin shrimp",
       "fr": "Crevette des oursins",
@@ -209571,7 +210347,8 @@
       "interesting"
     ],
     "alias": [
-      "Zebra Shark"
+      "Zebra Shark",
+      "豹紋鯊"
     ],
     "name_i18n": {
       "en": "Zebra Shark",
@@ -209793,7 +210570,8 @@
       "Atlantic spotted dolphin",
       "Gamin",
       "Stenella frontalis",
-      "stenella frontalis"
+      "stenella frontalis",
+      "花斑原海豚"
     ],
     "name_i18n": {
       "en": "Atlantic Spotted Dolphin",
@@ -209984,7 +210762,8 @@
       "Banded Cleaner",
       "coral banded shrimp",
       "coral banded",
-      "Coral Banded Shrimp"
+      "Coral Banded Shrimp",
+      "蝟蝦（櫻花蝦）"
     ],
     "name_i18n": {
       "en": "Banded Coral Shrimp",
@@ -210645,6 +211424,9 @@
     "tags": [
       "seabird"
     ],
+    "alias": [
+      "普通燕鷗"
+    ],
     "name_i18n": {
       "en": "Common Tern",
       "es": "Charrán común",
@@ -211291,7 +212073,8 @@
     "alias": [
       "Ornate Stiliger",
       "Stiliger Ornatus",
-      "Stiliger ornatus"
+      "Stiliger ornatus",
+      "美麗柱海蛞蝓"
     ],
     "name_i18n": {
       "en": "Ornate Stiliger Slug",
@@ -212464,7 +213247,8 @@
     "shortDescription": "Stylocheilus striatus, known as the lined seahare, is a sea hare species found in the Western Indian Ocean, Warm Temperate Northwest Pacific, Western Coral Triangle, Tropical Northwestern Atlantic, and Tropical Southwestern Pacific.",
     "wikipedia": "https://en.wikipedia.org/wiki/Stylocheilus_striatus",
     "alias": [
-      "Stylocheilus striatus"
+      "Stylocheilus striatus",
+      "條紋柱唇海兔"
     ],
     "name_i18n": {
       "en": "Lined Seahare",
@@ -212791,7 +213575,8 @@
     "wikipedia": "https://en.wikipedia.org/wiki/Suezichthys",
     "divingRegions": "Western Australia, Japan",
     "alias": [
-      "lord howe island wrasse"
+      "lord howe island wrasse",
+      "尾點蘇彝士隆頭魚"
     ],
     "name_i18n": {
       "en": "Soela Wrasse",
@@ -212961,7 +213746,8 @@
     ],
     "alias": [
       "bridled triggerfish",
-      "bridled-triggerfish"
+      "bridled-triggerfish",
+      "韁紋多棘鱗魨"
     ],
     "name_i18n": {
       "en": "Bridled Triggerfish",
@@ -213081,7 +213867,8 @@
     "alias": [
       "Nazca booby",
       "Sula granti",
-      "sula granti"
+      "sula granti",
+      "橙嘴鰹鳥"
     ],
     "name_i18n": {
       "en": "Nazca Booby",
@@ -213304,7 +214091,8 @@
       "interesting"
     ],
     "alias": [
-      "Fringe-Lip Flathead"
+      "Fringe-Lip Flathead",
+      "乳瓣繸牛尾魚"
     ],
     "name_i18n": {
       "en": "Fringelip Flathead",
@@ -213666,6 +214454,9 @@
     "photographyTips": "Approach slowly; natural light works well",
     "tags": [
       "reef-fish"
+    ],
+    "alias": [
+      "絲條長鰭笛鯛"
     ],
     "name_i18n": {
       "en": "Thread-finned Sea Perch",
@@ -214264,7 +215055,8 @@
     ],
     "alias": [
       "ocellated dragonet",
-      "ocellated-dragonet"
+      "ocellated-dragonet",
+      "眼斑新連鰭䲗"
     ],
     "name_i18n": {
       "en": "Marbled Dragonet",
@@ -214540,7 +215332,8 @@
       "interesting"
     ],
     "alias": [
-      "Long-Nosed Pipefish"
+      "Long-Nosed Pipefish",
+      "擬海龍"
     ],
     "name_i18n": {
       "en": "Double-end Pipehorse",
@@ -215363,7 +216156,8 @@
     ],
     "alias": [
       "tachypleus tridentatus",
-      "chinese horseshoe crab"
+      "chinese horseshoe crab",
+      "中華鱟"
     ],
     "name_i18n": {
       "en": "Chinese Horseshoe Crab",
@@ -216040,7 +216834,8 @@
     "wikipedia": "https://en.wikipedia.org/wiki/Tambja_morosa",
     "divingRegions": "Andaman Sea, Eastern Australia, Coral Triangle, Hawaii, Great Barrier Reef, New Zealand, Southern Japan, French Polynesia, Micronesia, South Pacific Islands, Japan, Western Indian Ocean",
     "alias": [
-      "scribbled nudibranch"
+      "scribbled nudibranch",
+      "藍紋多角海蛞蝓"
     ],
     "name_i18n": {
       "en": "Gloomy Nudibranch",
@@ -216387,6 +217182,9 @@
       "cetacean",
       "marine-mammal"
     ],
+    "alias": [
+      "謝氏塔喙鯨"
+    ],
     "name_i18n": {
       "en": "Shepherd's Beaked Whale",
       "es": "Ballena picuda de Shepherd",
@@ -216592,7 +217390,8 @@
     "shortDescription": "Tectus pyramis, commonly referred to as the pyramid trochus, is a marine gastropod mollusk in the family Turbinidae. It is found in the Eastern Coral Triangle, Tropical Northwestern Pacific, Tropical Southwestern Pacific, Warm Temperate Northwest Pacific, and Northeast Australian Shelf.",
     "wikipedia": "http://en.wikipedia.org/wiki/Tectus_pyramis",
     "alias": [
-      "Tectus pyramis"
+      "Tectus pyramis",
+      "銀塔鐘 螺"
     ],
     "name_i18n": {
       "en": "Pyramid Trochus",
@@ -216915,6 +217714,9 @@
     "photographyTips": "Approach slowly",
     "tags": [
       "reef-fish"
+    ],
+    "alias": [
+      "細鱗鯻  彎紋釘公 花身雞魚"
     ],
     "name_i18n": {
       "en": "Crescent Grunter",
@@ -217354,6 +218156,9 @@
     "photographyTips": "Approach carefully",
     "tags": [
       "crustacean"
+    ],
+    "alias": [
+      "鈍齒短槳蟹"
     ],
     "name_i18n": {
       "en": "Crenate Swimming Crab",
@@ -218592,6 +219397,9 @@
       "mollusk",
       "sea-slug"
     ],
+    "alias": [
+      "彩繪多角海蛞蝓"
+    ],
     "name_i18n": {
       "fr": "Thécacère peinte",
       "ja": "ツノザヤウミウシ",
@@ -218865,7 +219673,8 @@
     "alias": [
       "sexy shrimp",
       "Thor amboinensis",
-      "thor amboinensis"
+      "thor amboinensis",
+      "白斑拖蝦"
     ],
     "name_i18n": {
       "en": "Squat Anemone Shrimp",
@@ -219077,7 +219886,8 @@
       "interesting"
     ],
     "alias": [
-      "Albacore Tuna"
+      "Albacore Tuna",
+      "長鰭金槍魚"
     ],
     "name_i18n": {
       "en": "Albacore",
@@ -219171,7 +219981,8 @@
       "interesting"
     ],
     "alias": [
-      "Blackfin Tuna"
+      "Blackfin Tuna",
+      "黑鰭金槍魚"
     ],
     "name_i18n": {
       "en": "Blackfin Tuna",
@@ -219302,7 +220113,8 @@
       "Northern Bluefin Tuna",
       "Thunnus thynnus",
       "Tuna",
-      "thunnus thynnus"
+      "thunnus thynnus",
+      "大西洋黑鮪"
     ],
     "name_i18n": {
       "en": "Atlantic Bluefin Tuna",
@@ -219508,6 +220320,9 @@
     "tags": [
       "nudibranch",
       "macro-invertebrate"
+    ],
+    "alias": [
+      "輝煌平鰓海蛞蝓"
     ],
     "name_i18n": {
       "fr": "Thuridille éclatante",
@@ -219741,7 +220556,8 @@
     ],
     "alias": [
       "longsnout flathead",
-      "longsnout-flathead"
+      "longsnout-flathead",
+      "窄眼繸鯒"
     ],
     "name_i18n": {
       "en": "Longsnout Flathead",
@@ -221354,6 +222170,9 @@
       "urchin",
       "echinoderm"
     ],
+    "alias": [
+      "喇叭毒刺海膽"
+    ],
     "name_i18n": {
       "en": "Flower Urchin",
       "fr": "Oursin-fleur",
@@ -221594,7 +222413,8 @@
     "divingRegions": "Florida Inland, North American Inland, Indonesian/Malay Inland, East Asia Inland, European Inland, SE Asia Freshwater",
     "alias": [
       "Trachemys scripta",
-      "trachemys scripta"
+      "trachemys scripta",
+      "彩龜"
     ],
     "name_i18n": {
       "en": "Pond Slider",
@@ -221638,7 +222458,8 @@
     "bestSeason": "Not applicable - not a marine diving species",
     "photographyTips": "Not relevant for marine underwater photography",
     "alias": [
-      "Red-Eared Slider Turtle"
+      "Red-Eared Slider Turtle",
+      "紅耳龜"
     ],
     "name_i18n": {
       "en": "Red-eared Slider",
@@ -222026,7 +222847,8 @@
       "interesting"
     ],
     "alias": [
-      "Permit"
+      "Permit",
+      "鐮鰭鯧鰺"
     ],
     "name_i18n": {
       "en": "Permit",
@@ -222764,7 +223586,8 @@
     "alias": [
       "open brain coral",
       "Trachyphyllia geoffroyi",
-      "trachyphyllia geoffroyi"
+      "trachyphyllia geoffroyi",
+      "蜿蜒曲紋珊瑚"
     ],
     "name_i18n": {
       "en": "Banana Coral",
@@ -223243,7 +224066,8 @@
       "shark"
     ],
     "alias": [
-      "Whitetip Reef Shark"
+      "Whitetip Reef Shark",
+      "白鰭鯊"
     ],
     "name_i18n": {
       "en": "Whitetip Reef Shark",
@@ -223447,7 +224271,8 @@
       "interesting"
     ],
     "alias": [
-      "West Indian Manatee"
+      "West Indian Manatee",
+      "西印度海牛"
     ],
     "name_i18n": {
       "en": "West Indian Manatee",
@@ -223704,7 +224529,8 @@
     "alias": [
       "noah's giant clam",
       "Tridacna noae",
-      "tridacna noae"
+      "tridacna noae",
+      "諾亞硨磲貝"
     ],
     "name_i18n": {
       "en": "Noah's Giant Clam",
@@ -223858,6 +224684,9 @@
     "tags": [
       "reef-fish"
     ],
+    "alias": [
+      "橘點磨塘鱧"
+    ],
     "name_i18n": {
       "en": "Greybeard Dwarfgoby",
       "ja": "ペガススベニハゼ",
@@ -223960,6 +224789,9 @@
     "tags": [
       "reef-fish"
     ],
+    "alias": [
+      "埃氏磨塘鱧"
+    ],
     "name_i18n": {
       "en": "Emery's Pygmygoby",
       "ja": "ウロコベニハゼ",
@@ -224028,6 +224860,9 @@
     "photographyTips": "Approach carefully",
     "tags": [
       "reef-fish"
+    ],
+    "alias": [
+      "紅小斑磨塘鱧"
     ],
     "name_i18n": {
       "en": "Skinspot Pygmygoby",
@@ -224204,6 +225039,9 @@
     "divingRegions": "Coral Triangle, Micronesia, Great Barrier Reef, Southern Japan, South Pacific Islands",
     "bestSeason": "Year-round",
     "photographyTips": "Use a snoot or focused beam to illuminate against the dark overhang background; groups create attractive compositions.",
+    "alias": [
+      "底斑磨塘鱧"
+    ],
     "name_i18n": {
       "en": "Bluestripe Pygmygoby",
       "ja": "アオギハゼ",
@@ -225471,7 +226309,8 @@
     "alias": [
       "orange sun coral",
       "Tubastraea coccinea",
-      "tubastraea coccinea"
+      "tubastraea coccinea",
+      "圓管星珊瑚"
     ],
     "name_i18n": {
       "en": "Orange Cup Coral",
@@ -226111,7 +226950,8 @@
       "marine-mammal"
     ],
     "alias": [
-      "Pacific bottlenose dolphin"
+      "Pacific bottlenose dolphin",
+      "瓶鼻海豚"
     ],
     "name_i18n": {
       "en": "Common Bottlenose Dolphin",
@@ -226606,7 +227446,8 @@
     "alias": [
       "umbrella slug",
       "Umbraculum umbraculum",
-      "umbraculum umbraculum"
+      "umbraculum umbraculum",
+      "傘螺"
     ],
     "name_i18n": {
       "en": "Umbrella Slug",
@@ -226997,6 +227838,9 @@
     "tags": [
       "reef-fish"
     ],
+    "alias": [
+      "秋姑"
+    ],
     "name_i18n": {
       "en": "Goldband Goatfish",
       "fr": "Barbet à bande dorée",
@@ -227098,6 +227942,9 @@
     "tags": [
       "reef-fish"
     ],
+    "alias": [
+      "秋姑"
+    ],
     "name_i18n": {
       "en": "Sunrise Goatfish",
       "ja": "コハクヒメジ",
@@ -227167,6 +228014,9 @@
     "photographyTips": "Approach slowly; natural light works well",
     "tags": [
       "reef-fish"
+    ],
+    "alias": [
+      "鬚哥"
     ],
     "name_i18n": {
       "en": "Freckled Goatfish",
@@ -228325,6 +229175,9 @@
     "tags": [
       "reef-fish"
     ],
+    "alias": [
+      "雙帶凡塘鱧"
+    ],
     "name_i18n": {
       "en": "Blacklined Glidergoby",
       "fr": "Gobie à ruban",
@@ -228362,6 +229215,9 @@
     "tags": [
       "reef-fish"
     ],
+    "alias": [
+      "無斑範氏塘鱧 (無斑凡塘鱧)"
+    ],
     "name_i18n": {
       "en": "Immaculate Glidergoby",
       "zh-Hans": "无斑凡塘鳢",
@@ -228396,6 +229252,9 @@
     "photographyTips": "Macro essential",
     "tags": [
       "reef-fish"
+    ],
+    "alias": [
+      "長鰭凡塘鱧"
     ],
     "name_i18n": {
       "en": "Ocellate Glidergoby",
@@ -228432,6 +229291,9 @@
     "photographyTips": "Macro essential",
     "tags": [
       "reef-fish"
+    ],
+    "alias": [
+      "石壁凡塘鱧"
     ],
     "name_i18n": {
       "en": "Mural Glidergoby",
@@ -229157,7 +230019,8 @@
     "shortDescription": "Verulux cypselurus, also known as the Schooling Cardinalfish, is a species in the Apogonidae family found across the Northeast Australian Shelf, Western Indian Ocean, Tropical Southwestern Pacific, Northwest Australian Shelf, and Tropical Northwestern Pacific.",
     "wikipedia": "http://en.wikipedia.org/wiki/Verulux_cypselurus",
     "alias": [
-      "Verulux cypselurus"
+      "Verulux cypselurus",
+      "大目側仔"
     ],
     "name_i18n": {
       "en": "Schooling Cardinalfish",
@@ -229495,6 +230358,9 @@
     "tags": [
       "reef-fish"
     ],
+    "alias": [
+      "黑鰭隆頭魚"
+    ],
     "name_i18n": {
       "en": "Sharpnose wrasse",
       "ja": "ハシナガベラ",
@@ -229613,6 +230479,9 @@
     "tags": [
       "crustacean",
       "crab"
+    ],
+    "alias": [
+      "細粒近扇蟹"
     ],
     "name_i18n": {
       "en": "Lamarck's Crab",
@@ -230802,7 +231671,8 @@
       "reef-fish"
     ],
     "alias": [
-      "Moorish idol"
+      "Moorish idol",
+      "鐮魚"
     ],
     "name_i18n": {
       "en": "Moorish Idol",
@@ -231040,7 +231910,8 @@
       "interesting"
     ],
     "alias": [
-      "Yellowtail Surgeonfish"
+      "Yellowtail Surgeonfish",
+      "黃高鰭刺尾魚"
     ],
     "name_i18n": {
       "en": "Yellow Tang",
@@ -231365,7 +232236,8 @@
     "bestSeason": "Year-round",
     "alias": [
       "emperor commensal shrimp",
-      "emperor commensal"
+      "emperor commensal",
+      "姐妹異蝦（姐妹巖蝦）"
     ],
     "name_i18n": {
       "en": "Seastar Shrimp",
