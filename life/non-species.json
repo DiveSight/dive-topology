@@ -157357,5 +157357,1785 @@
       "genus": "unomia",
       "isMarine": 1
     }
+  },
+  {
+    "id": "acanthastrea",
+    "meta": {
+      "name": "Acanthastrea",
+      "depiction": null,
+      "description": "Acanthastrea is a genus of marine cnidarians in the family Lobophylliidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "lobophylliidae",
+      "kingdom": "animalia",
+      "phylum": "cnidaria",
+      "class": "hexacorallia",
+      "order": "scleractinia",
+      "family": "lobophylliidae",
+      "genus": "acanthastrea",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "achaeopsis",
+    "meta": {
+      "name": "Achaeopsis",
+      "depiction": null,
+      "description": "Achaeopsis is a genus of marine crustaceans in the family Inachidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "inachidae",
+      "kingdom": "animalia",
+      "phylum": "arthropoda",
+      "class": "malacostraca",
+      "order": "decapoda",
+      "family": "inachidae",
+      "genus": "achaeopsis",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "acutigebia",
+    "meta": {
+      "name": "Acutigebia",
+      "depiction": null,
+      "description": "Acutigebia is a genus of marine crustaceans in the family Upogebiidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "upogebiidae",
+      "kingdom": "animalia",
+      "phylum": "arthropoda",
+      "class": "malacostraca",
+      "order": "decapoda",
+      "family": "upogebiidae",
+      "genus": "acutigebia",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "agonopsis",
+    "meta": {
+      "name": "Agonopsis",
+      "depiction": null,
+      "description": "Agonopsis is a genus of marine fishes in the family Agonidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "agonidae",
+      "kingdom": "animalia",
+      "phylum": "chordata",
+      "class": "teleostei",
+      "order": "perciformes",
+      "family": "agonidae",
+      "genus": "agonopsis",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "agonus",
+    "meta": {
+      "name": "Agonus",
+      "depiction": null,
+      "description": "Agonus is a genus of marine fishes in the family Agonidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "agonidae",
+      "kingdom": "animalia",
+      "phylum": "chordata",
+      "class": "teleostei",
+      "order": "perciformes",
+      "family": "agonidae",
+      "genus": "agonus",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "alabes",
+    "meta": {
+      "name": "Alabes",
+      "depiction": null,
+      "description": "Alabes is a genus of marine fishes in the family Gobiesocidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "gobiesocidae",
+      "kingdom": "animalia",
+      "phylum": "chordata",
+      "class": "teleostei",
+      "order": "gobiesociformes",
+      "family": "gobiesocidae",
+      "genus": "alabes",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "alloblennius",
+    "meta": {
+      "name": "Alloblennius",
+      "depiction": null,
+      "description": "Alloblennius is a genus of marine fishes in the family Blenniidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "blenniidae",
+      "kingdom": "animalia",
+      "phylum": "chordata",
+      "class": "teleostei",
+      "order": "blenniiformes",
+      "family": "blenniidae",
+      "genus": "alloblennius",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "alope",
+    "meta": {
+      "name": "Alope",
+      "depiction": null,
+      "description": "Alope is a genus of marine crustaceans in the family Hippolytidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "hippolytidae",
+      "kingdom": "animalia",
+      "phylum": "arthropoda",
+      "class": "malacostraca",
+      "order": "decapoda",
+      "family": "hippolytidae",
+      "genus": "alope",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "amphichthys",
+    "meta": {
+      "name": "Amphichthys",
+      "depiction": null,
+      "description": "Amphichthys is a genus of marine fishes in the family Batrachoididae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "batrachoididae",
+      "kingdom": "animalia",
+      "phylum": "chordata",
+      "class": "teleostei",
+      "order": "batrachoidiformes",
+      "family": "batrachoididae",
+      "genus": "amphichthys",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "amphistichus",
+    "meta": {
+      "name": "Amphistichus",
+      "depiction": null,
+      "description": "Amphistichus is a genus of marine fishes in the family Embiotocidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "embiotocidae",
+      "kingdom": "animalia",
+      "phylum": "chordata",
+      "class": "teleostei",
+      "order": "ovalentaria incertae sedis",
+      "family": "embiotocidae",
+      "genus": "amphistichus",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "anthothoe",
+    "meta": {
+      "name": "Anthothoe",
+      "depiction": null,
+      "description": "Anthothoe is a genus of marine cnidarians in the family Sagartiidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "sagartiidae",
+      "kingdom": "animalia",
+      "phylum": "cnidaria",
+      "class": "hexacorallia",
+      "order": "actiniaria",
+      "family": "sagartiidae",
+      "genus": "anthothoe",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "ascelichthys",
+    "meta": {
+      "name": "Ascelichthys",
+      "depiction": null,
+      "description": "Ascelichthys is a genus of marine fishes in the family Cottidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "cottidae",
+      "kingdom": "animalia",
+      "phylum": "chordata",
+      "class": "teleostei",
+      "order": "perciformes",
+      "family": "cottidae",
+      "genus": "ascelichthys",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "astrapogon",
+    "meta": {
+      "name": "Astrapogon",
+      "depiction": null,
+      "description": "Astrapogon is a genus of marine fishes in the family Apogonidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "apogonidae",
+      "kingdom": "animalia",
+      "phylum": "chordata",
+      "class": "teleostei",
+      "order": "apogoniformes",
+      "family": "apogonidae",
+      "genus": "astrapogon",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "astrea",
+    "meta": {
+      "name": "Astrea",
+      "depiction": null,
+      "description": "Astrea is a genus of marine cnidarians in the family Merulinidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "merulinidae",
+      "kingdom": "animalia",
+      "phylum": "cnidaria",
+      "class": "hexacorallia",
+      "order": "scleractinia",
+      "family": "merulinidae",
+      "genus": "astrea",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "atelecyclus",
+    "meta": {
+      "name": "Atelecyclus",
+      "depiction": null,
+      "description": "Atelecyclus is a genus of marine crustaceans in the family Atelecyclidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "atelecyclidae",
+      "kingdom": "animalia",
+      "phylum": "arthropoda",
+      "class": "malacostraca",
+      "order": "decapoda",
+      "family": "atelecyclidae",
+      "genus": "atelecyclus",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "australophyllia",
+    "meta": {
+      "name": "Australophyllia",
+      "depiction": null,
+      "description": "Australophyllia is a genus of marine cnidarians in the family Lobophylliidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "lobophylliidae",
+      "kingdom": "animalia",
+      "phylum": "cnidaria",
+      "class": "hexacorallia",
+      "order": "scleractinia",
+      "family": "lobophylliidae",
+      "genus": "australophyllia",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "biemna",
+    "meta": {
+      "name": "Biemna",
+      "depiction": null,
+      "description": "Biemna is a genus of marine sponges in the family Biemnidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "biemnidae",
+      "kingdom": "animalia",
+      "phylum": "porifera",
+      "class": "demospongiae",
+      "order": "biemnida",
+      "family": "biemnidae",
+      "genus": "biemna",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "blastomussa",
+    "meta": {
+      "name": "Blastomussa",
+      "depiction": null,
+      "description": "Blastomussa is a genus of marine cnidarians in the family Plerogyridae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "plerogyridae",
+      "kingdom": "animalia",
+      "phylum": "cnidaria",
+      "class": "hexacorallia",
+      "order": "scleractinia",
+      "family": "plerogyridae",
+      "genus": "blastomussa",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "blennophis",
+    "meta": {
+      "name": "Blennophis",
+      "depiction": null,
+      "description": "Blennophis is a genus of marine fishes in the family Clinidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "clinidae",
+      "kingdom": "animalia",
+      "phylum": "chordata",
+      "class": "teleostei",
+      "order": "blenniiformes",
+      "family": "clinidae",
+      "genus": "blennophis",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "buglossidium",
+    "meta": {
+      "name": "Buglossidium",
+      "depiction": null,
+      "description": "Buglossidium is a genus of marine fishes in the family Soleidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "soleidae",
+      "kingdom": "animalia",
+      "phylum": "chordata",
+      "class": "teleostei",
+      "order": "pleuronectiformes",
+      "family": "soleidae",
+      "genus": "buglossidium",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "cavernularia",
+    "meta": {
+      "name": "Cavernularia",
+      "depiction": null,
+      "description": "Cavernularia is a genus of marine cnidarians in the family Veretillidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "veretillidae",
+      "kingdom": "animalia",
+      "phylum": "cnidaria",
+      "class": "octocorallia",
+      "order": "scleralcyonacea",
+      "family": "veretillidae",
+      "genus": "cavernularia",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "chatrabus",
+    "meta": {
+      "name": "Chatrabus",
+      "depiction": null,
+      "description": "Chatrabus is a genus of marine fishes in the family Batrachoididae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "batrachoididae",
+      "kingdom": "animalia",
+      "phylum": "chordata",
+      "class": "teleostei",
+      "order": "batrachoidiformes",
+      "family": "batrachoididae",
+      "genus": "chatrabus",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "cheiloprion",
+    "meta": {
+      "name": "Cheiloprion",
+      "depiction": null,
+      "description": "Cheiloprion is a genus of marine fishes in the family Pomacentridae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "pomacentridae",
+      "kingdom": "animalia",
+      "phylum": "chordata",
+      "class": "teleostei",
+      "order": "ovalentaria incertae sedis",
+      "family": "pomacentridae",
+      "genus": "cheiloprion",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "ciocalypta",
+    "meta": {
+      "name": "Ciocalypta",
+      "depiction": null,
+      "description": "Ciocalypta is a genus of marine sponges in the family Halichondriidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "halichondriidae",
+      "kingdom": "animalia",
+      "phylum": "porifera",
+      "class": "demospongiae",
+      "order": "suberitida",
+      "family": "halichondriidae",
+      "genus": "ciocalypta",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "cirrhibarbis",
+    "meta": {
+      "name": "Cirrhibarbis",
+      "depiction": null,
+      "description": "Cirrhibarbis is a genus of marine fishes in the family Clinidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "clinidae",
+      "kingdom": "animalia",
+      "phylum": "chordata",
+      "class": "teleostei",
+      "order": "blenniiformes",
+      "family": "clinidae",
+      "genus": "cirrhibarbis",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "coelogorgia",
+    "meta": {
+      "name": "Coelogorgia",
+      "depiction": null,
+      "description": "Coelogorgia is a genus of marine cnidarians in the family Coelogorgiidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "coelogorgiidae",
+      "kingdom": "animalia",
+      "phylum": "cnidaria",
+      "class": "octocorallia",
+      "order": "malacalcyonacea",
+      "family": "coelogorgiidae",
+      "genus": "coelogorgia",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "coryrhynchus",
+    "meta": {
+      "name": "Coryrhynchus",
+      "depiction": null,
+      "description": "Coryrhynchus is a genus of marine crustaceans in the family Inachidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "inachidae",
+      "kingdom": "animalia",
+      "phylum": "arthropoda",
+      "class": "malacostraca",
+      "order": "decapoda",
+      "family": "inachidae",
+      "genus": "coryrhynchus",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "dinoperca",
+    "meta": {
+      "name": "Dinoperca",
+      "depiction": null,
+      "description": "Dinoperca is a genus of marine fishes in the family Dinopercidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "dinopercidae",
+      "kingdom": "animalia",
+      "phylum": "chordata",
+      "class": "teleostei",
+      "order": "eupercaria incertae sedis",
+      "family": "dinopercidae",
+      "genus": "dinoperca",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "discophyton",
+    "meta": {
+      "name": "Discophyton",
+      "depiction": null,
+      "description": "Discophyton is a genus of marine cnidarians in the family Discophytidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "discophytidae",
+      "kingdom": "animalia",
+      "phylum": "cnidaria",
+      "class": "octocorallia",
+      "order": "malacalcyonacea",
+      "family": "discophytidae",
+      "genus": "discophyton",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "dissodactylus",
+    "meta": {
+      "name": "Dissodactylus",
+      "depiction": null,
+      "description": "Dissodactylus is a genus of marine crustaceans in the family Pinnotheridae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "pinnotheridae",
+      "kingdom": "animalia",
+      "phylum": "arthropoda",
+      "class": "malacostraca",
+      "order": "decapoda",
+      "family": "pinnotheridae",
+      "genus": "dissodactylus",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "elassochirus",
+    "meta": {
+      "name": "Elassochirus",
+      "depiction": null,
+      "description": "Elassochirus is a genus of marine crustaceans in the family Paguridae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "paguridae",
+      "kingdom": "animalia",
+      "phylum": "arthropoda",
+      "class": "malacostraca",
+      "order": "decapoda",
+      "family": "paguridae",
+      "genus": "elassochirus",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "eumicrotremus",
+    "meta": {
+      "name": "Eumicrotremus",
+      "depiction": null,
+      "description": "Eumicrotremus is a genus of marine fishes in the family Cyclopteridae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "cyclopteridae",
+      "kingdom": "animalia",
+      "phylum": "chordata",
+      "class": "teleostei",
+      "order": "perciformes",
+      "family": "cyclopteridae",
+      "genus": "eumicrotremus",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "gnorimosphaeroma",
+    "meta": {
+      "name": "Gnorimosphaeroma",
+      "depiction": null,
+      "description": "Gnorimosphaeroma is a genus of marine crustaceans in the family Sphaeromatidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "sphaeromatidae",
+      "kingdom": "animalia",
+      "phylum": "arthropoda",
+      "class": "malacostraca",
+      "order": "isopoda",
+      "family": "sphaeromatidae",
+      "genus": "gnorimosphaeroma",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "goneplax",
+    "meta": {
+      "name": "Goneplax",
+      "depiction": null,
+      "description": "Goneplax is a genus of marine crustaceans in the family Goneplacidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "goneplacidae",
+      "kingdom": "animalia",
+      "phylum": "arthropoda",
+      "class": "malacostraca",
+      "order": "decapoda",
+      "family": "goneplacidae",
+      "genus": "goneplax",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "goniopora",
+    "meta": {
+      "name": "Goniopora",
+      "depiction": null,
+      "description": "Goniopora is a genus of marine cnidarians in the family Poritidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "poritidae",
+      "kingdom": "animalia",
+      "phylum": "cnidaria",
+      "class": "hexacorallia",
+      "order": "scleractinia",
+      "family": "poritidae",
+      "genus": "goniopora",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "grammonus",
+    "meta": {
+      "name": "Grammonus",
+      "depiction": null,
+      "description": "Grammonus is a genus of marine fishes in the family Bythitidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "bythitidae",
+      "kingdom": "animalia",
+      "phylum": "chordata",
+      "class": "teleostei",
+      "order": "ophidiiformes",
+      "family": "bythitidae",
+      "genus": "grammonus",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "gymnachirus",
+    "meta": {
+      "name": "Gymnachirus",
+      "depiction": null,
+      "description": "Gymnachirus is a genus of marine fishes in the family Achiridae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "achiridae",
+      "kingdom": "animalia",
+      "phylum": "chordata",
+      "class": "teleostei",
+      "order": "pleuronectiformes",
+      "family": "achiridae",
+      "genus": "gymnachirus",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "gymnammodytes",
+    "meta": {
+      "name": "Gymnammodytes",
+      "depiction": null,
+      "description": "Gymnammodytes is a genus of marine fishes in the family Ammodytidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "ammodytidae",
+      "kingdom": "animalia",
+      "phylum": "chordata",
+      "class": "teleostei",
+      "order": "perciformes",
+      "family": "ammodytidae",
+      "genus": "gymnammodytes",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "gymnocrotaphus",
+    "meta": {
+      "name": "Gymnocrotaphus",
+      "depiction": null,
+      "description": "Gymnocrotaphus is a genus of marine fishes in the family Sparidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "sparidae",
+      "kingdom": "animalia",
+      "phylum": "chordata",
+      "class": "teleostei",
+      "order": "eupercaria incertae sedis",
+      "family": "sparidae",
+      "genus": "gymnocrotaphus",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "gyrosmilia",
+    "meta": {
+      "name": "Gyrosmilia",
+      "depiction": null,
+      "description": "Gyrosmilia is a genus of marine cnidarians in the family Euphylliidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "euphylliidae",
+      "kingdom": "animalia",
+      "phylum": "cnidaria",
+      "class": "hexacorallia",
+      "order": "scleractinia",
+      "family": "euphylliidae",
+      "genus": "gyrosmilia",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "hamigera",
+    "meta": {
+      "name": "Hamigera",
+      "depiction": null,
+      "description": "Hamigera is a genus of marine sponges in the family Hymedesmiidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "hymedesmiidae",
+      "kingdom": "animalia",
+      "phylum": "porifera",
+      "class": "demospongiae",
+      "order": "poecilosclerida",
+      "family": "hymedesmiidae",
+      "genus": "hamigera",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "heteranthus",
+    "meta": {
+      "name": "Heteranthus",
+      "depiction": null,
+      "description": "Heteranthus is a genus of marine cnidarians in the family Heteranthidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "heteranthidae",
+      "kingdom": "animalia",
+      "phylum": "cnidaria",
+      "class": "hexacorallia",
+      "order": "actiniaria",
+      "family": "heteranthidae",
+      "genus": "heteranthus",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "heteropsammia",
+    "meta": {
+      "name": "Heteropsammia",
+      "depiction": null,
+      "description": "Heteropsammia is a genus of marine cnidarians in the family Dendrophylliidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "dendrophylliidae",
+      "kingdom": "animalia",
+      "phylum": "cnidaria",
+      "class": "hexacorallia",
+      "order": "scleractinia",
+      "family": "dendrophylliidae",
+      "genus": "heteropsammia",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "hyperia",
+    "meta": {
+      "name": "Hyperia",
+      "depiction": null,
+      "description": "Hyperia is a genus of marine crustaceans in the family Hyperiidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "hyperiidae",
+      "kingdom": "animalia",
+      "phylum": "arthropoda",
+      "class": "malacostraca",
+      "order": "amphipoda",
+      "family": "hyperiidae",
+      "genus": "hyperia",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "hypleurochilus",
+    "meta": {
+      "name": "Hypleurochilus",
+      "depiction": null,
+      "description": "Hypleurochilus is a genus of marine fishes in the family Blenniidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "blenniidae",
+      "kingdom": "animalia",
+      "phylum": "chordata",
+      "class": "teleostei",
+      "order": "blenniiformes",
+      "family": "blenniidae",
+      "genus": "hypleurochilus",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "hypoplectrodes",
+    "meta": {
+      "name": "Hypoplectrodes",
+      "depiction": null,
+      "description": "Hypoplectrodes is a genus of marine fishes in the family Anthiadidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "anthiadidae",
+      "kingdom": "animalia",
+      "phylum": "chordata",
+      "class": "teleostei",
+      "order": "perciformes",
+      "family": "anthiadidae",
+      "genus": "hypoplectrodes",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "iridopagurus",
+    "meta": {
+      "name": "Iridopagurus",
+      "depiction": null,
+      "description": "Iridopagurus is a genus of marine crustaceans in the family Paguridae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "paguridae",
+      "kingdom": "animalia",
+      "phylum": "arthropoda",
+      "class": "malacostraca",
+      "order": "decapoda",
+      "family": "paguridae",
+      "genus": "iridopagurus",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "isoaulactinia",
+    "meta": {
+      "name": "Isoaulactinia",
+      "depiction": null,
+      "description": "Isoaulactinia is a genus of marine cnidarians in the family Actiniidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "actiniidae",
+      "kingdom": "animalia",
+      "phylum": "cnidaria",
+      "class": "hexacorallia",
+      "order": "actiniaria",
+      "family": "actiniidae",
+      "genus": "isoaulactinia",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "isocladus",
+    "meta": {
+      "name": "Isocladus",
+      "depiction": null,
+      "description": "Isocladus is a genus of marine crustaceans in the family Sphaeromatidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "sphaeromatidae",
+      "kingdom": "animalia",
+      "phylum": "arthropoda",
+      "class": "malacostraca",
+      "order": "isopoda",
+      "family": "sphaeromatidae",
+      "genus": "isocladus",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "karalepis",
+    "meta": {
+      "name": "Karalepis",
+      "depiction": null,
+      "description": "Karalepis is a genus of marine fishes in the family Tripterygiidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "tripterygiidae",
+      "kingdom": "animalia",
+      "phylum": "chordata",
+      "class": "teleostei",
+      "order": "blenniiformes",
+      "family": "tripterygiidae",
+      "genus": "karalepis",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "korsaranthus",
+    "meta": {
+      "name": "Korsaranthus",
+      "depiction": null,
+      "description": "Korsaranthus is a genus of marine cnidarians in the family Actiniidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "actiniidae",
+      "kingdom": "animalia",
+      "phylum": "cnidaria",
+      "class": "hexacorallia",
+      "order": "actiniaria",
+      "family": "actiniidae",
+      "genus": "korsaranthus",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "laiphognathus",
+    "meta": {
+      "name": "Laiphognathus",
+      "depiction": null,
+      "description": "Laiphognathus is a genus of marine fishes in the family Blenniidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "blenniidae",
+      "kingdom": "animalia",
+      "phylum": "chordata",
+      "class": "teleostei",
+      "order": "blenniiformes",
+      "family": "blenniidae",
+      "genus": "laiphognathus",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "lebetus",
+    "meta": {
+      "name": "Lebetus",
+      "depiction": null,
+      "description": "Lebetus is a genus of marine fishes in the family Gobiidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "gobiidae",
+      "kingdom": "animalia",
+      "phylum": "chordata",
+      "class": "teleostei",
+      "order": "gobiiformes",
+      "family": "gobiidae",
+      "genus": "lebetus",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "leiuranus",
+    "meta": {
+      "name": "Leiuranus",
+      "depiction": null,
+      "description": "Leiuranus is a genus of marine fishes in the family Ophichthidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "ophichthidae",
+      "kingdom": "animalia",
+      "phylum": "chordata",
+      "class": "teleostei",
+      "order": "anguilliformes",
+      "family": "ophichthidae",
+      "genus": "leiuranus",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "macrodontogobius",
+    "meta": {
+      "name": "Macrodontogobius",
+      "depiction": null,
+      "description": "Macrodontogobius is a genus of marine fishes in the family Gobiidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "gobiidae",
+      "kingdom": "animalia",
+      "phylum": "chordata",
+      "class": "teleostei",
+      "order": "gobiiformes",
+      "family": "gobiidae",
+      "genus": "macrodontogobius",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "melithaea",
+    "meta": {
+      "name": "Melithaea",
+      "depiction": null,
+      "description": "Melithaea is a genus of marine cnidarians in the family Melithaeidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "melithaeidae",
+      "kingdom": "animalia",
+      "phylum": "cnidaria",
+      "class": "octocorallia",
+      "order": "malacalcyonacea",
+      "family": "melithaeidae",
+      "genus": "melithaea",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "mesocrangon",
+    "meta": {
+      "name": "Mesocrangon",
+      "depiction": null,
+      "description": "Mesocrangon is a genus of marine crustaceans in the family Crangonidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "crangonidae",
+      "kingdom": "animalia",
+      "phylum": "arthropoda",
+      "class": "malacostraca",
+      "order": "decapoda",
+      "family": "crangonidae",
+      "genus": "mesocrangon",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "microlepidotus",
+    "meta": {
+      "name": "Microlepidotus",
+      "depiction": null,
+      "description": "Microlepidotus is a genus of marine fishes in the family Haemulidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "haemulidae",
+      "kingdom": "animalia",
+      "phylum": "chordata",
+      "class": "teleostei",
+      "order": "eupercaria incertae sedis",
+      "family": "haemulidae",
+      "genus": "microlepidotus",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "neotroglocarcinus",
+    "meta": {
+      "name": "Neotroglocarcinus",
+      "depiction": null,
+      "description": "Neotroglocarcinus is a genus of marine crustaceans in the family Cryptochiridae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "cryptochiridae",
+      "kingdom": "animalia",
+      "phylum": "arthropoda",
+      "class": "malacostraca",
+      "order": "decapoda",
+      "family": "cryptochiridae",
+      "genus": "neotroglocarcinus",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "odontonia",
+    "meta": {
+      "name": "Odontonia",
+      "depiction": null,
+      "description": "Odontonia is a genus of marine crustaceans in the family Palaemonidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "palaemonidae",
+      "kingdom": "animalia",
+      "phylum": "arthropoda",
+      "class": "malacostraca",
+      "order": "decapoda",
+      "family": "palaemonidae",
+      "genus": "odontonia",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "oulophyllia",
+    "meta": {
+      "name": "Oulophyllia",
+      "depiction": null,
+      "description": "Oulophyllia is a genus of marine cnidarians in the family Merulinidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "merulinidae",
+      "kingdom": "animalia",
+      "phylum": "cnidaria",
+      "class": "hexacorallia",
+      "order": "scleractinia",
+      "family": "merulinidae",
+      "genus": "oulophyllia",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "pachymatisma",
+    "meta": {
+      "name": "Pachymatisma",
+      "depiction": null,
+      "description": "Pachymatisma is a genus of marine sponges in the family Geodiidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "geodiidae",
+      "kingdom": "animalia",
+      "phylum": "porifera",
+      "class": "demospongiae",
+      "order": "tetractinellida",
+      "family": "geodiidae",
+      "genus": "pachymatisma",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "palinurellus",
+    "meta": {
+      "name": "Palinurellus",
+      "depiction": null,
+      "description": "Palinurellus is a genus of marine crustaceans in the family Palinuridae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "palinuridae",
+      "kingdom": "animalia",
+      "phylum": "arthropoda",
+      "class": "malacostraca",
+      "order": "decapoda",
+      "family": "palinuridae",
+      "genus": "palinurellus",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "panopeus",
+    "meta": {
+      "name": "Panopeus",
+      "depiction": null,
+      "description": "Panopeus is a genus of marine crustaceans in the family Panopeidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "panopeidae",
+      "kingdom": "animalia",
+      "phylum": "arthropoda",
+      "class": "malacostraca",
+      "order": "decapoda",
+      "family": "panopeidae",
+      "genus": "panopeus",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "paranemonia",
+    "meta": {
+      "name": "Paranemonia",
+      "depiction": null,
+      "description": "Paranemonia is a genus of marine cnidarians in the family Actiniidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "actiniidae",
+      "kingdom": "animalia",
+      "phylum": "cnidaria",
+      "class": "hexacorallia",
+      "order": "actiniaria",
+      "family": "actiniidae",
+      "genus": "paranemonia",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "parapristipoma",
+    "meta": {
+      "name": "Parapristipoma",
+      "depiction": null,
+      "description": "Parapristipoma is a genus of marine fishes in the family Haemulidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "haemulidae",
+      "kingdom": "animalia",
+      "phylum": "chordata",
+      "class": "teleostei",
+      "order": "eupercaria incertae sedis",
+      "family": "haemulidae",
+      "genus": "parapristipoma",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "parazanclistius",
+    "meta": {
+      "name": "Parazanclistius",
+      "depiction": null,
+      "description": "Parazanclistius is a genus of marine fishes in the family Pentacerotidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "pentacerotidae",
+      "kingdom": "animalia",
+      "phylum": "chordata",
+      "class": "teleostei",
+      "order": "acropomatiformes",
+      "family": "pentacerotidae",
+      "genus": "parazanclistius",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "parophidion",
+    "meta": {
+      "name": "Parophidion",
+      "depiction": null,
+      "description": "Parophidion is a genus of marine fishes in the family Ophidiidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "ophidiidae",
+      "kingdom": "animalia",
+      "phylum": "chordata",
+      "class": "teleostei",
+      "order": "ophidiiformes",
+      "family": "ophidiidae",
+      "genus": "parophidion",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "pegusa",
+    "meta": {
+      "name": "Pegusa",
+      "depiction": null,
+      "description": "Pegusa is a genus of marine fishes in the family Soleidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "soleidae",
+      "kingdom": "animalia",
+      "phylum": "chordata",
+      "class": "teleostei",
+      "order": "pleuronectiformes",
+      "family": "soleidae",
+      "genus": "pegusa",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "phyllogobius",
+    "meta": {
+      "name": "Phyllogobius",
+      "depiction": null,
+      "description": "Phyllogobius is a genus of marine fishes in the family Gobiidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "gobiidae",
+      "kingdom": "animalia",
+      "phylum": "chordata",
+      "class": "teleostei",
+      "order": "gobiiformes",
+      "family": "gobiidae",
+      "genus": "phyllogobius",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "phyllogorgia",
+    "meta": {
+      "name": "Phyllogorgia",
+      "depiction": null,
+      "description": "Phyllogorgia is a genus of marine cnidarians in the family Gorgoniidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "gorgoniidae",
+      "kingdom": "animalia",
+      "phylum": "cnidaria",
+      "class": "octocorallia",
+      "order": "malacalcyonacea",
+      "family": "gorgoniidae",
+      "genus": "phyllogorgia",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "placospongia",
+    "meta": {
+      "name": "Placospongia",
+      "depiction": null,
+      "description": "Placospongia is a genus of marine sponges in the family Placospongiidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "placospongiidae",
+      "kingdom": "animalia",
+      "phylum": "porifera",
+      "class": "demospongiae",
+      "order": "clionaida",
+      "family": "placospongiidae",
+      "genus": "placospongia",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "pristicon",
+    "meta": {
+      "name": "Pristicon",
+      "depiction": null,
+      "description": "Pristicon is a genus of marine fishes in the family Apogonidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "apogonidae",
+      "kingdom": "animalia",
+      "phylum": "chordata",
+      "class": "teleostei",
+      "order": "apogoniformes",
+      "family": "apogonidae",
+      "genus": "pristicon",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "pseudosiderastrea",
+    "meta": {
+      "name": "Pseudosiderastrea",
+      "depiction": null,
+      "description": "Pseudosiderastrea is a genus of marine cnidarians in the family Rhizangiidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "rhizangiidae",
+      "kingdom": "animalia",
+      "phylum": "cnidaria",
+      "class": "hexacorallia",
+      "order": "scleractinia",
+      "family": "rhizangiidae",
+      "genus": "pseudosiderastrea",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "pseudozius",
+    "meta": {
+      "name": "Pseudozius",
+      "depiction": null,
+      "description": "Pseudozius is a genus of marine crustaceans in the family Pseudoziidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "pseudoziidae",
+      "kingdom": "animalia",
+      "phylum": "arthropoda",
+      "class": "malacostraca",
+      "order": "decapoda",
+      "family": "pseudoziidae",
+      "genus": "pseudozius",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "pyromaia",
+    "meta": {
+      "name": "Pyromaia",
+      "depiction": null,
+      "description": "Pyromaia is a genus of marine crustaceans in the family Inachoididae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "inachoididae",
+      "kingdom": "animalia",
+      "phylum": "arthropoda",
+      "class": "malacostraca",
+      "order": "decapoda",
+      "family": "inachoididae",
+      "genus": "pyromaia",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "rhabdoblennius",
+    "meta": {
+      "name": "Rhabdoblennius",
+      "depiction": null,
+      "description": "Rhabdoblennius is a genus of marine fishes in the family Blenniidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "blenniidae",
+      "kingdom": "animalia",
+      "phylum": "chordata",
+      "class": "teleostei",
+      "order": "blenniiformes",
+      "family": "blenniidae",
+      "genus": "rhabdoblennius",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "rhizopsammia",
+    "meta": {
+      "name": "Rhizopsammia",
+      "depiction": null,
+      "description": "Rhizopsammia is a genus of marine cnidarians in the family Dendrophylliidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "dendrophylliidae",
+      "kingdom": "animalia",
+      "phylum": "cnidaria",
+      "class": "hexacorallia",
+      "order": "scleractinia",
+      "family": "dendrophylliidae",
+      "genus": "rhizopsammia",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "rhombosolea",
+    "meta": {
+      "name": "Rhombosolea",
+      "depiction": null,
+      "description": "Rhombosolea is a genus of marine fishes in the family Rhombosoleidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "rhombosoleidae",
+      "kingdom": "animalia",
+      "phylum": "chordata",
+      "class": "teleostei",
+      "order": "pleuronectiformes",
+      "family": "rhombosoleidae",
+      "genus": "rhombosolea",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "rudarius",
+    "meta": {
+      "name": "Rudarius",
+      "depiction": null,
+      "description": "Rudarius is a genus of marine fishes in the family Monacanthidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "monacanthidae",
+      "kingdom": "animalia",
+      "phylum": "chordata",
+      "class": "teleostei",
+      "order": "tetraodontiformes",
+      "family": "monacanthidae",
+      "genus": "rudarius",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "selaroides",
+    "meta": {
+      "name": "Selaroides",
+      "depiction": null,
+      "description": "Selaroides is a genus of marine fishes in the family Carangidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "carangidae",
+      "kingdom": "animalia",
+      "phylum": "chordata",
+      "class": "teleostei",
+      "order": "carangiformes",
+      "family": "carangidae",
+      "genus": "selaroides",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "spheractis",
+    "meta": {
+      "name": "Spheractis",
+      "depiction": null,
+      "description": "Spheractis is a genus of marine cnidarians in the family Actiniidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "actiniidae",
+      "kingdom": "animalia",
+      "phylum": "cnidaria",
+      "class": "hexacorallia",
+      "order": "actiniaria",
+      "family": "actiniidae",
+      "genus": "spheractis",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "stipecampus",
+    "meta": {
+      "name": "Stipecampus",
+      "depiction": null,
+      "description": "Stipecampus is a genus of marine fishes in the family Syngnathidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "syngnathidae",
+      "kingdom": "animalia",
+      "phylum": "chordata",
+      "class": "teleostei",
+      "order": "syngnathiformes",
+      "family": "syngnathidae",
+      "genus": "stipecampus",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "suberea",
+    "meta": {
+      "name": "Suberea",
+      "depiction": null,
+      "description": "Suberea is a genus of marine sponges in the family Aplysinellidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "aplysinellidae",
+      "kingdom": "animalia",
+      "phylum": "porifera",
+      "class": "demospongiae",
+      "order": "verongiida",
+      "family": "aplysinellidae",
+      "genus": "suberea",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "thalasseleotris",
+    "meta": {
+      "name": "Thalasseleotris",
+      "depiction": null,
+      "description": "Thalasseleotris is a genus of marine fishes in the family Thalasseleotrididae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "thalasseleotrididae",
+      "kingdom": "animalia",
+      "phylum": "chordata",
+      "class": "teleostei",
+      "order": "gobiiformes",
+      "family": "thalasseleotrididae",
+      "genus": "thalasseleotris",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "trachyrhamphus",
+    "meta": {
+      "name": "Trachyrhamphus",
+      "depiction": null,
+      "description": "Trachyrhamphus is a genus of marine fishes in the family Syngnathidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "syngnathidae",
+      "kingdom": "animalia",
+      "phylum": "chordata",
+      "class": "teleostei",
+      "order": "syngnathiformes",
+      "family": "syngnathidae",
+      "genus": "trachyrhamphus",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "uropterygius",
+    "meta": {
+      "name": "Uropterygius",
+      "depiction": null,
+      "description": "Uropterygius is a genus of marine fishes in the family Muraenidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "muraenidae",
+      "kingdom": "animalia",
+      "phylum": "chordata",
+      "class": "teleostei",
+      "order": "anguilliformes",
+      "family": "muraenidae",
+      "genus": "uropterygius",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "vanneaugobius",
+    "meta": {
+      "name": "Vanneaugobius",
+      "depiction": null,
+      "description": "Vanneaugobius is a genus of marine fishes in the family Gobiidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "gobiidae",
+      "kingdom": "animalia",
+      "phylum": "chordata",
+      "class": "teleostei",
+      "order": "gobiiformes",
+      "family": "gobiidae",
+      "genus": "vanneaugobius",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "zebrus",
+    "meta": {
+      "name": "Zebrus",
+      "depiction": null,
+      "description": "Zebrus is a genus of marine fishes in the family Gobiidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "gobiidae",
+      "kingdom": "animalia",
+      "phylum": "chordata",
+      "class": "teleostei",
+      "order": "gobiiformes",
+      "family": "gobiidae",
+      "genus": "zebrus",
+      "isMarine": 1
+    }
   }
 ]
