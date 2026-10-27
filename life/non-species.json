@@ -50086,11 +50086,11 @@
     "meta": {
       "name": "Centropogon",
       "depiction": null,
-      "description": "A genus of flowering plants in the bellflower family Campanulaceae, native to Central and South America"
+      "description": "Centropogon is a genus of marine waspfishes in the family Tetrarogidae."
     },
     "life": {
       "kind": "genus",
-      "parent": "campanulaceae",
+      "parent": "tetrarogidae",
       "kingdom": "animalia",
       "phylum": "chordata",
       "class": "teleostei",
@@ -51173,11 +51173,11 @@
     "meta": {
       "name": "Ascarosepion",
       "depiction": null,
-      "description": "A genus of whip scorpions (uropygids) in the family Thelyphonidae"
+      "description": "Ascarosepion is a genus of cuttlefish in the family Sepiidae."
     },
     "life": {
       "kind": "genus",
-      "parent": "calchas",
+      "parent": "sepiidae",
       "kingdom": "animalia",
       "phylum": "mollusca",
       "class": "cephalopoda",
@@ -76781,11 +76781,11 @@
     "meta": {
       "name": "Aspasma",
       "depiction": null,
-      "description": "A genus of beetles in the family Ptinidae (spider beetles), containing species including Aspasmogaster"
+      "description": "Aspasma is a genus of marine clingfishes in the family Gobiesocidae."
     },
     "life": {
       "kind": "genus",
-      "parent": "ptinidae",
+      "parent": "gobiesocidae",
       "kingdom": "animalia",
       "phylum": "chordata",
       "class": "teleostei",
@@ -159135,6 +159135,7286 @@
       "order": "gobiiformes",
       "family": "gobiidae",
       "genus": "zebrus",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "acanthinucella",
+    "meta": {
+      "name": "Acanthinucella",
+      "depiction": null,
+      "description": "Acanthinucella is a genus of marine sea snails and slugs in the family Muricidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "muricidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "neogastropoda",
+      "family": "muricidae",
+      "genus": "acanthinucella",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "acanthochitona",
+    "meta": {
+      "name": "Acanthochitona",
+      "depiction": null,
+      "description": "Acanthochitona is a genus of marine chitons in the family Acanthochitonidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "acanthochitonidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "polyplacophora",
+      "order": "chitonida",
+      "family": "acanthochitonidae",
+      "genus": "acanthochitona",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "acmaea",
+    "meta": {
+      "name": "Acmaea",
+      "depiction": null,
+      "description": "Acmaea is a genus of marine sea snails and slugs in the family Acmaeidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "acmaeidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "nacellida",
+      "family": "acmaeidae",
+      "genus": "acmaea",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "acromitus",
+    "meta": {
+      "name": "Acromitus",
+      "depiction": null,
+      "description": "Acromitus is a genus of marine cnidarians in the family Catostylidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "catostylidae",
+      "kingdom": "animalia",
+      "phylum": "cnidaria",
+      "class": "scyphozoa",
+      "order": "rhizostomeae",
+      "family": "catostylidae",
+      "genus": "acromitus",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "aeolidia",
+    "meta": {
+      "name": "Aeolidia",
+      "depiction": null,
+      "description": "Aeolidia is a genus of marine sea snails and slugs in the family Aeolidiidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "aeolidiidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "nudibranchia",
+      "family": "aeolidiidae",
+      "genus": "aeolidia",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "aeolidiella",
+    "meta": {
+      "name": "Aeolidiella",
+      "depiction": null,
+      "description": "Aeolidiella is a genus of marine sea snails and slugs in the family Aeolidiidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "aeolidiidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "nudibranchia",
+      "family": "aeolidiidae",
+      "genus": "aeolidiella",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "aequorea",
+    "meta": {
+      "name": "Aequorea",
+      "depiction": null,
+      "description": "Aequorea is a genus of marine cnidarians in the family Aequoreidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "aequoreidae",
+      "kingdom": "animalia",
+      "phylum": "cnidaria",
+      "class": "hydrozoa",
+      "order": "leptothecata",
+      "family": "aequoreidae",
+      "genus": "aequorea",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "aglaja",
+    "meta": {
+      "name": "Aglaja",
+      "depiction": null,
+      "description": "Aglaja is a genus of marine sea snails and slugs in the family Aglajidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "aglajidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "cephalaspidea",
+      "family": "aglajidae",
+      "genus": "aglaja",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "alcyonidium",
+    "meta": {
+      "name": "Alcyonidium",
+      "depiction": null,
+      "description": "Alcyonidium is a genus of marine bryozoans in the family Alcyonidiidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "alcyonidiidae",
+      "kingdom": "animalia",
+      "phylum": "bryozoa",
+      "class": "gymnolaemata",
+      "order": "ctenostomatida",
+      "family": "alcyonidiidae",
+      "genus": "alcyonidium",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "alentia",
+    "meta": {
+      "name": "Alentia",
+      "depiction": null,
+      "description": "Alentia is a genus of marine segmented worms in the family Polynoidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "polynoidae",
+      "kingdom": "animalia",
+      "phylum": "annelida",
+      "class": "polychaeta",
+      "order": "phyllodocida",
+      "family": "polynoidae",
+      "genus": "alentia",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "alia",
+    "meta": {
+      "name": "Alia",
+      "depiction": null,
+      "description": "Alia is a genus of marine sea snails and slugs in the family Columbellidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "columbellidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "neogastropoda",
+      "family": "columbellidae",
+      "genus": "alia",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "amalda",
+    "meta": {
+      "name": "Amalda",
+      "depiction": null,
+      "description": "Amalda is a genus of marine sea snails and slugs in the family Ancillariidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "ancillariidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "neogastropoda",
+      "family": "ancillariidae",
+      "genus": "amalda",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "amblychilepas",
+    "meta": {
+      "name": "Amblychilepas",
+      "depiction": null,
+      "description": "Amblychilepas is a genus of marine sea snails and slugs in the family Fissurellidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "fissurellidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "lepetellida",
+      "family": "fissurellidae",
+      "genus": "amblychilepas",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "amphisbetia",
+    "meta": {
+      "name": "Amphisbetia",
+      "depiction": null,
+      "description": "Amphisbetia is a genus of marine cnidarians in the family Sertulariidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "sertulariidae",
+      "kingdom": "animalia",
+      "phylum": "cnidaria",
+      "class": "hydrozoa",
+      "order": "leptothecata",
+      "family": "sertulariidae",
+      "genus": "amphisbetia",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "amphissa",
+    "meta": {
+      "name": "Amphissa",
+      "depiction": null,
+      "description": "Amphissa is a genus of marine sea snails and slugs in the family Columbellidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "columbellidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "neogastropoda",
+      "family": "columbellidae",
+      "genus": "amphissa",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "ancula",
+    "meta": {
+      "name": "Ancula",
+      "depiction": null,
+      "description": "Ancula is a genus of marine sea snails and slugs in the family Goniodorididae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "goniodorididae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "nudibranchia",
+      "family": "goniodorididae",
+      "genus": "ancula",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "anomia",
+    "meta": {
+      "name": "Anomia",
+      "depiction": null,
+      "description": "Anomia is a genus of marine bivalves in the family Anomiidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "anomiidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "bivalvia",
+      "order": "pectinida",
+      "family": "anomiidae",
+      "genus": "anomia",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "anteaeolidiella",
+    "meta": {
+      "name": "Anteaeolidiella",
+      "depiction": null,
+      "description": "Anteaeolidiella is a genus of marine sea snails and slugs in the family Aeolidiidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "aeolidiidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "nudibranchia",
+      "family": "aeolidiidae",
+      "genus": "anteaeolidiella",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "apata",
+    "meta": {
+      "name": "Apata",
+      "depiction": null,
+      "description": "Apata is a genus of marine sea snails and slugs in the family Apataidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "apataidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "nudibranchia",
+      "family": "apataidae",
+      "genus": "apata",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "aphrodita",
+    "meta": {
+      "name": "Aphrodita",
+      "depiction": null,
+      "description": "Aphrodita is a genus of marine segmented worms in the family Aphroditidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "aphroditidae",
+      "kingdom": "animalia",
+      "phylum": "annelida",
+      "class": "polychaeta",
+      "order": "phyllodocida",
+      "family": "aphroditidae",
+      "genus": "aphrodita",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "aplidium",
+    "meta": {
+      "name": "Aplidium",
+      "depiction": null,
+      "description": "Aplidium is a genus of marine sea squirts in the family Polyclinidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "polyclinidae",
+      "kingdom": "animalia",
+      "phylum": "chordata",
+      "class": "ascidiacea",
+      "order": "aplousobranchia",
+      "family": "polyclinidae",
+      "genus": "aplidium",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "aplysia",
+    "meta": {
+      "name": "Aplysia",
+      "depiction": null,
+      "description": "Aplysia is a genus of marine sea snails and slugs in the family Aplysiidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "aplysiidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "aplysiida",
+      "family": "aplysiidae",
+      "genus": "aplysia",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "aporrhais",
+    "meta": {
+      "name": "Aporrhais",
+      "depiction": null,
+      "description": "Aporrhais is a genus of marine sea snails and slugs in the family Aporrhaidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "aporrhaidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "littorinimorpha",
+      "family": "aporrhaidae",
+      "genus": "aporrhais",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "apostichopus",
+    "meta": {
+      "name": "Apostichopus",
+      "depiction": null,
+      "description": "Apostichopus is a genus of marine echinoderms in the family Stichopodidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "stichopodidae",
+      "kingdom": "animalia",
+      "phylum": "echinodermata",
+      "class": "holothuroidea",
+      "order": "synallactida",
+      "family": "stichopodidae",
+      "genus": "apostichopus",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "aquilonastra",
+    "meta": {
+      "name": "Aquilonastra",
+      "depiction": null,
+      "description": "Aquilonastra is a genus of marine echinoderms in the family Asterinidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "asterinidae",
+      "kingdom": "animalia",
+      "phylum": "echinodermata",
+      "class": "asteroidea",
+      "order": "valvatida",
+      "family": "asterinidae",
+      "genus": "aquilonastra",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "arctonoe",
+    "meta": {
+      "name": "Arctonoe",
+      "depiction": null,
+      "description": "Arctonoe is a genus of marine segmented worms in the family Polynoidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "polynoidae",
+      "kingdom": "animalia",
+      "phylum": "annelida",
+      "class": "polychaeta",
+      "order": "phyllodocida",
+      "family": "polynoidae",
+      "genus": "arctonoe",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "ardeadoris",
+    "meta": {
+      "name": "Ardeadoris",
+      "depiction": null,
+      "description": "Ardeadoris is a genus of marine sea snails and slugs in the family Chromodorididae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "chromodorididae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "nudibranchia",
+      "family": "chromodorididae",
+      "genus": "ardeadoris",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "argobuccinum",
+    "meta": {
+      "name": "Argobuccinum",
+      "depiction": null,
+      "description": "Argobuccinum is a genus of marine sea snails and slugs in the family Cymatiidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "cymatiidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "littorinimorpha",
+      "family": "cymatiidae",
+      "genus": "argobuccinum",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "ascidia",
+    "meta": {
+      "name": "Ascidia",
+      "depiction": null,
+      "description": "Ascidia is a genus of marine sea squirts in the family Ascidiidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "ascidiidae",
+      "kingdom": "animalia",
+      "phylum": "chordata",
+      "class": "ascidiacea",
+      "order": "phlebobranchia",
+      "family": "ascidiidae",
+      "genus": "ascidia",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "ascidiella",
+    "meta": {
+      "name": "Ascidiella",
+      "depiction": null,
+      "description": "Ascidiella is a genus of marine sea squirts in the family Ascidiidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "ascidiidae",
+      "kingdom": "animalia",
+      "phylum": "chordata",
+      "class": "ascidiacea",
+      "order": "phlebobranchia",
+      "family": "ascidiidae",
+      "genus": "ascidiella",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "asterocarpa",
+    "meta": {
+      "name": "Asterocarpa",
+      "depiction": null,
+      "description": "Asterocarpa is a genus of marine sea squirts in the family Styelidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "styelidae",
+      "kingdom": "animalia",
+      "phylum": "chordata",
+      "class": "ascidiacea",
+      "order": "stolidobranchia",
+      "family": "styelidae",
+      "genus": "asterocarpa",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "asterodiscides",
+    "meta": {
+      "name": "Asterodiscides",
+      "depiction": null,
+      "description": "Asterodiscides is a genus of marine echinoderms in the family Asterodiscididae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "asterodiscididae",
+      "kingdom": "animalia",
+      "phylum": "echinodermata",
+      "class": "asteroidea",
+      "order": "valvatida",
+      "family": "asterodiscididae",
+      "genus": "asterodiscides",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "astichopus",
+    "meta": {
+      "name": "Astichopus",
+      "depiction": null,
+      "description": "Astichopus is a genus of marine echinoderms in the family Stichopodidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "stichopodidae",
+      "kingdom": "animalia",
+      "phylum": "echinodermata",
+      "class": "holothuroidea",
+      "order": "synallactida",
+      "family": "stichopodidae",
+      "genus": "astichopus",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "astralium",
+    "meta": {
+      "name": "Astralium",
+      "depiction": null,
+      "description": "Astralium is a genus of marine sea snails and slugs in the family Turbinidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "turbinidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "trochida",
+      "family": "turbinidae",
+      "genus": "astralium",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "astrometis",
+    "meta": {
+      "name": "Astrometis",
+      "depiction": null,
+      "description": "Astrometis is a genus of marine echinoderms in the family Asteriidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "asteriidae",
+      "kingdom": "animalia",
+      "phylum": "echinodermata",
+      "class": "asteroidea",
+      "order": "forcipulatida",
+      "family": "asteriidae",
+      "genus": "astrometis",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "atagema",
+    "meta": {
+      "name": "Atagema",
+      "depiction": null,
+      "description": "Atagema is a genus of marine sea snails and slugs in the family Discodorididae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "discodorididae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "nudibranchia",
+      "family": "discodorididae",
+      "genus": "atagema",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "atrimitra",
+    "meta": {
+      "name": "Atrimitra",
+      "depiction": null,
+      "description": "Atrimitra is a genus of marine sea snails and slugs in the family Mitridae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "mitridae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "neogastropoda",
+      "family": "mitridae",
+      "genus": "atrimitra",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "austraeolis",
+    "meta": {
+      "name": "Austraeolis",
+      "depiction": null,
+      "description": "Austraeolis is a genus of marine sea snails and slugs in the family Facelinidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "facelinidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "nudibranchia",
+      "family": "facelinidae",
+      "genus": "austraeolis",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "austrocochlea",
+    "meta": {
+      "name": "Austrocochlea",
+      "depiction": null,
+      "description": "Austrocochlea is a genus of marine sea snails and slugs in the family Trochidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "trochidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "trochida",
+      "family": "trochidae",
+      "genus": "austrocochlea",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "baeolidia",
+    "meta": {
+      "name": "Baeolidia",
+      "depiction": null,
+      "description": "Baeolidia is a genus of marine sea snails and slugs in the family Aeolidiidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "aeolidiidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "nudibranchia",
+      "family": "aeolidiidae",
+      "genus": "baeolidia",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "baptodoris",
+    "meta": {
+      "name": "Baptodoris",
+      "depiction": null,
+      "description": "Baptodoris is a genus of marine sea snails and slugs in the family Discodorididae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "discodorididae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "nudibranchia",
+      "family": "discodorididae",
+      "genus": "baptodoris",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "bedeva",
+    "meta": {
+      "name": "Bedeva",
+      "depiction": null,
+      "description": "Bedeva is a genus of marine sea snails and slugs in the family Muricidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "muricidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "neogastropoda",
+      "family": "muricidae",
+      "genus": "bedeva",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "berthella",
+    "meta": {
+      "name": "Berthella",
+      "depiction": null,
+      "description": "Berthella is a genus of marine sea snails and slugs in the family Pleurobranchidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "pleurobranchidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "pleurobranchida",
+      "family": "pleurobranchidae",
+      "genus": "berthella",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "berthellina",
+    "meta": {
+      "name": "Berthellina",
+      "depiction": null,
+      "description": "Berthellina is a genus of marine sea snails and slugs in the family Pleurobranchidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "pleurobranchidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "pleurobranchida",
+      "family": "pleurobranchidae",
+      "genus": "berthellina",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "bittium",
+    "meta": {
+      "name": "Bittium",
+      "depiction": null,
+      "description": "Bittium is a genus of marine sea snails and slugs in the family Cerithiidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "cerithiidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "caenogastropoda incertae sedis",
+      "family": "cerithiidae",
+      "genus": "bittium",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "botrylloides",
+    "meta": {
+      "name": "Botrylloides",
+      "depiction": null,
+      "description": "Botrylloides is a genus of marine sea squirts in the family Styelidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "styelidae",
+      "kingdom": "animalia",
+      "phylum": "chordata",
+      "class": "ascidiacea",
+      "order": "stolidobranchia",
+      "family": "styelidae",
+      "genus": "botrylloides",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "branchiomma",
+    "meta": {
+      "name": "Branchiomma",
+      "depiction": null,
+      "description": "Branchiomma is a genus of marine segmented worms in the family Sabellidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "sabellidae",
+      "kingdom": "animalia",
+      "phylum": "annelida",
+      "class": "polychaeta",
+      "order": "sabellida",
+      "family": "sabellidae",
+      "genus": "branchiomma",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "bulbaeolidia",
+    "meta": {
+      "name": "Bulbaeolidia",
+      "depiction": null,
+      "description": "Bulbaeolidia is a genus of marine sea snails and slugs in the family Aeolidiidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "aeolidiidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "nudibranchia",
+      "family": "aeolidiidae",
+      "genus": "bulbaeolidia",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "bulla",
+    "meta": {
+      "name": "Bulla",
+      "depiction": null,
+      "description": "Bulla is a genus of marine sea snails and slugs in the family Bullidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "bullidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "cephalaspidea",
+      "family": "bullidae",
+      "genus": "bulla",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "cabangus",
+    "meta": {
+      "name": "Cabangus",
+      "depiction": null,
+      "description": "Cabangus is a genus of marine sea snails and slugs in the family Dendronotidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "dendronotidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "nudibranchia",
+      "family": "dendronotidae",
+      "genus": "cabangus",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "caberea",
+    "meta": {
+      "name": "Caberea",
+      "depiction": null,
+      "description": "Caberea is a genus of marine bryozoans in the family Candidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "candidae",
+      "kingdom": "animalia",
+      "phylum": "bryozoa",
+      "class": "gymnolaemata",
+      "order": "cheilostomatida",
+      "family": "candidae",
+      "genus": "caberea",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "cabestana",
+    "meta": {
+      "name": "Cabestana",
+      "depiction": null,
+      "description": "Cabestana is a genus of marine sea snails and slugs in the family Cymatiidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "cymatiidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "littorinimorpha",
+      "family": "cymatiidae",
+      "genus": "cabestana",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "cacozeliana",
+    "meta": {
+      "name": "Cacozeliana",
+      "depiction": null,
+      "description": "Cacozeliana is a genus of marine sea snails and slugs in the family Cerithiidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "cerithiidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "caenogastropoda incertae sedis",
+      "family": "cerithiidae",
+      "genus": "cacozeliana",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "cadlina",
+    "meta": {
+      "name": "Cadlina",
+      "depiction": null,
+      "description": "Cadlina is a genus of marine sea snails and slugs in the family Cadlinidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "cadlinidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "nudibranchia",
+      "family": "cadlinidae",
+      "genus": "cadlina",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "caesia",
+    "meta": {
+      "name": "Caesia",
+      "depiction": null,
+      "description": "Caesia is a genus of marine sea snails and slugs in the family Nassariidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "nassariidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "neogastropoda",
+      "family": "nassariidae",
+      "genus": "caesia",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "calliostoma",
+    "meta": {
+      "name": "Calliostoma",
+      "depiction": null,
+      "description": "Calliostoma is a genus of marine sea snails and slugs in the family Calliostomatidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "calliostomatidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "trochida",
+      "family": "calliostomatidae",
+      "genus": "calliostoma",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "callochiton",
+    "meta": {
+      "name": "Callochiton",
+      "depiction": null,
+      "description": "Callochiton is a genus of marine chitons in the family Callochitonidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "callochitonidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "polyplacophora",
+      "order": "callochitonida",
+      "family": "callochitonidae",
+      "genus": "callochiton",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "capillaster",
+    "meta": {
+      "name": "Capillaster",
+      "depiction": null,
+      "description": "Capillaster is a genus of marine echinoderms in the family Comatulidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "comatulidae",
+      "kingdom": "animalia",
+      "phylum": "echinodermata",
+      "class": "crinoidea",
+      "order": "comatulida",
+      "family": "comatulidae",
+      "genus": "capillaster",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "carminodoris",
+    "meta": {
+      "name": "Carminodoris",
+      "depiction": null,
+      "description": "Carminodoris is a genus of marine sea snails and slugs in the family Discodorididae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "discodorididae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "nudibranchia",
+      "family": "discodorididae",
+      "genus": "carminodoris",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "catablema",
+    "meta": {
+      "name": "Catablema",
+      "depiction": null,
+      "description": "Catablema is a genus of marine cnidarians in the family Pandeidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "pandeidae",
+      "kingdom": "animalia",
+      "phylum": "cnidaria",
+      "class": "hydrozoa",
+      "order": "anthoathecata",
+      "family": "pandeidae",
+      "genus": "catablema",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "cellana",
+    "meta": {
+      "name": "Cellana",
+      "depiction": null,
+      "description": "Cellana is a genus of marine sea snails and slugs in the family Nacellidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "nacellidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "nacellida",
+      "family": "nacellidae",
+      "genus": "cellana",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "cellepora",
+    "meta": {
+      "name": "Cellepora",
+      "depiction": null,
+      "description": "Cellepora is a genus of marine bryozoans in the family Celleporidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "celleporidae",
+      "kingdom": "animalia",
+      "phylum": "bryozoa",
+      "class": "gymnolaemata",
+      "order": "cheilostomatida",
+      "family": "celleporidae",
+      "genus": "cellepora",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "ceratostoma",
+    "meta": {
+      "name": "Ceratostoma",
+      "depiction": null,
+      "description": "Ceratostoma is a genus of marine sea snails and slugs in the family Muricidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "muricidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "neogastropoda",
+      "family": "muricidae",
+      "genus": "ceratostoma",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "cerithium",
+    "meta": {
+      "name": "Cerithium",
+      "depiction": null,
+      "description": "Cerithium is a genus of marine sea snails and slugs in the family Cerithiidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "cerithiidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "caenogastropoda incertae sedis",
+      "family": "cerithiidae",
+      "genus": "cerithium",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "chelidonura",
+    "meta": {
+      "name": "Chelidonura",
+      "depiction": null,
+      "description": "Chelidonura is a genus of marine sea snails and slugs in the family Aglajidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "aglajidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "cephalaspidea",
+      "family": "aglajidae",
+      "genus": "chelidonura",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "chelyosoma",
+    "meta": {
+      "name": "Chelyosoma",
+      "depiction": null,
+      "description": "Chelyosoma is a genus of marine sea squirts in the family Corellidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "corellidae",
+      "kingdom": "animalia",
+      "phylum": "chordata",
+      "class": "ascidiacea",
+      "order": "phlebobranchia",
+      "family": "corellidae",
+      "genus": "chelyosoma",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "chicoreus",
+    "meta": {
+      "name": "Chicoreus",
+      "depiction": null,
+      "description": "Chicoreus is a genus of marine sea snails and slugs in the family Muricidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "muricidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "neogastropoda",
+      "family": "muricidae",
+      "genus": "chicoreus",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "chiton",
+    "meta": {
+      "name": "Chiton",
+      "depiction": null,
+      "description": "Chiton is a genus of marine chitons in the family Chitonidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "chitonidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "polyplacophora",
+      "order": "chitonida",
+      "family": "chitonidae",
+      "genus": "chiton",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "chlorodiloma",
+    "meta": {
+      "name": "Chlorodiloma",
+      "depiction": null,
+      "description": "Chlorodiloma is a genus of marine sea snails and slugs in the family Trochidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "trochidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "trochida",
+      "family": "trochidae",
+      "genus": "chlorodiloma",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "chondrocidaris",
+    "meta": {
+      "name": "Chondrocidaris",
+      "depiction": null,
+      "description": "Chondrocidaris is a genus of marine echinoderms in the family Cidaridae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "cidaridae",
+      "kingdom": "animalia",
+      "phylum": "echinodermata",
+      "class": "echinoidea",
+      "order": "cidaroida",
+      "family": "cidaridae",
+      "genus": "chondrocidaris",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "clanculus",
+    "meta": {
+      "name": "Clanculus",
+      "depiction": null,
+      "description": "Clanculus is a genus of marine sea snails and slugs in the family Trochidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "trochidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "trochida",
+      "family": "trochidae",
+      "genus": "clanculus",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "cnemidocarpa",
+    "meta": {
+      "name": "Cnemidocarpa",
+      "depiction": null,
+      "description": "Cnemidocarpa is a genus of marine sea squirts in the family Styelidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "styelidae",
+      "kingdom": "animalia",
+      "phylum": "chordata",
+      "class": "ascidiacea",
+      "order": "stolidobranchia",
+      "family": "styelidae",
+      "genus": "cnemidocarpa",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "coeloplana",
+    "meta": {
+      "name": "Coeloplana",
+      "depiction": null,
+      "description": "Coeloplana is a genus of marine comb jellies in the family Coeloplanidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "coeloplanidae",
+      "kingdom": "animalia",
+      "phylum": "ctenophora",
+      "class": "tentaculata",
+      "order": "platyctenida",
+      "family": "coeloplanidae",
+      "genus": "coeloplana",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "colpodaspis",
+    "meta": {
+      "name": "Colpodaspis",
+      "depiction": null,
+      "description": "Colpodaspis is a genus of marine sea snails and slugs in the family Colpodaspididae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "colpodaspididae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "cephalaspidea",
+      "family": "colpodaspididae",
+      "genus": "colpodaspis",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "cominella",
+    "meta": {
+      "name": "Cominella",
+      "depiction": null,
+      "description": "Cominella is a genus of marine sea snails and slugs in the family Cominellidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "cominellidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "neogastropoda",
+      "family": "cominellidae",
+      "genus": "cominella",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "conualevia",
+    "meta": {
+      "name": "Conualevia",
+      "depiction": null,
+      "description": "Conualevia is a genus of marine sea snails and slugs in the family Dorididae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "dorididae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "nudibranchia",
+      "family": "dorididae",
+      "genus": "conualevia",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "corambe",
+    "meta": {
+      "name": "Corambe",
+      "depiction": null,
+      "description": "Corambe is a genus of marine sea snails and slugs in the family Corambidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "corambidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "nudibranchia",
+      "family": "corambidae",
+      "genus": "corambe",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "corella",
+    "meta": {
+      "name": "Corella",
+      "depiction": null,
+      "description": "Corella is a genus of marine sea squirts in the family Corellidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "corellidae",
+      "kingdom": "animalia",
+      "phylum": "chordata",
+      "class": "ascidiacea",
+      "order": "phlebobranchia",
+      "family": "corellidae",
+      "genus": "corella",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "coriocella",
+    "meta": {
+      "name": "Coriocella",
+      "depiction": null,
+      "description": "Coriocella is a genus of marine sea snails and slugs in the family Velutinidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "velutinidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "littorinimorpha",
+      "family": "velutinidae",
+      "genus": "coriocella",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "corolla",
+    "meta": {
+      "name": "Corolla",
+      "depiction": null,
+      "description": "Corolla is a genus of marine sea snails and slugs in the family Cymbuliidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "cymbuliidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "pteropoda",
+      "family": "cymbuliidae",
+      "genus": "corolla",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "corymorpha",
+    "meta": {
+      "name": "Corymorpha",
+      "depiction": null,
+      "description": "Corymorpha is a genus of marine cnidarians in the family Corymorphidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "corymorphidae",
+      "kingdom": "animalia",
+      "phylum": "cnidaria",
+      "class": "hydrozoa",
+      "order": "anthoathecata",
+      "family": "corymorphidae",
+      "genus": "corymorpha",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "coryphellina",
+    "meta": {
+      "name": "Coryphellina",
+      "depiction": null,
+      "description": "Coryphellina is a genus of marine sea snails and slugs in the family Flabellinidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "flabellinidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "nudibranchia",
+      "family": "flabellinidae",
+      "genus": "coryphellina",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "cosmasterias",
+    "meta": {
+      "name": "Cosmasterias",
+      "depiction": null,
+      "description": "Cosmasterias is a genus of marine echinoderms in the family Stichasteridae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "stichasteridae",
+      "kingdom": "animalia",
+      "phylum": "echinodermata",
+      "class": "asteroidea",
+      "order": "forcipulatida",
+      "family": "stichasteridae",
+      "genus": "cosmasterias",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "crambione",
+    "meta": {
+      "name": "Crambione",
+      "depiction": null,
+      "description": "Crambione is a genus of marine cnidarians in the family Catostylidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "catostylidae",
+      "kingdom": "animalia",
+      "phylum": "cnidaria",
+      "class": "scyphozoa",
+      "order": "rhizostomeae",
+      "family": "catostylidae",
+      "genus": "crambione",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "crepidula",
+    "meta": {
+      "name": "Crepidula",
+      "depiction": null,
+      "description": "Crepidula is a genus of marine sea snails and slugs in the family Calyptraeidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "calyptraeidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "littorinimorpha",
+      "family": "calyptraeidae",
+      "genus": "crepidula",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "crepipatella",
+    "meta": {
+      "name": "Crepipatella",
+      "depiction": null,
+      "description": "Crepipatella is a genus of marine sea snails and slugs in the family Calyptraeidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "calyptraeidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "littorinimorpha",
+      "family": "calyptraeidae",
+      "genus": "crepipatella",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "cryptasterina",
+    "meta": {
+      "name": "Cryptasterina",
+      "depiction": null,
+      "description": "Cryptasterina is a genus of marine echinoderms in the family Asterinidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "asterinidae",
+      "kingdom": "animalia",
+      "phylum": "echinodermata",
+      "class": "asteroidea",
+      "order": "valvatida",
+      "family": "asterinidae",
+      "genus": "cryptasterina",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "cumanotus",
+    "meta": {
+      "name": "Cumanotus",
+      "depiction": null,
+      "description": "Cumanotus is a genus of marine sea snails and slugs in the family Cumanotidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "cumanotidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "nudibranchia",
+      "family": "cumanotidae",
+      "genus": "cumanotus",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "cuspivolva",
+    "meta": {
+      "name": "Cuspivolva",
+      "depiction": null,
+      "description": "Cuspivolva is a genus of marine sea snails and slugs in the family Ovulidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "ovulidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "littorinimorpha",
+      "family": "ovulidae",
+      "genus": "cuspivolva",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "cyanoplax",
+    "meta": {
+      "name": "Cyanoplax",
+      "depiction": null,
+      "description": "Cyanoplax is a genus of marine chitons in the family Tonicellidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "tonicellidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "polyplacophora",
+      "order": "chitonida",
+      "family": "tonicellidae",
+      "genus": "cyanoplax",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "cyerce",
+    "meta": {
+      "name": "Cyerce",
+      "depiction": null,
+      "description": "Cyerce is a genus of marine sea snails and slugs in the family Caliphyllidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "caliphyllidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "",
+      "family": "caliphyllidae",
+      "genus": "cyerce",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "cymbula",
+    "meta": {
+      "name": "Cymbula",
+      "depiction": null,
+      "description": "Cymbula is a genus of marine sea snails and slugs in the family Patellidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "patellidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "patellida",
+      "family": "patellidae",
+      "genus": "cymbula",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "cystodytes",
+    "meta": {
+      "name": "Cystodytes",
+      "depiction": null,
+      "description": "Cystodytes is a genus of marine sea squirts in the family Polycitoridae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "polycitoridae",
+      "kingdom": "animalia",
+      "phylum": "chordata",
+      "class": "ascidiacea",
+      "order": "aplousobranchia",
+      "family": "polycitoridae",
+      "genus": "cystodytes",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "dendrodoris",
+    "meta": {
+      "name": "Dendrodoris",
+      "depiction": null,
+      "description": "Dendrodoris is a genus of marine sea snails and slugs in the family Dendrodorididae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "dendrodorididae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "nudibranchia",
+      "family": "dendrodorididae",
+      "genus": "dendrodoris",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "dermatobranchus",
+    "meta": {
+      "name": "Dermatobranchus",
+      "depiction": null,
+      "description": "Dermatobranchus is a genus of marine sea snails and slugs in the family Arminidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "arminidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "nudibranchia",
+      "family": "arminidae",
+      "genus": "dermatobranchus",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "diaphana",
+    "meta": {
+      "name": "Diaphana",
+      "depiction": null,
+      "description": "Diaphana is a genus of marine sea snails and slugs in the family Diaphanidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "diaphanidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "cephalaspidea",
+      "family": "diaphanidae",
+      "genus": "diaphana",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "diaphoreolis",
+    "meta": {
+      "name": "Diaphoreolis",
+      "depiction": null,
+      "description": "Diaphoreolis is a genus of marine sea snails and slugs in the family Trinchesiidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "trinchesiidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "nudibranchia",
+      "family": "trinchesiidae",
+      "genus": "diaphoreolis",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "diaphorodoris",
+    "meta": {
+      "name": "Diaphorodoris",
+      "depiction": null,
+      "description": "Diaphorodoris is a genus of marine sea snails and slugs in the family Calycidorididae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "calycidorididae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "nudibranchia",
+      "family": "calycidorididae",
+      "genus": "diaphorodoris",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "dicathais",
+    "meta": {
+      "name": "Dicathais",
+      "depiction": null,
+      "description": "Dicathais is a genus of marine sea snails and slugs in the family Muricidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "muricidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "neogastropoda",
+      "family": "muricidae",
+      "genus": "dicathais",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "diodora",
+    "meta": {
+      "name": "Diodora",
+      "depiction": null,
+      "description": "Diodora is a genus of marine sea snails and slugs in the family Fissurellidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "fissurellidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "lepetellida",
+      "family": "fissurellidae",
+      "genus": "diodora",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "dirona",
+    "meta": {
+      "name": "Dirona",
+      "depiction": null,
+      "description": "Dirona is a genus of marine sea snails and slugs in the family Dironidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "dironidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "nudibranchia",
+      "family": "dironidae",
+      "genus": "dirona",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "disporella",
+    "meta": {
+      "name": "Disporella",
+      "depiction": null,
+      "description": "Disporella is a genus of marine bryozoans in the family Lichenoporidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "lichenoporidae",
+      "kingdom": "animalia",
+      "phylum": "bryozoa",
+      "class": "stenolaemata",
+      "order": "cyclostomatida",
+      "family": "lichenoporidae",
+      "genus": "disporella",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "distaplia",
+    "meta": {
+      "name": "Distaplia",
+      "depiction": null,
+      "description": "Distaplia is a genus of marine sea squirts in the family Holozoidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "holozoidae",
+      "kingdom": "animalia",
+      "phylum": "chordata",
+      "class": "ascidiacea",
+      "order": "aplousobranchia",
+      "family": "holozoidae",
+      "genus": "distaplia",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "diversidoris",
+    "meta": {
+      "name": "Diversidoris",
+      "depiction": null,
+      "description": "Diversidoris is a genus of marine sea snails and slugs in the family Chromodorididae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "chromodorididae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "nudibranchia",
+      "family": "chromodorididae",
+      "genus": "diversidoris",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "dolabrifera",
+    "meta": {
+      "name": "Dolabrifera",
+      "depiction": null,
+      "description": "Dolabrifera is a genus of marine sea snails and slugs in the family Aplysiidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "aplysiidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "aplysiida",
+      "family": "aplysiidae",
+      "genus": "dolabrifera",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "donax",
+    "meta": {
+      "name": "Donax",
+      "depiction": null,
+      "description": "Donax is a genus of marine bivalves in the family Donacidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "donacidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "bivalvia",
+      "order": "cardiida",
+      "family": "donacidae",
+      "genus": "donax",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "dondice",
+    "meta": {
+      "name": "Dondice",
+      "depiction": null,
+      "description": "Dondice is a genus of marine sea snails and slugs in the family Myrrhinidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "myrrhinidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "nudibranchia",
+      "family": "myrrhinidae",
+      "genus": "dondice",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "doriopsilla",
+    "meta": {
+      "name": "Doriopsilla",
+      "depiction": null,
+      "description": "Doriopsilla is a genus of marine sea snails and slugs in the family Dendrodorididae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "dendrodorididae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "nudibranchia",
+      "family": "dendrodorididae",
+      "genus": "doriopsilla",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "doto",
+    "meta": {
+      "name": "Doto",
+      "depiction": null,
+      "description": "Doto is a genus of marine sea snails and slugs in the family Dotidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "dotidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "nudibranchia",
+      "family": "dotidae",
+      "genus": "doto",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "drupella",
+    "meta": {
+      "name": "Drupella",
+      "depiction": null,
+      "description": "Drupella is a genus of marine sea snails and slugs in the family Muricidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "muricidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "neogastropoda",
+      "family": "muricidae",
+      "genus": "drupella",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "dynamena",
+    "meta": {
+      "name": "Dynamena",
+      "depiction": null,
+      "description": "Dynamena is a genus of marine cnidarians in the family Sertulariidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "sertulariidae",
+      "kingdom": "animalia",
+      "phylum": "cnidaria",
+      "class": "hydrozoa",
+      "order": "leptothecata",
+      "family": "sertulariidae",
+      "genus": "dynamena",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "echinoneus",
+    "meta": {
+      "name": "Echinoneus",
+      "depiction": null,
+      "description": "Echinoneus is a genus of marine echinoderms in the family Echinoneidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "echinoneidae",
+      "kingdom": "animalia",
+      "phylum": "echinodermata",
+      "class": "echinoidea",
+      "order": "echinoneoida",
+      "family": "echinoneidae",
+      "genus": "echinoneus",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "ectopleura",
+    "meta": {
+      "name": "Ectopleura",
+      "depiction": null,
+      "description": "Ectopleura is a genus of marine cnidarians in the family Tubulariidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "tubulariidae",
+      "kingdom": "animalia",
+      "phylum": "cnidaria",
+      "class": "hydrozoa",
+      "order": "anthoathecata",
+      "family": "tubulariidae",
+      "genus": "ectopleura",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "electra",
+    "meta": {
+      "name": "Electra",
+      "depiction": null,
+      "description": "Electra is a genus of marine bryozoans in the family Electridae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "electridae",
+      "kingdom": "animalia",
+      "phylum": "bryozoa",
+      "class": "gymnolaemata",
+      "order": "cheilostomatida",
+      "family": "electridae",
+      "genus": "electra",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "engina",
+    "meta": {
+      "name": "Engina",
+      "depiction": null,
+      "description": "Engina is a genus of marine sea snails and slugs in the family Pisaniidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "pisaniidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "neogastropoda",
+      "family": "pisaniidae",
+      "genus": "engina",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "epitonium",
+    "meta": {
+      "name": "Epitonium",
+      "depiction": null,
+      "description": "Epitonium is a genus of marine sea snails and slugs in the family Epitoniidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "epitoniidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "caenogastropoda incertae sedis",
+      "family": "epitoniidae",
+      "genus": "epitonium",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "ercolania",
+    "meta": {
+      "name": "Ercolania",
+      "depiction": null,
+      "description": "Ercolania is a genus of marine sea snails and slugs in the family Limapontiidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "limapontiidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "",
+      "family": "limapontiidae",
+      "genus": "ercolania",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "eubranchus",
+    "meta": {
+      "name": "Eubranchus",
+      "depiction": null,
+      "description": "Eubranchus is a genus of marine sea snails and slugs in the family Eubranchidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "eubranchidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "nudibranchia",
+      "family": "eubranchidae",
+      "genus": "eubranchus",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "eudistoma",
+    "meta": {
+      "name": "Eudistoma",
+      "depiction": null,
+      "description": "Eudistoma is a genus of marine sea squirts in the family Polycitoridae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "polycitoridae",
+      "kingdom": "animalia",
+      "phylum": "chordata",
+      "class": "ascidiacea",
+      "order": "aplousobranchia",
+      "family": "polycitoridae",
+      "genus": "eudistoma",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "eudoxochiton",
+    "meta": {
+      "name": "Eudoxochiton",
+      "depiction": null,
+      "description": "Eudoxochiton is a genus of marine chitons in the family Callochitonidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "callochitonidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "polyplacophora",
+      "order": "callochitonida",
+      "family": "callochitonidae",
+      "genus": "eudoxochiton",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "euherdmania",
+    "meta": {
+      "name": "Euherdmania",
+      "depiction": null,
+      "description": "Euherdmania is a genus of marine sea squirts in the family Euherdmaniidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "euherdmaniidae",
+      "kingdom": "animalia",
+      "phylum": "chordata",
+      "class": "ascidiacea",
+      "order": "aplousobranchia",
+      "family": "euherdmaniidae",
+      "genus": "euherdmania",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "euplica",
+    "meta": {
+      "name": "Euplica",
+      "depiction": null,
+      "description": "Euplica is a genus of marine sea snails and slugs in the family Columbellidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "columbellidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "neogastropoda",
+      "family": "columbellidae",
+      "genus": "euplica",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "euprotomus",
+    "meta": {
+      "name": "Euprotomus",
+      "depiction": null,
+      "description": "Euprotomus is a genus of marine sea snails and slugs in the family Strombidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "strombidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "littorinimorpha",
+      "family": "strombidae",
+      "genus": "euprotomus",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "euthria",
+    "meta": {
+      "name": "Euthria",
+      "depiction": null,
+      "description": "Euthria is a genus of marine sea snails and slugs in the family Tudiclidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "tudiclidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "neogastropoda",
+      "family": "tudiclidae",
+      "genus": "euthria",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "eutonina",
+    "meta": {
+      "name": "Eutonina",
+      "depiction": null,
+      "description": "Eutonina is a genus of marine cnidarians in the family Eirenidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "eirenidae",
+      "kingdom": "animalia",
+      "phylum": "cnidaria",
+      "class": "hydrozoa",
+      "order": "leptothecata",
+      "family": "eirenidae",
+      "genus": "eutonina",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "facelina",
+    "meta": {
+      "name": "Facelina",
+      "depiction": null,
+      "description": "Facelina is a genus of marine sea snails and slugs in the family Facelinidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "facelinidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "nudibranchia",
+      "family": "facelinidae",
+      "genus": "facelina",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "fasciolaria",
+    "meta": {
+      "name": "Fasciolaria",
+      "depiction": null,
+      "description": "Fasciolaria is a genus of marine sea snails and slugs in the family Fasciolariidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "fasciolariidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "neogastropoda",
+      "family": "fasciolariidae",
+      "genus": "fasciolaria",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "favorinus",
+    "meta": {
+      "name": "Favorinus",
+      "depiction": null,
+      "description": "Favorinus is a genus of marine sea snails and slugs in the family Facelinidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "facelinidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "nudibranchia",
+      "family": "facelinidae",
+      "genus": "favorinus",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "fissurella",
+    "meta": {
+      "name": "Fissurella",
+      "depiction": null,
+      "description": "Fissurella is a genus of marine sea snails and slugs in the family Fissurellidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "fissurellidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "lepetellida",
+      "family": "fissurellidae",
+      "genus": "fissurella",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "fissurellidea",
+    "meta": {
+      "name": "Fissurellidea",
+      "depiction": null,
+      "description": "Fissurellidea is a genus of marine sea snails and slugs in the family Fissurellidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "fissurellidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "lepetellida",
+      "family": "fissurellidae",
+      "genus": "fissurellidea",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "flustrellidra",
+    "meta": {
+      "name": "Flustrellidra",
+      "depiction": null,
+      "description": "Flustrellidra is a genus of marine bryozoans in the family Flustrellidridae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "flustrellidridae",
+      "kingdom": "animalia",
+      "phylum": "bryozoa",
+      "class": "gymnolaemata",
+      "order": "ctenostomatida",
+      "family": "flustrellidridae",
+      "genus": "flustrellidra",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "gari",
+    "meta": {
+      "name": "Gari",
+      "depiction": null,
+      "description": "Gari is a genus of marine bivalves in the family Psammobiidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "psammobiidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "bivalvia",
+      "order": "cardiida",
+      "family": "psammobiidae",
+      "genus": "gari",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "gastrolepidia",
+    "meta": {
+      "name": "Gastrolepidia",
+      "depiction": null,
+      "description": "Gastrolepidia is a genus of marine segmented worms in the family Polynoidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "polynoidae",
+      "kingdom": "animalia",
+      "phylum": "annelida",
+      "class": "polychaeta",
+      "order": "phyllodocida",
+      "family": "polynoidae",
+      "genus": "gastrolepidia",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "gastropteron",
+    "meta": {
+      "name": "Gastropteron",
+      "depiction": null,
+      "description": "Gastropteron is a genus of marine sea snails and slugs in the family Gastropteridae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "gastropteridae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "cephalaspidea",
+      "family": "gastropteridae",
+      "genus": "gastropteron",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "geitodoris",
+    "meta": {
+      "name": "Geitodoris",
+      "depiction": null,
+      "description": "Geitodoris is a genus of marine sea snails and slugs in the family Discodorididae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "discodorididae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "nudibranchia",
+      "family": "discodorididae",
+      "genus": "geitodoris",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "geryonia",
+    "meta": {
+      "name": "Geryonia",
+      "depiction": null,
+      "description": "Geryonia is a genus of marine cnidarians in the family Geryoniidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "geryoniidae",
+      "kingdom": "animalia",
+      "phylum": "cnidaria",
+      "class": "hydrozoa",
+      "order": "limnomedusae",
+      "family": "geryoniidae",
+      "genus": "geryonia",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "gigahomalopoma",
+    "meta": {
+      "name": "Gigahomalopoma",
+      "depiction": null,
+      "description": "Gigahomalopoma is a genus of marine sea snails and slugs in the family Colloniidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "colloniidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "trochida",
+      "family": "colloniidae",
+      "genus": "gigahomalopoma",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "glossodoris",
+    "meta": {
+      "name": "Glossodoris",
+      "depiction": null,
+      "description": "Glossodoris is a genus of marine sea snails and slugs in the family Chromodorididae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "chromodorididae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "nudibranchia",
+      "family": "chromodorididae",
+      "genus": "glossodoris",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "goniodoridella",
+    "meta": {
+      "name": "Goniodoridella",
+      "depiction": null,
+      "description": "Goniodoridella is a genus of marine sea snails and slugs in the family Goniodorididae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "goniodorididae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "nudibranchia",
+      "family": "goniodorididae",
+      "genus": "goniodoridella",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "gonionemus",
+    "meta": {
+      "name": "Gonionemus",
+      "depiction": null,
+      "description": "Gonionemus is a genus of marine cnidarians in the family Olindiidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "olindiidae",
+      "kingdom": "animalia",
+      "phylum": "cnidaria",
+      "class": "hydrozoa",
+      "order": "limnomedusae",
+      "family": "olindiidae",
+      "genus": "gonionemus",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "granulina",
+    "meta": {
+      "name": "Granulina",
+      "depiction": null,
+      "description": "Granulina is a genus of marine sea snails and slugs in the family Marginellidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "marginellidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "neogastropoda",
+      "family": "marginellidae",
+      "genus": "granulina",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "gutturnium",
+    "meta": {
+      "name": "Gutturnium",
+      "depiction": null,
+      "description": "Gutturnium is a genus of marine sea snails and slugs in the family Cymatiidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "cymatiidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "littorinimorpha",
+      "family": "cymatiidae",
+      "genus": "gutturnium",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "hallaxa",
+    "meta": {
+      "name": "Hallaxa",
+      "depiction": null,
+      "description": "Hallaxa is a genus of marine sea snails and slugs in the family Actinocyclidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "actinocyclidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "nudibranchia",
+      "family": "actinocyclidae",
+      "genus": "hallaxa",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "haminoea",
+    "meta": {
+      "name": "Haminoea",
+      "depiction": null,
+      "description": "Haminoea is a genus of marine sea snails and slugs in the family Haminoeidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "haminoeidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "cephalaspidea",
+      "family": "haminoeidae",
+      "genus": "haminoea",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "hancockia",
+    "meta": {
+      "name": "Hancockia",
+      "depiction": null,
+      "description": "Hancockia is a genus of marine sea snails and slugs in the family Hancockiidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "hancockiidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "nudibranchia",
+      "family": "hancockiidae",
+      "genus": "hancockia",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "harmothoe",
+    "meta": {
+      "name": "Harmothoe",
+      "depiction": null,
+      "description": "Harmothoe is a genus of marine segmented worms in the family Polynoidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "polynoidae",
+      "kingdom": "animalia",
+      "phylum": "annelida",
+      "class": "polychaeta",
+      "order": "phyllodocida",
+      "family": "polynoidae",
+      "genus": "harmothoe",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "heliaster",
+    "meta": {
+      "name": "Heliaster",
+      "depiction": null,
+      "description": "Heliaster is a genus of marine echinoderms in the family Heliasteridae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "heliasteridae",
+      "kingdom": "animalia",
+      "phylum": "echinodermata",
+      "class": "asteroidea",
+      "order": "forcipulatida",
+      "family": "heliasteridae",
+      "genus": "heliaster",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "hermaea",
+    "meta": {
+      "name": "Hermaea",
+      "depiction": null,
+      "description": "Hermaea is a genus of marine sea snails and slugs in the family Hermaeidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "hermaeidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "",
+      "family": "hermaeidae",
+      "genus": "hermaea",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "hespererato",
+    "meta": {
+      "name": "Hespererato",
+      "depiction": null,
+      "description": "Hespererato is a genus of marine sea snails and slugs in the family Eratoidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "eratoidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "littorinimorpha",
+      "family": "eratoidae",
+      "genus": "hespererato",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "heteropora",
+    "meta": {
+      "name": "Heteropora",
+      "depiction": null,
+      "description": "Heteropora is a genus of marine bryozoans in the family Heteroporidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "heteroporidae",
+      "kingdom": "animalia",
+      "phylum": "bryozoa",
+      "class": "stenolaemata",
+      "order": "cyclostomatida",
+      "family": "heteroporidae",
+      "genus": "heteropora",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "hexaplex",
+    "meta": {
+      "name": "Hexaplex",
+      "depiction": null,
+      "description": "Hexaplex is a genus of marine sea snails and slugs in the family Muricidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "muricidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "neogastropoda",
+      "family": "muricidae",
+      "genus": "hexaplex",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "hiatodoris",
+    "meta": {
+      "name": "Hiatodoris",
+      "depiction": null,
+      "description": "Hiatodoris is a genus of marine sea snails and slugs in the family Discodorididae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "discodorididae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "nudibranchia",
+      "family": "discodorididae",
+      "genus": "hiatodoris",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "hinea",
+    "meta": {
+      "name": "Hinea",
+      "depiction": null,
+      "description": "Hinea is a genus of marine sea snails and slugs in the family Planaxidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "planaxidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "caenogastropoda incertae sedis",
+      "family": "planaxidae",
+      "genus": "hinea",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "holopneustes",
+    "meta": {
+      "name": "Holopneustes",
+      "depiction": null,
+      "description": "Holopneustes is a genus of marine echinoderms in the family Temnopleuridae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "temnopleuridae",
+      "kingdom": "animalia",
+      "phylum": "echinodermata",
+      "class": "echinoidea",
+      "order": "camarodonta",
+      "family": "temnopleuridae",
+      "genus": "holopneustes",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "hydractinia",
+    "meta": {
+      "name": "Hydractinia",
+      "depiction": null,
+      "description": "Hydractinia is a genus of marine cnidarians in the family Hydractiniidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "hydractiniidae",
+      "kingdom": "animalia",
+      "phylum": "cnidaria",
+      "class": "hydrozoa",
+      "order": "anthoathecata",
+      "family": "hydractiniidae",
+      "genus": "hydractinia",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "ischnochiton",
+    "meta": {
+      "name": "Ischnochiton",
+      "depiction": null,
+      "description": "Ischnochiton is a genus of marine chitons in the family Ischnochitonidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "ischnochitonidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "polyplacophora",
+      "order": "chitonida",
+      "family": "ischnochitonidae",
+      "genus": "ischnochiton",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "janolus",
+    "meta": {
+      "name": "Janolus",
+      "depiction": null,
+      "description": "Janolus is a genus of marine sea snails and slugs in the family Janolidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "janolidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "nudibranchia",
+      "family": "janolidae",
+      "genus": "janolus",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "janthina",
+    "meta": {
+      "name": "Janthina",
+      "depiction": null,
+      "description": "Janthina is a genus of marine sea snails and slugs in the family Epitoniidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "epitoniidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "caenogastropoda incertae sedis",
+      "family": "epitoniidae",
+      "genus": "janthina",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "jorunna",
+    "meta": {
+      "name": "Jorunna",
+      "depiction": null,
+      "description": "Jorunna is a genus of marine sea snails and slugs in the family Discodorididae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "discodorididae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "nudibranchia",
+      "family": "discodorididae",
+      "genus": "jorunna",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "lacuna",
+    "meta": {
+      "name": "Lacuna",
+      "depiction": null,
+      "description": "Lacuna is a genus of marine sea snails and slugs in the family Littorinidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "littorinidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "littorinimorpha",
+      "family": "littorinidae",
+      "genus": "lacuna",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "lamellaria",
+    "meta": {
+      "name": "Lamellaria",
+      "depiction": null,
+      "description": "Lamellaria is a genus of marine sea snails and slugs in the family Velutinidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "velutinidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "littorinimorpha",
+      "family": "velutinidae",
+      "genus": "lamellaria",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "lamprohaminoea",
+    "meta": {
+      "name": "Lamprohaminoea",
+      "depiction": null,
+      "description": "Lamprohaminoea is a genus of marine sea snails and slugs in the family Haminoeidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "haminoeidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "cephalaspidea",
+      "family": "haminoeidae",
+      "genus": "lamprohaminoea",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "laodicea",
+    "meta": {
+      "name": "Laodicea",
+      "depiction": null,
+      "description": "Laodicea is a genus of marine cnidarians in the family Laodiceidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "laodiceidae",
+      "kingdom": "animalia",
+      "phylum": "cnidaria",
+      "class": "hydrozoa",
+      "order": "leptothecata",
+      "family": "laodiceidae",
+      "genus": "laodicea",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "learchis",
+    "meta": {
+      "name": "Learchis",
+      "depiction": null,
+      "description": "Learchis is a genus of marine sea snails and slugs in the family Facelinidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "facelinidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "nudibranchia",
+      "family": "facelinidae",
+      "genus": "learchis",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "lecithophorus",
+    "meta": {
+      "name": "Lecithophorus",
+      "depiction": null,
+      "description": "Lecithophorus is a genus of marine sea snails and slugs in the family Polyceridae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "polyceridae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "nudibranchia",
+      "family": "polyceridae",
+      "genus": "lecithophorus",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "leiaster",
+    "meta": {
+      "name": "Leiaster",
+      "depiction": null,
+      "description": "Leiaster is a genus of marine echinoderms in the family Ophidiasteridae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "ophidiasteridae",
+      "kingdom": "animalia",
+      "phylum": "echinodermata",
+      "class": "asteroidea",
+      "order": "valvatida",
+      "family": "ophidiasteridae",
+      "genus": "leiaster",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "lentigo",
+    "meta": {
+      "name": "Lentigo",
+      "depiction": null,
+      "description": "Lentigo is a genus of marine sea snails and slugs in the family Strombidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "strombidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "littorinimorpha",
+      "family": "strombidae",
+      "genus": "lentigo",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "leodia",
+    "meta": {
+      "name": "Leodia",
+      "depiction": null,
+      "description": "Leodia is a genus of marine echinoderms in the family Mellitidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "mellitidae",
+      "kingdom": "animalia",
+      "phylum": "echinodermata",
+      "class": "echinoidea",
+      "order": "echinolampadacea",
+      "family": "mellitidae",
+      "genus": "leodia",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "lepidochitona",
+    "meta": {
+      "name": "Lepidochitona",
+      "depiction": null,
+      "description": "Lepidochitona is a genus of marine chitons in the family Tonicellidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "tonicellidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "polyplacophora",
+      "order": "chitonida",
+      "family": "tonicellidae",
+      "genus": "lepidochitona",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "lepidonotus",
+    "meta": {
+      "name": "Lepidonotus",
+      "depiction": null,
+      "description": "Lepidonotus is a genus of marine segmented worms in the family Polynoidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "polynoidae",
+      "kingdom": "animalia",
+      "phylum": "annelida",
+      "class": "polychaeta",
+      "order": "phyllodocida",
+      "family": "polynoidae",
+      "genus": "lepidonotus",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "lepidopleurus",
+    "meta": {
+      "name": "Lepidopleurus",
+      "depiction": null,
+      "description": "Lepidopleurus is a genus of marine chitons in the family Leptochitonidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "leptochitonidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "polyplacophora",
+      "order": "lepidopleurida",
+      "family": "leptochitonidae",
+      "genus": "lepidopleurus",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "lepidozona",
+    "meta": {
+      "name": "Lepidozona",
+      "depiction": null,
+      "description": "Lepidozona is a genus of marine chitons in the family Ischnochitonidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "ischnochitonidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "polyplacophora",
+      "order": "chitonida",
+      "family": "ischnochitonidae",
+      "genus": "lepidozona",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "leptochiton",
+    "meta": {
+      "name": "Leptochiton",
+      "depiction": null,
+      "description": "Leptochiton is a genus of marine chitons in the family Leptochitonidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "leptochitonidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "polyplacophora",
+      "order": "lepidopleurida",
+      "family": "leptochitonidae",
+      "genus": "leptochiton",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "leptopecten",
+    "meta": {
+      "name": "Leptopecten",
+      "depiction": null,
+      "description": "Leptopecten is a genus of marine bivalves in the family Pectinidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "pectinidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "bivalvia",
+      "order": "pectinida",
+      "family": "pectinidae",
+      "genus": "leptopecten",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "leuckartiara",
+    "meta": {
+      "name": "Leuckartiara",
+      "depiction": null,
+      "description": "Leuckartiara is a genus of marine cnidarians in the family Pandeidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "pandeidae",
+      "kingdom": "animalia",
+      "phylum": "cnidaria",
+      "class": "hydrozoa",
+      "order": "anthoathecata",
+      "family": "pandeidae",
+      "genus": "leuckartiara",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "leucothea",
+    "meta": {
+      "name": "Leucothea",
+      "depiction": null,
+      "description": "Leucothea is a genus of marine comb jellies in the family Leucotheidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "leucotheidae",
+      "kingdom": "animalia",
+      "phylum": "ctenophora",
+      "class": "tentaculata",
+      "order": "lobata",
+      "family": "leucotheidae",
+      "genus": "leucothea",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "limacia",
+    "meta": {
+      "name": "Limacia",
+      "depiction": null,
+      "description": "Limacia is a genus of marine sea snails and slugs in the family Polyceridae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "polyceridae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "nudibranchia",
+      "family": "polyceridae",
+      "genus": "limacia",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "lithopoma",
+    "meta": {
+      "name": "Lithopoma",
+      "depiction": null,
+      "description": "Lithopoma is a genus of marine sea snails and slugs in the family Turbinidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "turbinidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "trochida",
+      "family": "turbinidae",
+      "genus": "lithopoma",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "lobiger",
+    "meta": {
+      "name": "Lobiger",
+      "depiction": null,
+      "description": "Lobiger is a genus of marine sea snails and slugs in the family Oxynoidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "oxynoidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "",
+      "family": "oxynoidae",
+      "genus": "lobiger",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "lottia",
+    "meta": {
+      "name": "Lottia",
+      "depiction": null,
+      "description": "Lottia is a genus of marine sea snails and slugs in the family Lottiidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "lottiidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "nacellida",
+      "family": "lottiidae",
+      "genus": "lottia",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "lovenia",
+    "meta": {
+      "name": "Lovenia",
+      "depiction": null,
+      "description": "Lovenia is a genus of marine echinoderms in the family Loveniidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "loveniidae",
+      "kingdom": "animalia",
+      "phylum": "echinodermata",
+      "class": "echinoidea",
+      "order": "spatangoida",
+      "family": "loveniidae",
+      "genus": "lovenia",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "luisella",
+    "meta": {
+      "name": "Luisella",
+      "depiction": null,
+      "description": "Luisella is a genus of marine sea snails and slugs in the family Samlidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "samlidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "nudibranchia",
+      "family": "samlidae",
+      "genus": "luisella",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "lunella",
+    "meta": {
+      "name": "Lunella",
+      "depiction": null,
+      "description": "Lunella is a genus of marine sea snails and slugs in the family Turbinidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "turbinidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "trochida",
+      "family": "turbinidae",
+      "genus": "lunella",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "macrocypraea",
+    "meta": {
+      "name": "Macrocypraea",
+      "depiction": null,
+      "description": "Macrocypraea is a genus of marine sea snails and slugs in the family Cypraeidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "cypraeidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "littorinimorpha",
+      "family": "cypraeidae",
+      "genus": "macrocypraea",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "macron",
+    "meta": {
+      "name": "Macron",
+      "depiction": null,
+      "description": "Macron is a genus of marine sea snails and slugs in the family Buccinoidea incertae sedis."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "buccinoidea incertae sedis",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "neogastropoda",
+      "family": "buccinoidea incertae sedis",
+      "genus": "macron",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "macrophiothrix",
+    "meta": {
+      "name": "Macrophiothrix",
+      "depiction": null,
+      "description": "Macrophiothrix is a genus of marine echinoderms in the family Ophiotrichidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "ophiotrichidae",
+      "kingdom": "animalia",
+      "phylum": "echinodermata",
+      "class": "ophiuroidea",
+      "order": "amphilepidida",
+      "family": "ophiotrichidae",
+      "genus": "macrophiothrix",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "macrostrombus",
+    "meta": {
+      "name": "Macrostrombus",
+      "depiction": null,
+      "description": "Macrostrombus is a genus of marine sea snails and slugs in the family Strombidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "strombidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "littorinimorpha",
+      "family": "strombidae",
+      "genus": "macrostrombus",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "maretia",
+    "meta": {
+      "name": "Maretia",
+      "depiction": null,
+      "description": "Maretia is a genus of marine echinoderms in the family Maretiidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "maretiidae",
+      "kingdom": "animalia",
+      "phylum": "echinodermata",
+      "class": "echinoidea",
+      "order": "spatangoida",
+      "family": "maretiidae",
+      "genus": "maretia",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "margaretta",
+    "meta": {
+      "name": "Margaretta",
+      "depiction": null,
+      "description": "Margaretta is a genus of marine bryozoans in the family Margarettidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "margarettidae",
+      "kingdom": "animalia",
+      "phylum": "bryozoa",
+      "class": "gymnolaemata",
+      "order": "cheilostomatida",
+      "family": "margarettidae",
+      "genus": "margaretta",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "margarites",
+    "meta": {
+      "name": "Margarites",
+      "depiction": null,
+      "description": "Margarites is a genus of marine sea snails and slugs in the family Margaritesidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "margaritesidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "trochida",
+      "family": "margaritesidae",
+      "genus": "margarites",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "mariaglaja",
+    "meta": {
+      "name": "Mariaglaja",
+      "depiction": null,
+      "description": "Mariaglaja is a genus of marine sea snails and slugs in the family Aglajidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "aglajidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "cephalaspidea",
+      "family": "aglajidae",
+      "genus": "mariaglaja",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "marianina",
+    "meta": {
+      "name": "Marianina",
+      "depiction": null,
+      "description": "Marianina is a genus of marine sea snails and slugs in the family Tritoniidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "tritoniidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "nudibranchia",
+      "family": "tritoniidae",
+      "genus": "marianina",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "mauritia",
+    "meta": {
+      "name": "Mauritia",
+      "depiction": null,
+      "description": "Mauritia is a genus of marine sea snails and slugs in the family Cypraeidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "cypraeidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "littorinimorpha",
+      "family": "cypraeidae",
+      "genus": "mauritia",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "maxwellia",
+    "meta": {
+      "name": "Maxwellia",
+      "depiction": null,
+      "description": "Maxwellia is a genus of marine sea snails and slugs in the family Muricidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "muricidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "neogastropoda",
+      "family": "muricidae",
+      "genus": "maxwellia",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "megastraea",
+    "meta": {
+      "name": "Megastraea",
+      "depiction": null,
+      "description": "Megastraea is a genus of marine sea snails and slugs in the family Turbinidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "turbinidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "trochida",
+      "family": "turbinidae",
+      "genus": "megastraea",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "membranipora",
+    "meta": {
+      "name": "Membranipora",
+      "depiction": null,
+      "description": "Membranipora is a genus of marine bryozoans in the family Membraniporidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "membraniporidae",
+      "kingdom": "animalia",
+      "phylum": "bryozoa",
+      "class": "gymnolaemata",
+      "order": "cheilostomatida",
+      "family": "membraniporidae",
+      "genus": "membranipora",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "mertensia",
+    "meta": {
+      "name": "Mertensia",
+      "depiction": null,
+      "description": "Mertensia is a genus of marine comb jellies in the family Mertensiidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "mertensiidae",
+      "kingdom": "animalia",
+      "phylum": "ctenophora",
+      "class": "tentaculata",
+      "order": "cydippida",
+      "family": "mertensiidae",
+      "genus": "mertensia",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "mexichromis",
+    "meta": {
+      "name": "Mexichromis",
+      "depiction": null,
+      "description": "Mexichromis is a genus of marine sea snails and slugs in the family Chromodorididae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "chromodorididae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "nudibranchia",
+      "family": "chromodorididae",
+      "genus": "mexichromis",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "miamira",
+    "meta": {
+      "name": "Miamira",
+      "depiction": null,
+      "description": "Miamira is a genus of marine sea snails and slugs in the family Chromodorididae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "chromodorididae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "nudibranchia",
+      "family": "chromodorididae",
+      "genus": "miamira",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "microcosmus",
+    "meta": {
+      "name": "Microcosmus",
+      "depiction": null,
+      "description": "Microcosmus is a genus of marine sea squirts in the family Pyuridae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "pyuridae",
+      "kingdom": "animalia",
+      "phylum": "chordata",
+      "class": "ascidiacea",
+      "order": "stolidobranchia",
+      "family": "pyuridae",
+      "genus": "microcosmus",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "micromelo",
+    "meta": {
+      "name": "Micromelo",
+      "depiction": null,
+      "description": "Micromelo is a genus of marine sea snails and slugs in the family Aplustridae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "aplustridae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "",
+      "family": "aplustridae",
+      "genus": "micromelo",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "mimachlamys",
+    "meta": {
+      "name": "Mimachlamys",
+      "depiction": null,
+      "description": "Mimachlamys is a genus of marine bivalves in the family Pectinidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "pectinidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "bivalvia",
+      "order": "pectinida",
+      "family": "pectinidae",
+      "genus": "mimachlamys",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "mitrella",
+    "meta": {
+      "name": "Mitrella",
+      "depiction": null,
+      "description": "Mitrella is a genus of marine sea snails and slugs in the family Columbellidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "columbellidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "neogastropoda",
+      "family": "columbellidae",
+      "genus": "mitrella",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "mitrocomella",
+    "meta": {
+      "name": "Mitrocomella",
+      "depiction": null,
+      "description": "Mitrocomella is a genus of marine cnidarians in the family Mitrocomidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "mitrocomidae",
+      "kingdom": "animalia",
+      "phylum": "cnidaria",
+      "class": "hydrozoa",
+      "order": "leptothecata",
+      "family": "mitrocomidae",
+      "genus": "mitrocomella",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "monoplex",
+    "meta": {
+      "name": "Monoplex",
+      "depiction": null,
+      "description": "Monoplex is a genus of marine sea snails and slugs in the family Cymatiidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "cymatiidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "littorinimorpha",
+      "family": "cymatiidae",
+      "genus": "monoplex",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "montfortula",
+    "meta": {
+      "name": "Montfortula",
+      "depiction": null,
+      "description": "Montfortula is a genus of marine sea snails and slugs in the family Fissurellidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "fissurellidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "lepetellida",
+      "family": "fissurellidae",
+      "genus": "montfortula",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "mopalia",
+    "meta": {
+      "name": "Mopalia",
+      "depiction": null,
+      "description": "Mopalia is a genus of marine chitons in the family Mopaliidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "mopaliidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "polyplacophora",
+      "order": "chitonida",
+      "family": "mopaliidae",
+      "genus": "mopalia",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "muricopsis",
+    "meta": {
+      "name": "Muricopsis",
+      "depiction": null,
+      "description": "Muricopsis is a genus of marine sea snails and slugs in the family Muricidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "muricidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "neogastropoda",
+      "family": "muricidae",
+      "genus": "muricopsis",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "nakamigawaia",
+    "meta": {
+      "name": "Nakamigawaia",
+      "depiction": null,
+      "description": "Nakamigawaia is a genus of marine sea snails and slugs in the family Aglajidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "aglajidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "cephalaspidea",
+      "family": "aglajidae",
+      "genus": "nakamigawaia",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "nanomia",
+    "meta": {
+      "name": "Nanomia",
+      "depiction": null,
+      "description": "Nanomia is a genus of marine cnidarians in the family Agalmatidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "agalmatidae",
+      "kingdom": "animalia",
+      "phylum": "cnidaria",
+      "class": "hydrozoa",
+      "order": "siphonophorae",
+      "family": "agalmatidae",
+      "genus": "nanomia",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "narcissia",
+    "meta": {
+      "name": "Narcissia",
+      "depiction": null,
+      "description": "Narcissia is a genus of marine echinoderms in the family Ophidiasteridae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "ophidiasteridae",
+      "kingdom": "animalia",
+      "phylum": "echinodermata",
+      "class": "asteroidea",
+      "order": "valvatida",
+      "family": "ophidiasteridae",
+      "genus": "narcissia",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "naticarius",
+    "meta": {
+      "name": "Naticarius",
+      "depiction": null,
+      "description": "Naticarius is a genus of marine sea snails and slugs in the family Naticidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "naticidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "littorinimorpha",
+      "family": "naticidae",
+      "genus": "naticarius",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "nembrotha",
+    "meta": {
+      "name": "Nembrotha",
+      "depiction": null,
+      "description": "Nembrotha is a genus of marine sea snails and slugs in the family Polyceridae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "polyceridae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "nudibranchia",
+      "family": "polyceridae",
+      "genus": "nembrotha",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "nemertesia",
+    "meta": {
+      "name": "Nemertesia",
+      "depiction": null,
+      "description": "Nemertesia is a genus of marine cnidarians in the family Plumulariidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "plumulariidae",
+      "kingdom": "animalia",
+      "phylum": "cnidaria",
+      "class": "hydrozoa",
+      "order": "leptothecata",
+      "family": "plumulariidae",
+      "genus": "nemertesia",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "neoturris",
+    "meta": {
+      "name": "Neoturris",
+      "depiction": null,
+      "description": "Neoturris is a genus of marine cnidarians in the family Pandeidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "pandeidae",
+      "kingdom": "animalia",
+      "phylum": "cnidaria",
+      "class": "hydrozoa",
+      "order": "anthoathecata",
+      "family": "pandeidae",
+      "genus": "neoturris",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "nereiphylla",
+    "meta": {
+      "name": "Nereiphylla",
+      "depiction": null,
+      "description": "Nereiphylla is a genus of marine segmented worms in the family Phyllodocidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "phyllodocidae",
+      "kingdom": "animalia",
+      "phylum": "annelida",
+      "class": "polychaeta",
+      "order": "phyllodocida",
+      "family": "phyllodocidae",
+      "genus": "nereiphylla",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "neverita",
+    "meta": {
+      "name": "Neverita",
+      "depiction": null,
+      "description": "Neverita is a genus of marine sea snails and slugs in the family Naticidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "naticidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "littorinimorpha",
+      "family": "naticidae",
+      "genus": "neverita",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "norrisia",
+    "meta": {
+      "name": "Norrisia",
+      "depiction": null,
+      "description": "Norrisia is a genus of marine sea snails and slugs in the family Tegulidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "tegulidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "trochida",
+      "family": "tegulidae",
+      "genus": "norrisia",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "notocypraea",
+    "meta": {
+      "name": "Notocypraea",
+      "depiction": null,
+      "description": "Notocypraea is a genus of marine sea snails and slugs in the family Cypraeidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "cypraeidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "littorinimorpha",
+      "family": "cypraeidae",
+      "genus": "notocypraea",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "notodoris",
+    "meta": {
+      "name": "Notodoris",
+      "depiction": null,
+      "description": "Notodoris is a genus of marine sea snails and slugs in the family Aegiridae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "aegiridae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "nudibranchia",
+      "family": "aegiridae",
+      "genus": "notodoris",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "nucella",
+    "meta": {
+      "name": "Nucella",
+      "depiction": null,
+      "description": "Nucella is a genus of marine sea snails and slugs in the family Muricidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "muricidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "neogastropoda",
+      "family": "muricidae",
+      "genus": "nucella",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "obelia",
+    "meta": {
+      "name": "Obelia",
+      "depiction": null,
+      "description": "Obelia is a genus of marine cnidarians in the family Campanulariidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "campanulariidae",
+      "kingdom": "animalia",
+      "phylum": "cnidaria",
+      "class": "hydrozoa",
+      "order": "leptothecata",
+      "family": "campanulariidae",
+      "genus": "obelia",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "olindias",
+    "meta": {
+      "name": "Olindias",
+      "depiction": null,
+      "description": "Olindias is a genus of marine cnidarians in the family Olindiidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "olindiidae",
+      "kingdom": "animalia",
+      "phylum": "cnidaria",
+      "class": "hydrozoa",
+      "order": "limnomedusae",
+      "family": "olindiidae",
+      "genus": "olindias",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "oliva",
+    "meta": {
+      "name": "Oliva",
+      "depiction": null,
+      "description": "Oliva is a genus of marine sea snails and slugs in the family Olividae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "olividae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "neogastropoda",
+      "family": "olividae",
+      "genus": "oliva",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "onchidoris",
+    "meta": {
+      "name": "Onchidoris",
+      "depiction": null,
+      "description": "Onchidoris is a genus of marine sea snails and slugs in the family Onchidorididae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "onchidorididae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "nudibranchia",
+      "family": "onchidorididae",
+      "genus": "onchidoris",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "opeatostoma",
+    "meta": {
+      "name": "Opeatostoma",
+      "depiction": null,
+      "description": "Opeatostoma is a genus of marine sea snails and slugs in the family Fasciolariidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "fasciolariidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "neogastropoda",
+      "family": "fasciolariidae",
+      "genus": "opeatostoma",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "opheodesoma",
+    "meta": {
+      "name": "Opheodesoma",
+      "depiction": null,
+      "description": "Opheodesoma is a genus of marine echinoderms in the family Synaptidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "synaptidae",
+      "kingdom": "animalia",
+      "phylum": "echinodermata",
+      "class": "holothuroidea",
+      "order": "apodida",
+      "family": "synaptidae",
+      "genus": "opheodesoma",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "ophiolepis",
+    "meta": {
+      "name": "Ophiolepis",
+      "depiction": null,
+      "description": "Ophiolepis is a genus of marine echinoderms in the family Ophiolepididae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "ophiolepididae",
+      "kingdom": "animalia",
+      "phylum": "echinodermata",
+      "class": "ophiuroidea",
+      "order": "amphilepidida",
+      "family": "ophiolepididae",
+      "genus": "ophiolepis",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "ophioplocus",
+    "meta": {
+      "name": "Ophioplocus",
+      "depiction": null,
+      "description": "Ophioplocus is a genus of marine echinoderms in the family Hemieuryalidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "hemieuryalidae",
+      "kingdom": "animalia",
+      "phylum": "echinodermata",
+      "class": "ophiuroidea",
+      "order": "amphilepidida",
+      "family": "hemieuryalidae",
+      "genus": "ophioplocus",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "ophiopsammus",
+    "meta": {
+      "name": "Ophiopsammus",
+      "depiction": null,
+      "description": "Ophiopsammus is a genus of marine echinoderms in the family Ophiodermatidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "ophiodermatidae",
+      "kingdom": "animalia",
+      "phylum": "echinodermata",
+      "class": "ophiuroidea",
+      "order": "ophiacanthida",
+      "family": "ophiodermatidae",
+      "genus": "ophiopsammus",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "ostrea",
+    "meta": {
+      "name": "Ostrea",
+      "depiction": null,
+      "description": "Ostrea is a genus of marine bivalves in the family Ostreidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "ostreidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "bivalvia",
+      "order": "ostreida",
+      "family": "ostreidae",
+      "genus": "ostrea",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "ovatipsa",
+    "meta": {
+      "name": "Ovatipsa",
+      "depiction": null,
+      "description": "Ovatipsa is a genus of marine sea snails and slugs in the family Cypraeidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "cypraeidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "littorinimorpha",
+      "family": "cypraeidae",
+      "genus": "ovatipsa",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "oxymeris",
+    "meta": {
+      "name": "Oxymeris",
+      "depiction": null,
+      "description": "Oxymeris is a genus of marine sea snails and slugs in the family Terebridae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "terebridae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "neogastropoda",
+      "family": "terebridae",
+      "genus": "oxymeris",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "oxynoe",
+    "meta": {
+      "name": "Oxynoe",
+      "depiction": null,
+      "description": "Oxynoe is a genus of marine sea snails and slugs in the family Oxynoidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "oxynoidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "",
+      "family": "oxynoidae",
+      "genus": "oxynoe",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "paciocinebrina",
+    "meta": {
+      "name": "Paciocinebrina",
+      "depiction": null,
+      "description": "Paciocinebrina is a genus of marine sea snails and slugs in the family Muricidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "muricidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "neogastropoda",
+      "family": "muricidae",
+      "genus": "paciocinebrina",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "palmadusta",
+    "meta": {
+      "name": "Palmadusta",
+      "depiction": null,
+      "description": "Palmadusta is a genus of marine sea snails and slugs in the family Cypraeidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "cypraeidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "littorinimorpha",
+      "family": "cypraeidae",
+      "genus": "palmadusta",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "paradoris",
+    "meta": {
+      "name": "Paradoris",
+      "depiction": null,
+      "description": "Paradoris is a genus of marine sea snails and slugs in the family Discodorididae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "discodorididae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "nudibranchia",
+      "family": "discodorididae",
+      "genus": "paradoris",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "parasalenia",
+    "meta": {
+      "name": "Parasalenia",
+      "depiction": null,
+      "description": "Parasalenia is a genus of marine echinoderms in the family Parasaleniidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "parasaleniidae",
+      "kingdom": "animalia",
+      "phylum": "echinodermata",
+      "class": "echinoidea",
+      "order": "camarodonta",
+      "family": "parasaleniidae",
+      "genus": "parasalenia",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "parasmittina",
+    "meta": {
+      "name": "Parasmittina",
+      "depiction": null,
+      "description": "Parasmittina is a genus of marine bryozoans in the family Smittinidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "smittinidae",
+      "kingdom": "animalia",
+      "phylum": "bryozoa",
+      "class": "gymnolaemata",
+      "order": "cheilostomatida",
+      "family": "smittinidae",
+      "genus": "parasmittina",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "patelloida",
+    "meta": {
+      "name": "Patelloida",
+      "depiction": null,
+      "description": "Patelloida is a genus of marine sea snails and slugs in the family Lottiidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "lottiidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "nacellida",
+      "family": "lottiidae",
+      "genus": "patelloida",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "patinella",
+    "meta": {
+      "name": "Patinella",
+      "depiction": null,
+      "description": "Patinella is a genus of marine bryozoans in the family Lichenoporidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "lichenoporidae",
+      "kingdom": "animalia",
+      "phylum": "bryozoa",
+      "class": "stenolaemata",
+      "order": "cyclostomatida",
+      "family": "lichenoporidae",
+      "genus": "patinella",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "patiriella",
+    "meta": {
+      "name": "Patiriella",
+      "depiction": null,
+      "description": "Patiriella is a genus of marine echinoderms in the family Asterinidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "asterinidae",
+      "kingdom": "animalia",
+      "phylum": "echinodermata",
+      "class": "asteroidea",
+      "order": "valvatida",
+      "family": "asterinidae",
+      "genus": "patiriella",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "perna",
+    "meta": {
+      "name": "Perna",
+      "depiction": null,
+      "description": "Perna is a genus of marine bivalves in the family Mytilidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "mytilidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "bivalvia",
+      "order": "mytilida",
+      "family": "mytilidae",
+      "genus": "perna",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "perophora",
+    "meta": {
+      "name": "Perophora",
+      "depiction": null,
+      "description": "Perophora is a genus of marine sea squirts in the family Perophoridae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "perophoridae",
+      "kingdom": "animalia",
+      "phylum": "chordata",
+      "class": "ascidiacea",
+      "order": "phlebobranchia",
+      "family": "perophoridae",
+      "genus": "perophora",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "petalifera",
+    "meta": {
+      "name": "Petalifera",
+      "depiction": null,
+      "description": "Petalifera is a genus of marine sea snails and slugs in the family Aplysiidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "aplysiidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "aplysiida",
+      "family": "aplysiidae",
+      "genus": "petalifera",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "petricia",
+    "meta": {
+      "name": "Petricia",
+      "depiction": null,
+      "description": "Petricia is a genus of marine echinoderms in the family Asteropseidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "asteropseidae",
+      "kingdom": "animalia",
+      "phylum": "echinodermata",
+      "class": "asteroidea",
+      "order": "valvatida",
+      "family": "asteropseidae",
+      "genus": "petricia",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "phacellophora",
+    "meta": {
+      "name": "Phacellophora",
+      "depiction": null,
+      "description": "Phacellophora is a genus of marine cnidarians in the family Phacellophoridae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "phacellophoridae",
+      "kingdom": "animalia",
+      "phylum": "cnidaria",
+      "class": "scyphozoa",
+      "order": "semaeostomeae",
+      "family": "phacellophoridae",
+      "genus": "phacellophora",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "phalium",
+    "meta": {
+      "name": "Phalium",
+      "depiction": null,
+      "description": "Phalium is a genus of marine sea snails and slugs in the family Cassidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "cassidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "littorinimorpha",
+      "family": "cassidae",
+      "genus": "phalium",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "phasianella",
+    "meta": {
+      "name": "Phasianella",
+      "depiction": null,
+      "description": "Phasianella is a genus of marine sea snails and slugs in the family Phasianellidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "phasianellidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "trochida",
+      "family": "phasianellidae",
+      "genus": "phasianella",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "phasianotrochus",
+    "meta": {
+      "name": "Phasianotrochus",
+      "depiction": null,
+      "description": "Phasianotrochus is a genus of marine sea snails and slugs in the family Trochidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "trochidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "trochida",
+      "family": "trochidae",
+      "genus": "phasianotrochus",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "phenacovolva",
+    "meta": {
+      "name": "Phenacovolva",
+      "depiction": null,
+      "description": "Phenacovolva is a genus of marine sea snails and slugs in the family Ovulidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "ovulidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "littorinimorpha",
+      "family": "ovulidae",
+      "genus": "phenacovolva",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "phidiana",
+    "meta": {
+      "name": "Phidiana",
+      "depiction": null,
+      "description": "Phidiana is a genus of marine sea snails and slugs in the family Facelinidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "facelinidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "nudibranchia",
+      "family": "facelinidae",
+      "genus": "phidiana",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "phorcus",
+    "meta": {
+      "name": "Phorcus",
+      "depiction": null,
+      "description": "Phorcus is a genus of marine sea snails and slugs in the family Trochidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "trochidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "trochida",
+      "family": "trochidae",
+      "genus": "phorcus",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "phragmatopoma",
+    "meta": {
+      "name": "Phragmatopoma",
+      "depiction": null,
+      "description": "Phragmatopoma is a genus of marine segmented worms in the family Sabellariidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "sabellariidae",
+      "kingdom": "animalia",
+      "phylum": "annelida",
+      "class": "polychaeta",
+      "order": "",
+      "family": "sabellariidae",
+      "genus": "phragmatopoma",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "phrontis",
+    "meta": {
+      "name": "Phrontis",
+      "depiction": null,
+      "description": "Phrontis is a genus of marine sea snails and slugs in the family Nassariidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "nassariidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "neogastropoda",
+      "family": "nassariidae",
+      "genus": "phrontis",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "phyllaplysia",
+    "meta": {
+      "name": "Phyllaplysia",
+      "depiction": null,
+      "description": "Phyllaplysia is a genus of marine sea snails and slugs in the family Aplysiidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "aplysiidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "aplysiida",
+      "family": "aplysiidae",
+      "genus": "phyllaplysia",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "phyllidiella",
+    "meta": {
+      "name": "Phyllidiella",
+      "depiction": null,
+      "description": "Phyllidiella is a genus of marine sea snails and slugs in the family Phyllidiidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "phyllidiidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "nudibranchia",
+      "family": "phyllidiidae",
+      "genus": "phyllidiella",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "phyllidiopsis",
+    "meta": {
+      "name": "Phyllidiopsis",
+      "depiction": null,
+      "description": "Phyllidiopsis is a genus of marine sea snails and slugs in the family Phyllidiidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "phyllidiidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "nudibranchia",
+      "family": "phyllidiidae",
+      "genus": "phyllidiopsis",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "phyllodesmium",
+    "meta": {
+      "name": "Phyllodesmium",
+      "depiction": null,
+      "description": "Phyllodesmium is a genus of marine sea snails and slugs in the family Myrrhinidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "myrrhinidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "nudibranchia",
+      "family": "myrrhinidae",
+      "genus": "phyllodesmium",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "physophora",
+    "meta": {
+      "name": "Physophora",
+      "depiction": null,
+      "description": "Physophora is a genus of marine cnidarians in the family Physophoridae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "physophoridae",
+      "kingdom": "animalia",
+      "phylum": "cnidaria",
+      "class": "hydrozoa",
+      "order": "siphonophorae",
+      "family": "physophoridae",
+      "genus": "physophora",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "pisania",
+    "meta": {
+      "name": "Pisania",
+      "depiction": null,
+      "description": "Pisania is a genus of marine sea snails and slugs in the family Pisaniidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "pisaniidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "neogastropoda",
+      "family": "pisaniidae",
+      "genus": "pisania",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "placida",
+    "meta": {
+      "name": "Placida",
+      "depiction": null,
+      "description": "Placida is a genus of marine sea snails and slugs in the family Limapontiidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "limapontiidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "",
+      "family": "limapontiidae",
+      "genus": "placida",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "planaxis",
+    "meta": {
+      "name": "Planaxis",
+      "depiction": null,
+      "description": "Planaxis is a genus of marine sea snails and slugs in the family Planaxidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "planaxidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "caenogastropoda incertae sedis",
+      "family": "planaxidae",
+      "genus": "planaxis",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "platydoris",
+    "meta": {
+      "name": "Platydoris",
+      "depiction": null,
+      "description": "Platydoris is a genus of marine sea snails and slugs in the family Discodorididae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "discodorididae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "nudibranchia",
+      "family": "discodorididae",
+      "genus": "platydoris",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "platynereis",
+    "meta": {
+      "name": "Platynereis",
+      "depiction": null,
+      "description": "Platynereis is a genus of marine segmented worms in the family Nereididae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "nereididae",
+      "kingdom": "animalia",
+      "phylum": "annelida",
+      "class": "polychaeta",
+      "order": "phyllodocida",
+      "family": "nereididae",
+      "genus": "platynereis",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "plaxiphora",
+    "meta": {
+      "name": "Plaxiphora",
+      "depiction": null,
+      "description": "Plaxiphora is a genus of marine chitons in the family Plaxiphoridae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "plaxiphoridae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "polyplacophora",
+      "order": "chitonida",
+      "family": "plaxiphoridae",
+      "genus": "plaxiphora",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "plectaster",
+    "meta": {
+      "name": "Plectaster",
+      "depiction": null,
+      "description": "Plectaster is a genus of marine echinoderms in the family Echinasteridae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "echinasteridae",
+      "kingdom": "animalia",
+      "phylum": "echinodermata",
+      "class": "asteroidea",
+      "order": "spinulosida",
+      "family": "echinasteridae",
+      "genus": "plectaster",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "pleurobranchaea",
+    "meta": {
+      "name": "Pleurobranchaea",
+      "depiction": null,
+      "description": "Pleurobranchaea is a genus of marine sea snails and slugs in the family Pleurobranchaeidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "pleurobranchaeidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "pleurobranchida",
+      "family": "pleurobranchaeidae",
+      "genus": "pleurobranchaea",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "pleurobranchus",
+    "meta": {
+      "name": "Pleurobranchus",
+      "depiction": null,
+      "description": "Pleurobranchus is a genus of marine sea snails and slugs in the family Pleurobranchidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "pleurobranchidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "pleurobranchida",
+      "family": "pleurobranchidae",
+      "genus": "pleurobranchus",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "pleurolidia",
+    "meta": {
+      "name": "Pleurolidia",
+      "depiction": null,
+      "description": "Pleurolidia is a genus of marine sea snails and slugs in the family Pleurolidiidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "pleurolidiidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "nudibranchia",
+      "family": "pleurolidiidae",
+      "genus": "pleurolidia",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "plicopurpura",
+    "meta": {
+      "name": "Plicopurpura",
+      "depiction": null,
+      "description": "Plicopurpura is a genus of marine sea snails and slugs in the family Muricidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "muricidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "neogastropoda",
+      "family": "muricidae",
+      "genus": "plicopurpura",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "plocamopherus",
+    "meta": {
+      "name": "Plocamopherus",
+      "depiction": null,
+      "description": "Plocamopherus is a genus of marine sea snails and slugs in the family Polyceridae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "polyceridae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "nudibranchia",
+      "family": "polyceridae",
+      "genus": "plocamopherus",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "polyandrocarpa",
+    "meta": {
+      "name": "Polyandrocarpa",
+      "depiction": null,
+      "description": "Polyandrocarpa is a genus of marine sea squirts in the family Styelidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "styelidae",
+      "kingdom": "animalia",
+      "phylum": "chordata",
+      "class": "ascidiacea",
+      "order": "stolidobranchia",
+      "family": "styelidae",
+      "genus": "polyandrocarpa",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "polycera",
+    "meta": {
+      "name": "Polycera",
+      "depiction": null,
+      "description": "Polycera is a genus of marine sea snails and slugs in the family Polyceridae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "polyceridae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "nudibranchia",
+      "family": "polyceridae",
+      "genus": "polycera",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "polycitor",
+    "meta": {
+      "name": "Polycitor",
+      "depiction": null,
+      "description": "Polycitor is a genus of marine sea squirts in the family Polycitoridae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "polycitoridae",
+      "kingdom": "animalia",
+      "phylum": "chordata",
+      "class": "ascidiacea",
+      "order": "aplousobranchia",
+      "family": "polycitoridae",
+      "genus": "polycitor",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "polyclinum",
+    "meta": {
+      "name": "Polyclinum",
+      "depiction": null,
+      "description": "Polyclinum is a genus of marine sea squirts in the family Polyclinidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "polyclinidae",
+      "kingdom": "animalia",
+      "phylum": "chordata",
+      "class": "ascidiacea",
+      "order": "aplousobranchia",
+      "family": "polyclinidae",
+      "genus": "polyclinum",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "polyorchis",
+    "meta": {
+      "name": "Polyorchis",
+      "depiction": null,
+      "description": "Polyorchis is a genus of marine cnidarians in the family Corynidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "corynidae",
+      "kingdom": "animalia",
+      "phylum": "cnidaria",
+      "class": "hydrozoa",
+      "order": "anthoathecata",
+      "family": "corynidae",
+      "genus": "polyorchis",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "polysyncraton",
+    "meta": {
+      "name": "Polysyncraton",
+      "depiction": null,
+      "description": "Polysyncraton is a genus of marine sea squirts in the family Didemnidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "didemnidae",
+      "kingdom": "animalia",
+      "phylum": "chordata",
+      "class": "ascidiacea",
+      "order": "aplousobranchia",
+      "family": "didemnidae",
+      "genus": "polysyncraton",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "prosimnia",
+    "meta": {
+      "name": "Prosimnia",
+      "depiction": null,
+      "description": "Prosimnia is a genus of marine sea snails and slugs in the family Ovulidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "ovulidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "littorinimorpha",
+      "family": "ovulidae",
+      "genus": "prosimnia",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "prothalotia",
+    "meta": {
+      "name": "Prothalotia",
+      "depiction": null,
+      "description": "Prothalotia is a genus of marine sea snails and slugs in the family Trochidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "trochidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "trochida",
+      "family": "trochidae",
+      "genus": "prothalotia",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "prunum",
+    "meta": {
+      "name": "Prunum",
+      "depiction": null,
+      "description": "Prunum is a genus of marine sea snails and slugs in the family Marginellidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "marginellidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "neogastropoda",
+      "family": "marginellidae",
+      "genus": "prunum",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "pseudoboletia",
+    "meta": {
+      "name": "Pseudoboletia",
+      "depiction": null,
+      "description": "Pseudoboletia is a genus of marine echinoderms in the family Toxopneustidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "toxopneustidae",
+      "kingdom": "animalia",
+      "phylum": "echinodermata",
+      "class": "echinoidea",
+      "order": "camarodonta",
+      "family": "toxopneustidae",
+      "genus": "pseudoboletia",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "pseudodistoma",
+    "meta": {
+      "name": "Pseudodistoma",
+      "depiction": null,
+      "description": "Pseudodistoma is a genus of marine sea squirts in the family Pseudodistomidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "pseudodistomidae",
+      "kingdom": "animalia",
+      "phylum": "chordata",
+      "class": "ascidiacea",
+      "order": "aplousobranchia",
+      "family": "pseudodistomidae",
+      "genus": "pseudodistoma",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "pseudomelatoma",
+    "meta": {
+      "name": "Pseudomelatoma",
+      "depiction": null,
+      "description": "Pseudomelatoma is a genus of marine sea snails and slugs in the family Pseudomelatomidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "pseudomelatomidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "neogastropoda",
+      "family": "pseudomelatomidae",
+      "genus": "pseudomelatoma",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "pseudorhiza",
+    "meta": {
+      "name": "Pseudorhiza",
+      "depiction": null,
+      "description": "Pseudorhiza is a genus of marine cnidarians in the family Lychnorhizidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "lychnorhizidae",
+      "kingdom": "animalia",
+      "phylum": "cnidaria",
+      "class": "scyphozoa",
+      "order": "rhizostomeae",
+      "family": "lychnorhizidae",
+      "genus": "pseudorhiza",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "pterochelus",
+    "meta": {
+      "name": "Pterochelus",
+      "depiction": null,
+      "description": "Pterochelus is a genus of marine sea snails and slugs in the family Muricidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "muricidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "neogastropoda",
+      "family": "muricidae",
+      "genus": "pterochelus",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "pteropurpura",
+    "meta": {
+      "name": "Pteropurpura",
+      "depiction": null,
+      "description": "Pteropurpura is a genus of marine sea snails and slugs in the family Muricidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "muricidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "neogastropoda",
+      "family": "muricidae",
+      "genus": "pteropurpura",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "pusia",
+    "meta": {
+      "name": "Pusia",
+      "depiction": null,
+      "description": "Pusia is a genus of marine sea snails and slugs in the family Costellariidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "costellariidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "neogastropoda",
+      "family": "costellariidae",
+      "genus": "pusia",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "pusula",
+    "meta": {
+      "name": "Pusula",
+      "depiction": null,
+      "description": "Pusula is a genus of marine sea snails and slugs in the family Triviidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "triviidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "littorinimorpha",
+      "family": "triviidae",
+      "genus": "pusula",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "pycnoclavella",
+    "meta": {
+      "name": "Pycnoclavella",
+      "depiction": null,
+      "description": "Pycnoclavella is a genus of marine sea squirts in the family Clavelinidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "clavelinidae",
+      "kingdom": "animalia",
+      "phylum": "chordata",
+      "class": "ascidiacea",
+      "order": "aplousobranchia",
+      "family": "clavelinidae",
+      "genus": "pycnoclavella",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "pyramidella",
+    "meta": {
+      "name": "Pyramidella",
+      "depiction": null,
+      "description": "Pyramidella is a genus of marine sea snails and slugs in the family Pyramidellidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "pyramidellidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "",
+      "family": "pyramidellidae",
+      "genus": "pyramidella",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "ralpharia",
+    "meta": {
+      "name": "Ralpharia",
+      "depiction": null,
+      "description": "Ralpharia is a genus of marine cnidarians in the family Tubulariidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "tubulariidae",
+      "kingdom": "animalia",
+      "phylum": "cnidaria",
+      "class": "hydrozoa",
+      "order": "anthoathecata",
+      "family": "tubulariidae",
+      "genus": "ralpharia",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "ransoniella",
+    "meta": {
+      "name": "Ransoniella",
+      "depiction": null,
+      "description": "Ransoniella is a genus of marine sea snails and slugs in the family Cypraeidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "cypraeidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "littorinimorpha",
+      "family": "cypraeidae",
+      "genus": "ransoniella",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "reteporellina",
+    "meta": {
+      "name": "Reteporellina",
+      "depiction": null,
+      "description": "Reteporellina is a genus of marine bryozoans in the family Phidoloporidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "phidoloporidae",
+      "kingdom": "animalia",
+      "phylum": "bryozoa",
+      "class": "gymnolaemata",
+      "order": "cheilostomatida",
+      "family": "phidoloporidae",
+      "genus": "reteporellina",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "reticulidia",
+    "meta": {
+      "name": "Reticulidia",
+      "depiction": null,
+      "description": "Reticulidia is a genus of marine sea snails and slugs in the family Phyllidiidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "phyllidiidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "nudibranchia",
+      "family": "phyllidiidae",
+      "genus": "reticulidia",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "rhizostoma",
+    "meta": {
+      "name": "Rhizostoma",
+      "depiction": null,
+      "description": "Rhizostoma is a genus of marine cnidarians in the family Rhizostomatidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "rhizostomatidae",
+      "kingdom": "animalia",
+      "phylum": "cnidaria",
+      "class": "scyphozoa",
+      "order": "rhizostomeae",
+      "family": "rhizostomatidae",
+      "genus": "rhizostoma",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "rhopilema",
+    "meta": {
+      "name": "Rhopilema",
+      "depiction": null,
+      "description": "Rhopilema is a genus of marine cnidarians in the family Rhizostomatidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "rhizostomatidae",
+      "kingdom": "animalia",
+      "phylum": "cnidaria",
+      "class": "scyphozoa",
+      "order": "rhizostomeae",
+      "family": "rhizostomatidae",
+      "genus": "rhopilema",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "rictaxis",
+    "meta": {
+      "name": "Rictaxis",
+      "depiction": null,
+      "description": "Rictaxis is a genus of marine sea snails and slugs in the family Acteonidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "acteonidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "",
+      "family": "acteonidae",
+      "genus": "rictaxis",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "rostanga",
+    "meta": {
+      "name": "Rostanga",
+      "depiction": null,
+      "description": "Rostanga is a genus of marine sea snails and slugs in the family Discodorididae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "discodorididae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "nudibranchia",
+      "family": "discodorididae",
+      "genus": "rostanga",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "roweia",
+    "meta": {
+      "name": "Roweia",
+      "depiction": null,
+      "description": "Roweia is a genus of marine echinoderms in the family Cucumariidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "cucumariidae",
+      "kingdom": "animalia",
+      "phylum": "echinodermata",
+      "class": "holothuroidea",
+      "order": "dendrochirotida",
+      "family": "cucumariidae",
+      "genus": "roweia",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "sabia",
+    "meta": {
+      "name": "Sabia",
+      "depiction": null,
+      "description": "Sabia is a genus of marine sea snails and slugs in the family Hipponicidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "hipponicidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "littorinimorpha",
+      "family": "hipponicidae",
+      "genus": "sabia",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "saccostrea",
+    "meta": {
+      "name": "Saccostrea",
+      "depiction": null,
+      "description": "Saccostrea is a genus of marine bivalves in the family Ostreidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "ostreidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "bivalvia",
+      "order": "ostreida",
+      "family": "ostreidae",
+      "genus": "saccostrea",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "sacoproteus",
+    "meta": {
+      "name": "Sacoproteus",
+      "depiction": null,
+      "description": "Sacoproteus is a genus of marine sea snails and slugs in the family Limapontiidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "limapontiidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "",
+      "family": "limapontiidae",
+      "genus": "sacoproteus",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "salmacina",
+    "meta": {
+      "name": "Salmacina",
+      "depiction": null,
+      "description": "Salmacina is a genus of marine segmented worms in the family Serpulidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "serpulidae",
+      "kingdom": "animalia",
+      "phylum": "annelida",
+      "class": "polychaeta",
+      "order": "sabellida",
+      "family": "serpulidae",
+      "genus": "salmacina",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "samla",
+    "meta": {
+      "name": "Samla",
+      "depiction": null,
+      "description": "Samla is a genus of marine sea snails and slugs in the family Samlidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "samlidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "nudibranchia",
+      "family": "samlidae",
+      "genus": "samla",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "scaeochlamys",
+    "meta": {
+      "name": "Scaeochlamys",
+      "depiction": null,
+      "description": "Scaeochlamys is a genus of marine bivalves in the family Pectinidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "pectinidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "bivalvia",
+      "order": "pectinida",
+      "family": "pectinidae",
+      "genus": "scaeochlamys",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "schizobrachiella",
+    "meta": {
+      "name": "Schizobrachiella",
+      "depiction": null,
+      "description": "Schizobrachiella is a genus of marine bryozoans in the family Schizoporellidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "schizoporellidae",
+      "kingdom": "animalia",
+      "phylum": "bryozoa",
+      "class": "gymnolaemata",
+      "order": "cheilostomatida",
+      "family": "schizoporellidae",
+      "genus": "schizobrachiella",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "scrippsia",
+    "meta": {
+      "name": "Scrippsia",
+      "depiction": null,
+      "description": "Scrippsia is a genus of marine cnidarians in the family Corynidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "corynidae",
+      "kingdom": "animalia",
+      "phylum": "cnidaria",
+      "class": "hydrozoa",
+      "order": "anthoathecata",
+      "family": "corynidae",
+      "genus": "scrippsia",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "sebadoris",
+    "meta": {
+      "name": "Sebadoris",
+      "depiction": null,
+      "description": "Sebadoris is a genus of marine sea snails and slugs in the family Discodorididae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "discodorididae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "nudibranchia",
+      "family": "discodorididae",
+      "genus": "sebadoris",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "semicassis",
+    "meta": {
+      "name": "Semicassis",
+      "depiction": null,
+      "description": "Semicassis is a genus of marine sea snails and slugs in the family Cassidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "cassidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "littorinimorpha",
+      "family": "cassidae",
+      "genus": "semicassis",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "sepiadarium",
+    "meta": {
+      "name": "Sepiadarium",
+      "depiction": null,
+      "description": "Sepiadarium is a genus of marine cephalopods in the family Sepiadariidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "sepiadariidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "cephalopoda",
+      "order": "sepiolida",
+      "family": "sepiadariidae",
+      "genus": "sepiadarium",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "sigillina",
+    "meta": {
+      "name": "Sigillina",
+      "depiction": null,
+      "description": "Sigillina is a genus of marine sea squirts in the family Holozoidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "holozoidae",
+      "kingdom": "animalia",
+      "phylum": "chordata",
+      "class": "ascidiacea",
+      "order": "aplousobranchia",
+      "family": "holozoidae",
+      "genus": "sigillina",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "simnia",
+    "meta": {
+      "name": "Simnia",
+      "depiction": null,
+      "description": "Simnia is a genus of marine sea snails and slugs in the family Ovulidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "ovulidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "littorinimorpha",
+      "family": "ovulidae",
+      "genus": "simnia",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "smaragdinella",
+    "meta": {
+      "name": "Smaragdinella",
+      "depiction": null,
+      "description": "Smaragdinella is a genus of marine sea snails and slugs in the family Haminoeidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "haminoeidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "cephalaspidea",
+      "family": "haminoeidae",
+      "genus": "smaragdinella",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "smittina",
+    "meta": {
+      "name": "Smittina",
+      "depiction": null,
+      "description": "Smittina is a genus of marine bryozoans in the family Smittinidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "smittinidae",
+      "kingdom": "animalia",
+      "phylum": "bryozoa",
+      "class": "gymnolaemata",
+      "order": "cheilostomatida",
+      "family": "smittinidae",
+      "genus": "smittina",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "solanderia",
+    "meta": {
+      "name": "Solanderia",
+      "depiction": null,
+      "description": "Solanderia is a genus of marine cnidarians in the family Solanderiidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "solanderiidae",
+      "kingdom": "animalia",
+      "phylum": "cnidaria",
+      "class": "hydrozoa",
+      "order": "anthoathecata",
+      "family": "solanderiidae",
+      "genus": "solanderia",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "spurilla",
+    "meta": {
+      "name": "Spurilla",
+      "depiction": null,
+      "description": "Spurilla is a genus of marine sea snails and slugs in the family Aeolidiidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "aeolidiidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "nudibranchia",
+      "family": "aeolidiidae",
+      "genus": "spurilla",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "stegnaster",
+    "meta": {
+      "name": "Stegnaster",
+      "depiction": null,
+      "description": "Stegnaster is a genus of marine echinoderms in the family Asterinidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "asterinidae",
+      "kingdom": "animalia",
+      "phylum": "echinodermata",
+      "class": "asteroidea",
+      "order": "valvatida",
+      "family": "asterinidae",
+      "genus": "stegnaster",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "stenoplax",
+    "meta": {
+      "name": "Stenoplax",
+      "depiction": null,
+      "description": "Stenoplax is a genus of marine chitons in the family Ischnochitonidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "ischnochitonidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "polyplacophora",
+      "order": "chitonida",
+      "family": "ischnochitonidae",
+      "genus": "stenoplax",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "steromphala",
+    "meta": {
+      "name": "Steromphala",
+      "depiction": null,
+      "description": "Steromphala is a genus of marine sea snails and slugs in the family Trochidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "trochidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "trochida",
+      "family": "trochidae",
+      "genus": "steromphala",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "stolonica",
+    "meta": {
+      "name": "Stolonica",
+      "depiction": null,
+      "description": "Stolonica is a genus of marine sea squirts in the family Styelidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "styelidae",
+      "kingdom": "animalia",
+      "phylum": "chordata",
+      "class": "ascidiacea",
+      "order": "stolidobranchia",
+      "family": "styelidae",
+      "genus": "stolonica",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "stramonita",
+    "meta": {
+      "name": "Stramonita",
+      "depiction": null,
+      "description": "Stramonita is a genus of marine sea snails and slugs in the family Muricidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "muricidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "neogastropoda",
+      "family": "muricidae",
+      "genus": "stramonita",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "strigatella",
+    "meta": {
+      "name": "Strigatella",
+      "depiction": null,
+      "description": "Strigatella is a genus of marine sea snails and slugs in the family Mitridae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "mitridae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "neogastropoda",
+      "family": "mitridae",
+      "genus": "strigatella",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "supplanaxis",
+    "meta": {
+      "name": "Supplanaxis",
+      "depiction": null,
+      "description": "Supplanaxis is a genus of marine sea snails and slugs in the family Planaxidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "planaxidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "caenogastropoda incertae sedis",
+      "family": "planaxidae",
+      "genus": "supplanaxis",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "sycozoa",
+    "meta": {
+      "name": "Sycozoa",
+      "depiction": null,
+      "description": "Sycozoa is a genus of marine sea squirts in the family Holozoidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "holozoidae",
+      "kingdom": "animalia",
+      "phylum": "chordata",
+      "class": "ascidiacea",
+      "order": "aplousobranchia",
+      "family": "holozoidae",
+      "genus": "sycozoa",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "symplegma",
+    "meta": {
+      "name": "Symplegma",
+      "depiction": null,
+      "description": "Symplegma is a genus of marine sea squirts in the family Styelidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "styelidae",
+      "kingdom": "animalia",
+      "phylum": "chordata",
+      "class": "ascidiacea",
+      "order": "stolidobranchia",
+      "family": "styelidae",
+      "genus": "symplegma",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "sypharochiton",
+    "meta": {
+      "name": "Sypharochiton",
+      "depiction": null,
+      "description": "Sypharochiton is a genus of marine chitons in the family Chitonidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "chitonidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "polyplacophora",
+      "order": "chitonida",
+      "family": "chitonidae",
+      "genus": "sypharochiton",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "syphonota",
+    "meta": {
+      "name": "Syphonota",
+      "depiction": null,
+      "description": "Syphonota is a genus of marine sea snails and slugs in the family Aplysiidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "aplysiidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "aplysiida",
+      "family": "aplysiidae",
+      "genus": "syphonota",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "talochlamys",
+    "meta": {
+      "name": "Talochlamys",
+      "depiction": null,
+      "description": "Talochlamys is a genus of marine bivalves in the family Pectinidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "pectinidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "bivalvia",
+      "order": "pectinida",
+      "family": "pectinidae",
+      "genus": "talochlamys",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "taringa",
+    "meta": {
+      "name": "Taringa",
+      "depiction": null,
+      "description": "Taringa is a genus of marine sea snails and slugs in the family Discodorididae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "discodorididae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "nudibranchia",
+      "family": "discodorididae",
+      "genus": "taringa",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "tectura",
+    "meta": {
+      "name": "Tectura",
+      "depiction": null,
+      "description": "Tectura is a genus of marine sea snails and slugs in the family Lottiidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "lottiidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "nacellida",
+      "family": "lottiidae",
+      "genus": "tectura",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "tegula",
+    "meta": {
+      "name": "Tegula",
+      "depiction": null,
+      "description": "Tegula is a genus of marine sea snails and slugs in the family Tegulidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "tegulidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "trochida",
+      "family": "tegulidae",
+      "genus": "tegula",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "terebra",
+    "meta": {
+      "name": "Terebra",
+      "depiction": null,
+      "description": "Terebra is a genus of marine sea snails and slugs in the family Terebridae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "terebridae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "neogastropoda",
+      "family": "terebridae",
+      "genus": "terebra",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "tergipes",
+    "meta": {
+      "name": "Tergipes",
+      "depiction": null,
+      "description": "Tergipes is a genus of marine sea snails and slugs in the family Tergipedidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "tergipedidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "nudibranchia",
+      "family": "tergipedidae",
+      "genus": "tergipes",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "testudinalia",
+    "meta": {
+      "name": "Testudinalia",
+      "depiction": null,
+      "description": "Testudinalia is a genus of marine sea snails and slugs in the family Lottiidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "lottiidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "nacellida",
+      "family": "lottiidae",
+      "genus": "testudinalia",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "thalotia",
+    "meta": {
+      "name": "Thalotia",
+      "depiction": null,
+      "description": "Thalotia is a genus of marine sea snails and slugs in the family Trochidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "trochidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "trochida",
+      "family": "trochidae",
+      "genus": "thalotia",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "thordisa",
+    "meta": {
+      "name": "Thordisa",
+      "depiction": null,
+      "description": "Thordisa is a genus of marine sea snails and slugs in the family Discodorididae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "discodorididae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "nudibranchia",
+      "family": "discodorididae",
+      "genus": "thordisa",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "thorunna",
+    "meta": {
+      "name": "Thorunna",
+      "depiction": null,
+      "description": "Thorunna is a genus of marine sea snails and slugs in the family Chromodorididae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "chromodorididae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "nudibranchia",
+      "family": "chromodorididae",
+      "genus": "thorunna",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "thuridilla",
+    "meta": {
+      "name": "Thuridilla",
+      "depiction": null,
+      "description": "Thuridilla is a genus of marine sea snails and slugs in the family Plakobranchidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "plakobranchidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "",
+      "family": "plakobranchidae",
+      "genus": "thuridilla",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "thylacodes",
+    "meta": {
+      "name": "Thylacodes",
+      "depiction": null,
+      "description": "Thylacodes is a genus of marine sea snails and slugs in the family Vermetidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "vermetidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "littorinimorpha",
+      "family": "vermetidae",
+      "genus": "thylacodes",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "thyroscyphus",
+    "meta": {
+      "name": "Thyroscyphus",
+      "depiction": null,
+      "description": "Thyroscyphus is a genus of marine cnidarians in the family Thyroscyphidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "thyroscyphidae",
+      "kingdom": "animalia",
+      "phylum": "cnidaria",
+      "class": "hydrozoa",
+      "order": "leptothecata",
+      "family": "thyroscyphidae",
+      "genus": "thyroscyphus",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "titanostrombus",
+    "meta": {
+      "name": "Titanostrombus",
+      "depiction": null,
+      "description": "Titanostrombus is a genus of marine sea snails and slugs in the family Strombidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "strombidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "littorinimorpha",
+      "family": "strombidae",
+      "genus": "titanostrombus",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "tonna",
+    "meta": {
+      "name": "Tonna",
+      "depiction": null,
+      "description": "Tonna is a genus of marine sea snails and slugs in the family Tonnidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "tonnidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "littorinimorpha",
+      "family": "tonnidae",
+      "genus": "tonna",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "tricellaria",
+    "meta": {
+      "name": "Tricellaria",
+      "depiction": null,
+      "description": "Tricellaria is a genus of marine bryozoans in the family Candidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "candidae",
+      "kingdom": "animalia",
+      "phylum": "bryozoa",
+      "class": "gymnolaemata",
+      "order": "cheilostomatida",
+      "family": "candidae",
+      "genus": "tricellaria",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "trichomya",
+    "meta": {
+      "name": "Trichomya",
+      "depiction": null,
+      "description": "Trichomya is a genus of marine bivalves in the family Mytilidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "mytilidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "bivalvia",
+      "order": "mytilida",
+      "family": "mytilidae",
+      "genus": "trichomya",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "trinchesia",
+    "meta": {
+      "name": "Trinchesia",
+      "depiction": null,
+      "description": "Trinchesia is a genus of marine sea snails and slugs in the family Trinchesiidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "trinchesiidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "nudibranchia",
+      "family": "trinchesiidae",
+      "genus": "trinchesia",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "triopha",
+    "meta": {
+      "name": "Triopha",
+      "depiction": null,
+      "description": "Triopha is a genus of marine sea snails and slugs in the family Polyceridae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "polyceridae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "nudibranchia",
+      "family": "polyceridae",
+      "genus": "triopha",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "tritia",
+    "meta": {
+      "name": "Tritia",
+      "depiction": null,
+      "description": "Tritia is a genus of marine sea snails and slugs in the family Nassariidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "nassariidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "neogastropoda",
+      "family": "nassariidae",
+      "genus": "tritia",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "tritonicula",
+    "meta": {
+      "name": "Tritonicula",
+      "depiction": null,
+      "description": "Tritonicula is a genus of marine sea snails and slugs in the family Tritoniidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "tritoniidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "nudibranchia",
+      "family": "tritoniidae",
+      "genus": "tritonicula",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "trivia",
+    "meta": {
+      "name": "Trivia",
+      "depiction": null,
+      "description": "Trivia is a genus of marine sea snails and slugs in the family Triviidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "triviidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "littorinimorpha",
+      "family": "triviidae",
+      "genus": "trivia",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "trochus",
+    "meta": {
+      "name": "Trochus",
+      "depiction": null,
+      "description": "Trochus is a genus of marine sea snails and slugs in the family Trochidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "trochidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "trochida",
+      "family": "trochidae",
+      "genus": "trochus",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "tularia",
+    "meta": {
+      "name": "Tularia",
+      "depiction": null,
+      "description": "Tularia is a genus of marine sea snails and slugs in the family Apataidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "apataidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "nudibranchia",
+      "family": "apataidae",
+      "genus": "tularia",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "turbicellepora",
+    "meta": {
+      "name": "Turbicellepora",
+      "depiction": null,
+      "description": "Turbicellepora is a genus of marine bryozoans in the family Celleporidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "celleporidae",
+      "kingdom": "animalia",
+      "phylum": "bryozoa",
+      "class": "gymnolaemata",
+      "order": "cheilostomatida",
+      "family": "celleporidae",
+      "genus": "turbicellepora",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "turbinella",
+    "meta": {
+      "name": "Turbinella",
+      "depiction": null,
+      "description": "Turbinella is a genus of marine sea snails and slugs in the family Turbinellidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "turbinellidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "neogastropoda",
+      "family": "turbinellidae",
+      "genus": "turbinella",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "turrilatirus",
+    "meta": {
+      "name": "Turrilatirus",
+      "depiction": null,
+      "description": "Turrilatirus is a genus of marine sea snails and slugs in the family Fasciolariidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "fasciolariidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "neogastropoda",
+      "family": "fasciolariidae",
+      "genus": "turrilatirus",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "tylodina",
+    "meta": {
+      "name": "Tylodina",
+      "depiction": null,
+      "description": "Tylodina is a genus of marine sea snails and slugs in the family Tylodinidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "tylodinidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "umbraculida",
+      "family": "tylodinidae",
+      "genus": "tylodina",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "unidentia",
+    "meta": {
+      "name": "Unidentia",
+      "depiction": null,
+      "description": "Unidentia is a genus of marine sea snails and slugs in the family Piseinotecidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "piseinotecidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "nudibranchia",
+      "family": "piseinotecidae",
+      "genus": "unidentia",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "vasum",
+    "meta": {
+      "name": "Vasum",
+      "depiction": null,
+      "description": "Vasum is a genus of marine sea snails and slugs in the family Vasidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "vasidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "neogastropoda",
+      "family": "vasidae",
+      "genus": "vasum",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "vayssierea",
+    "meta": {
+      "name": "Vayssierea",
+      "depiction": null,
+      "description": "Vayssierea is a genus of marine sea snails and slugs in the family Polyceridae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "polyceridae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "nudibranchia",
+      "family": "polyceridae",
+      "genus": "vayssierea",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "verconia",
+    "meta": {
+      "name": "Verconia",
+      "depiction": null,
+      "description": "Verconia is a genus of marine sea snails and slugs in the family Chromodorididae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "chromodorididae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "nudibranchia",
+      "family": "chromodorididae",
+      "genus": "verconia",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "versuriga",
+    "meta": {
+      "name": "Versuriga",
+      "depiction": null,
+      "description": "Versuriga is a genus of marine cnidarians in the family Versurigidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "versurigidae",
+      "kingdom": "animalia",
+      "phylum": "cnidaria",
+      "class": "scyphozoa",
+      "order": "rhizostomeae",
+      "family": "versurigidae",
+      "genus": "versuriga",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "vexilla",
+    "meta": {
+      "name": "Vexilla",
+      "depiction": null,
+      "description": "Vexilla is a genus of marine sea snails and slugs in the family Muricidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "muricidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "neogastropoda",
+      "family": "muricidae",
+      "genus": "vexilla",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "vexillum",
+    "meta": {
+      "name": "Vexillum",
+      "depiction": null,
+      "description": "Vexillum is a genus of marine sea snails and slugs in the family Costellariidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "costellariidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "neogastropoda",
+      "family": "costellariidae",
+      "genus": "vexillum",
+      "isMarine": 1
+    }
+  },
+  {
+    "id": "volvarina",
+    "meta": {
+      "name": "Volvarina",
+      "depiction": null,
+      "description": "Volvarina is a genus of marine sea snails and slugs in the family Marginellidae."
+    },
+    "life": {
+      "kind": "genus",
+      "rank": "genus",
+      "parent": "marginellidae",
+      "kingdom": "animalia",
+      "phylum": "mollusca",
+      "class": "gastropoda",
+      "order": "neogastropoda",
+      "family": "marginellidae",
+      "genus": "volvarina",
       "isMarine": 1
     }
   }
