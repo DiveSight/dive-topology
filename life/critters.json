@@ -37388,9 +37388,9 @@
     "alias": [
       "bodianus axillaris",
       "bastard hogfish",
-      "bastard hogfish",
       "Axilspot Hogfish",
-      "axilspot-hogfish"
+      "coral pigfish",
+      "turncoat hogfish"
     ],
     "name_i18n": {
       "en": "Axilspot Hogfish",
@@ -136481,7 +136481,7 @@
       "materialLink": "https://www.inaturalist.org/observations/358746582",
       "photoTitle": "Axilspot Wrasse"
     },
-    "shortDescription": "The Axilspot Wrasse, known scientifically as Halichoeres podostigma, is a reef-associated fish found in the western-central Pacific, particularly around Indonesia and the Philippines. This species can grow up to 18.5 cm in length and is recognized by its distinctive coloration. Males have a greenish head with irregular light-red bands, while females display a pinkish anterior with a small dark spot behind the eye and a broad black band on the pelvic fins. Juveniles are noted for their green tails. The Axilspot Wrasse inhabits outer reef flats and upper slopes of coastal reefs, thriving in areas with rich coral and hydrozoan growth. It is typically found at depths ranging from 2 to 25 meters, although most occurrences are shallower than 10 meters.\n\nThis species is usually seen alone, exhibiting solitary behavior. During breeding, they form distinct pairs. The Axilspot Wrasse is harmless to humans and is utilized in commercial fisheries and the aquarium trade. It is currently listed as Least Concern on the IUCN Red List.\n\nDivers encountering the Axilspot Wrasse can expect to find it in areas with sand-rubble fringes, coastal and lagoon reefs. Its solitary nature means it is often seen swimming alone, making it a unique sight on a dive. The species' colors and distinctive markings make it a notable presence in its natural habitat.",
+    "shortDescription": "The axil spot wrasse is a small reef wrasse of the western-central Pacific. Most records come from Indonesia and the Philippines. It grows to about 18.5 cm. Males have a greenish head marked with irregular light-red bands. Females are pinkish toward the front. They have a small dark spot behind the eye and a broad black band on the pelvic fins. Juveniles have green tails.\n\nIt lives on outer reef flats and the upper slopes of coastal and lagoon reefs. It favours spots with rich coral and hydrozoan growth and edges of sand and rubble. Its depth range is 2 to 25 m. Most sightings are shallower than 10 m. It usually swims alone. Adults form pairs to breed.\n\nThe species is harmless to people. It is taken in fisheries and for the aquarium trade. The IUCN Red List rates it Least Concern.",
     "wikipedia": "https://en.wikipedia.org/wiki/Halichoeres_podostigma",
     "wormsUrl": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=275789",
     "divingRegions": "Coral Triangle",
@@ -136491,7 +136491,8 @@
       "reef-fish"
     ],
     "alias": [
-      "Halichoeres podostigma"
+      "Halichoeres podostigma",
+      "Axil spot wrasse"
     ],
     "name_i18n": {
       "en": "Axilspot Wrasse",
@@ -292368,7 +292369,7 @@
   },
   {
     "id": "symphodus-melops",
-    "name": "Atlantic Wrasse",
+    "name": "Corkwing Wrasse",
     "scientific": "Symphodus melops",
     "originalCommon": "Atlantic Wrasse",
     "originalScientific": "Symphodus melops",
@@ -292387,7 +292388,7 @@
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "source": "Wikipedia"
     },
-    "shortDescription": "A common, colorful wrasse found on European Atlantic rocky reefs and seaweed beds. Males become vibrantly colored and build elaborate nests of algae during breeding.",
+    "shortDescription": "The corkwing wrasse is a deep-bodied, flattened wrasse of the eastern Atlantic. Its range runs from Norway south to Morocco and the Azores. It also lives in the Mediterranean and the Adriatic. Most adults measure about 15 cm. The largest reach about 25 cm. Colour varies a lot with age and surroundings. Two marks identify it in every phase: a dark blotch at the centre of the tail base and a small comma-shaped mark just behind the eye. Females and juveniles are brown or green-brown. Males turn much brighter, with vivid green or blue lines across the head and gill covers.\n\nDivers meet it over rocky ground and eelgrass between 1 and 30 m. It picks at many kinds of small prey, mainly bivalves and copepods. In the breeding season, large territorial males build a round nest of seaweed in a crevice or among weed. Each nest has one entrance, which the male guards fiercely. Smaller \"sneaker\" males look like females and slip in to fertilise eggs. They make up roughly 5 to 20 percent of the males in a population.\n\nCorkwing wrasse also pick parasites off other fish. Since the late 1980s this habit has made them a heavily fished cleaner species for salmon farms, where they control sea lice.",
     "wikipedia": "https://en.wikipedia.org/wiki/Symphodus_melops",
     "divingRegions": "Eastern Atlantic, North Sea & Baltic, North Atlantic",
     "alias": [
